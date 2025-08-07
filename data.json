@@ -1,5 +1,60 @@
 [
     {
+    "dealId": "JPC-BEV-00",
+    "title": "Turnkey Block of 5 Apartments - Hull",
+    "city": "Hull",
+    "address": "Beverley Road, Hull, HU5 1LH",
+    "status": "Sold",
+    "type": "Flats / Apartments",
+    "tenure": "Freehold",
+    "purchasePrice": 450000,
+    "reservationFee": 16200,
+    "projectEndValue": "522,000",
+    "belowMarketGDVDiscount": "20%",
+    "deposit": "450,000",
+    "yield": "14.6%",
+    "rent": "£2,926",
+    "annualRent": "60,840",
+    "refurbCost": "45,000",
+    "listedDate": "2025-07-13",
+    "keyFeatures": [
+        "All 5 apartments are fully let with a long history of always being fully let.",
+        "Students & working professional tenants",
+        "52 week contracts",
+        "Lettings management in place"
+    ],
+    "description": "A fully operational freehold block comprising 5 self-contained apartments in a high-demand rental area of Hull. Ideal hands-off investment with immediate income and strong yield potential. No refurbishment required – collect rent from day one.",
+    "beds": "5 beds",
+    "baths": "4 bath",
+    "size": "200 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1_eQb0ufDjAp0U_vdguVHZ3d-RCZ1eeHr/view?usp=sharing",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": "https://static.tildacdn.com/tild3163-6464-4434-b837-656161306639/__2025-08-07__094801.png",
+    "images": [
+        "https://static.tildacdn.com/tild3533-3436-4236-b339-333632316464/__2025-08-07__095209.png",
+        "https://static.tildacdn.com/tild3166-3039-4032-b731-383165313439/__2025-08-07__095225.png",
+        "https://static.tildacdn.com/tild3464-6564-4632-a537-336265396161/__2025-08-07__095242.png",
+        "https://static.tildacdn.com/tild3463-3162-4635-a330-353632306664/__2025-08-07__095255.png",
+        "https://static.tildacdn.com/tild3132-3965-4436-b462-653566633066/__2025-08-07__095310.png",
+        "https://static.tildacdn.com/tild3536-3230-4338-b366-383565323431/__2025-08-07__095326.png",
+        "https://static.tildacdn.com/tild6239-6337-4163-b736-616437303638/__2025-08-07__095339.png",
+        "https://static.tildacdn.com/tild3430-3231-4662-b738-383635323637/__2025-08-07__095355.png",
+        "https://static.tildacdn.com/tild6461-3630-4538-a664-613236326134/__2025-08-07__095407.png",
+        "https://static.tildacdn.com/tild3739-6235-4632-a139-333137613466/__2025-08-07__095432.png"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+        "https://static.tildacdn.com/tild3136-3230-4039-b335-333237383032/__2025-07-31__141401.png"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2357.6385566855834!2d-0.3599407239362756!3d53.77812157241766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfaa5f5584b3%3A0xa2d97cae62d969bc!2sBeverley%20Rd%2C%20Hull%2C%20UK!5e0!3m2!1sen!2snl!4v1754550182472!5m2!1sen!2snl"
+},
+    {
       "dealId": "JPC-NEW-00", 
       "title": "Mixed Use 4 Bed HMO + Retail Shop - Hull", 
       "city": "Hull", 
