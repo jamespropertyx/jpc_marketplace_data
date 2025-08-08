@@ -1,5 +1,64 @@
 [
     {
+        "dealId": "JPC-JHN-00",
+        "title": "Turnkey Block of 13 Apartments - Hull",
+        "city": "Hull",
+        "address": "John Street, Hull HU2 8DH",
+        "status": "Available",
+        "type": "Flats / Apartments",
+        "tenure": "Freehold",
+        "purchasePrice": 462000,
+        "reservationFee": 13875,
+        "projectEndValue": "547,932",
+        "belowMarketGDVDiscount": "20.26%",
+        "deposit": "£ 115,625",
+        "yield": "15.56%",
+        "rent": "£5,999",
+        "annualRent": "71,988",
+        "refurbCost": "1,000",
+        "listedDate": "2025-07-07",
+        "keyFeatures": [
+            "Approx. £71,988 annual rental income",
+            " Block of 13 Individual Apartments",
+            " Sold as income-producing asset, fully compliant and licenced",
+            "Ideal for working professionals"
+        ],
+        "description": "AThis is a rare double-property investment in central Hull, offering 13 self-contained units — each with en-suite, fridge, microwave and private living space. Two shared kitchens and utility areas serve the building, and all rooms are separately metered.",
+        "beds": "13 beds",
+        "baths": "13 baths",
+        "size": "193 sq m",
+        "dealAnalysis": "https://drive.google.com/file/d/1TxmlIyMZ9s4eGiTTQACJYxyKanIHE-Md/view?usp=sharing",
+        "propertyAppraisal": "https://www.notion.so/Property-Appraisal-John-Street-Hull-HU2-8DH-248b6c4b014180a89500c834e952ee58?source=copy_link",
+        "gdvAnalysis": "https://www.notion.so/GDV-Analysis-John-Street-Hull-HU2-8DH-248b6c4b0141802b99addae634aed388?source=copy_link",
+        "epcCertificate": "https://static.tildacdn.com/tild3163-6164-4766-a431-306661333238/__2025-08-08__113006.png",
+        "images": [
+            "https://static.tildacdn.com/tild3966-3431-4064-b730-323235663737/__2025-08-08__120015.png",
+            "https://static.tildacdn.com/tild6632-3139-4561-b336-333832643664/badroom7.jpeg",
+            "https://static.tildacdn.com/tild3235-3738-4665-b761-643239346436/laundry_room.jpeg",
+            "https://static.tildacdn.com/tild6134-3666-4665-a639-386462636635/kitchen2.jpeg",
+            "https://static.tildacdn.com/tild3334-6430-4234-a463-366434333963/kitchen.jpeg",
+            "hhttps://static.tildacdn.com/tild3966-6336-4663-a463-306535313336/bedroom6.jpeg",
+            "https://static.tildacdn.com/tild3361-3864-4162-b431-346238333533/bedroom5.jpeg",
+            "https://static.tildacdn.com/tild3865-3836-4538-b064-313535363937/bedroom4.jpeg",
+            "https://static.tildacdn.com/tild3034-6636-4165-b264-303331373164/bedroom3.jpeg",
+            "https://static.tildacdn.com/tild3665-6133-4134-b163-373432363639/bedroom2.jpeg",
+            "https://static.tildacdn.com/tild6334-6166-4333-a664-353461623033/bedroom1.jpeg",
+            "https://static.tildacdn.com/tild3938-6362-4733-b364-383335373231/bathroom4.jpeg",
+            "https://static.tildacdn.com/tild3437-6261-4632-b462-613130323662/bathroom3.jpeg",
+            "https://static.tildacdn.com/tild3839-3831-4632-a430-336633323730/bathroom.jpeg"
+        ],
+        "marketInsightsImages": [
+            "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+            "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+            "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+            "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+        ],
+        "floorplan": [
+            "https://static.tildacdn.com/tild3336-3132-4239-a532-663564373966/__2025-08-08__120501.png"
+        ],
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7437.146125552351!2d-0.34245407983355747!3d53.746322876203195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be3b50c1ef9b%3A0x923dca689c694d94!2sJohn%20St%2C%20Hull%20HU2%208DH%2C%20UK!5e0!3m2!1sen!2sru!4v1754643971008!5m2!1sen!2sru"
+    },
+    {
     "dealId": "JPC-BEV-00",
     "title": "Turnkey Block of 5 Apartments - Hull",
     "city": "Hull",
