@@ -1,5 +1,62 @@
 [
-    {
+     {
+    "dealId": "JPC-PRI-00",
+    "title": "2-bed BTL Apartment - Hull",
+    "city": "Hull",
+    "address": "Princess Avenue HU53JL",
+    "status": "Available",
+    "type": "Flats / Apartments",
+    "tenure": "Freehold",
+    "purchasePrice": 125000,
+    "reservationFee": 6000,
+    "projectEndValue": "146,125",
+    "belowMarketGDVDiscount": "14.4%",
+    "deposit": "£31,250",
+    "yield": "13.31%",
+    "rent": "£1,387",
+    "annualRent": "16,644",
+    "refurbCost": "4,000",
+    "listedDate": "2025-07-08",
+    "keyFeatures": [
+        "Approx. £16,640 gross annual rental income",
+        "Only flat on the first floor — private and easy to maintain",
+        "Prime location opposite Pearson Park, 5 mins to Princess Road",
+        "Ideal for professional lets or Airbnb"
+    ],
+    "description": "This 2-bedroom, 1-bathroom first-floor flat is in excellent overall condition and located in a highly desirable area directly opposite Pearson Park. The property offers strong appeal for both long-term rental and short-stay/Airbnb use, with the city centre, Princess Road’s shops and bars, and Newland Avenue all within walking distance. With minimal works required beyond furnishing, and significant potential as an Airbnb short-let achieving up to £1,000 per week, this flat offers both immediate rental income and strong capital growth prospects.",
+    "beds": "2 beds",
+    "baths": "1 bath",
+    "size": "89 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1gr9dvKudumHCR3Up3hajCSAEq8ppNF8W/view?usp=sharing",
+    "propertyAppraisal": "https://fuchsia-manuscript-438.notion.site/Property-Appraisal-Princess-Avenue-HU5-3JL-Hull-248b6c4b014180b79b83c5c3bfbe067b?pvs=143",
+    "gdvAnalysis": "https://fuchsia-manuscript-438.notion.site/GDV-Analysis-Princess-Avenue-Hull-HU5-3JL-248b6c4b0141804791cbdb04f3d499b0?pvs=143",
+    "epcCertificate": "https://static.tildacdn.com/tild3530-3965-4665-a136-386166363130/__2025-08-08__162334.png",
+    "images": [
+        "https://static.tildacdn.com/tild3335-6232-4339-a539-636130626536/__2025-08-08__162927.png",
+        "https://static.tildacdn.com/tild3231-6264-4631-b832-303436313138/Bedroom1.png",
+        "https://static.tildacdn.com/tild3364-6335-4235-b366-383838386637/Bathroom.png",
+        "https://static.tildacdn.com/tild6235-6264-4861-b663-316331653661/Bedroom2.png",
+        "https://static.tildacdn.com/tild6462-3330-4634-b333-636234386233/Entrance.JPG",
+        "https://static.tildacdn.com/tild6332-3336-4232-a663-303235646433/Kitchen.png",
+        "https://static.tildacdn.com/tild3230-3139-4532-b630-383065386631/Living_room.png",
+        "https://static.tildacdn.com/tild6161-3163-4231-b733-393633623233/Living_room2.png",
+        "https://static.tildacdn.com/tild6533-3030-4936-b832-353437346366/Stairs.png",
+        "https://static.tildacdn.com/tild6339-6665-4532-b933-363337623364/Stairs1.JPG",
+        "https://static.tildacdn.com/tild3662-6463-4539-b763-316530623432/Stairs2.jpg",
+        "https://static.tildacdn.com/tild3763-6632-4965-b238-646138376432/Utility_room.png"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+        "https://static.tildacdn.com/tild6339-6538-4135-b963-346438636466/__2025-08-08__162031.png"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9435.483628780434!2d-0.37939892785765816!3d53.756181708573365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfcef80b776f%3A0xa95d9547dbbab044!2sPrinces%20Ave%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sru!4v1754660301406!5m2!1sen!2sru"
+},
+{
         "dealId": "JPC-JHN-00",
         "title": "Turnkey Block of 13 Apartments - Hull",
         "city": "Hull",
