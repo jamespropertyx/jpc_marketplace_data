@@ -1,5 +1,60 @@
 [
      {
+    "dealId": "JPC-MIN-01",
+    "title": "Turnkey BTL Opportunity",
+    "city": "Hull",
+    "address": "Minehead St, Leicester, LE3 0SJ",
+    "status": "Available",
+    "type": "Semi-detached",
+    "tenure": "Freehold",
+    "purchasePrice": 240000,
+    "reservationFee": 8640,
+    "projectEndValue": "262,800",
+    "belowMarketGDVDiscount": "7.7%",
+    "deposit": "60,000",
+    "yield": "6,5%",
+    "rent": "&pound;1,300",
+    "annualRent": "15,600",
+    "refurbCost": "0",
+    "listedDate": "2025-08-11",
+    "keyFeatures": [
+        "Approx. £15,600 gross annual rental income",
+        "Newly refurbished to a high standard",
+        "In a walking distance to the De Montfort University and city centre"
+    ],
+    "description": "Newly refurbished to a high standard, this turnkey property is perfectly located within walking distance of De Montfort University, the city centre, and King Power Stadium — an ideal investment or ready-to-let home.",
+    "beds": "3 beds",
+    "baths": "1 bath",
+    "size": "83 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/10-8C3jT9IjCOyFa6M9NC9SKYILmXSn-E/view?usp=sharing",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Minehead-Street-Leicester-LE3-0SJ-249b6c4b014180d998a6cc8a97f60fb9?source=copy_link",
+    "epcCertificate": "https://static.tildacdn.com/tild3831-6133-4265-b539-333031643233/__2025-08-12__165102.png",
+    "images": [
+        "https://static.tildacdn.com/tild6663-3531-4738-a162-616539636533/__2025-08-12__165355.png",
+        "https://static.tildacdn.com/tild3238-6561-4362-a431-616135313831/Minehead_kitchen.jpeg",
+        "https://static.tildacdn.com/tild6132-6232-4161-b964-346432333362/minehead_bathroom.jpeg",
+        "https://static.tildacdn.com/tild6133-3563-4232-b936-383762633465/Minehead_kitchen2.jpeg",
+        "https://static.tildacdn.com/tild3461-3336-4333-b262-666664326638/Minehead_kitchen3.jpeg",
+        "https://static.tildacdn.com/tild3465-3133-4238-b135-343730326666/Minehead_room2.jpeg",
+        "https://static.tildacdn.com/tild6236-6138-4233-a536-373963623533/Minehead_room3.jpeg",
+        "https://static.tildacdn.com/tild6237-3232-4639-b039-663833393065/Minehead_street.jpeg",
+        "https://static.tildacdn.com/tild3330-6662-4665-b562-623037663666/Minehead_street1.jpeg",
+        "https://static.tildacdn.com/tild6138-3533-4238-b339-666137386237/minehead_outside.jpeg",
+        "https://static.tildacdn.com/tild6635-3662-4136-b939-333831386164/Minehead_outside2.jpeg"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+        "https://static.tildacdn.com/tild3835-3131-4032-a332-656530623331/__2025-08-12__165726.png"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2421.5554506282047!2d-1.1630365235595779!3d52.631877172090626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487760c012179db5%3A0x3ee74bb96c66bbcb!2sMinehead%20St%2C%20Leicester%2C%20UK!5e0!3m2!1sen!2sru!4v1755007128141!5m2!1sen!2sru"
+},
+     {
     "dealId": "JPC-PRI-01",
     "title": "2-bed BTL Apartment - Hull",
     "city": "Hull",
