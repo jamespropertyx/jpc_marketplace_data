@@ -1,5 +1,59 @@
 [
      {
+    "dealId": "JPC-BEE-01",
+    "title": "Turnkey BTL Opportunity",
+    "city": "Hull",
+    "address": "Beech Grove, Hull, HU5 1LY",
+    "status": "Available",
+    "type": "Terraced",
+    "tenure": "Freehold",
+    "purchasePrice": 195000,
+    "reservationFee": 6000,
+    "projectEndValue": "214,695",
+    "belowMarketGDVDiscount": "5.3%",
+    "deposit": "195,000",
+    "yield": "18.67%",
+    "rent": "&pound;3,033",
+    "annualRent": "36,396",
+    "refurbCost": "3 options",
+    "listedDate": "2025-08-13",
+    "keyFeatures": [
+        "Approx. &pound;36,396 gross annual rental income",
+        "Fully licensed HMO",
+        "Prime student area",
+        "Updated floor plan in the appraisal - for maximum rental potential"
+   ],
+    "description": "This 5-bedroom, 2-bathroom HMO is located in one of Hull’s most reliable student investment areas, between Beverley Road and Newland Avenue and within walking distance to the University of Hull. Following our on-site inspection, we can confirm that the property is in good internal condition, requiring no major works - a rare find in this postcode.",
+    "beds": "5 beds",
+    "baths": "2 baths",
+    "size": "109 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1DpTuHA9vGqT3Ny9_9WLuAp6brXXq9oDl/view?usp=sharing",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Beech-Grove-Hull-HU5-1LY-24eb6c4b01418074ba8fc75ae350a6df?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Beech-Grove-Hull-HU5-1LY-24db6c4b01418076b251f8df2e3fce6c?source=copy_link",
+    "epcCertificate": "https://static.tildacdn.com/tild6666-3432-4431-b830-666630376135/__2025-08-13__150939.png",
+    "images": [
+        "https://static.tildacdn.com/tild6339-6561-4166-b065-336633373930/Front_-_Beech_Grove.jpeg",
+        "https://static.tildacdn.com/tild6237-6437-4265-b734-646438373763/Beech_Grove_-_Dining.jpeg",
+        "https://static.tildacdn.com/tild3532-3764-4238-a439-663866623466/Beech_Grove_-_Bed.jpeg",
+        "https://static.tildacdn.com/tild6339-6333-4436-a238-336631363363/Beech_Grove_-_Bathro.jpeg",
+        "https://static.tildacdn.com/tild3962-3938-4531-b237-653561633466/Beech_Grove_-_Bed_2.jpeg",
+        "https://static.tildacdn.com/tild3761-3038-4261-a264-376630396161/Beech_Grove_-_Bathro.jpeg",
+        "https://static.tildacdn.com/tild3363-3535-4530-b538-323736366339/Beech_Grove_-_Bed_3.jpeg",
+        "https://static.tildacdn.com/tild3738-3762-4030-b865-363966326330/Beech_Grove_-_Kitche.jpeg",
+        "https://static.tildacdn.com/tild3434-6463-4137-b262-343137646436/Beech_Grove_-_Garden.jpeg"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+        "https://static.tildacdn.com/tild3638-6534-4261-b662-386131306633/__2025-08-13__153709.png"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.9950919732464!2d-0.3727179239381777!3d53.75397047241032!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be4c8ebcb87b%3A0x5635bfcbb1ead8db!2sBeech%20Grove%2C%20Hull%2C%20UK!5e0!3m2!1sen!2snl!4v1755088756518!5m2!1sen!2snl"
+},
+     {
     "dealId": "JPC-MIN-01",
     "title": "Turnkey BTL Opportunity",
     "city": "Hull",
