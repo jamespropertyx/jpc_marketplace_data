@@ -1,55 +1,5 @@
 [
      {
-    "dealId": "JPC-MEL-01",
-    "title": "BTL Opportunity",
-    "city": "Hull",
-    "address": "Melbourne Street, Hull, HU5 2ET",
-    "status": "Available",
-    "type": "Terraced",
-    "tenure": "Freehold",
-    "purchasePrice": 150000,
-    "reservationFee": 6000,
-    "projectEndValue": "168,000",
-    "belowMarketGDVDiscount": "19.2%",
-    "deposit": "105,000",
-    "yield": "18.67%",
-    "rent": "&pound;1,213",
-    "annualRent": "14,560",
-    "refurbCost": "0",
-    "listedDate": "2025-03-28",
-    "keyFeatures": [],
-    "description": "Spacious and modern 3-bedroom, 2-bathroom home, recently renovated to a high standard. Features a fully equipped kitchen, dining area, fireplace, work desk, WiFi, and smart TV with streaming services. Outside, guests can enjoy a private terrace and free parking. Conveniently located near the University of Hull and just a short distance from the city centre and transport links",
-    "beds": "3 beds",
-    "baths": "2 baths",
-    "size": "87 sq m",
-    "dealAnalysis": "",
-    "propertyAppraisal": "",
-    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Melbourne-Street-Hull-HU5-253b6c4b0141804aa4bede9cf158e667?source=copy_link",
-    "epcCertificate": "",
-    "images": [
-        "https://static.tildacdn.com/tild3666-3833-4664-a464-336561393133/kitchen.jpg",
-        "https://static.tildacdn.com/tild3261-3331-4230-b833-326135376165/kitchen2.jpg",
-        "https://static.tildacdn.com/tild3432-6265-4765-a166-623035663334/living.jpg",
-        "https://static.tildacdn.com/tild3431-3064-4033-a235-613631333162/bath.jpg",
-        "https://static.tildacdn.com/tild6431-3438-4463-a139-663536366533/living2.jpg",
-        "https://static.tildacdn.com/tild6332-3936-4132-a139-643832303563/bedroom.jpg",
-        "https://static.tildacdn.com/tild3033-3333-4633-a566-393133353162/bedroom2.jpg",
-        "https://static.tildacdn.com/tild3736-3262-4231-b135-383235353362/bedroom3.jpg",
-        "https://static.tildacdn.com/tild6466-6633-4739-a338-633530633534/bedroom4.jpg",
-        "https://static.tildacdn.com/tild3830-6332-4030-b037-356632373866/kitchen3.jpg"
-    ],
-    "marketInsightsImages": [
-        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
-        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
-        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
-        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
-    ],
-    "floorplan": [
-        "https://static.tildacdn.com/tild6564-3738-4230-b436-386131303135/Screenshot_2025-08-1.png"
-    ],
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.4113823008965!2d-0.36252988837596556!3d53.76436347229841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfb368ea28b7%3A0xe168b2312c738d1e!2sMelbourne%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2snl!4v1755587806634!5m2!1sen!2snl"
-},
-     {
     "dealId": "JPC-BEE-01",
     "title": "5 Bed HMO",
     "city": "Hull",
