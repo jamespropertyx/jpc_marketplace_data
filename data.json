@@ -1,65 +1,4 @@
 [
-        {
-    "dealId": "JPC-PAR-01",
-    "title": "Turnkey BTL Block of 2 Flats",
-    "city": "Hull",
-    "address": "Park Avenue, Princes Avenue, Hull, HU5 4DE",
-    "status": "Available",
-    "type": "Terraced",
-    "tenure": "Freehold",
-    "purchasePrice": 210000,
-    "reservationFee": 7560,
-    "projectEndValue": "240,450",
-    "belowMarketGDVDiscount": "9.9%",
-    "deposit": "52,500",
-    "yield": "11.98%",
-    "rent": "&pound;2097",
-    "annualRent": "25,164",
-    "refurbCost": "500",
-    "listedDate": "2025-08-21",
-    "keyFeatures": [
-        "Approx. £25,160 gross annual rental income",
-        "Fully rented until September 2026",
-        "Converted into 2 self-contained apartments (2 Bed + 1 Bed)",
-        "Prime location - close to Hull city centre and Hull University"
-    ],
-    "description": "Opportunity to purchase a converted house split into 2 self-contained flats, providing a total of 3 bedrooms and 2 bathrooms.The property is located close to Hull city centre and Hull University. Its central position, together with nearby amenities on Newland Avenue and Princes Avenue, makes it highly attractive for both students and professionals.",
-    "beds": "3 beds",
-    "baths": "2 baths",
-    "size": "114 sq m",
-    "dealAnalysis": "https://drive.google.com/file/d/1bzxZAApG8A7RUtaxHbuUML4T_A5GbGUQ/view?usp=sharing",
-    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Park-Avenue-Princes-Avenue-Hull-HU5-4DE-255b6c4b0141804cbb62cb6d33300bd1?source=copy_link",
-    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Park-Avenue-Princes-Avenue-Hull-HU5-4DE-255b6c4b014180f6acc8d07baf3ae9fa?source=copy_link",
-    "epcCertificate": "https://static.tildacdn.com/tild3865-6663-4666-a261-643764633536/__2025-08-21__115044.png",
-    "images": [
-        "https://static.tildacdn.com/tild6462-6333-4231-a661-646338313863/ChatGPT_Image_20__20.png",
-        "https://static.tildacdn.com/tild6534-6165-4165-b133-383437663564/kitchen.jpeg",
-        "https://static.tildacdn.com/tild3666-3062-4233-b264-383661303731/living_room_2.jpeg",
-        "https://static.tildacdn.com/tild6435-6231-4765-b332-623761346562/kitchen3.jpeg",
-        "https://static.tildacdn.com/tild3339-3637-4337-a438-373664613061/living_room_3.jpeg",
-        "https://static.tildacdn.com/tild3162-3230-4838-b631-633232636138/kitchen4.jpeg",
-        "https://static.tildacdn.com/tild6365-3337-4138-a366-306133366333/kitchen2.jpeg",
-        "https://static.tildacdn.com/tild3661-3236-4435-b166-336562326530/bathroom.jpeg",
-        "https://static.tildacdn.com/tild6135-3439-4131-a161-636336656139/bedroom.jpeg",
-        "https://static.tildacdn.com/tild3033-3935-4938-a464-643130363039/bedroom_2.jpeg", 
-        "https://static.tildacdn.com/tild6432-6534-4631-b132-353464646665/bedroom_3.jpeg", 
-        "https://static.tildacdn.com/tild3062-3530-4265-b930-613031363735/living_room.jpeg", 
-        "https://static.tildacdn.com/tild3364-3163-4134-b230-643036316530/bathroom_2.jpeg",
-        "https://static.tildacdn.com/tild6365-3337-4138-a366-306133366333/kitchen2.jpeg",
-        "https://static.tildacdn.com/tild6566-3762-4965-a163-303331326537/Electrical_supplies.jpeg",
-        "https://static.tildacdn.com/tild6237-6163-4563-a265-346137616562/yard.jpeg"
-    ],
-    "marketInsightsImages": [
-        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
-        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
-        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
-        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
-    ],
-    "floorplan": [
-        "https://static.tildacdn.com/tild3733-6464-4933-b431-383862386139/__2025-08-21__120104.png"
-    ],
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.7712268977666!2d-0.36886298837646986!3d53.75795657229645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfcee922b4b3%3A0x1574bfe2b1c79e0f!2zUGFyayBBdmUsIEh1bGwsINCS0LXQu9C40LrQvtCx0YDQuNGC0LDQvdC40Y8!5e0!3m2!1sru!2snl!4v1755766998812!5m2!1sru!2snl"
-},
      {
     "dealId": "JPC-DUN-01",
     "title": "2-bed BTL Apartment",
