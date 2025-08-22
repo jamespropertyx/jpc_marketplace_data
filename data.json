@@ -1,4 +1,60 @@
 [
+        {
+    "dealId": "JPC-PGV-01",
+    "title": "Turnkey 4 Bed HMO Opportunity",
+    "city": "Hull",
+    "address": "Melbourne Street, Hull, HU5 2ET",
+    "status": "Sold",
+    "type": "Semi-detached",
+    "tenure": "Freehold",
+    "purchasePrice": 130000,
+    "reservationFee": 6000,
+    "projectEndValue": "142,610",
+    "belowMarketGDVDiscount": "31.6%",
+    "deposit": "32,500",
+    "yield": "10.08%",
+    "rent": "&pound;1092",
+    "annualRent": "13,104",
+    "refurbCost": "0",
+    "listedDate": "2025-08-22",
+    "keyFeatures": [
+        "Approx. &pound;13,104 annual rental income",
+        "Already tenanted with strong rental demand",
+        "No major works required, ready to generate income immediately",
+        "Excellent condition with modern fittings"
+    ],
+    "description": "This 4-bedroom, 1-bathroom HMO is situated on Melbourne Street, HU5, a well-regarded residential street within close proximity to the University of Hull and popular student areas. The property is currently operating as a 4-bed HMO (with 3 rooms let to working professionals under tenancy until May 2026). With minimal immediate work required, it provides a secure income stream now, with excellent potential to reposition as a high-yield student HMO post-refurb.",
+    "beds": "4 beds",
+    "baths": "1 bath",
+    "size": "84 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1gaBVZ0gWaUIkfWFYHyFr1KEcAi9baxdj/view?usp=sharing",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Melbourne-Street-Hull-HU5-2ET-256b6c4b014180e18453e7a95acbeeea?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Melbourne-Street-HU5-2ET-256b6c4b01418058b464f0aef7a6bb8e?source=copy_link",
+    "epcCertificate": "https://static.tildacdn.com/tild3635-6162-4738-b639-663832633232/__2025-08-22__180216.png",
+    "images": [
+        "https://static.tildacdn.com/tild3438-3237-4035-b735-353334393638/__2025-08-22__180852.png",
+        "https://static.tildacdn.com/tild6433-3337-4634-a536-613934353833/Livingroom_2.png",
+        "https://static.tildacdn.com/tild3733-3462-4635-a665-316439636362/Bedroom_31.png",
+        "https://static.tildacdn.com/tild3462-6139-4631-a336-616336376462/Bathroom.png",
+        "https://static.tildacdn.com/tild3962-3939-4866-b635-393734303161/Kitchen_1.png",
+        "https://static.tildacdn.com/tild3630-3564-4739-b531-633739623032/Bedroom_3.png",
+        "https://static.tildacdn.com/tild6536-3232-4338-a432-663630663931/Kitchen_2.png",
+        "https://static.tildacdn.com/tild6564-3164-4964-a462-303364353830/Livingroom_1.png",
+        "https://static.tildacdn.com/tild3266-3735-4638-a439-303932626437/Livingroom.png",
+         "https://static.tildacdn.com/tild6330-3162-4037-b062-343136663533/Livingroom_3.png",
+        "https://static.tildacdn.com/tild3331-3365-4963-b635-653561663265/Rear_garden.png"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+        "https://static.tildacdn.com/tild3834-3537-4131-a238-313235383164/__2025-08-22__180328.png"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.4113823008965!2d-0.36252988837596556!3d53.76436347229841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfb368ea28b7%3A0xe168b2312c738d1e!2sMelbourne%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sru!4v1755875239828!5m2!1sen!2sru"
+},
        {
     "dealId": "JPC-PGV-01",
     "title": "Turnkey 5 Bed HMO Opportunity",
