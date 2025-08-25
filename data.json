@@ -1,4 +1,58 @@
 [
+                {
+    "dealId": "JPC-EXM-01",
+    "title": "2 Bed BTL Opportunity",
+    "city": "Hull",
+    "address": "Exmouth Street, Hull, HU5 2LE",
+    "status": "Available",
+    "type": "Terraced",
+    "tenure": "Freehold",
+    "purchasePrice": 85000,
+    "reservationFee": 6000,
+    "projectEndValue": "93,670",
+    "belowMarketGDVDiscount": "23.4%",
+    "deposit": "21,250",
+    "yield": "10.08%",
+    "rent": "&pound;867",
+    "annualRent": "10,404",
+    "refurbCost": "7000",
+    "listedDate": "2025-08-25",
+    "keyFeatures": [
+        "&pound;10,400 gross annual income",
+        "High-yield location in HU5 with proven student & professional demand",
+        "10 minute walk to the University of Hull",
+        "Entry-level purchase price with strong value-add potential"
+    ],
+    "description": "This 2-bedroom, 1-bathroom terraced house is located on Exmouth Street, HU5, within one of Hull’s most reliable student and professional rental areas. The property benefits from a recent roof replacement, strong kerb appeal, and proximity to the University of Hull and key amenities. Currently empty, the property offers immediate scope to generate rental income with minimal works, while a full refurbishment presents an opportunity to reposition as a higher-yielding HMO with potential to create a third bedroom and en-suites.",
+    "beds": "2 beds",
+    "baths": "1 bath",
+    "size": "68 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1-Y2G60FeG0v9pLPmHSmmOxQwa9HVfPzl/view?usp=sharing",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Exmouth-Street-Hull-HU5-2LE-257b6c4b0141803992e4d13de7c02ad1?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Exmouth-Street-Hull-HU5-2LE-257b6c4b01418071862dd425e3f0dd7d?source=copy_link",
+    "epcCertificate": "https://static.tildacdn.com/tild6333-3234-4638-b538-373764306330/__2025-08-25__162946.png",
+    "images": [
+        "https://static.tildacdn.com/tild3435-3634-4631-b562-626633373638/__2025-08-25__163339.png",
+        "https://static.tildacdn.com/tild6130-3163-4366-a361-626664636664/Living_room.png",
+        "https://static.tildacdn.com/tild3564-3338-4931-b137-373535356430/Bedroom2.png",
+        "https://static.tildacdn.com/tild3936-3936-4165-b930-646335376636/Bathroom.png",
+        "https://static.tildacdn.com/tild3635-3135-4530-b737-393366333236/Living_room2.png",
+        "https://static.tildacdn.com/tild6666-3261-4139-b031-383963363861/Kitchen1.png",
+        "https://static.tildacdn.com/tild6230-3365-4465-a263-306361306539/Bedroom1.png",
+        "https://static.tildacdn.com/tild3362-6261-4436-b862-333232656630/Kitchen2.png",
+        "https://static.tildacdn.com/tild6632-6638-4131-b334-346334626464/Landing.png"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+        "https://static.tildacdn.com/tild3433-3133-4365-b962-323261363261/__2025-08-25__163001.png"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.3017368897213!2d-0.360665548471698!3d53.76631556394216!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfb2fe368dc9%3A0x8e31f529e8f72cd8!2s18%20Exmouth%20St%2C%20Hull%20HU5%202LE%2C%20UK!5e0!3m2!1sen!2sru!4v1756129638930!5m2!1sen!2sru"
+},
         {
     "dealId": "JPC-PGV-01",
     "title": "Turnkey 4 Bed HMO Opportunity",
