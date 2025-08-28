@@ -1,4 +1,59 @@
-[
+[  
+  {
+    "dealId": "JPC-PAR-02",
+    "title": "6 Bed HMO Opportunity",
+    "city": "Hull",
+    "address": "Park Grove, Hull, HU5 2UP",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "HMO",
+    "tenure": "Freehold",
+    "purchasePrice": 240000,
+    "reservationFee": 8640,
+    "projectEndValue": "240,000",
+    "belowMarketGDVDiscount": "17%",
+    "deposit": "60,000",
+    "yield": "17.5%",
+    "rent": "&pound;3500",
+    "annualRent": "42,000",
+    "refurbCost": "10,000",
+    "listedDate": "2025-08-28",
+    "keyFeatures": [
+        "&pound;42,000 gross annual income",
+        "Fully let to long-term professional tenants",
+        "10 minute walk to the University of Hull",
+        "Value-add potential: convert to 7th en-suite bedroom"
+    ],
+    "description": "Opportunity to purchase a **licensed 6-bed / 4-bath HMO** in the highly popular **HU5 rental area**, close to Hull University, Newland Avenue and Hull Royal Infirmary. The property is fully let to working professionals and presents immediate strong rental income with scope to **add further value** through light reconfiguration. With minimal works, the property could easily be converted into a **7-bed HMO with en-suite** and achieve a significant uplift in rental income.",
+    "beds": "6 beds",
+    "baths": "4 bath",
+    "size": "143 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1-ivCT60b7YqmO2GIPbJ6cd9WR2XH993V/view?usp=sharing",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Park-Grove-Hull-HU5-25db6c4b014180dfbe8dfd2efe34eff0?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Park-Grove-Hull-HU5-2UP-25db6c4b01418086a85bc15e99ad395f?source=copy_link",
+    "epcCertificate": "https://static.tildacdn.com/tild3733-3634-4134-b936-306636616132/__2025-08-28__172618.png",
+    "images": [
+        "https://static.tildacdn.com/tild3661-3566-4565-b865-396464643937/ChatGPT_Image_28__20.png",
+        "https://static.tildacdn.com/tild6165-6530-4561-a132-373837626437/Park_Grove5.jpeg",
+        "https://static.tildacdn.com/tild3838-6535-4134-b365-363662386433/Park_Grove_bedroom.jpeg",
+        "https://static.tildacdn.com/tild3263-3037-4139-b062-376334333036/Park_Grove.jpeg",
+        "https://static.tildacdn.com/tild6366-6335-4161-b536-623931393836/Park_Grove3.jpeg",
+        "https://static.tildacdn.com/tild6131-3466-4364-a232-336463616466/Park_Grove_kitchen.jpeg",
+        "https://static.tildacdn.com/tild6434-6161-4331-a662-613635616230/Park_Grove1.jpeg",
+        "https://static.tildacdn.com/tild6566-3936-4662-a665-393435383762/Park_Grove7.jpeg",
+        "https://static.tildacdn.com/tild6130-3832-4366-b739-396161393932/Park_Grove4.jpeg",
+        "https://static.tildacdn.com/tild6633-3731-4636-a138-363265636331/Park_Grove6.jpeg",
+        "https://static.tildacdn.com/tild6534-6262-4232-b333-353232633365/Park_Grove_outside.jpeg"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.9106546085513!2d-0.36159528837664323!3d53.755473972295725!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfcae0766845%3A0x79411359e2272c0e!2sPark%20Grove!5e0!3m2!1sen!2sru!4v1756391458769!5m2!1sen!2sru"
+},
   {
     "dealId": "JPC-ROS-01",
     "title": "Student 6 Bed HMO Opportunity",
