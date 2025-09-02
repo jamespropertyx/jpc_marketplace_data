@@ -1,4 +1,57 @@
 [  
+   
+  {
+    "dealId": "JPC-SID-02",
+    "title": "Student 4 Bed HMO Opportunity",
+    "city": "Hull",
+    "address": "Sidmouth Street, Hull, HU5 2LB",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "HMO",
+    "tenure": "Freehold",
+    "purchasePrice": 128000,
+    "reservationFee": 6000,
+    "projectEndValue": "162,170",
+    "belowMarketGDVDiscount": "9,2%",
+    "deposit": "32,000",
+    "yield": "13.65%",
+    "rent": "&pound;1456",
+    "annualRent": "17,472",
+    "refurbCost": "0",
+    "listedDate": "2025-09-02",
+    "keyFeatures": [
+        "&pound;17,472 gross annual income",
+        "High-demand HU5 location with strong student market",
+        "Low entry cost",
+        "Already let & managed for next year",
+        "Location: 12 min walk to the University of Hull"
+    ],
+    "description": "This 4-bedroom, 1-bathroom property is located in one of Hull’s most reliable student investment areas, just off Sidmouth Street and within walking distance to the University of Hull. The property is currently let and being marketed for the next academic year, meaning there is no immediate spend required. With only a professional deep clean and light decorative works, it can continue to generate strong income. For investors looking to increase returns, the property also offers scope to install en-suites and modernise the kitchen, which would reposition it at the top end of the student/professional market.",
+    "beds": "4 beds",
+    "baths": "1 bath",
+    "size": "85 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1qzo5nqvoeprCnI0f64XV9kjiSKvEdRtv/view?usp=sharing",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Sidmouth-Street-Hull-HU5-2LB-25eb6c4b014180439a17db3bccd9dc7c?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Sidmouth-Street-Hull-HU5-2LB-247b6c4b0141807aa90adf8b507d4a87?source=copy_link",
+    "epcCertificate": "https://static.tildacdn.com/tild3766-6331-4331-a362-313162663639/__2025-09-02__121345.png",
+    "images": [
+        "https://static.tildacdn.com/tild3831-6437-4636-b535-303234376366/living_room.jpeg",
+        "https://static.tildacdn.com/tild3866-3962-4238-b061-323330613532/bedroom_3.jpeg",
+        "https://static.tildacdn.com/tild3564-3233-4031-a636-343661333833/kitchen.jpeg",
+        "https://static.tildacdn.com/tild3732-3736-4963-b032-636463303731/living_room_2.jpeg",
+        "https://static.tildacdn.com/tild6361-3264-4632-a531-326534636665/wc.jpeg",
+        "https://static.tildacdn.com/tild6235-6132-4062-a535-633731393338/bedroom.jpeg",
+        "https://static.tildacdn.com/tild6539-6163-4333-a262-346337343134/bedroom_2.jpeg"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.3181320826116!2d-0.3632893883758105!3d53.76602367229887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfb30093e813%3A0x85c05b2393f722e8!2sSidmouth%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sru!4v1756804881565!5m2!1sen!2sru"
+},
   {
     "dealId": "JPC-PAR-02",
     "title": "6 Bed HMO Opportunity",
