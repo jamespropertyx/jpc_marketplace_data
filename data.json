@@ -1,4 +1,61 @@
 [  
+    
+  {
+    "dealId": "JPC-NEW-02",
+    "title": "2 Bed BTL Opportunity",
+    "city": "Hull",
+    "address": "Newland Avenue, Hull, HU5 2NB",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 100000,
+    "reservationFee": 6000,
+    "projectEndValue": "115,200",
+    "belowMarketGDVDiscount": "33,8%",
+    "deposit": "25,000",
+    "yield": "13.52%",
+    "rent": "&pound;1127",
+    "annualRent": "13,524",
+    "refurbCost": "20,000",
+    "listedDate": "2025-09-03",
+    "keyFeatures": [
+        "&pound;13,500 gross annual income",
+        "Flexible layout - scope to create 3-bed, 3-bath HMO",
+        "Currently let to a family"
+    ],
+    "description": "Newland Avenue is a spacious 2-bed, 1-bath property situated in a strong rental location at the top of Newland Avenue. The house is currently a family home but offers excellent scope for refurbishment. With a reconfiguration, it could be converted into a high-yielding 3-bed, 3-bath property, well suited to the student and professional rental market.",
+    "beds": "2 beds",
+    "baths": "1 bath",
+    "size": "103 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1VKdRbw_A4dXGA54AN18-q78qT63XGAP5/view?usp=sharing",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Newland-Avenue-263b6c4b014180b5a3ffd4f7c385b497?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Newland-Avenue-Hull-HU5-2NB-263b6c4b014180b5be05d7bbff84f113?source=copy_link",
+    "epcCertificate": "https://tilda.cc/page/?pageid=75302086&projectid=12126467",
+    "images": [
+        "https://static.tildacdn.com/tild3930-3666-4239-b938-373561636637/__2025-09-03__173055.png",
+        "https://static.tildacdn.com/tild6362-6666-4363-a462-313137363639/bathroom.jpeg",
+        "https://static.tildacdn.com/tild6230-3535-4337-a461-323638373636/bathroom2.jpeg",
+        "https://static.tildacdn.com/tild3735-3261-4136-b035-396335656465/hall.jpeg",
+        "https://static.tildacdn.com/tild3334-3265-4037-b365-646238363331/hall2.jpeg",
+        "https://static.tildacdn.com/tild3134-6232-4532-a238-353866393637/kitchen.jpeg",
+        "https://static.tildacdn.com/tild3236-3065-4334-a364-306262623030/room.jpeg",
+        "https://static.tildacdn.com/tild3162-3038-4131-a137-343861303036/room2.jpeg",
+        "https://static.tildacdn.com/tild6362-3636-4531-a537-346161396530/room3.png",
+       "https://static.tildacdn.com/tild3132-6236-4838-b231-383739636438/yard.jpeg",
+       "https://static.tildacdn.com/tild3164-3833-4835-a632-303532343633/yard2.jpeg"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+       "https://static.tildacdn.com/tild3339-3535-4566-a266-316535353438/__2025-09-03__172603.png"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.4138761357085!2d-0.36127238837595677!3d53.76431907229843!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfb3445719b1%3A0xe9f661ca343961!2sNewland%20Ave%2C%20Hull%2C%20UK!5e0!3m2!1sen!2snl!4v1756909962462!5m2!1sen!2snl"
+},
    
   {
     "dealId": "JPC-SID-02",
