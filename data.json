@@ -1,5 +1,60 @@
 [  
-    
+    {
+    "dealId": "JPC-SHA-02",
+    "title": "Student 2 Bed BTL Opportunity",
+    "city": "Hull",
+    "address": "Sharp Street, Hull, HU5 2AD",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 100000,
+    "reservationFee": 6000,
+    "projectEndValue": "120,500",
+    "belowMarketGDVDiscount": "23.08%",
+    "deposit": "25,000",
+    "yield": "13.52%",
+    "rent": "&pound;1127",
+    "annualRent": "13,524",
+    "refurbCost": "8,000",
+    "listedDate": "2025-09-05",
+    "keyFeatures": [
+        "&pound;13,500 gross annual income",
+        "20 minute walk to the university",
+        "Potential to increase to ~£20,000+ with 3-bed conversion",
+        "Excellent demand from students & professionals",
+        "Perfect entry-level investment for first-time buyers"
+    ],
+    "description": "This 2-bedroom, 1-bathroom terraced house is located on Sharp Street, HU5, one of Hull’s most reliable rental locations just off Beverley Road and within walking distance to the University of Hull. The property is structurally sound with good kerb appeal, a large bathroom, and potential to add significant value through light refurbishment or reconfiguration. With a straightforward redecoration and new furniture, it can be repositioned immediately for the student market. Alternatively, a larger investment could convert the property into a 3-bed, 2-bath student HMO, maximising both income and long-term value.",
+    "beds": "2 beds",
+    "baths": "1 bath",
+    "size": "80 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1iuKG9TyNWmwwbqG7Vr_75-Y8wl672fSC/view?usp=sharing",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Sharp-Street-Hull-HU5-2AD-264b6c4b014180489ce5f9b0964814de?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Sharp-Street-Hull-HU5-2AD-264b6c4b0141800f956ddc21f0ee2470?source=copy_link",
+    "epcCertificate": "https://static.tildacdn.com/tild3237-6466-4738-b966-636566333630/__2025-09-05__152602.png",
+    "images": [
+        "https://static.tildacdn.com/tild3539-6234-4965-b763-643031613862/__2025-09-05__153028.png",
+        "https://static.tildacdn.com/tild3337-6164-4131-a130-333363623739/Through_lounge1.png",
+        "https://static.tildacdn.com/tild6238-3465-4632-b237-666231326661/Through_lounge.png",
+        "https://static.tildacdn.com/tild6463-3934-4830-b832-653364313364/Rear_garden_2.png",
+        "https://static.tildacdn.com/tild3566-3230-4339-b135-643233386338/Rear_garden_1.png",
+        "https://static.tildacdn.com/tild6130-3833-4434-a336-306336373834/Kitchen.png",
+        "https://static.tildacdn.com/tild3433-3535-4562-a166-623136316230/Bedroom2.png",
+        "https://static.tildacdn.com/tild3637-6235-4962-a365-613136313563/Bedroom1.png",
+        "https://static.tildacdn.com/tild3762-3632-4139-a666-376266643262/Bathroom.png"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+       "https://static.tildacdn.com/tild3665-6530-4266-b037-643833386265/__2025-09-05__152546.png"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.462106847112!2d-0.36500828837600974!3d53.763460372298184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfb475490949%3A0xa8dd02b7df19fdb7!2sSharp%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2snl!4v1757075622330!5m2!1sen!2snl"
+}, 
   {
     "dealId": "JPC-NEW-02",
     "title": "2 Bed BTL Opportunity",
