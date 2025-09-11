@@ -1,5 +1,67 @@
 [  
      {
+    "dealId": "JPC-PRI-02",
+    "title": "7-Bed HMO Opportunity",
+    "city": "Hull",
+    "address": "Princes Road, Hull, HU5 2RD",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "HMO",
+    "tenure": "Freehold",
+    "purchasePrice": 240000,
+    "reservationFee": 8640,
+    "projectEndValue": "324,000",
+    "belowMarketGDVDiscount": "20%",
+    "deposit": "60,000",
+    "yield": "18.2%",
+    "rent": "&pound;3640",
+    "annualRent": "43,680",
+    "refurbCost": "0",
+    "listedDate": "2025-09-10",
+    "keyFeatures": [
+        "&pound;43,680 gross annual income",
+        "21.0% Net Income/Capital Invested",
+        "Fully licensed 7-bed HMO",
+        "Turnkey - income from day one",
+         "Excellent HU5 location, strong tenant demand"
+    ],
+    "description": "This 7-bedroom, 2-bathroom licensed HMO is located in one of Hull’s most reliable student and professional rental areas, just off Princes Avenue and within walking distance to the University of Hull. The property has been recently refreshed by the landlord, including a new bathroom, and is presented as a turnkey investment requiring no refurbishment. Rentals on this road historically let quickly and maintain full occupancy, underlining the strength of this location.",
+    "beds": "7 beds",
+    "baths": "2 bath",
+    "size": "132 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1xVrQ0tYpQMyHsO2Ffy4rYwRXgv9ZxAc4/view?usp=sharing",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Princes-Road-Hull-HU5-2RD-26bb6c4b014180789adedb1b5c20bc07?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Princes-Road-Hull-HU5-2RD-26bb6c4b01418000b3ced97c46907f68?source=copy_link",
+    "epcCertificate": "https://static.tildacdn.com/tild3161-3333-4431-b430-323436323034/__2025-09-11__174237.png",
+    "images": [
+        "https://static.tildacdn.com/tild3531-6436-4165-a664-636639373164/photo_2025-09-11_174.jpeg",
+        "https://static.tildacdn.com/tild6437-3363-4137-b664-346131613331/Bathroom1.png",
+        "https://static.tildacdn.com/tild3035-3365-4664-b636-653435623732/Bathroom2.png",
+        "https://static.tildacdn.com/tild3430-6561-4466-a364-306632626663/Bedroom1.png",
+        "https://static.tildacdn.com/tild6234-3438-4530-b437-613163313133/Bedroom21.png",
+        "https://static.tildacdn.com/tild3364-3362-4534-a362-363632616264/Bedroom2.png",
+        "https://static.tildacdn.com/tild3233-3234-4332-b330-613966393538/Bedroom31.png",
+        "https://static.tildacdn.com/tild6432-3764-4862-b461-333235643861/Bedroom3.png",
+        "https://static.tildacdn.com/tild6134-3632-4936-a537-333563303165/Bedroom4.png",
+        "https://static.tildacdn.com/tild6434-3966-4963-b737-616533653431/Bedroom5.png",
+        "https://static.tildacdn.com/tild6530-3731-4766-b931-653265623032/Bedroom6.png",
+        "https://static.tildacdn.com/tild3265-3261-4630-b437-353138306433/Bedroom7.png",
+        "https://static.tildacdn.com/tild6564-3239-4763-b737-303461393633/Kitchen.png",
+        "https://static.tildacdn.com/tild6436-6234-4536-a661-306330653533/Lounge.png",
+        "https://static.tildacdn.com/tild3964-3932-4836-b564-366462326262/Garden.png"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+       "https://static.tildacdn.com/tild3835-3531-4031-a366-396437376336/__2025-09-11__174220.png"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.5772096109713!2d-0.35918282414931435!3d53.76141104358732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be4b3b6bd11f%3A0x82273d70bf893203!2sPrince&#39;s%20Rd%2C%20Hull%2C%20UK!5e0!3m2!1sen!2snl!4v1757602457228!5m2!1sen!2snl"
+}, 
+     {
     "dealId": "JPC-PEE-02",
     "title": "12 Bed Block of Flats",
     "city": "Hull",
