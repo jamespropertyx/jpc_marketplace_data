@@ -1,4 +1,64 @@
 [  
+      {
+    "dealId": "JPC-NEW-03",
+    "title": "Two self-contained 2-bed flats",
+    "city": "Hull",
+    "address": "Newland Avenue, Hull, HU5 2EL",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "Flats / Apartments",
+    "tenure": "Freehold",
+    "purchasePrice": 135000,
+    "reservationFee": 6000,
+    "projectEndValue": "158,355",
+    "belowMarketGDVDiscount": "32.5%",
+    "deposit": "33,750",
+    "yield": "18.49%",
+    "rent": "&pound;2080",
+    "annualRent": "24,960",
+    "refurbCost": "50,000",
+    "listedDate": "2025-09-15",
+    "keyFeatures": [
+        "Net Income / Capital Invested: 10.55%",
+        "Gross Annual Rent: &pound;24,960",
+        "Prime student area",
+        "Potential to reconfigure into 4-bed, 2-bath BTL and increase rental income"
+    ],
+    "description": "This property comprises two self-contained 2-bed flats, currently generating income from existing tenants. Located directly on Newland Avenue, one of Hull’s busiest student and professional rental corridors, the property offers immediate yield and strong potential for reconfiguration.
+- Flat A: 2 bed / 1 bath – requires refurbishment.
+- Flat B: 2 bed / 1 bath – in good order, with a long-standing tenant in place.
+Investors have the choice of retaining the dual-flat layout or converting back into a 4-bed, 2-bath BTL property to maximise rental return.",
+    "beds": "4 beds",
+    "baths": "2 bath",
+    "size": "84 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1gntnJscVFZiQTtkN30wOui96Q51Rh-Oq/view?usp=sharing",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Newland-Avenue-Hull-HU5-2EL-264b6c4b014180eaa29af1b4194ce8d9?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Newland-Avenue-Hull-HU5-2EL-264b6c4b0141800ca0facac3565a8a96?source=copy_link",
+    "epcCertificate": "https://static.tildacdn.com/tild6161-6366-4339-a137-303634356264/__2025-09-15__115922.png",
+    "images": [
+        "https://static.tildacdn.com/tild6234-3236-4236-b530-343665373430/photo_2025-09-15_120.jpeg",
+        "https://static.tildacdn.com/tild3737-6332-4065-b965-646132323733/Bathroom.png",
+        "https://static.tildacdn.com/tild3636-6235-4637-b065-343433653438/Bathroom2.png",
+        "https://static.tildacdn.com/tild6638-3337-4862-b962-336138383636/Bedroom.png",
+        "https://static.tildacdn.com/tild6231-3637-4664-b033-316166623337/Bedroom2.png",
+        "https://static.tildacdn.com/tild3537-3333-4337-b030-393662323739/Bedroom3.png",
+        "https://static.tildacdn.com/tild6133-3430-4133-b732-333534393437/Bedroom4.png",
+        "https://static.tildacdn.com/tild3263-3761-4364-a365-653133316534/Kitchen.png",
+        "https://static.tildacdn.com/tild3230-6132-4637-a332-633366366431/Kitchen2.png",
+        "https://static.tildacdn.com/tild6135-3435-4234-a339-306530383839/Kitchen3.png",
+        "https://static.tildacdn.com/tild3339-6664-4638-b434-336662376135/Lounge.png"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+       "https://static.tildacdn.com/tild6534-3765-4833-b739-613938623430/__2025-09-15__115905.png"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.4136980313024!2d-0.3612723885881762!3d53.76432224325333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfb3445719b1%3A0xe9f661ca343961!2sNewland%20Ave%2C%20Hull%2C%20UK!5e0!3m2!1sen!2snl!4v1757929172608!5m2!1sen!2snl"
+}, 
      {
     "dealId": "JPC-PRI-02",
     "title": "7-Bed HMO Opportunity",
