@@ -1,4 +1,64 @@
 [  
+       {
+    "dealId": "JPC-MEL-02",
+    "title": "Turnkey 2-bed BTL Opportunity",
+    "city": "Hull",
+    "address": "Melbourne Street, Hull, HU5 2ET",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 108000,
+    "reservationFee": 6000,
+    "projectEndValue": "158,355",
+    "belowMarketGDVDiscount": "20.6%",
+    "deposit": "27,000",
+    "yield": "8.39%",
+    "rent": "&pound;1083",
+    "annualRent": "24,960",
+    "refurbCost": "12,996",
+    "listedDate": "2025-09-16",
+    "keyFeatures": [
+        "Net Income / Capital Invested: 8.39%",
+        "Gross Annual Rent: &pound;13,000",
+        "Minimal refurb required (furniture only)",
+        "Prime for student rental or Airbnb"
+    ],
+    "description": "This 2-bedroom, 1-bathroom property is located in one of Hull’s most reliable student and professional rental areas. With strong demand for both long-term lets and Airbnb-style rentals, the property represents a turnkey investment opportunity requiring minimal work aside from furnishing.The house has been recently refurbished to a high standard and stands out as one of the best-presented properties in the HU5 rental market.",
+    "beds": "2 beds",
+    "baths": "1 bath",
+    "size": "65 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1jKbAUXEifmTC33uMcuJrGXOWBY0f1Sg5/view?usp=sharing",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Melbourne-Street-Hull-HU5-2ET-270b6c4b014180c89e2dcadc9393ef4e?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Melbourne-Street-Hull-HU5-2ET-270b6c4b014180b38532d5e97f67c984?source=copy_link",
+    "epcCertificate": "https://static.tildacdn.com/tild6335-6535-4262-b034-346463373938/__2025-09-16__165408.png",
+    "images": [
+        "https://static.tildacdn.com/tild3838-6232-4636-b232-356634396238/photo_2025-09-16_165.jpeg",
+        "https://static.tildacdn.com/tild6235-3636-4435-b739-336339316139/Backyard.png",
+        "https://static.tildacdn.com/tild6464-3532-4165-a462-663331373636/Bathroom.png",
+        "https://static.tildacdn.com/tild3431-3931-4666-b134-616131343533/Bedroom_1.png",
+        "https://static.tildacdn.com/tild6532-3364-4464-a164-343733396430/Bedroom_2.png",
+        "https://static.tildacdn.com/tild6462-3163-4164-b930-623236643238/Kitchen_1.png",
+        "https://static.tildacdn.com/tild3530-3762-4764-b633-396431373237/Kitchen_2.png",
+        "https://static.tildacdn.com/tild3730-3036-4133-b134-396563393435/Kitchen_3.png",
+        "https://static.tildacdn.com/tild3364-6262-4661-a139-626431373365/Living_room_1.png",
+        "https://static.tildacdn.com/tild3263-3961-4461-a239-396562636164/Living_room_2.png",
+        "https://static.tildacdn.com/tild6233-3633-4336-b430-633463326665/Living_room.png",
+      "https://static.tildacdn.com/tild6333-3762-4338-a633-653830343833/Lounge_1.png",
+        "https://static.tildacdn.com/tild6466-6166-4530-b630-356563323336/Lounge.png",
+          "https://static.tildacdn.com/tild3836-3234-4463-b366-353061666566/Veranda.png"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+       "https://static.tildacdn.com/tild6162-6161-4535-a465-336635316436/__2025-09-16__165347.png"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.41120419658!2d-0.3625298885198165!3d53.764366643249915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfb368ea28b7%3A0xe168b2312c738d1e!2sMelbourne%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2snl!4v1758030934577!5m2!1sen!2snl"
+}, 
       {
     "dealId": "JPC-NEW-03",
     "title": "Two self-contained 2-bed flats",
