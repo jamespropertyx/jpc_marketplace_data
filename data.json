@@ -1,4 +1,58 @@
 [  
+        {
+    "dealId": "JPC-GRA-02",
+    "title": "8-BED HMO Opportunity",
+    "city": "Hull",
+    "address": "Grafton Street, Hull, HU5 2NP",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "HMO",
+    "tenure": "Freehold",
+    "purchasePrice": 1854444,
+    "reservationFee": 6676,
+    "projectEndValue": "262,774",
+    "belowMarketGDVDiscount": "4.9%",
+    "deposit": "46,361",
+    "yield": "28.71%",
+    "rent": "&pound;4437",
+    "annualRent": "53,244",
+    "refurbCost": "20,000",
+    "listedDate": "2025-09-18",
+    "keyFeatures": [
+        "31.01% Net Income/Capital Invested",
+        "Gross Annual Rent: &pound;53,244",
+        "Just passed council inspection and had all required works done and completed",
+        "Prime student location"
+    ],
+    "description": "This 8-bedroom, 2-bathroom HMO is located on Grafton Street, a well-established and reliable student rental location close to Hull city centre and within walking distance to the University of Hull. The property has just passed council inspection with all required works completed, holding a valid HMO licence and all certificates in place. It is currently fully let for the 2024/2025 student year and is being marketed with existing furniture for the next academic year. ",
+    "beds": "8 beds",
+    "baths": "2 baths",
+    "size": "147 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/11uUvs7Z_tuxN4bogXx_OvLC1691Yr4ov/view?usp=sharing",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Grafton-Street-Hull-HU5-2NP-26fb6c4b01418029ae20c3d103770f04?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Grafton-Street-Hull-HU5-2NP-26fb6c4b014180fdb3ebc123dcf6748b?source=copy_link",
+    "epcCertificate": "https://static.tildacdn.com/tild3164-3537-4864-b632-326437643264/__2025-09-18__164856.png",
+    "images": [
+        "https://static.tildacdn.com/tild3564-6536-4364-b230-303165613733/outside.jpeg",
+        "https://static.tildacdn.com/tild3234-3765-4836-a533-383134316630/bedroom.jpeg",
+        "https://static.tildacdn.com/tild6538-3030-4431-b631-666230396630/bedroom2.jpeg",
+        "https://static.tildacdn.com/tild6133-6466-4861-a331-303331363830/hull.jpeg",
+        "https://static.tildacdn.com/tild3538-3136-4066-a162-373732363861/kitchen.jpeg",
+        "https://static.tildacdn.com/tild6266-3732-4539-b730-353735613863/living_room.jpeg",
+        "https://static.tildacdn.com/tild3533-3234-4466-b434-613537336632/WhatsApp_Image_2025-.jpeg",
+        "https://static.tildacdn.com/tild3439-3133-4136-b430-656565383362/WhatsApp_Image_2025-.jpeg"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+       "https://static.tildacdn.com/tild3538-6639-4537-b534-613534323335/__2025-09-18__164835.png"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.4317317269342!2d-0.35835278834181483!3d53.764001172298315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be4c9080436d%3A0xc574f8cf94ed7d3!2sGrafton%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2snl!4v1758204118993!5m2!1sen!2snl"
+}, 
        {
     "dealId": "JPC-MEL-02",
     "title": "Turnkey 2-bed BTL Opportunity",
