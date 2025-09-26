@@ -1632,7 +1632,7 @@
       "address": "Beverley Road, Hull, HU5 1LH",
       "status": "Available",  
       "type": "Flats / Apartments", 
-      "strategy": "",
+      "strategy": "Block od apartaments",
       "tenure": "Freehold",
       "purchasePrice": 425000, 
       "reservationFee": 15300, 
@@ -1643,7 +1643,7 @@
       "rent": "&pound;4,225",
       "annualRent": "50,700",
       "refurbCost": "0",
-      "listedDate": "2025-07-12", 
+      "listedDate": "2025-09-22", 
       "keyFeatures": [
         "All 4 apartments are fully let until August 2026.",
         "Long history of always being fully let.",
@@ -1657,13 +1657,13 @@
       "beds": "4 beds",
       "baths": "4 bath",
       "size": "171 sq m",
-      "dealAnalysis": "https://drive.google.com/file/d/1DsnwDky92mlS4JW7QXKJE_pWDhKSJnwN/view?usp=sharing",
+      "dealAnalysis": "https://drive.google.com/file/d/1BtHL-6PCjNoaeYOipdIHm5KqBSF03L6s/view?usp=sharing",
       "propertyAppraisal": "https://drive.google.com/file/d/1anZ0NvJUP70X_mRqi8nvaXMSY2-CmuUj/view?usp=sharing",
       "gdvAnalysis": "",
       "epcCertificate":
         "https://static.tildacdn.com/tild3462-3964-4030-b735-386164383263/__2025-08-01__105814.png",
       "images": [
-        "https://static.tildacdn.com/tild3764-3531-4465-b363-383139633863/Enhanced_Property_Im.png",
+        "https://static.tildacdn.com/tild3233-3330-4934-b238-336237363930/212300_33775294_IMG_.jpeg",
         "https://static.tildacdn.com/tild6464-3261-4232-b136-663436353662/__2025-08-01__110009.png",
         "https://static.tildacdn.com/tild3537-6133-4631-a162-303732303365/__2025-08-01__110053.png",
         "https://static.tildacdn.com/tild3439-3139-4664-a261-326239636230/__2025-08-01__110114.png",
