@@ -1,5 +1,56 @@
 [  
         {
+    "dealId": "JPC-MAR-03",
+    "title": "Turnkey 4-bed HMO Opportunity",
+    "city": "Hull",
+    "address": "Marshall St, Hull HU5 3DA",
+    "status": "Sold",
+    "type": "Terraced",
+    "strategy": "HMO",
+    "tenure": "Freehold",
+    "purchasePrice": 165000,
+    "reservationFee": 6000,
+    "projectEndValue": "213,675",
+    "belowMarketGDVDiscount": "10.81%",
+    "deposit": "41,250",
+    "yield": "13.6%",
+    "rent": "&pound;1872",
+    "annualRent": "22,464",
+    "refurbCost": "0",
+    "listedDate": "2025-10-01",
+    "keyFeatures": [
+        "Prime HU5 location with proven rental demand",
+        "Gross Annual Rent: &pound;22,464",
+        "Prime HU5 location with proven rental demand",
+        "Prime HU5 location with proven rental demand"
+    ],
+    "description": "This 4-bedroom, 2-bathroom licensed HMO is a turnkey investment located on Marshall Street, HU5 - a prime rental area with strong tenant demand from both students and young professionals. The property is in very good condition with no refurbishment required, making it an immediate income-producing asset.",
+    "beds": "4 beds",
+    "baths": "2 baths",
+    "size": "104 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1x62afpzse-SLF-I-p4ZDXNGEJcWDvGt7/view?usp=sharing",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Marshall-Street-Hull-HU5-3DA-27eb6c4b01418044b34afa68e3115f3a?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Marshall-Street-Hull-HU5-3DA-27eb6c4b01418093a241f06d40031c5e?source=copy_link",
+    "epcCertificate": "https://static.tildacdn.com/tild6539-6331-4530-a334-353433323938/__2025-10-01__100703.png",
+    "images": [
+        "https://static.tildacdn.com/tild3030-3463-4336-a263-663436646437/photo_2025-09-30_162.jpeg",
+        "https://static.tildacdn.com/tild6239-3537-4365-a162-643033326162/Bedroom1.png",
+        "https://static.tildacdn.com/tild6662-3461-4861-a532-613930366130/Bedroom41.png",
+        "https://static.tildacdn.com/tild6130-3036-4264-a534-383735613732/Kitchen.png",
+        "https://static.tildacdn.com/tild6334-3430-4634-a136-326334343539/Livingroom1.png",
+        "https://static.tildacdn.com/tild6239-3537-4365-a162-643033326162/Bedroom1.png",
+        "https://static.tildacdn.com/tild6130-3036-4264-a534-383735613732/Kitchen.png"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+"https://static.tildacdn.com/tild6539-6331-4530-a334-353433323938/__2025-10-01__100703.png"
+],
+        {
     "dealId": "JPC-MAR-02",
     "title": "Turnkey 4-bed HMO Opportunity",
     "city": "Hull",
