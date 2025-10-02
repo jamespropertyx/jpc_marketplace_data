@@ -1,5 +1,58 @@
 [  
         {
+    "dealId": "JPC-DEV-01",
+    "title": "Turnkey 4-bed HMO Opportunity",
+    "city": "Hull",
+    "address": "Devon Grove, Hull, HU5 1DY",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "Hybrid BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 77500,
+    "reservationFee": 6000,
+    "projectEndValue": "96,255",
+    "belowMarketGDVDiscount": "8.82%",
+    "deposit": "19,375",
+    "yield": "16.8%",
+    "rent": "&pound;1083",
+    "annualRent": "12,996",
+    "refurbCost": "5,000",
+    "listedDate": "2025-10-02",
+    "keyFeatures": [
+        "Gross Annual Rent: &pound;12,996",
+        "Net Income/Capital Invested: 13.8%",
+        "Only furniture required – no refurb needed",
+        "Strong Hybrid BTL in prime student location"
+    ],
+    "description": "This 2-bedroom, 1-bathroom property is located on Devon Grove, HU5, within one of Hull’s most reliable student rental areas. With strong local demand and close proximity to the University of Hull, it represents a ready-to-go investment. The house is in very good condition with no refurb required. By simply furnishing and presenting it well, the property can be marketed as a student let at £125 per room, per week. There is also scope to add an en-suite to one bedroom if desired, providing further rental uplift.",
+    "beds": "2 beds",
+    "baths": "1 bath",
+    "size": "59 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1wSsneoxRiWMJL2ETiMz8Q5u03XECRdDU/view",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Devon-Grove-Hull-HU5-1DY-27fb6c4b01418077a5ecf30b9e8a166a",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Peel-Street-Hull-HU3-1QR-27fb6c4b0141802c907ff3b1d8ec10e3",
+    "epcCertificate": "https://static.tildacdn.com/tild3435-6262-4935-b561-313662313236/__2025-10-02__144632.png",
+    "images": [
+        "https://static.tildacdn.com/tild3363-6630-4964-a638-376561363130/photo_2025-10-02_144.jpeg",
+        "https://static.tildacdn.com/tild3463-3530-4734-b439-303237353738/Bedroom2.png",
+        "https://static.tildacdn.com/tild3334-3437-4433-b362-336338333238/Rear_yard.png",
+        "https://static.tildacdn.com/tild6330-6162-4464-b332-373031303832/Kitchen.png",
+        "https://static.tildacdn.com/tild3731-3262-4064-b531-353464656630/Bathroom.png",
+        "https://static.tildacdn.com/tild3962-6337-4561-b338-663962363938/Bedroom.png",
+        "https://static.tildacdn.com/tild6239-3439-4365-b437-306234656464/Living_room.png"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+        "https://static.tildacdn.com/tild6263-3835-4530-a363-303765383165/__2025-10-02__144615.png"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.5529685891947!2d-0.3489924885883864!3d53.76184264343987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be48ec9ff841%3A0xb544353c7eca351e!2sDevon%20Grove%2C%20Sculcoates%20Ln%2C%20Hull%20HU5%201DY%2C%20UK!5e0!3m2!1sen!2snl!4v1759405735586!5m2!1sen!2snl"
+},
+        {
     "dealId": "JPC-PEE-03",
     "title": "Turnkey 4-bed HMO Opportunity",
     "city": "Hull",
