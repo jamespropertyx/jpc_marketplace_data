@@ -1,4 +1,60 @@
-[  
+[
+        {
+    "dealId": "JPC-KIN-01",
+    "title": "2-bed Hybrid BTL Opportunity",
+    "city": "Hull",
+    "address": "King Street, Abertillery, NP13 1AD",
+    "status": "Avilable",
+    "type": "Terraced",
+    "strategy": "Hybrid BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 115000,
+    "reservationFee": 6000,
+    "projectEndValue": "133,055",
+    "belowMarketGDVDiscount": "11.5%",
+    "deposit": "28,750",
+    "yield": "9.4%",
+    "rent": "&pound;900",
+    "annualRent": "10,800",
+    "refurbCost": "5,000",
+    "listedDate": "2025-10-07",
+    "keyFeatures": [
+        "Gross Annual Rent: &pound;10,800",
+        "Ideal for first-time buyers",
+        "Fully renovated",
+        "High-yield property with long-term value growth potential"
+    ],
+    "description": "This 2-bedroom, 1-bathroom terraced house offers the ideal opportunity for a first-time buyer or investor seeking a fully renovated, ready-to-let property in a quiet and desirable area. Recently refurbished throughout, the property features a modern open-plan kitchen and reception area, a newly fitted bathroom, and a bright, contemporary finish enhanced by a large skylight that fills the space with natural light. Perfect for working professionals or small families, this is a turnkey opportunity requiring minimal additional work beyond furnishing.",
+    "beds": "2 beds",
+    "baths": "1 bath",
+    "size": "45 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1XrMbqGKAJeeG1SqWk_YsoF9pbAbEDgVE/view?usp=sharing",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-King-Street-Abertillery-NP13-1AD-284b6c4b014181d1bcadda6cac2c0998?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-King-Street-Abertillery-NP13-1AD-284b6c4b01418153a084dfd27c0c4b3c?source=copy_link",
+    "epcCertificate": "https://static.tildacdn.com/tild3036-6635-4431-a565-623232376434/__2025-10-07_152306.png",
+    "images": [
+        "https://static.tildacdn.com/tild3964-6564-4835-b033-646165653765/photo_2025-10-07_15-.jpg",
+        "https://static.tildacdn.com/tild3333-3233-4566-b939-663131343762/Kitchen.png",
+        "https://static.tildacdn.com/tild6663-6661-4234-a332-626162346638/Kitchen1.png",
+        "https://static.tildacdn.com/tild3538-6266-4230-b463-616336613433/Reception.png",
+        "https://static.tildacdn.com/tild3737-3362-4839-a134-623636376365/Reception1.png",
+        "https://static.tildacdn.com/tild3331-3739-4465-b230-376334663165/Reception2.png",
+        "https://static.tildacdn.com/tild3436-6466-4232-a332-313833346435/Bathroom.png",
+        "https://static.tildacdn.com/tild3962-3039-4437-b735-336237303462/Bedroom1.png",
+        "https://static.tildacdn.com/tild6639-6135-4038-a164-643564633432/Berdoom1.png",
+        "https://static.tildacdn.com/tild6135-6564-4363-a235-633237633132/Bedroom2.png"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+        "https://static.tildacdn.com/tild6335-6537-4135-b839-633265303438/__2025-10-07_153457.png"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2471.2031793552696!2d-3.1367686!3d51.729319!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486e27527c92c3d9%3A0x3df606db18fedcb!2sKing%20St%2C%20Abertillery%2C%20UK!5e0!3m2!1sen!2sth!4v1759826727538!5m2!1sen!2sth"
+},
         {
     "dealId": "JPC-PRE-01",
     "title": "2-bed Hybrid BTL Opportunity",
