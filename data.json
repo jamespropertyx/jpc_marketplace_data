@@ -1,5 +1,56 @@
 [
         {
+    "dealId": "JPC-WES-01",
+    "title": "2-bed BTL Opportunity",
+    "city": "Hull",
+    "address": "West Park House, Hull, HU3 1QW",
+    "status": "Available",
+    "type": "Apartment",
+    "strategy": "BTL",
+    "tenure": "Leasehold",
+    "purchasePrice": 60000,
+    "reservationFee": 6000,
+    "projectEndValue": "66,000",
+    "belowMarketGDVDiscount": "42.8%",
+    "deposit": "15,000",
+    "yield": "13.0%",
+    "rent": "&pound;650",
+    "annualRent": "7,800",
+    "refurbCost": "20,000",
+    "listedDate": "2025-10-07",
+    "keyFeatures": [
+        "Gross Annual Rent: &pound;7,800",
+        "Ideal for first-time or AirBnB investors",
+        "Secure parking and gated access",
+        "Perfect for converting into a 1-bed apartment with home office"
+    ],
+    "description": "This 1–2 bedroom, 1-bathroom apartment is located within West Park House, close to the city centre and major transport links. The flat offers a great opportunity for first-time investors or AirBnB operators, with the block currently undergoing a wider refurbishment — improving both the kerb appeal and long-term value. Once refurbished internally, it can achieve £150/week on standard rental or up to £100/night on AirBnB, making it a high-yield hybrid BTL opportunity.",
+    "beds": "2 beds",
+    "baths": "1 bath",
+    "size": "58 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1nB4NRy2GhRVDrqsrPmY8hZefLKaPeXWg/view?usp=sharing",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-West-Park-House-Hull-HU3-1QW-27fb6c4b014180a59837c1a12cf34ea9?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-West-Park-House-Hull-HU3-1QW-27fb6c4b0141801389a3e80ae21e18d4?source=copy_link",
+    "epcCertificate": "https://static.tildacdn.com/tild3231-3735-4762-a262-306661393065/__2025-10-07_213102.png",
+    "images": [
+        "https://static.tildacdn.com/tild3636-6336-4437-b362-373262366665/photo_2025-10-07_21-.jpg",
+        "https://static.tildacdn.com/tild3335-3163-4264-a134-333631333837/Bathroom.png",
+        "https://static.tildacdn.com/tild3764-6536-4238-b935-623737396166/Bedroom.png",
+        "https://static.tildacdn.com/tild6431-3536-4139-a665-616232613239/Kitchen.png",
+        "https://static.tildacdn.com/tild6532-6134-4636-b739-313431383161/Living_room.png"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+        "https://static.tildacdn.com/tild3234-3137-4532-b266-356231313565/__2025-10-07_214059.png"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2359.1797437398686!2d-0.35797452372663346!3d53.7506824443937!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be3317339d33%3A0x3d1898c4a2789cb2!2sWest%20Park%20House%2C%20152-154%20Spring%20Bank%2C%20Hull%20HU3%201QW%2C%20UK!5e0!3m2!1sen!2sth!4v1759848218340!5m2!1sen!2sth"
+},
+        {
     "dealId": "JPC-KIN-01",
     "title": "2-bed Hybrid BTL Opportunity",
     "city": "Hull",
