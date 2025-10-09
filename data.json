@@ -2220,7 +2220,7 @@
       "type": "Terraced", 
       "strategy": "BTL",
       "tenure": "Freehold",
-      "purchasePrice": 96000, 
+      "purchasePrice": 90000, 
       "reservationFee": 6000, 
       "projectEndValue": "111,264", 
       "belowMarketGDVDiscount": "45.1%", 
