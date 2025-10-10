@@ -1,5 +1,58 @@
 [
         {
+    "dealId": "JPC-EXM-01",
+    "title": "Student 2-bed Hybrid BTL",
+    "city": "Hull",
+    "address": "Edgecumbe Street, Hull, HU5 2EU",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "Hybrid BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 78000,
+    "reservationFee": 6000,
+    "projectEndValue": "87,906",
+    "belowMarketGDVDiscount": "22%",
+    "deposit": "58,500",
+    "yield": "16%",
+    "rent": "&pound;1,040",
+    "annualRent": "12,480",
+    "refurbCost": "35,000",
+    "listedDate": "2025-10-10",
+    "keyFeatures": [
+        "Gross Annual Rent: &pound;12,480",
+        "Strong tenant demand",
+        "Potential to reconfigure into 3-bed, 2-bath HMO",
+        "Excellent yield uplift opportunity through refurbishment"
+    ],
+    "description": "This 2-bedroom, 1-bathroom on Edgecombe Street, HU5 presents a fantastic refurbishment and uplift opportunity. Located in a prime student and professional rental area just off Newland Avenue, the property offers excellent potential to be reconfigured into a 3-bed, 2-bath layout, significantly enhancing rental yield and long-term value. Once refurbished, it can achieve &pound;120–&pound;130 per room per week, offering strong returns and appeal for both investors and tenants.",
+    "beds": "2 beds",
+    "baths": "1 bath",
+    "size": "64 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1yZUWd-TDhR8g6kcg03FhQl306ItrF0HZ/view?usp=sharing",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Edgecumbe-Street-Hull-HU5-2EU-288b6c4b0141809eb70bcac551dabf85?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Edgecumbe-Street-Hull-HU5-2EU-288b6c4b01418000a316f4d46f81fa16?source=copy_link",
+    "epcCertificate": "https://static.tildacdn.com/tild6134-3365-4232-b862-666432356131/__2025-10-10_175935.png",
+    "images": [
+        "https://static.tildacdn.com/tild3739-3839-4030-b861-383962313839/photo_2025-10-10_18-.jpg",
+        "https://static.tildacdn.com/tild3662-6239-4531-b866-643366343339/Bathroom1.png",
+        "https://static.tildacdn.com/tild6533-6633-4738-b262-666336646361/Bathroom2.png",
+        "https://static.tildacdn.com/tild6237-6532-4266-a336-353266316132/Bedroom1.png",
+        "https://static.tildacdn.com/tild3066-3230-4731-a561-343337373833/Bedroom2.png",
+        "https://static.tildacdn.com/tild3530-3465-4632-b731-383735653462/Garden.png",
+        "https://static.tildacdn.com/tild3866-6238-4131-b564-313761366239/Kitchen.png",
+        "https://static.tildacdn.com/tild3662-3965-4635-b965-616135396461/Living_room1.png",
+        "https://static.tildacdn.com/tild3736-6235-4265-a239-333362303539/Living_room.png"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.4390912478975!2d-0.36345922284684934!3d53.76387014340084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfb382451763%3A0x5bd6fd99d67bf7bf!2sEdgecumbe%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sth!4v1760094380928!5m2!1sen!2sth"
+},
+        {
     "dealId": "JPC-LEO-01",
     "title": "Turnkey 2 self-contained flats",
     "city": "Hull",
