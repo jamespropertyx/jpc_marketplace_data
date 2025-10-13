@@ -66,7 +66,7 @@
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.427475874588!2d-0.35117022284684773!3d53.76407694338533!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be4ed70e0081%3A0xfcc4df7680acbc54!2sRyde%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sth!4v1760369291294!5m2!1sen!2sth"
 },
         {
-    "dealId": "JPC-EXM-01",
+    "dealId": "JPC-EDG-01",
     "title": "Student 2-bed Hybrid BTL",
     "city": "Hull",
     "address": "Edgecumbe Street, Hull, HU5 2EU",
@@ -76,16 +76,16 @@
     "tenure": "Freehold",
     "purchasePrice": 78000,
     "reservationFee": 6000,
-    "projectEndValue": "87,906",
+    "projectEndValue": "135,000",
     "belowMarketGDVDiscount": "22%",
     "deposit": "19,500",
     "yield": "16%",
-    "rent": "&pound;1,040",
-    "annualRent": "12,480",
+    "rent": "&pound;1,213",
+    "annualRent": "14,560",
     "refurbCost": "35,000",
     "listedDate": "2025-10-10",
     "keyFeatures": [
-        "Gross Annual Rent: &pound;12,480",
+        "Gross Annual Rent: &pound;14,560",
         "Strong tenant demand",
         "Potential to reconfigure into 3-bed, 2-bath HMO",
         "Excellent yield uplift opportunity through refurbishment"
