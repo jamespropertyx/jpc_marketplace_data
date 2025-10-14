@@ -1,4 +1,57 @@
 [
+	 {
+    "dealId": "JPC-WIN-01",
+    "title": "Student 2-bed Hybrid BTL",
+    "city": "Hull",
+    "address": "Winslade Crescent, Hull, HU5 3NX",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "Hybrid BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 82500,
+    "reservationFee": 6000,
+    "projectEndValue": "97,845",
+    "belowMarketGDVDiscount": "25%",
+    "deposit": "20,625",
+    "yield": "13.9%",
+    "rent": "&pound;953",
+    "annualRent": "11,436",
+    "refurbCost": "8,000",
+    "listedDate": "2025-10-14",
+    "keyFeatures": [
+        "Gross Annual Rent: &pound;11,436",
+        "High-yield opportunity with strong rent performance",
+        "Option to refurbish later for higher income or capital uplift",
+        "A solid, low-entry investment"
+    ],
+    "description": "This 2-bedroom, 1-bathroom property is a well-presented Hybrid BTL located just off Newland Avenue - one of Hull's strongest rental areas for both students and working professionals. The house is in good condition, requiring some basic works, with an option to later refurbish for higher yields. It's a quiet residential street within easy access to amenities, transport links, and the University of Hull.",
+    "beds": "2 beds",
+    "baths": "1 bath",
+    "size": "63 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1wCAdOQ_Kwq5F2OQ6WPVyppbPvgUP3PWv/view?usp=sharing",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Winslade-Crescent-Hull-HU5-3NX-288b6c4b0141800e9d10d339252a8d75?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Winslade-Crescent-Hull-HU5-3NX-288b6c4b014180a8bac6e80916bca48f?source=copy_link",
+    "epcCertificate": "https://static.tildacdn.com/tild3862-3934-4666-b039-633138303237/__2025-10-14_212704.png",
+    "images": [
+        "https://static.tildacdn.com/tild3363-3163-4835-b938-643565343037/photo_2025-10-14_21-.jpg",
+        "https://static.tildacdn.com/tild6337-3834-4930-a564-353339323863/winslade1.jpeg",
+        "https://static.tildacdn.com/tild6562-3038-4262-b862-313936306637/winslade2.jpeg",
+        "https://static.tildacdn.com/tild3832-6439-4535-b331-333362383637/winslade3.jpeg",
+        "https://static.tildacdn.com/tild6637-3866-4266-a332-656439383531/winslade4.jpeg",
+	"https://static.tildacdn.com/tild3931-3261-4861-a163-303166343862/winslade5.jpeg",
+        "https://static.tildacdn.com/tild3765-3330-4232-a230-386137343663/winslade6.jpeg",
+        "https://static.tildacdn.com/tild3836-6330-4135-b433-643437653337/winslade7.jpeg",
+        "https://static.tildacdn.com/tild3837-3833-4130-a232-613461326438/winslade8.jpeg"	
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2359.020146456451!2d-0.37463615841641923!3d53.75352434429372!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfc66c48a5a5%3A0xd6834ab217628db5!2sWinslade%20Crescent%2C%20Perth%20St%2C%20Hull%20HU5%203NX%2C%20UK!5e0!3m2!1sen!2sth!4v1760453093477!5m2!1sen!2sth"
+},
          {
     "dealId": "JPC-BEV-03",
     "title": "Turnkey Block of 5 Apartments",
