@@ -1,5 +1,58 @@
 [
 	 {
+    "dealId": "JPC-BEL-01",
+    "title": "2-bed Hybrid BTL Opportunity",
+    "city": "Hull",
+    "address": "Belvoir Street, Hull, HU5 3LS",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "Hybrid BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 100000,
+    "reservationFee": 6000,
+    "projectEndValue": "123,200",
+    "belowMarketGDVDiscount": "14.5%",
+    "deposit": "25,000",
+    "yield": "13.5%",
+    "rent": "&pound;1,127",
+    "annualRent": "13,524",
+    "refurbCost": "3,000",
+    "listedDate": "2025-10-15",
+    "keyFeatures": [
+        "Gross Annual Rent: &pound;13,524",
+        "High tenant demand from students & professionals",
+        "Very good condition – only furniture required",
+        "Potential to convert living room into 3rd bedroom for higher yield"
+    ],
+    "description": "This 2-bedroom, 1-bathroom property is located in a highly desirable pocket of HU5 - within walking distance of Newland Avenue, the University of Hull, and the Hull Royal Infirmary. The location attracts a consistent mix of students, young professionals, and hospital staff. The house is presented in good condition throughout and requires minimal work to be rent-ready. With furniture added, it offers strong Hybrid BTL returns and future potential to convert the living room into a third bedroom if desired.",
+    "beds": "2 beds",
+    "baths": "1 bath",
+    "size": "67 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1Ec-HDZ14DRYC43pO5sPgq3KVz20EcM9c/view?usp=sharing",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Belvoir-Street-Hull-HU5-3LS-28db6c4b01418052bf87d01d544efa84?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Belvoir-Street-Hull-HU5-3LS-28db6c4b01418090a385f2081baf9ca5?source=copy_link",
+    "epcCertificate": "https://static.tildacdn.com/tild3134-3135-4435-a566-396661373331/__2025-10-15_213414.png",
+    "images": [
+        "https://static.tildacdn.com/tild3537-6336-4962-b462-383264333163/photo_2025-10-15_21-.jpg",
+        "https://static.tildacdn.com/tild3064-3039-4561-a362-346239663465/Living_room2.png",
+        "https://static.tildacdn.com/tild3632-6535-4761-a633-613665363364/living_room.png",
+        "https://static.tildacdn.com/tild6266-3539-4531-a437-346230313831/bathroom1.png",
+        "https://static.tildacdn.com/tild6331-6430-4364-a565-616134383339/bedroom1.png",
+		"https://static.tildacdn.com/tild6331-3839-4965-b834-613262343331/bedroom2.png",
+        "https://static.tildacdn.com/tild3536-3234-4636-a466-323436653639/kitchen1.png",
+        "https://static.tildacdn.com/tild3131-3362-4161-b736-376435636132/kitchen.png",
+        "https://static.tildacdn.com/tild3262-6666-4066-b430-643661646232/living_room1.png"	
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.9943522486055!2d-0.3671847228472993!3d53.753983644144434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfc9606940a3%3A0x86412c8b339399c4!2sBelvoir%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sth!4v1760539494854!5m2!1sen!2sth"
+},
+	 {
     "dealId": "JPC-WIN-01",
     "title": "Student 2-bed Hybrid BTL",
     "city": "Hull",
