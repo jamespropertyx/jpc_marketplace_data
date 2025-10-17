@@ -1,4 +1,53 @@
 [
+{
+    "dealId": "JPC-GRA-02",
+    "title": "Turnkey 4-bed HMO Opportunity",
+    "city": "Hull",
+    "address": "Grafton Street, Hull, HU5 2NP",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "HMO Opportunity",
+    "tenure": "Freehold",
+    "purchasePrice": 132500,
+    "reservationFee": 6000,
+    "projectEndValue": "183,645",
+    "belowMarketGDVDiscount": "39.7%",
+    "deposit": "33,125",
+    "yield": "18.8%",
+    "rent": "&pound;2,080",
+    "annualRent": "24,960",
+    "refurbCost": "0",
+    "listedDate": "2025-10-17",
+    "keyFeatures": [
+        "Gross Annual Rent: &pound;24,960",
+        "Potential to create 2x en-suites",
+        "Proven demand from professionals & students",
+        "House at Auction"
+    ],
+    "description": "This 4-bedroom, 1-bathroom fully tenanted terraced house is located in the heart of HU5 - one of Hull's strongest rental areas for working professionals and students.The property has been occupied by the same tenants for a number of years, generating a reliable income with minimal management needs.While the property is slightly dated, it remains fully compliant and functional, with clear scope to uplift rent and capital value through light refurbishment or conversion of some rooms to en-suites.",
+    "beds": "4 beds",
+    "baths": "1 bath",
+    "size": "98 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1jKRMXwYekRdGAzIkwOt6auSNvD70-GyH/view?usp=drive_link",
+    "propertyAppraisal": "https://www.notion.so/PROPERTY-APPRAISAL-Grafton-Street-Hull-HU5-2NP-28fb6c4b014180bdbd38e728f361543b?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Grafton-Street-Hull-HU5-2NP-28fb6c4b014180019835c75c255940bc?source=copy_link",
+    "epcCertificate": "https://static.tildacdn.com/tild3862-6564-4639-b232-663132396530/Screenshot_2025-10-1.png",
+    "images": [
+        "https://static.tildacdn.com/tild3330-3030-4366-a365-623864396166/Screenshot_2025-10-1.png",
+        "https://static.tildacdn.com/tild3033-6138-4631-a633-336235363136/Kitchen.png",
+        "https://static.tildacdn.com/tild6133-6663-4261-b163-303030316664/Living_room.png",
+        "https://static.tildacdn.com/tild6365-3231-4438-b264-326361393939/Bedroom.png",
+        "https://static.tildacdn.com/tild6463-3833-4637-a439-623762623637/Bathroom.png"     
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan":["https://static.tildacdn.com/tild3131-3962-4236-a566-633434666365/Screenshot_2025-10-1.png"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.4317309387593!2d-0.35758502084677607!3d53.76400118633097!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be4c9080436d%3A0xc574f8cf94ed7d3!2sGrafton%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sru!4v1760710826099!5m2!1sen!2sru"
+},
 	 {
     "dealId": "JPC-BEL-01",
     "title": "2-bed Hybrid BTL Opportunity",
