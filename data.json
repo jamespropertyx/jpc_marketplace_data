@@ -1,4 +1,57 @@
-[     {
+[   {
+    "dealId": "JPC-SUF-01",
+    "title": "4-bed HMO Opportunity",
+    "city": "Hull",
+    "address": "Suffolk Street, Hull, HU5 1PJ",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "HMO",
+    "tenure": "Freehold",
+    "purchasePrice": 125000,
+    "reservationFee": 6000,
+    "projectEndValue": "166,875",
+    "belowMarketGDVDiscount": "37,5%",
+    "deposit": "31,250",
+    "yield": "16,64%",
+    "rent": "&pound;1,733",
+    "annualRent": "20,796",
+    "refurbCost": "0",
+    "listedDate": "2025-10-21",
+    "keyFeatures": [
+        "Gross Annual Rent: &pound;20,796",
+        "High tenant demand from students & professionals",
+        "Potential to create en-suites",
+        "Walking distance to University & Beverley Road amenities"
+    ],
+    "description": "This 4-bedroom, 1-bathroom property is located in a strong student and working professional area just off Beverley Road, within walking distance of the University of Hull and the city centre. The property is partially rented and generating income but is below compliance standards and requires significant refurbishment to reach its full potential. With a complete upgrade, there’s an opportunity to add en-suites, increase rental income, and improve long-term capital value.",
+    "beds": "4 beds",
+    "baths": "1 bath",
+    "size": "111 sq m",
+    "dealAnalysis": "https://docs.google.com/spreadsheets/d/1Uv9Uujk2PXRSN12tCTMgvdS4C_2bsbBc/edit?usp=sharing&ouid=118087566634979737703&rtpof=true&sd=true",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Suffolk-Street-Hull-HU5-1PJ-27fb6c4b014180f4b222c6a0f36986db?source=copy_link",
+    "epcCertificate": "https://static.tildacdn.com/tild3663-3735-4138-a135-393635326631/Screenshot_2025-10-2.png",
+    "images": [
+        "https://static.tildacdn.com/tild3863-3930-4166-b931-653739616264/Screenshot_2025-10-2.png",
+		"https://static.tildacdn.com/tild3966-3162-4831-b465-373236653936/Screenshot_2025-10-1.png",
+        "https://static.tildacdn.com/tild3333-3435-4332-b432-643036323565/Screenshot_2025-10-1.png",
+        "https://static.tildacdn.com/tild3733-6633-4563-a133-643763666135/Screenshot_2025-10-1.png",
+        "https://static.tildacdn.com/tild6464-6665-4535-b966-383766623439/Screenshot_2025-10-1.png",
+        "https://static.tildacdn.com/tild3438-3964-4564-a663-323365636463/Screenshot_2025-10-1.png",
+		"https://static.tildacdn.com/tild3034-3534-4561-b936-383762356138/Screenshot_2025-10-1.png",
+        "https://static.tildacdn.com/tild3066-6562-4462-a135-656663646530/Screenshot_2025-10-1.png",
+        "https://static.tildacdn.com/tild6362-6137-4537-b963-616134313339/Screenshot_2025-10-1.png",
+        "https://static.tildacdn.com/tild3334-3334-4932-b461-333161643233/Screenshot_2025-10-1.png"	
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": ["https://static.tildacdn.com/tild3036-6435-4234-a639-333065306562/Screenshot_2025-10-1.png"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d301888.5496390802!2d-0.40020554567210653!3d53.76270926314786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be4ea1c4c493%3A0xf789da7df8459664!2sSuffolk%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sru!4v1761056890718!5m2!1sen!2sru"
+},  
+	{
     "dealId": "JPC-PRP-01",
     "title": "Turnkey 4-bed Block of Apartments",
     "city": "Hull",
