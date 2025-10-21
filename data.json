@@ -16,7 +16,7 @@
     "yield": "11.9%",
     "rent": "&pound;1,040",
     "annualRent": "12,480",
-    "refurbCost": "35000",
+    "refurbCost": "35,000",
     "listedDate": "2025-10-22",
     "keyFeatures": [
         "Gross Annual Rent: &pound;12,480",
@@ -25,6 +25,7 @@
         "Good opportunity for first time buyers"
     ],
     "description": "This 2-bedroom, 1-bathroom terraced property is located in one of Hull's strongest student and professional rental zones - just a 10-minute walk to the University of Hull and 5 minutes from the amenities of Newland Avenue.",
+	"beds": "2 beds",
     "baths": "1 bath",
     "size": "84 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1VylX-rgKBq6A-qzBeXS5qyISoo99K_OL/view?usp=sharing",
