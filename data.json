@@ -1,5 +1,4 @@
-[
-     {
+[     {
     "dealId": "JPC-PRP-01",
     "title": "Turnkey 4-bed Block of Apartments",
     "city": "Hull",
@@ -41,18 +40,18 @@
         "https://static.tildacdn.com/tild6161-3565-4535-b262-386532343337/Bedroom1.png",
 		"https://static.tildacdn.com/tild3861-3462-4539-b034-613937336634/Bedroom2.png",
         "https://static.tildacdn.com/tild3165-6237-4135-b833-316237623336/Bedroom3.png",
-        "https://static.tildacdn.com/tild3132-6134-4639-b062-636437633230/Kitchen1_1.png", 	
-		"https://static.tildacdn.com/tild3430-6263-4233-a561-316339633233/Kitchen2.png",         
-		"https://static.tildacdn.com/tild3436-3963-4338-b461-343632393035/Kitchen3_1.png",         
-		"https://static.tildacdn.com/tild3265-3431-4432-a435-386537343034/Kitchen3.png",         
-		"https://static.tildacdn.com/tild6361-3463-4361-b237-663537623361/Kitchen4_1.png",         
-		«https://static.tildacdn.com/tild3964-6366-4665-b631-353938393939/Kitchen4.png",         
-		«https://static.tildacdn.com/tild3931-6562-4165-b930-396237656165/Living_room1_1.png",         
-		«https://static.tildacdn.com/tild3761-3936-4265-a638-653534633134/Living_room1.png",         
-		«https://static.tildacdn.com/tild3138-3335-4431-b236-346238303735/Living_room2.png",        
-		«https://static.tildacdn.com/tild3431-6234-4533-a364-386364333534/Living_room3_1.png",         
-		«https://static.tildacdn.com/tild6139-3564-4163-a239-366461646339/Living_room3.png",         
-		«https://static.tildacdn.com/tild3961-3834-4261-b462-336338643434/Living_room4.png",
+        "https://static.tildacdn.com/tild3132-6134-4639-b062-636437633230/Kitchen1_1.png",
+        "https://static.tildacdn.com/tild3430-6263-4233-a561-316339633233/Kitchen2.png",
+        "https://static.tildacdn.com/tild3436-3963-4338-b461-343632393035/Kitchen3_1.png",
+        "https://static.tildacdn.com/tild3265-3431-4432-a435-386537343034/Kitchen3.png",
+        "https://static.tildacdn.com/tild6361-3463-4361-b237-663537623361/Kitchen4_1.png",
+        "https://static.tildacdn.com/tild3964-6366-4665-b631-353938393939/Kitchen4.png",
+        "https://static.tildacdn.com/tild3931-6562-4165-b930-396237656165/Living_room1_1.png",
+        "https://static.tildacdn.com/tild3761-3936-4265-a638-653534633134/Living_room1.png",
+        "https://static.tildacdn.com/tild3138-3335-4431-b236-346238303735/Living_room2.png",
+        "https://static.tildacdn.com/tild3431-6234-4533-a364-386364333534/Living_room3_1.png",
+        "https://static.tildacdn.com/tild6139-3564-4163-a239-366461646339/Living_room3.png",
+        "https://static.tildacdn.com/tild3961-3834-4261-b462-336338643434/Living_room4.png",
         "https://static.tildacdn.com/tild3930-3336-4734-b162-356234346133/Kitchen1.png"	
     ],
     "marketInsightsImages": [
@@ -63,6 +62,57 @@
     ],
     "floorplan": ["https://static.tildacdn.com/tild3637-3862-4266-b239-356138393138/__2025-10-21__184120.png"],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4717.40111935186!2d-0.361189601394292!3d53.7592148174893!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be4a86349b4f%3A0x77268cb383532c2f!2sPearson%20Park!5e0!3m2!1sen!2sid!4v1761044557265!5m2!1sen!2sid"
+},
+	   {
+    "dealId": "JPC-WOR-01",
+    "title": "Turnkey 2-Bed Hybrid BTL ",
+    "city": "Hull",
+    "address": "Worthing Street, Hull, HU5 1PP",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "Hybrid BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 87500,
+    "reservationFee": 6000,
+    "projectEndValue": "109,112",
+    "belowMarketGDVDiscount": "24%",
+    "deposit": "21,875",
+    "yield": "14.3%",
+    "rent": "&pound;1,040",
+    "annualRent": "12,480",
+    "refurbCost": "0",
+    "listedDate": "2025-10-20",
+    "keyFeatures": [
+        "Gross Annual Rent: &pound;12,480",
+        "High tenant demand from students & professionals",
+        "Potential to create 2x en-suites",
+		"Good opportunity for first time buyers"
+    ],
+    "description": "This 2-bedroom, 1-bathroom property is located in one of Hull's most desirable rental pockets, just off Newland Avenue and within easy reach of the University of Hull. A turnkey Hybrid BTL opportunity, this house offers immediate lettability with the option to add value through reconfiguration - converting the upper floor into two en-suite bedrooms, enhancing both rent and resale potential. The property's current layout already provides a modern apartment-style feel, ideal for students or young professionals looking for high-quality accommodation near the city's key amenities.",
+    "beds": "2 beds",
+    "baths": "1 bath",
+    "size": "61 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1vhMcHppzIDo2GXPXjfDEJFJHQbDByfGd/view?usp=sharing",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Worthing-Street-Hull-HU5-1PP-292b6c4b0141803f9148d481c87bff5c?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Worthing-Street-Hull-HU5-1PP-292b6c4b014180e9a696c6a24e807046?source=copy_link",
+    "epcCertificate": "https://static.tildacdn.com/tild6162-3938-4534-b338-306538636336/Screenshot_2025-10-2.png",
+    "images": [
+        "https://static.tildacdn.com/tild3165-3064-4966-b666-363165633038/Screenshot_2025-10-2.png",
+        "https://static.tildacdn.com/tild6536-6564-4130-b739-623539636364/Living_room_1.png",
+        "https://static.tildacdn.com/tild6438-3332-4262-b432-336430333738/Kitchen_1.png",
+        "https://static.tildacdn.com/tild6663-3733-4531-b963-633132373730/Bathroom_1.png",
+        "https://static.tildacdn.com/tild6131-3536-4639-b336-396665623837/Bedroom_1.png"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+        "https://static.tildacdn.com/tild3963-6234-4537-b565-643663363730/Screenshot_2025-10-2.png"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.305145862894!2d-0.35218762345833354!3d53.76625487241405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be4e8a62c0b3%3A0xb7527f94baca9c56!2sWorthing%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sru!4v1760969578758!5m2!1sen!2sru"
 },
 	   {
     "dealId": "JPC-WOR-01",
