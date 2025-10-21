@@ -1,5 +1,4 @@
 [
-	
 	  {
     "dealId": "JPC-PRP-01",
     "title": "Turnkey 4-bed Block of Apartments",
@@ -51,9 +50,7 @@
         "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
         "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
     ],
-    "floorplan": [
-		"https://static.tildacdn.com/tild3637-3862-4266-b239-356138393138/__2025-10-21__184120.png"
-	],
+    "floorplan": ["https://static.tildacdn.com/tild3637-3862-4266-b239-356138393138/__2025-10-21__184120.png"],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4717.40111935186!2d-0.361189601394292!3d53.7592148174893!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be4a86349b4f%3A0x77268cb383532c2f!2sPearson%20Park!5e0!3m2!1sen!2sid!4v1761044557265!5m2!1sen!2sid"
 },
 	   {
