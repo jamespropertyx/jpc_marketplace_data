@@ -1,5 +1,59 @@
 [   
-	
+	{
+    "dealId": "JPC-HAR-01",
+    "title": "2-bed Hybrid BTL Opportunity",
+    "city": "Hull",
+    "address": "Hardy Street, Hull, HU5 2PJ",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "Hybrid BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 105000,
+    "reservationFee": 6000,
+    "projectEndValue": "117,390",
+    "belowMarketGDVDiscount": "22.2%",
+    "deposit": "26,250",
+    "yield": "11.9%",
+    "rent": "&pound;1,040",
+    "annualRent": "12,480",
+    "refurbCost": "35000",
+    "listedDate": "2025-10-22",
+    "keyFeatures": [
+        "Gross Annual Rent: &pound;12,480",
+        "10 mins to University of Hull",
+        "Minimal capital input required",
+        "Good opportunity for first time buyers"
+    ],
+    "description": "This 2-bedroom, 1-bathroom terraced property is located in one of Hull's strongest student and professional rental zones - just a 10-minute walk to the University of Hull and 5 minutes from the amenities of Newland Avenue.",
+    "baths": "1 bath",
+    "size": "84 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1VylX-rgKBq6A-qzBeXS5qyISoo99K_OL/view?usp=sharing",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Hardy-Street-Hull-HU5-2PJ-27fb6c4b014180b0b647ec7dc6c11265",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Hardy-Street-Hull-HU5-2PJ-27fb6c4b01418025b8d5e0bd56a89e63",
+    "epcCertificate": "https://static.tildacdn.com/tild6131-3266-4237-b761-343362353366/Screenshot_2025-10-2.png",
+    "images": [
+        "https://static.tildacdn.com/tild6363-3539-4938-b435-653530653562/54_Hardy_Street_Hull.png",
+        "https://static.tildacdn.com/tild6439-6438-4966-b334-393030613865/hardy_bathroom.jpeg",
+        "https://static.tildacdn.com/tild3034-6164-4862-b765-616136646334/hardy_bedroom.jpeg",
+        "https://static.tildacdn.com/tild3066-3437-4361-a238-323830353034/hardy_bedroom2.jpeg",
+        "https://static.tildacdn.com/tild3538-3530-4661-b332-646533306532/hardy_kitchen_2.jpeg",
+        "https://static.tildacdn.com/tild6339-3830-4437-b061-623866333336/hardy_kitchen.jpeg",
+        "https://static.tildacdn.com/tild6537-3139-4133-b965-333338396539/hardy_outside.jpeg",
+        "https://static.tildacdn.com/tild6565-3637-4763-a166-623861643263/hardy_st.jpeg",
+        "https://static.tildacdn.com/tild6166-3962-4266-b132-363838303031/hardy_street.jpeg",
+        "https://static.tildacdn.com/tild6462-6433-4161-b434-626664366232/hardy.jpeg"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+        "https://static.tildacdn.com/tild3831-3534-4037-a563-396139363663/Screenshot_2025-10-2.png"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.2740506910195!2d-0.3597983234582568!3d53.76680847241428!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be4d2e585a93%3A0xa90986e27516777!2sHardy%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2snl!4v1761090234738!5m2!1sen!2snl"
+},
 	  {
     "dealId": "JPC-SUF-01",
     "title": "4-bed HMO Opportunity",
