@@ -1,5 +1,63 @@
 [ 
 	{
+    "dealId": "JPC-GOD-02",
+    "title": "Turnkey 2-bed Hybrid BTL Opportunity",
+    "city": "Hull",
+    "address": "Alandale, Goddard Avenue, Hull, HU5 2BJ",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "Hybrid BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 115000,
+    "reservationFee": 6000,
+    "projectEndValue": "138,920",
+    "belowMarketGDVDiscount": "13.5%",
+    "deposit": "28,750",
+    "yield": "10.9%",
+    "rent": "&pound;1,040",
+    "annualRent": "12,480",
+    "refurbCost": "0",
+    "listedDate": "2025-10-22",
+    "keyFeatures": [
+        "Gross Annual Rent: &pound;12,480",
+        "Low-maintenance courtyard garden",
+        "Minimal capital input required",
+        "3-rooms opportunity"
+    ],
+    "description": "This 2-bedroom, 1-bathroom terraced property is situated just off Goddard Avenue in one of Hull's most popular student and professional rental areas. The property is within easy reach of the University of Hull and the vibrant amenities of Newland Avenue, making it a highly attractive investment opportunity. In its current condition, the house is ready to let immediately as a 2-bedroom property, requiring no refurbishment work. Alternatively, there is excellent potential to add a third bedroom and an en-suite, which would significantly increase both the rental income and capital value.",
+ "beds": "2 beds",
+    "baths": "1 bath",
+    "size": "75 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1X1Y6il6sv8_PZQ5ESo_5uND7KM6VLTIx/view?usp=drive_link",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Alandale-Goddard-Avenue-Hull-HU5-2BJ-294b6c4b014180cfa619d4d500002138",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Alandale-Goddard-Avenue-Hull-HU5-2BJ-294b6c4b014180779c65da844cccd793",
+    "epcCertificate": "https://static.tildacdn.com/tild3130-3633-4265-a133-373035373438/Screenshot_2025-10-2.png",
+    "images": [
+        "https://static.tildacdn.com/tild6261-3331-4261-b866-383939323638/WhatsApp_Image_2025-.jpeg",
+        "https://static.tildacdn.com/tild6632-3436-4131-a163-316236646463/Screenshot_2025-10-2.png",
+        "https://static.tildacdn.com/tild6536-3966-4562-a564-613130633536/Screenshot_2025-10-2.png",
+        "https://static.tildacdn.com/tild6232-3737-4063-a534-353862343130/Screenshot_2025-10-2.png",
+        "https://static.tildacdn.com/tild6165-6231-4134-b364-363633336534/Screenshot_2025-10-2.png",
+        "https://static.tildacdn.com/tild6163-3839-4536-a661-323633386462/Screenshot_2025-10-2.png",
+        "https://static.tildacdn.com/tild6566-6362-4361-b238-653964656366/Screenshot_2025-10-2.png",
+        "https://static.tildacdn.com/tild6161-3231-4630-b662-363739396334/Screenshot_2025-10-2.png",
+        "https://static.tildacdn.com/tild6562-3231-4733-b561-346536393331/Screenshot_2025-10-2.png",
+        "https://static.tildacdn.com/tild3834-3833-4131-b963-653335653339/Screenshot_2025-10-2.png",
+  "https://static.tildacdn.com/tild3564-3232-4334-b634-363437643939/Screenshot_2025-10-2.png"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+        "https://static.tildacdn.com/tild3131-3834-4966-b537-616334656663/Screenshot_2025-10-2.png"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.4986656702326!2d-0.36871242345857064!3d53.76280947241307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!"
+
+}, 
+	{
     "dealId": "JPC-PER-01",
     "title": "Turnkey 2 self-contained flats",
     "city": "Hull",
