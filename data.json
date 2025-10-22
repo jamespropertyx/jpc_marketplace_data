@@ -1,4 +1,62 @@
-[   
+[ 
+	{
+    "dealId": "JPC-PER-01",
+    "title": "Turnkey 2 self-contained flats",
+    "city": "Hull",
+    "address": "Perth Street, Hull, HU5 3NZ",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 125000,
+    "reservationFee": 6000,
+    "projectEndValue": "152,000",
+    "belowMarketGDVDiscount": "9%",
+    "deposit": "31,250",
+    "yield": "10.8%",
+    "rent": "&pound;1,127",
+    "annualRent": "13,524",
+    "refurbCost": "0",
+    "listedDate": "2025-10-22",
+    "keyFeatures": [
+        "Gross Annual Rent: &pound;13,524",
+        "Quiet residential street near Princes Avenue",
+        "Minimal capital input required",
+        "Very strong rental demand from professionals"
+    ],
+    "description": "This two-flat freehold property on Perth Street offers a strong turnkey-style investment opportunity in a well-connected, high-demand area of Hull. The location is highly desirable - a quiet residential street just 3 minutes from the busy Princes Avenue area and around 7 minutes by bike to the University of Hull.",
+ "beds": "2 beds",
+    "baths": "2 baths",
+    "size": "73 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1qcAlHmaca2xQbJTKo9uASX7i-5FnNVru/view?usp=drive_link",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Perth-Street-Hull-HU5-3NZ-293b6c4b01418015b971dd0985f83d52",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Perth-Street-Hull-HU5-3NZ-293b6c4b014180488886dff646a3da7a?source=copy_link",
+    "epcCertificate": "https://static.tildacdn.com/tild3032-6139-4137-b163-396637646665/Screenshot_2025-10-2.png",
+    "images": [
+        "https://static.tildacdn.com/tild3363-6436-4863-b562-633636303365/photo_2025-10-22_151.jpeg",
+        "https://static.tildacdn.com/tild3333-6364-4333-b138-653137363639/Screenshot_2025-10-2.png",
+        "https://static.tildacdn.com/tild3461-6334-4661-a630-393434386534/Screenshot_2025-10-2.png",
+        "https://static.tildacdn.com/tild3662-6465-4663-b362-643063366264/Screenshot_2025-10-2.png",
+        "https://static.tildacdn.com/tild6165-6231-4134-b364-363633336534/Screenshot_2025-10-2.png",
+        "https://static.tildacdn.com/tild3961-3966-4233-b635-333031613265/Screenshot_2025-10-2.png",
+        "https://static.tildacdn.com/tild3932-6530-4837-b538-616532633033/Screenshot_2025-10-2.png",
+        "https://static.tildacdn.com/tild6530-6230-4134-b064-336366623062/Screenshot_2025-10-2.png",
+        "https://static.tildacdn.com/tild6265-3363-4539-a539-643236323661/Screenshot_2025-10-2.png",
+        "https://static.tildacdn.com/tild3430-3061-4738-b035-353337333130/Screenshot_2025-10-2.png",
+  "https://static.tildacdn.com/tild6364-3931-4661-b164-663936373034/Screenshot_2025-10-2.png"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+        "https://static.tildacdn.com/tild6633-6436-4634-b866-623037353130/Screenshot_2025-10-2.png"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.999876802579!2d-0.37340662345920833!3d53.753885272410315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfc6bf39eecf%3A0xf6623a335f3f11e5!2sPerth%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2snl!4v1761128005054!5m2!1sen!2snl"
+
+},  
 	{
     "dealId": "JPC-HAR-01",
     "title": "2-bed Hybrid BTL Opportunity",
