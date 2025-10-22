@@ -1,5 +1,63 @@
 [ 
 	{
+    "dealId": "JPC-BOO-01",
+    "title": "6 Bed HMO Conversion Opportunity",
+    "city": "Goole",
+    "address": "Boothferry Road Goole DN14 6AH",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "HMO",
+    "tenure": "Freehold",
+    "purchasePrice": 160000,
+    "reservationFee": 6000,
+    "projectEndValue": "278,080",
+    "belowMarketGDVDiscount": «50.8%",
+    "deposit": "40,000",
+    "yield": "33.2%",
+    "rent": "&pound;4,420",
+    "annualRent": "34,584",
+    "refurbCost": "100,000",
+    "listedDate": "2025-10-22",
+    "keyFeatures": [
+        "Gross Annual Rent: &pound;34,584",
+        "Strong rental demand from professionals",
+        "High uplift potential - GDV around &pound;350,000",
+        "Ideal BRRR project with 10-11% yield post-refurb",
+        "Strong opportunity for conversion into a 6 bed, 6-bath HMO"
+    ],
+    "description": "This 5-bedroom, 1-bathroom mid-terraced property is located on Boothferry Road, within walking distance of Goole town centre and key amenities. The property is currently vacant and presents a strong opportunity for conversion into a 6-bed, 6-bath HMO. Goole continues to benefit from major investment by large employers including Siemens, Amazon, and offshore wind projects, attracting a growing workforce. No planning permission is required for HMO up to 6 beds. Once refurbished to a high standard with en-suites in each room, the property is projected to achieve £170 per room per week, generating approximately £4,420 per month / £53,040 per annum.",
+ "beds": "5 beds",
+    "baths": "1 baths",
+    "size": "215 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1tmrOyagru9cnkJDrqNxFNjncWfhZg7cF/view?usp=sharing",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Boothferry-Road-Goole-DN14-6AH-294b6c4b014180bc852fd096c1ba12d2",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Boothferry-Road-Goole-DN14-6AH-294b6c4b01418057ac00d4741f30a420?source=copy_link",
+    "epcCertificate": "https://static.tildacdn.com/tild6232-3936-4164-b564-366164633834/__2025-10-22__223139.png",
+    "images": [
+        "https://static.tildacdn.com/tild6334-3932-4666-b830-356235383463/WhatsApp_Image_2025-.jpeg",
+        "https://static.tildacdn.com/tild3435-6231-4265-b461-363937336335/__2025-10-22__162703.png",
+        "https://static.tildacdn.com/tild3961-3731-4838-a433-306566613737/__2025-10-22__162652.png",
+        "https://static.tildacdn.com/tild6639-3761-4461-b962-346330623765/__2025-10-22__162643.png",
+        "https://static.tildacdn.com/tild6333-3861-4161-b239-663565616464/__2025-10-22__162636.png",
+        "https://static.tildacdn.com/tild3837-6236-4537-b639-336533393461/__2025-10-22__162630.png",
+        "https://static.tildacdn.com/tild3362-3130-4966-b066-333334646561/__2025-10-22__162543.png",
+        "https://static.tildacdn.com/tild3932-3566-4630-a462-313234663433/__2025-10-22__162528.png",
+        "https://static.tildacdn.com/tild6131-3738-4034-a436-626363313736/__2025-10-22__162422.png",
+        "https://static.tildacdn.com/tild3232-3566-4638-b835-346263306630/__2025-10-22__162603.png",
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+        "https://static.tildacdn.com/tild6361-6565-4865-a531-393563636566/__2025-10-22__162400.png"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2361.711601031051!2d-0.8784485!3d53.705584599999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48791f0ebefb3767%3A0xec43cf89c6d8695!2sBoothferry%20Rd%2C%20Goole%2C%20UK!5e0!3m2!1sen!2sid!4v1761145265385!5m2!1sen!2sid"
+
+},
+	{
     "dealId": "JPC-GOD-02",
     "title": "Turnkey 2-bed Hybrid BTL Opportunity",
     "city": "Hull",
