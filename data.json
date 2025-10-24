@@ -16,12 +16,12 @@
     "yield": "12%",
     "rent": "&pound;450",
     "annualRent": "5,400",
-    "refurbCost": "&pound;0",
+    "refurbCost": "0",
     "listedDate": "2025-10-24",
     "keyFeatures": [
         "Fully tenanted - same tenant in place for years",
         "Central Goole location - near train station, town centre & motorway links",
-        "Option to refurbish (£20k–£25k) to raise rent to £130/week (~£565/month)",
+        "Option to refurbish to raise rent",
         "Ideal low-entry BTL or hands-off investment"
     ],
     "description": "This 1-bedroom, 1-bathroom flat is located in the centre of Goole, within walking distance to the train station, town centre, and major local employers. The property is currently fully tenanted, with a long-term tenant in place who has occupied the flat for several years. It offers a ready-made, turnkey investment for a buy-to-let investor, or alternatively, the potential for a full refurbishment to reposition it as a high-quality rental appealing to professionals working in the area.",
@@ -29,6 +29,7 @@
     "baths": "1 bath",
     "size": "41 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/18ZtS2URZe0UFFJNzTraRUVnNrIDUjWeL/view?usp=sharing",
+	"propertyAppraisal": "https://www.notion.so/Property-Appraisal-Derwent-Grove-Princes-Road-Hull-HU5-2SF-293b6c4b014180aca7b2cadb0670de44?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Aire-Street-Goole-DN14-5QE-295b6c4b01418013a2bfe94b64911c1e?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild6630-6432-4138-b138-636165383262/Energy_cert.png",
     "images": [
