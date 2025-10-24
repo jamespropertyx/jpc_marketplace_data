@@ -113,7 +113,7 @@
     "address": "Aire Street, Goole, DN14 5QE",
     "status": "Available",
     "type": "Apartment",
-    "strategy": "Turnkey BTL",
+    "strategy": "BTL",
     "tenure": "Leasehold",
     "purchasePrice": 45000,
     "reservationFee": 6000,
