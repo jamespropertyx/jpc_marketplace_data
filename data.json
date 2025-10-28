@@ -1,4 +1,58 @@
 [
+ {
+    "dealId": "JPC-SID-03",
+    "title": "Turnkey Student 4-bed HMO",
+    "city": "Hull",
+    "address": "Sidmouth Street, Hull, HU5 2LB",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "HMO Opportunity",
+    "tenure": "Freehold",
+    "purchasePrice": 135000,
+    "reservationFee": 6000,
+    "projectEndValue": "144,760",
+    "belowMarketGDVDiscount": "18%",
+    "deposit": "27,500",
+    "yield": "16.3%",
+    "rent": "&pound;1,495",
+    "annualRent": "33,750",
+    "refurbCost": "0",
+    "listedDate": "2025-10-28",
+    "keyFeatures": [
+        "Gross Annual Rent: &pound;18,924",
+        "Long-term investment with stable occupancy",
+        "Fully licensed & compliant",
+        "Prime Avenues location near Newland Avenue"
+    ],
+    "description": "This is a licensed 4-bedroom, 1-bathroom HMO located in the heart of Hull’s popular HU5 Avenues district, an established rental hotspot for both students and working professionals.
+
+The property is presented in very good overall condition, with a recent roof, updated kitchen and bathroom, and no immediate maintenance required. It is fully licensed, currently let, providing a solid turnkey investment with minimal input needed from the buyer.",
+ "beds": "4 beds",
+    "baths": "1 bath",
+    "size": "86 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1hDTtN784wflC8NNiNDcTVoTbkkPDgtL6/view?usp=drive_link",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Sidmouth-Street-Hull-HU5-2LB-295b6c4b014180d6b219c794530a6911",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Sidmouth-Street-Hull-HU5-2LB-295b6c4b01418087ba65c081d4573d75?source=copy_link",
+    "epcCertificate": "https://static.tildacdn.com/tild6338-3536-4636-b537-353434643563/Screenshot_2025-10-2.png",
+    "images": [
+        "https://static.tildacdn.com/tild6164-3130-4365-b432-306334653930/Screenshot_2025-10-2.png&quot;,
+        "https://static.tildacdn.com/tild3830-3835-4332-b738-626532386330/Bathroom_1.png",
+        "https://static.tildacdn.com/tild3161-3863-4265-b464-643666316431/Bedroom1_1.png,
+        "https://static.tildacdn.com/tild3730-6166-4737-b738-303337356665/Bedroom2_1.png",
+        "https://static.tildacdn.com/tild6162-6635-4530-b762-353639323139/Bedroom3_1.png",
+        "https://static.tildacdn.com/tild6564-3234-4964-b931-373463343166/Bedroom4_2.png",
+        "https://static.tildacdn.com/tild3938-6533-4162-b165-653031633735/Bedrooom5.png",
+        "https://static.tildacdn.com/tild3234-6230-4236-b233-323633363262/LIvingroom.png",
+        "https://static.tildacdn.com/tild6133-3361-4735-a362-646563363231/Outside.png"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv&quot",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z&quot",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9&quot",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV&quot";
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2486.3034741020388!2d-0.9665064236106653!3d51.45258437180093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48769b3eb1b339e7%3A0x41d3e1a3892e3f04!2sSidmouth%20St%2C%20Reading%2C%20UK!5e0!3m2!1sen!2sru!4v1761661468462!5m2!1sen!2sru&quot"
+},
 	{
     "dealId": "JPC-GRA-04",
     "title": "5-bed HMO Opportunity",
