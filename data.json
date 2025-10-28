@@ -1,4 +1,60 @@
 [
+	{
+    "dealId": "JPC-JOH-01",
+    "title": "2-bed BTL Flat",
+    "city": "Hull",
+    "address": " Queens Road, Hull, HU5 2QG",
+    "status": "Available",
+    "type": "Apartment",
+    "strategy": "BTL",
+    "tenure": "Leasehold",
+    "purchasePrice": 50000,
+    "reservationFee": 6000,
+    "projectEndValue": "54,650",
+    "belowMarketGDVDiscount": "33,3%",
+    "deposit": "103,750",
+    "yield": "13.3%",
+    "rent": "&pound;650",
+    "annualRent": "7,800",
+    "refurbCost": "40,000",
+    "listedDate": "2025-10-24",
+    "keyFeatures": [
+        "Prime HU5 location near Newland Avenue",
+        "Gross Yield: 15,6%",
+        "Ideal for cashflow investors",
+        "Strong rental demand from students & young professionals"
+    ],
+    "description": "This 2-bedroom ground floor flat is located within St Johns Court on Queens Road, one of Hull's most popular residential and professional letting areas. The property is purpose-built, currently tenanted for over 20 years, and includes private off-street parking to the rear. The flat offers a stable income stream under the current tenancy agreement (in place until September 2027) and presents strong potential for a refurbishment-led uplift once the tenancy ends.",
+    "beds": "2 beds",
+    "baths": "1 bath",
+    "size": "42 sq m",
+    "dealAnalysis": "https://docs.google.com/spreadsheets/d/1jcENuyotiq5PgaltNec7Qtdxlb9je_On/edit?usp=sharing&ouid=118087566634979737703&rtpof=true&sd=true",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Queens-Road-Hull-HU5-2QG-276b6c4b014180ed8233e807045e7003?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Queens-Road-Hull-HU5-2QG-276b6c4b014180ef9f2dc351fa5a0a5e?source=copy_link",
+    "epcCertificate": [
+        "https://static.tildacdn.com/tild3132-6232-4162-b066-356633356136/photo_2025-10-28_09-.jpg",
+        "https://static.tildacdn.com/tild3565-3233-4133-b830-613032313465/Screenshot_2025-10-2.png",
+        "https://static.tildacdn.com/tild6161-3765-4337-a638-323237383931/Screenshot_2025-10-2.png"
+    ],
+    "images": [
+        "https://static.tildacdn.com/tild6332-6232-4533-b865-343535353139/photo_2025-10-24_11-.jpg",
+        "https://static.tildacdn.com/tild3464-3139-4566-a236-613865333066/photo_2025-10-24_12-.jpg",
+        "https://static.tildacdn.com/tild6435-3366-4631-a635-623536373139/photo_2025-10-24_12-.jpg",
+        "https://static.tildacdn.com/tild3631-6337-4333-b565-313964636239/photo_2025-10-28_10-.jpg",
+        "https://static.tildacdn.com/tild3033-3263-4638-a635-653534313532/photo_2025-10-24_12-.jpg",
+        "https://static.tildacdn.com/tild6430-3265-4539-a261-663833653435/photo_2025-10-28_10-.jpg"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+        "https://static.tildacdn.com/tild6433-6461-4238-a535-326363376630/photo_2025-10-28_10-.jpg"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d589.6459207010064!2d-0.35309727145022846!3d53.761295791063596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be4bc9a8f575%3A0xb338754b7b0d698e!2s12%20Queens%20Rd%2C%20Hull%20HU5%202QG%2C%20UK!5e0!3m2!1sen!2sru!4v1761636729826!5m2!1sen!2sru"
+}
  {
     "dealId": "JPC-PEA-02",
     "title": "3-Storey Commercial Building",
