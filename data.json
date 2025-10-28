@@ -1,4 +1,62 @@
 [
+	[
+	{
+    "dealId": "JPC-GRA-04",
+    "title": "5-bed HMO Opportunity",
+    "city": "Hull",
+    "address": "Grafton Street, Hull, HU5 2NP",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "HMO",
+    "tenure": "Freehold",
+    "purchasePrice": 85000,
+    "reservationFee": 6000,
+    "projectEndValue": "109,480",
+    "belowMarketGDVDiscount": "38.4%",
+    "deposit": "21,250",
+    "yield": "38.2%",
+    "rent": "&pound;2,708",
+    "annualRent": "32,500",
+    "refurbCost": "80000",
+    "listedDate": "2025-10-28",
+    "keyFeatures": [
+        "Dual-exit potential: convert into a 5-bed HMO or 2x self-contained apartments",
+        "Prime student area",
+        "Excellent capital uplift and yield potential",
+        "Gross Yield 38.2%"
+    ],
+    "description": "This 3-bedroom, 1-bathroom property is located in one of Hull's most reliable student investment areas, just off Beverley Road and within walking distance to the University of Hull. Currently arranged as a large 3-bed house, the property offers exceptional potential for conversion into a 5-bed HMO or alternatively two self-contained apartments (1-bed and 2-bed), both of which are highly viable options given the strong local demand from students and young professionals.",
+	"beds": "3 beds",
+    "baths": "1 bath",
+    "size": "101 sq m",
+    "dealAnalysis": "",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Grafton-Street-Hull-295b6c4b014180b7a385ddb44d1d4cee?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Grafton-Street-Hull-HU5-2NP-295b6c4b014180e5b1c6c90387900107?source=copy_link",
+    "epcCertificate": "https://static.tildacdn.com/tild3062-3431-4630-b366-653964656530/Energy_cert.png",
+    "images": [
+        "https://static.tildacdn.com/tild3962-6364-4162-a136-316266373939/Living_room.png",
+        "https://static.tildacdn.com/tild3437-3436-4635-a439-653264656562/Bedroom_1.png",
+        "https://static.tildacdn.com/tild6164-6535-4166-a362-353565616364/Bedroom_2.png",
+        "https://static.tildacdn.com/tild3539-6439-4730-a635-363561636536/Bedroom_3.png",
+        "https://static.tildacdn.com/tild6533-6563-4137-a661-316338323937/Dining_area.png",
+        "https://static.tildacdn.com/tild3562-3738-4534-a137-313863396364/Dining_area_2.png",
+        "https://static.tildacdn.com/tild3065-6564-4264-b236-613133313563/Kitchen.png",
+        "https://static.tildacdn.com/tild3763-3737-4730-a134-366562303834/Kitchen_2.png",
+        "https://static.tildacdn.com/tild6262-3465-4237-b331-326663373330/Bathroom.png",
+        "https://static.tildacdn.com/tild6465-6361-4133-b061-313338346336/Rear_Yard.png",
+	"https://static.tildacdn.com/tild6632-3237-4063-a337-386634303539/Rear_Yard_2.png"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+        ""
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9433.621489113915!2d-0.3677995272165582!3d53.76447047406756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be4c9080436d%3A0xc574f8cf94ed7d3!2sGrafton%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sgr!4v1761660779128!5m2!1sen!2sgr"
+},
  {
     "dealId": "JPC-ALB-01",
     "title": "Turnkey 3-bed HMO Opportunity",
