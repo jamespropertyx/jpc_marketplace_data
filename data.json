@@ -1,4 +1,52 @@
 [
+ {
+    "dealId": "JPC-PEA-02",
+    "title": "3-Storey Commercial Building",
+    "city": "Hull",
+    "address": "Pearson Park, Hull, HU5 2TD",
+    "status": "Available",
+    "type": "Commercial",
+    "strategy": "HMO Opportunity",
+    "tenure": "Freehold",
+    "purchasePrice": 595000,
+    "reservationFee": 21096,
+    "projectEndValue": "689,010",
+    "belowMarketGDVDiscount": "13%",
+    "deposit": "148,750",
+    "yield": "12.7%",
+    "rent": "&pound;6,300",
+    "annualRent": "75,600",
+    "refurbCost": "150,000",
+    "listedDate": "2025-10-28",
+    "keyFeatures": [
+        "Pearson Park, Hull, HU5 2TD",
+        "Unique investment",
+        "Clear equity margin and long-term value growth"
+    ],
+    "description": "This substantial three-storey period property sits directly on Pearson Park, one of Hull's most prestigious addresses. The building's grandeur, ceiling heights and frontage make it ideal for high-end residential conversion or blue-chip professional lets.",
+ "floors": "3 floors",
+    "size": "246 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1UEauxL0r5ppeQlRPpXdd-Uh2FBwXrr7t/view?usp=drive_link",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Navy-House-Pearson-Park-Hull-HU5-2TD-295b6c4b014180678450ee213e5815d6",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Navy-House-Pearson-Park-Hull-HU5-2TD-295b6c4b014180f9ab4fe98143d225f6",
+    "epcCertificate": "https://static.tildacdn.com/tild3434-6330-4434-b531-356336383139/6.png",
+    "images": [
+        "https://static.tildacdn.com/tild3137-6531-4162-a163-356362366138/photo_2025-10-28_121.jpeg",
+        "https://static.tildacdn.com/tild3539-3066-4435-a239-663530623066/Outside3.png",
+        "https://static.tildacdn.com/tild3735-6337-4466-a662-316536353537/Outside1.png",
+        "https://static.tildacdn.com/tild3164-3538-4231-b061-383465373135/Screenshot_2025-10-2.png&quot",
+        "https://static.tildacdn.com/tild3665-6463-4164-a561-356163383464/photo_2025-10-28_121.jpeg"
+            ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv&quot",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z&quot",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9&quot",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV&quot"
+    ],
+    "floorplan": ["https://static.tildacdn.com/tild6562-3539-4030-b638-366366373363/2025-10-28_114905.jpg"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9434.884200429604!2d-0.3728128558797351!3d53.758849983003245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be4a86349b4f%3A0x77268cb383532c2f!2sPearson%20Park!5e0!3m2!1sen!2sru!4v1761634250700!5m2!1sen!2sru"
+},
 	{
     "dealId": "JPC-CLI-01",
     "title": "Turnkey 2-bed Hybrid BTL Opportunity",
