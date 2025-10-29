@@ -35,7 +35,8 @@
 		"https://static.tildacdn.com/tild3836-3462-4030-a632-643132613338/__2025-10-21__160929.png",
 		"https://static.tildacdn.com/tild3836-3462-4030-a632-643132613338/__2025-10-21__160929.png"
 	],
-	"video": "https://drive.google.com/file/d/1XzSPPXjN1btB7j_w33HwTbpZMrqijQNl/preview",
+	"video": ["https://drive.google.com/file/d/1XzSPPXjN1btB7j_w33HwTbpZMrqijQNl/preview",
+	],
     "images": [
 		"https://static.tildacdn.com/tild6362-6433-4535-b563-353537646135/Screenshot_2025-10-2.png",
         "https://static.tildacdn.com/tild3037-3031-4333-a135-386539373436/__2025-10-21__185715.png",
