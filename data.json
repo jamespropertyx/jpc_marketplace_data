@@ -31,10 +31,12 @@
     "dealAnalysis": "https://drive.google.com/file/d/1ZC73q8q6UHhsNsrwowKJXFhebNvaOn5f/view?usp=sharing",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Pearson-Park-Hull-HU5-2TR-29bb6c4b0141808488e6c143114e5332?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Pearson-Park-Hull-HU5-2TR-29bb6c4b014180598e4aea9fcfdef52b?source=copy_link",
-    "epcCertificate":["https://static.tildacdn.com/tild3836-3462-4030-a632-643132613338/__2025-10-21__160929.png",
-					"https://static.tildacdn.com/tild3836-3462-4030-a632-643132613338/__2025-10-21__160929.png"
-  ],
-"video": "https://drive.google.com/file/d/1XzSPPXjN1btB7j_w33HwTbpZMrqijQNl/view?usp=drive_link",
+    "epcCertificate":[
+		"https://static.tildacdn.com/tild3836-3462-4030-a632-643132613338/__2025-10-21__160929.png",
+		"https://static.tildacdn.com/tild3836-3462-4030-a632-643132613338/__2025-10-21__160929.png"
+	],
+"video": ["https://drive.google.com/file/d/1XzSPPXjN1btB7j_w33HwTbpZMrqijQNl/view?usp=drive_link"
+],
     "images": [
         "https://static.tildacdn.com/tild3037-3031-4333-a135-386539373436/__2025-10-21__185715.png",
   "https://static.tildacdn.com/tild3539-3039-4530-a563-366165383063/Bathroom1.png",
