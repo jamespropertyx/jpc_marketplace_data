@@ -1,5 +1,61 @@
 [
 	{
+    "dealId": "JPC-MAR-03",
+    "title": "Turnkey 2-bed Hybrid BTL",
+    "city": "Hull",
+    "address": "Marshall Street, Hull, HU5 3DA",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "Hybrid BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 85000,
+    "reservationFee": 6000,
+    "projectEndValue": "107,440",
+    "belowMarketGDVDiscount": "43.3%",
+    "deposit": "21,250",
+    "yield": "15.3%",
+    "rent": "&pound;1,083",
+    "annualRent": "13,000",
+    "refurbCost": "0",
+    "listedDate": "2025-10-29",
+    "keyFeatures": [
+        "Fully refurbished 2-bed ready to rent immediately",
+        "Prime HU5 location",
+        "Excellent condition",
+        "Low-risk investment with strong capital uplift potential"
+    ],
+    "description": "This 2-bedroom, 1-bathroom property is located in one of Hull's most reliable student and professional rental areas, just off Beverley Road, within walking distance to the University of Hull and the city's main student bar and café district. Currently vacant and in very good condition, it is ready to rent immediately to 2 tenants with minimal input. However, it also offers strong potential to add value through conversion into a 3-bed, 2-en-suite student HMO, an attractive opportunity in the high-demand HU5 market.",
+ "beds": "2 beds",
+    "baths": "1 bath",
+    "size": "91 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1yCw0-VtFyZeWUyX-mknojn2EAWR5F-5A/view?usp=sharing",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Marshall-Street-Hull-HU5-3DA-29bb6c4b014180fca2d7d81e08b35088?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Marshall-Street-Hull-HU5-3DA-29bb6c4b014180bf88f9ea9f3b8f431b?source=copy_link",
+    "epcCertificate": "https://static.tildacdn.com/tild3332-6330-4733-a234-653337646635/ERS.png",
+    "images": [
+        "https://static.tildacdn.com/tild3537-3966-4232-b866-373838383834/Facade_.png",
+        "https://static.tildacdn.com/tild6636-3333-4166-a666-363531383561/Entrance.jpg",
+        "https://static.tildacdn.com/tild6433-6266-4161-b834-353137333635/Entrance.png",
+        "https://static.tildacdn.com/tild3835-3833-4365-b733-653835323638/Living_room.png",
+        "https://static.tildacdn.com/tild3833-3632-4664-b561-666236383761/Kitchen.png",
+        "https://static.tildacdn.com/tild6266-3637-4761-b464-303936346566/Kitchen_2.png",
+        "https://static.tildacdn.com/tild3830-6136-4334-a338-353039613561/Bedroom_1.png",
+        "https://static.tildacdn.com/tild6635-3130-4362-a163-376333306564/Bedroom_2.png",
+        "https://static.tildacdn.com/tild6438-6163-4065-b266-633937376663/Bathroom.png",
+	"https://static.tildacdn.com/tild6663-3562-4266-b865-346563303739/Yard.png"
+    ],
+   "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+"floorplan": [
+        "https://static.tildacdn.com/tild6139-3038-4261-b563-313038616333/Floor_plan.png"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.5379105458637!2d-0.36319922275012767!3d53.762110743533036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfb4f5657017%3A0xe55f35779371702!2sMarshall%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sgr!4v1761732711027!5m2!1sen!2sgr"
+},
+	{
     "dealId": "JPC-PEA-03",
     "title": " 9-bed Main House with Attached Townhouse",
     "city": "Hull",
