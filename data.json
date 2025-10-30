@@ -1,5 +1,73 @@
 [
 	{
+    "dealId": "JPC-SPR-01",
+    "title": "Turnkey 2 self-contained apartments",
+    "city": "Hull",
+    "address": "Spring Bank West, Hull, HU3 1LD",
+    "status": "Available",
+    "type": "Apartments",
+    "strategy": "Hybrid BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 170000,
+    "reservationFee": 6100,
+    "projectEndValue": "206,720",
+    "belowMarketGDVDiscount": "17%",
+    "deposit": "42,500",
+    "yield": "9.7%",
+    "rent": "&pound;1,380",
+    "annualRent": "16,560",
+    "refurbCost": "0",
+    "listedDate": "2025-10-30",
+    "keyFeatures": [
+        "Gross Annual Rent: &pound;16,560",
+        "Fully let & managed",
+        "Strong kerb appeal",
+        "Excellent yield potential"
+    ],
+    "description": "This property consists of two self-contained 2-bedroom apartments, both fully let and generating consistent income. Located on Spring Bank West, one of Hull's key arterial routes, it sits close to Hull Royal Infirmary, city centre, and the Avenues district - all prime rental zones for professionals. Each flat benefits from separate utilities, modern interiors, and long-term tenants, making this a strong, low-maintenance investment with excellent cashflow potential and minimal capital expenditure required.",
+    "beds": "4 beds",
+    "baths": "2 bath",
+    "size": "117 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1ur6SktfLb11Zhiac6kb3I_Cs8kkjrQi3/view?usp=drive_link",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Spring-Bank-West-Hull-HU3-1LD-276b6c4b014180c2950bc4e42fa01fd4?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Spring-Bank-West-Hull-HU3-1LD-276b6c4b014180dfa312e252d590d5f3?source=copy_link",
+    "epcCertificate": [
+        "https://static.tildacdn.com/tild6566-3565-4434-b965-336566346164/Screenshot_2025-10-3.png",
+        "https://static.tildacdn.com/tild6234-3031-4333-b236-653036653462/Screenshot_2025-10-3.png"
+    ],
+    "video": "https://drive.google.com/file/d/1RkfGyhvVJRK-tc0zpWaC74SdCEN43PK-/preview",
+    "images": [
+        "https://static.tildacdn.com/tild6461-3061-4966-b664-656231383132/Screenshot_2025-10-3.png",
+        "https://static.tildacdn.com/tild6232-6266-4936-a264-646130383930/Screenshot_2025-10-3.png",
+        "https://static.tildacdn.com/tild3632-6563-4135-b133-653761356632/Screenshot_2025-10-3.png",
+        "https://static.tildacdn.com/tild6231-3432-4732-b931-306264383639/Screenshot_2025-10-3.png",
+        "https://static.tildacdn.com/tild3661-3037-4462-a465-613665316466/Screenshot_2025-10-3.png",
+        "https://static.tildacdn.com/tild3364-3330-4061-b133-653334623762/Screenshot_2025-10-3.png",
+        "https://static.tildacdn.com/tild3966-6534-4166-a230-343135666661/Screenshot_2025-10-3.png",
+        "https://static.tildacdn.com/tild6538-6633-4634-b233-613264303734/Screenshot_2025-10-3.png",
+        "https://static.tildacdn.com/tild3365-3563-4065-a235-613735336161/Screenshot_2025-10-3.png",
+        "https://static.tildacdn.com/tild6439-3662-4136-b634-306638653462/Screenshot_2025-10-3.png",
+        "https://static.tildacdn.com/tild3939-6636-4832-b936-303035343232/Screenshot_2025-10-3.png",
+        "https://static.tildacdn.com/tild3830-6232-4462-b763-663633376239/Screenshot_2025-10-3.png",
+        "https://static.tildacdn.com/tild6133-3266-4634-a136-343065353265/Screenshot_2025-10-3.png",
+        "https://static.tildacdn.com/tild6230-3261-4365-a664-313566313331/Screenshot_2025-10-3.png",
+        "https://static.tildacdn.com/tild3139-3163-4065-b031-353436343133/Screenshot_2025-10-3.png",
+        "https://static.tildacdn.com/tild3539-6631-4566-b431-343265373164/Screenshot_2025-10-3.png",
+        "https://static.tildacdn.com/tild3631-6664-4339-b865-386366646366/Screenshot_2025-10-3.png",
+        "https://static.tildacdn.com/tild6533-3136-4764-b466-396333633931/Screenshot_2025-10-3.png"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+        "https://static.tildacdn.com/tild6566-3937-4031-a435-383263613962/Screenshot_2025-10-3.png"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2359.191946125163!2d-0.38232413201599114!3d53.750465156006435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfc26ec3de9b%3A0x9dded18ae56bd2d9!2sSpring%20Bank%20W%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sru!4v1761835301042!5m2!1sen!2sru"
+},
+	{
     "dealId": "JPC-ASH-04",
     "title": "2-bed Hybrid BTL",
     "city": "Hull",
