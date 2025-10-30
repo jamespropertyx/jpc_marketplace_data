@@ -1,4 +1,61 @@
 [
+ {
+    "dealId": "JPC-ARL-01",
+    "title": "Turnkey 2-bed Hybrid BTL",
+    "city": "Hull",
+    "address": "Arlington Avenue, Perth Street, Hull, HU5 3PA",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "Hybrid BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 90000,
+    "reservationFee": 6000,
+    "projectEndValue": "124,380",
+    "belowMarketGDVDiscount": "21%",
+    "deposit": "22,500",
+    "yield": "20.4%",
+    "rent": "&pound;1,533",
+    "annualRent": "18,396",
+    "refurbCost": "0",
+    "listedDate": "2025-10-30",
+    "keyFeatures": [
+        "Gross Annual Rent: &pound;18,396",
+        "Quiet residential street with strong rental demand",
+        "High-yield, low-risk investment",
+        "Perfect for first-time investors or refinance strategy"
+    ],
+  "description": "This 2-bedroom terraced property is located just off Perth Street, within Hull's highly desirable HU5 rental corridor. It sits in a proven investment area close to Chanterlands Avenue, attracting both working professionals and mature students due to its central location and excellent transport links. It presents a flexible opportunity to either rent as a standard single let or convert into a Hybrid BTL achieving higher yields with minimal input.",
+"beds": "2 beds",
+    "baths": "1 bath",
+    "size": "68 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1tHAxa9q7-Q6agOjMjIsTerFSVXJZqfN6/view",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Arlington-Avenue-Perth-Street-Hull-HU5-3PA-295b6c4b014180c9acf8fc0b8417e7c9?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Arlington-Avenue-Perth-Street-Hull-HU5-3PA-295b6c4b01418010a548cbcfbb266d33?source=copy_link",
+    "epcCertificate": [
+"https://static.tildacdn.com/tild6539-3362-4063-b239-663235646264/Screenshot_2025-10-3.png"
+],
+               "images": [
+  "https://static.tildacdn.com/tild3230-3063-4362-b861-666466366263/Screenshot_2025-10-3.png",
+  "https://static.tildacdn.com/tild3866-3866-4461-b335-396130373837/Screenshot_2025-10-3.png",
+        "https://static.tildacdn.com/tild3639-6233-4135-a231-343430336364/Screenshot_2025-10-3.png",
+        "https://static.tildacdn.com/tild6263-6664-4264-a335-376164383533/Screenshot_2025-10-3.png",
+        "https://static.tildacdn.com/tild6330-3930-4330-b831-663465336362/Screenshot_2025-10-3.png",
+        "https://static.tildacdn.com/tild3633-3764-4263-b230-336662303030/Screenshot_2025-10-3.png",
+"https://static.tildacdn.com/tild6264-3738-4332-b732-333066633266/Screenshot_2025-10-3.png",
+"https://static.tildacdn.com/tild3733-6464-4261-b230-353433393037/Screenshot_2025-10-3.png",
+"https://static.tildacdn.com/tild6133-3832-4462-b135-396433653730/Screenshot_2025-10-3.png",
+"https://static.tildacdn.com/tild3336-3239-4837-a437-383231353062/Screenshot_2025-10-3.png",
+"https://static.tildacdn.com/tild3565-3935-4132-b163-613937316536/Screenshot_2025-10-3.png"
+    ],
+     "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": ["https://static.tildacdn.com/tild6237-3539-4161-a135-666635326264/Screenshot_2025-10-3.png"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.986353468651!2d-0.3750015234591515!3d53.75412607241041!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfc642fdcd8b%3A0xf00beee3b8a1dcf2!2sArlington%20Ave%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sru!4v1761823650749!5m2!1sen!2sru"
+},
 	{
     "dealId": "JPC-SHA-03",
     "title": "Turnkey 3-bed Hybrid BTL Opportunity",
