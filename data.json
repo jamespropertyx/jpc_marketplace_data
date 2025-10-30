@@ -1,5 +1,59 @@
 [
 	{
+    "dealId": "JPC-SHA-03",
+    "title": "Turnkey 3-bed Hybrid BTL Opportunity",
+    "city": "Hull",
+    "address": "Sharp Street, Hull, HU5 2AF",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "Hybrid BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 115000,
+    "reservationFee": 6000,
+    "projectEndValue": "152,030",
+    "belowMarketGDVDiscount": "4%",
+    "deposit": "28,750",
+    "yield": "16.3%",
+    "rent": "&pound;1,560",
+    "annualRent": "18,720",
+    "refurbCost": "0",
+    "listedDate": "2025-10-30",
+    "keyFeatures": [
+        "Gross Annual Rent: &pound;18,720",
+        "Option for long-term lease",
+        "Popular student & professional area near Newland Avenue",
+        "Ideal for first-time or portfolio investors"
+    ],
+  "description": "This 3-bedroom, 1-bathroom terraced property with an additional WC is located in the highly popular HU5 rental district, close to both the University of Hull and Newland Avenue. Currently a family home, the property offers two clear routes - retain as a single-let or convert into a high-yielding Hybrid BTL.",
+"beds": "3 beds",
+    "baths": "1 bath",
+    "size": "83 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/159YKgYSuKX99YGNQf0EhNiUZt6a_CwPM/view",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Sharp-Street-Hull-HU5-2AF-296b6c4b0141805784d6d82b8e157f07",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Sharp-Street-Hull-HU5-2AF-296b6c4b014180f2958bdb1fdd706bbb",
+    "epcCertificate": [
+"https://static.tildacdn.com/tild6232-6330-4934-b162-663135376562/Screenshot_2025-10-3.png"
+],
+	"video": "https://drive.google.com/file/d/1mdaZO50L-Gx1A7elwzjmCjW77K_g0KGO/view?usp=sharing",
+    "images": [
+		"https://static.tildacdn.com/tild6133-3934-4761-a436-626530643462/Screenshot_2025-10-3.png",
+        "https://static.tildacdn.com/tild3065-3834-4737-a330-393363313532/Bathroom_1.png",
+		"https://static.tildacdn.com/tild6661-3030-4535-b030-616365313364/Bedroom.png",
+        "https://static.tildacdn.com/tild3231-3133-4231-b266-613963316163/Bedroom2_1.png",
+        "https://static.tildacdn.com/tild6633-3861-4465-b131-373536346161/Outside1_2.png",
+        "https://static.tildacdn.com/tild6336-3130-4632-b037-653739643439/Bedroom3_1.png",
+        "https://static.tildacdn.com/tild6336-6561-4563-a234-633037383038/Livingroom.png"
+    ],
+     "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": ["396338333534/Screenshot_2025-10-3.png"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.462106840648!2d-0.36500292345850116!3d53.76346037241326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfb475490949%3A0xa8dd02b7df19fdb7!2sSharp%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sru!4v1761807802090!5m2!1sen!2sru&quot"
+},
+	{
     "dealId": "JPC-MAR-03",
     "title": "Turnkey 2-bed Hybrid BTL",
     "city": "Hull",
