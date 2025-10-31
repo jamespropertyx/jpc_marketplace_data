@@ -6,7 +6,7 @@
     "address": "Beverley Road, Hull, HU5 1LH",
     "status": "Available",
     "type": "Apartments",
-       "strategy": "HMO",
+    "strategy": "HMO",
     "tenure": "Freehold",
     "purchasePrice": 875000,
     "reservationFee": 31500,
