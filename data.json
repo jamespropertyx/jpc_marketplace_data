@@ -31,7 +31,8 @@
     "dealAnalysis": "https://drive.google.com/file/d/1xwMJfYnBAk3wMxnGqBPcbt7UxBiXo96v/view?usp=drive_link",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Sherburn-Street-Hull-HU9-2LB-29db6c4b0141802b9dd9f98577e2129c?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Sherburn-Street-Hull-HU9-29db6c4b01418066b6f2d466b31800b4?source=copy_link",
-    "epcCertificate":  "https://static.tildacdn.com/tild3437-6436-4034-b565-346331306239/Screenshot_2025-10-3.png",
+    "epcCertificate":  ["https://static.tildacdn.com/tild3437-6436-4034-b565-346331306239/Screenshot_2025-10-3.png"
+	],
 	"video": "https://drive.google.com/file/d/1IkmtWm9-0hv_L-sPjzVlvQum_9iYWrOF/preview",	
     "images": [
         "https://static.tildacdn.com/tild3938-6266-4930-b830-323565656531/Screenshot_2025-10-3.png",
