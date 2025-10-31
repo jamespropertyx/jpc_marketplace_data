@@ -7,7 +7,6 @@
     "status": "Available",
     "type": "Apartments",
        "strategy": "HMO",
-	"condition": "Light Refurb",
     "tenure": "Freehold",
     "purchasePrice": 875000,
     "reservationFee": 31500,
@@ -33,11 +32,11 @@
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Beverley-Road-Hull-HU5-1LH-29db6c4b014180ffbe0bd6b93a3e128c",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Beverley-Road-Hull-HU5-1LH-29db6c4b014180a3be78de45c7de6d42",
     "epcCertificate": ["https://static.tildacdn.com/tild3163-6464-4434-b837-656161306639/__2025-08-07__094801.png",
-                                 "https://static.tildacdn.com/tild3462-3964-4030-b735-386164383263/__2025-08-01__105814.png"
+                       "https://static.tildacdn.com/tild3462-3964-4030-b735-386164383263/__2025-08-01__105814.png"
 ],
     "images": [
         "https://static.tildacdn.com/tild3533-3436-4236-b339-333632316464/__2025-08-07__095209.png",
-"https://static.tildacdn.com/tild3233-3330-4934-b238-336237363930/212300_33775294_IMG_.jpeg",
+        "https://static.tildacdn.com/tild3233-3330-4934-b238-336237363930/212300_33775294_IMG_.jpeg",
         "https://static.tildacdn.com/tild3166-3039-4032-b731-383165313439/__2025-08-07__095225.png",
         "https://static.tildacdn.com/tild3464-6564-4632-a537-336265396161/__2025-08-07__095242.png",
         "https://static.tildacdn.com/tild3463-3162-4635-a330-353632306664/__2025-08-07__095255.png",
@@ -47,7 +46,7 @@
         "https://static.tildacdn.com/tild3430-3231-4662-b738-383635323637/__2025-08-07__095355.png",
         "https://static.tildacdn.com/tild6461-3630-4538-a664-613236326134/__2025-08-07__095407.png",
         "https://static.tildacdn.com/tild3739-6235-4632-a139-333137613466/__2025-08-07__095432.png",
-"https://static.tildacdn.com/tild6464-3261-4232-b136-663436353662/__2025-08-01__110009.png",
+        "https://static.tildacdn.com/tild6464-3261-4232-b136-663436353662/__2025-08-01__110009.png",
         "https://static.tildacdn.com/tild3537-6133-4631-a162-303732303365/__2025-08-01__110053.png",
         "https://static.tildacdn.com/tild3439-3139-4664-a261-326239636230/__2025-08-01__110114.png",
         "https://static.tildacdn.com/tild3862-3435-4330-b337-343838383230/__2025-08-01__110132.png",
