@@ -2447,7 +2447,7 @@
     "status": "Sold",
     "type": "Terraced",
     "strategy": "Block of Apartments",
-    "condition": ["Full Refurb, Turnkey"],
+    "condition": ["Full Refurb", "Turnkey"],
     "tenure": "Freehold",
     "purchasePrice": 135000,
     "reservationFee": 6000,
