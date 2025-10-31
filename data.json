@@ -2386,7 +2386,6 @@
     "status": "Sold",
     "type": "Terraced",
     "strategy": "BTL",
-    "condition": ["Full Refurb"],
     "tenure": "Freehold",
     "purchasePrice": 108000,
     "reservationFee": 6000,
