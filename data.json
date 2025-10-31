@@ -1,4 +1,57 @@
 [
+	"dealId": "JPC-GRA-05",
+    "title": "Turnkey 2-bed BTL  ",
+    "city": "Hull",
+    "address": " Granville Grove, Hull, HU5 1DX",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 82500,
+    "reservationFee": 6000,
+    "projectEndValue": "110,137",
+    "belowMarketGDVDiscount": "1%",
+    "deposit": "20,625",
+    "yield": "33.5%",
+    "rent": "&pound;1,300",
+    "annualRent": "15,600",
+    "refurbCost": "0",
+    "listedDate": "2025-10-31",
+    "keyFeatures": [
+        "Modern interior, low maintenance",
+        "Close to Beverley Road & University of Hull",
+        "Turnkey BTL in strong HU5 rental area",
+        "Gross yield = 9.4%"
+    ],
+    "description": "This 2-bedroom terraced house with an additional office/guest room is located on Granville Road, off Sculcoates Lane (HU5), a well-established residential area popular with both working professionals and students.",
+    "beds": "2 beds",
+    "baths": "1 bath",
+    "size": "57 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1qcJ_PY9DhKCZmyW4OH1tW7lkKVkxY1Ty/view?usp=sharing",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Granville-Grove-Hull-HU5-1DX-29bb6c4b01418096828bde2772d951d1?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Granville-Grove-Hull-HU5-1DX-29bb6c4b0141802fa594f1cfab8aea8f?source=copy_link",
+    "epcCertificate": [
+        "https://static.tildacdn.com/tild3939-3535-4065-a231-396338393932/photo_2025-10-31_16-.jpg"
+    ],
+    "images": [
+        "https://static.tildacdn.com/tild3966-6137-4930-b362-323038313036/photo_2025-10-31_16-.jpg",
+        "https://static.tildacdn.com/tild3536-3239-4561-b065-333935656264/photo_2025-10-31_16-.jpg",
+        "https://static.tildacdn.com/tild3432-3661-4765-b939-663561626635/photo_2025-10-31_16-.jpg",
+        "https://static.tildacdn.com/tild3739-3766-4464-a566-383139323733/photo_2025-10-31_12-.jpg",
+        "https://static.tildacdn.com/tild3332-3030-4166-a464-353438643834/photo_2025-10-31_12-.jpg",
+        "https://static.tildacdn.com/tild3135-6233-4130-b862-323530613066/photo_2025-10-31_12-.jpg"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+        "https://static.tildacdn.com/tild6538-6339-4237-b039-343731323031/photo_2025-10-31_16-.jpg"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d294.82051849753304!2d-0.3471355!3d53.7616436!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be48eee190b3%3A0xe2c50acff777402e!2sGranville%20Grove%2C%20Sculcoates%20Ln%2C%20Hull%20HU5%201DX%2C%20UK!5e0!3m2!1sen!2sru!4v1761917483406!5m2!1sen!2sru"
+}
 	{
     "dealId": "JPC-GOD-01",
     "title": "3-bed HMO Opportunity",
