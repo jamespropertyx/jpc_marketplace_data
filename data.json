@@ -1,5 +1,63 @@
 [
 	{
+    "dealId": "JPC-GOD-01",
+    "title": "3-bed HMO Opportunity",
+    "city": "Hull",
+    "address": "Goddard Avenue, Hull, HU5 2AW",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "HMO",
+    "tenure": "Freehold",
+    "purchasePrice": 120000,
+    "reservationFee": 6000,
+    "projectEndValue": "140,522",
+    "belowMarketGDVDiscount": "9.09%",
+    "deposit": "30,000",
+    "yield": "16.9%",
+    "rent": "&pound;1,690",
+    "annualRent": "20,280",
+    "refurbCost": "&pound;45,000",
+    "listedDate": "2025-10-31",
+    "keyFeatures": [
+        "Excellent condition, modern kitchen & bathroom already in place",
+        "Simple layout conversion, add 1 en-suite for strong uplift",
+        "Yield potential 8–10% on completion",
+        "Prime HU5 student & professional area near Newland Avenue"
+    ],
+  "description": "This 3-bedroom, 1-bathroom semi-detached property is located on Goddard Avenue, Hull - one of the city's most desirable rental and investment areas, positioned between Newland Avenue and Beverley Road. The property benefits from excellent local amenities, strong tenant demand from both students and professionals, and close proximity to the University of Hull - just a short bike ride away. Although nicely presented, two of the bedrooms are compact, which makes it better suited for conversion into a 3-bed HMO with one en-suite. This layout can be achieved with a modest refurb budget and would significantly improve both lettability and rental income potential.",
+"beds": "3 beds",
+    "baths": "1 baths",
+    "size": "73 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1rZ8A5d7Ttx-CrXRGxgkpUyUu48WO6s_A/view?usp=sharing",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Goddard-Avenue-Hull-Hu5-2AW-29db6c4b014180d78677fba5e56bde27?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Goddard-Avenue-Hull-HU5-2AW-29db6c4b01418071896cfb1c885e41bb?source=copy_link",
+    "epcCertificate": [
+		"https://static.tildacdn.com/tild6439-6539-4633-b439-373631633134/EPC.png"
+	],
+	"video": "https://drive.google.com/file/d/1rZ8A5d7Ttx-CrXRGxgkpUyUu48WO6s_A/preview",
+    "images": [
+		"https://static.tildacdn.com/tild3535-3436-4330-b435-323338626533/Facade_.jpg",
+		"https://static.tildacdn.com/tild3934-3334-4866-b734-396436323362/Entrance.png",
+		"https://static.tildacdn.com/tild6565-6564-4633-b861-306462623563/Living_room.png",
+        "https://static.tildacdn.com/tild3738-6232-4464-b731-656532653034/Kitchen.png",
+        "https://static.tildacdn.com/tild3132-3461-4531-a362-396563646635/Bedroom_1.png",
+        "https://static.tildacdn.com/tild3335-3732-4661-a430-313438393639/Bedroom_2.png",
+        "https://static.tildacdn.com/tild3138-3939-4231-a132-383636623664/Bedroom_3.png",
+		"https://static.tildacdn.com/tild3933-6334-4336-b337-653634343936/Bathroom.png",
+        "https://static.tildacdn.com/tild6363-6466-4630-b663-306265616361/Back_Yard.png",
+        "https://static.tildacdn.com/tild3538-3364-4666-a138-346639336337/side_road.jpg"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": ["https://static.tildacdn.com/tild3332-3964-4163-a534-373365373732/Floor_Plan.png"
+	],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.5012717911304!2d-0.36379890480927224!3d53.76276307235931!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfb4bd240127%3A0xa8c9eb185de49cd4!2sGoddard%20Avenue!5e0!3m2!1sen!2sgr!4v1761916821853!5m2!1sen!2sgr"
+},
+	{
     "dealId": "JPC-SHE-01",
     "title": "Turnkey 5-bed HMO",
     "city": "Hull",
