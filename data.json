@@ -1,7 +1,7 @@
 [
   {
     "dealId": "JPC-BEV-04",
-    "title": "Dual 9-Unit Apartment Block",
+    "title": "Turnkey Dual 9-Unit Apartment Block",
     "city": "Hull",
     "address": "Beverley Road, Hull, HU5 1LH",
     "status": "Available",
@@ -10,13 +10,13 @@
     "tenure": "Freehold",
     "purchasePrice": 875000,
     "reservationFee": 31500,
-    "projectEndValue": "1,057,000",
+    "projectEndValue": "1,081,500",
     "belowMarketGDVDiscount": "4%",
     "deposit": "218,750",
     "yield": "12.7%",
     "rent": "&pound;9,295",
     "annualRent": "111,540",
-    "refurbCost": "45,000",
+    "refurbCost": "0",
     "listedDate": "2025-10-31",
     "keyFeatures": [
       "Gross Annual Rent: &pound;111,540",
@@ -36,8 +36,8 @@
       "https://static.tildacdn.com/tild3462-3964-4030-b735-386164383263/__2025-08-01__105814.png"
     ],
     "images": [
-      "https://static.tildacdn.com/tild3533-3436-4236-b339-333632316464/__2025-08-07__095209.png",
       "https://static.tildacdn.com/tild3238-3734-4463-b538-386430666662/Screenshot_2025-10-3.png",
+      "https://static.tildacdn.com/tild3533-3436-4236-b339-333632316464/__2025-08-07__095209.png",
       "https://static.tildacdn.com/tild3166-3039-4032-b731-383165313439/__2025-08-07__095225.png",
       "https://static.tildacdn.com/tild3464-6564-4632-a537-336265396161/__2025-08-07__095242.png",
       "https://static.tildacdn.com/tild3463-3162-4635-a330-353632306664/__2025-08-07__095255.png",
