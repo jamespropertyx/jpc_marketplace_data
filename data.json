@@ -8,7 +8,7 @@
     "type": "Apartment - New Build",
     "strategy": "BTL",
     "tenure": "Leasehold",
-    "purchasePrice": "10 - 100,000",
+    "purchasePrice": 100,000,
     "reservationFee": 0,
     "projectEndValue": "-",
     "belowMarketGDVDiscount": "-",
