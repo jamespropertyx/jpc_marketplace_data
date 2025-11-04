@@ -5,7 +5,7 @@
     "city": "London",
     "address": "London Street, London, LO5 2LO",
     "status": "New Build",
-    "type": "Apartment - New Build",
+    "type": "Apartment",
     "strategy": "BTL",
     "tenure": "Leasehold",
     "purchasePrice": 100000,
