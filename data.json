@@ -1,5 +1,66 @@
 [
   {
+    "dealId": "JPC-SOU-01",
+    "title": "New Build Apartments at South Central",
+    "city": "Birmingham",
+    "address": "South Central, Essex Street, Birmingham,B5 4BX",
+    "status": "New Build",
+    "type": "Apartment",
+    "strategy": "BTL",
+    "tenure": "Leasehold",
+    "purchasePrice": 242000,
+    "reservationFee": 0,
+    "deposit": "60,000",
+    "yield": "7%",
+    "refurbCost": "0",
+    "listedDate": "2025-11-05",
+    "keyFeatures": [
+      "Landmark 30-storey tower in Birmingham's most dynamic district",
+      "Prime city-centre regeneration location within Big City Plan",
+      "Premium resident facilities",
+      "High rental demand from young professionals and graduates"
+    ],
+    "description": "South Central is a striking 30-storey landmark development in the heart of Birmingham's Southside district, one of the city's most vibrant cultural and lifestyle destinations. Designed by award-winning architects Glancy Nicholls and developed by Regal Property Group, the scheme brings together 166 premium studio, one, and two-bedroom apartments crafted for modern urban living. With its terracotta façade, skyline views, and high-quality interiors, South Central sets a new benchmark for city-centre design - complete with 24-hour concierge, fitness studio, coworking lounge, and rooftop cinema.",
+    "beds": "1-3",
+    "baths": "1-3",
+    "size": "32-98 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1jmSdVpL9Q63zD-mtnossEzvO6E6cAHjo/view?usp=drive_link",
+      "propertyAppraisal": "https://www.notion.so/Property-Appraisal-South-Central-33-Essex-Street-Birmingham-B5-4BX-2a1b6c4b014180369b69d3b63be5e9b3?source=copy_link",
+      "gdvAnalysis": "",
+    "epcCertificate": [
+      ""
+    ],
+    "images": [
+      "https://static.tildacdn.com/tild6463-6231-4131-a433-383932623031/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild3336-3436-4431-b933-633637663635/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild3463-3364-4464-b937-626565623431/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild3362-3065-4263-b333-616231633436/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild3364-3333-4433-a231-616635353836/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild6638-3237-4632-b938-646231376266/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild3133-6338-4438-a632-653631633035/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild3766-6563-4434-b532-383333633734/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild6565-3331-4538-b531-376334373032/Screenshot_2025-11-0.png", 
+  "https://static.tildacdn.com/tild6361-3533-4137-b731-643933326330/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild6138-3432-4432-b663-663335613932/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild6139-3466-4532-a263-393533336132/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild3861-3564-4339-b132-633965363933/Screenshot_2025-11-0.png"
+    ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild3637-6461-4165-b438-376438646539/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3863-6232-4037-b262-366533396232/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3138-3930-4430-b332-326436303635/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild6565-6432-4461-a161-663963393065/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3631-3931-4565-a537-646366633834/Screenshot_2025-11-0.png"
+    ],
+    "marketInsightsImages": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2430.3078635267184!2d-1.8988954000000002!3d52.47356130000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bc620274ace9%3A0xf6cc4b138f39d8db!2s33%20Essex%20St%2C%20South%20Central%2C%20Birmingham%20B5%204BX%2C%20UK!5e0!3m2!1sen!2sru!4v1762277873100!5m2!1sen!2sru"
+  },
+  {
     "dealId": "JPC-LOM-01",
     "title": "New Build Apartments at Lombe House",
     "city": "Derby",
