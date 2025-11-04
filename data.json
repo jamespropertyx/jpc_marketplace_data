@@ -8,10 +8,10 @@
     "type": "Apartment - New Build",
     "strategy": "BTL",
     "tenure": "Leasehold",
-    "purchasePrice": "£10 - £100,000",
-    "deposit": "£36,500",
+    "purchasePrice": 10 - 100,000,
+    "deposit": 36,500,
     "yield": "10.4%",
-    "refurbCost": "£0",
+    "refurbCost": "0",
 	"listedDate": "2025-11-04",
 	"keyFeatures": [
         "Fully tenanted until August 2026",
