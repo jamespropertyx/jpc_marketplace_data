@@ -1,9 +1,8 @@
-[
-	{
-    "dealId": "JPC-LON-10",
-    "title": "New Build",
+{
+    "dealId": "JPC-PEN-01",
+    "title": "The beacon - Peninsula Gardens",
     "city": "London",
-    "address": "London Street, London, LO5 2LO",
+    "address": "Peninsula Gardens, Chandlers Ave, London, SE10 0NW",
     "status": "New Build",
     "type": "Apartment",
     "strategy": "BTL",
@@ -24,14 +23,37 @@
     "beds": "1-3",
     "baths": "1-3",
     "size": "50-150 sq m",
-    "dealAnalysis": "https://drive.google.com/file/d/1ZxGF5pzRN7nsft8AEfLFOSR3B7MwjPmE/view?usp=sharing",
-    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Sidmouth-Street-Hull-2a0b6c4b014180d1bc25c493d60f5890?source=copy_link",
+    "dealAnalysis": "https://drive.google.com/file/d/1OENm5tRqLllfn3Nqo9YtCDUQHggwsKCC/view?usp=sharing",
+    "propertyAppraisal": "",
     "gdvAnalysis": "",
+    "epcCertificate": [
+      ""
     ],
     "images": [
-      "https://static.tildacdn.com/tild6164-3636-4837-b563-353331303139/Screenshot_2025-11-0.png"
+      "https://static.tildacdn.com/tild6466-3462-4532-a161-353030646236/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild3666-3832-4139-b361-353064346362/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild3461-3233-4230-a436-363530373839/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild3461-6161-4232-a435-643737336363/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild6464-3639-4964-a230-333861366563/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild3261-3132-4430-b865-336231393430/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild3134-3439-4635-b235-383035613633/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild3866-3839-4536-b263-386131373237/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild6336-6536-4031-b331-376434626331/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild3163-3838-4530-a333-663732636165/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild6238-3062-4566-b530-356463363865/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild3631-6434-4637-a561-353137623832/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild3465-6538-4139-b736-373565316362/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild3334-3562-4636-a138-623465623561/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild6436-3466-4134-b639-326635393861/Screenshot_2025-11-0.png",
+  "https://static.tildacdn.com/tild3237-3661-4138-b731-373938643737/Screenshot_2025-11-0.png"
     ],
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d158857.83988631278!2d-0.2664023549384796!3d51.52873980514821!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a00baf21de75%3A0x52963a5addd52a99!2sLondon%2C%20UK!5e0!3m2!1sen!2sgr!4v1762262621794!5m2!1sen!2sgr"
+    "marketInsightsImages": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19870.579099542818!2d-0.03024221630229884!3d51.4981267537666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a97ff92da2c9%3A0xef7c27f5bd4f99d1!2sPeninsula%20Gardens!5e0!3m2!1sen!2sgr!4v1762265099773!5m2!1sen!2sgr"
   },
   {
     "dealId": "JPC-SID-04",
