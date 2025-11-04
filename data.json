@@ -2,31 +2,46 @@
 	{
     "dealId": "JPC-LON-10",
     "title": "New Build",
-	"city": "London",
-	"address": "London",
+    "city": "London",
+    "address": "London Street, London, LO5 2LO",
     "status": "Available",
     "type": "Apartment - New Build",
     "strategy": "BTL",
     "tenure": "Leasehold",
-    "purchasePrice": "&pound;10 to 100,000",
-    "deposit": "&pound;36,500",
+    "purchasePrice": 10 - 100,000,
+    "reservationFee": -,
+    "projectEndValue": "-",
+    "belowMarketGDVDiscount": "-",
+    "deposit": "36,500",
     "yield": "10.4%",
+    "rent": "-",
+    "annualRent": "-",
     "refurbCost": "0",
-	"listedDate": "2025-11-04",
-	"keyFeatures": [
-        "Fully tenanted until August 2026",
-        "Low maintenance - ideal hands-off HMO",
-        "Walking distance to University of Hull",
-        "Strong long-term hold with stable income"
-    ],   
-    "description": "This 3-bedroom, 1-bathroom property is located in one of Hull's most reliable student and young professional areas, just off Newland Avenue, within easy walking distance to the University of Hull and local amenities. The property is fully tenanted until August 2026, generating £13,500 for the 2025/26 academic year with two rooms currently let on a premium arrangement. When fully occupied, it is capable of producing up to £15,000 p.a. - reflecting strong demand in this part of HU5. Overall, it presents as a ready-made, income-producing HMO with no refurbishment required and minimal ongoing maintenance.",
-    "beds": "1 - 3 beds",
-    "baths": "1 - 3 baths",
-    "size": "60 - 120 sq m",
-	"dealAnalysis": "",
-    "propertyAppraisal": "",
-	"images": [
-        "https://static.tildacdn.com/tild3437-3666-4236-b864-353639366335/Facade.png"
+    "listedDate": "2025-11-04",
+    "keyFeatures": [
+      "Fully tenanted until August 2026",
+      "Low maintenance - ideal hands-off HMO",
+      "Walking distance to University of Hull",
+      "Strong long-term hold with stable income"
+    ],
+    "description": "This 3-bedroom, 1-bathroom property is located in one of Hull's most reliable student and young professional areas, just off Newland Avenue, within easy walking distance to the University of Hull and local amenities. The property is fully tenanted until August 2026, generating &pound;13,500 for the 2025/26 academic year with two rooms currently let on a premium arrangement. When fully occupied, it is capable of producing up to &pound;15,000 p.a. - reflecting strong demand in this part of HU5. Overall, it presents as a ready-made, income-producing HMO with no refurbishment required and minimal ongoing maintenance.",
+    "beds": "1-3",
+    "baths": "1-3",
+    "size": "50-150 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1ZxGF5pzRN7nsft8AEfLFOSR3B7MwjPmE/view?usp=sharing",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Sidmouth-Street-Hull-2a0b6c4b014180d1bc25c493d60f5890?source=copy_link",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      ""
+    ],
+    "images": [
+      "https://static.tildacdn.com/tild3437-3666-4236-b864-353639366335/Facade.png"
+    ],
+    "marketInsightsImages": [
+      "",
+      "",
+      "",
+      ""
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1179.1623163833883!2d-0.36223527879420303!3d53.76590793713539!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfb30093e813%3A0x85c05b2393f722e8!2sSidmouth%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sru!4v1762181231821!5m2!1sen!2sru"
   },
