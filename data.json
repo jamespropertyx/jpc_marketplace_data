@@ -8,23 +8,19 @@
     "type": "Apartment - New Build",
     "strategy": "BTL",
     "tenure": "Leasehold",
-    "purchasePrice": 100000,
+    "purchasePrice": [10000, 100000]
     "reservationFee": 0,
-    "projectEndValue": null,
-    "belowMarketGDVDiscount": null,
     "deposit": "36,500",
     "yield": "10.4%",
-    "rent": null,
-    "annualRent": null,
     "refurbCost": "0",
     "listedDate": "2025-11-04",
     "keyFeatures": [
-      "Fully tenanted until August 2026",
-      "Low maintenance - ideal hands-off HMO",
-      "Walking distance to University of Hull",
-      "Strong long-term hold with stable income"
+      "London",
+      "London",
+      "London",
+      "London"
     ],
-    "description": "This 3-bedroom, 1-bathroom property is located in one of Hull's most reliable student and young professional areas, just off Newland Avenue, within easy walking distance to the University of Hull and local amenities. The property is fully tenanted until August 2026, generating &pound;13,500 for the 2025/26 academic year with two rooms currently let on a premium arrangement. When fully occupied, it is capable of producing up to &pound;15,000 p.a. - reflecting strong demand in this part of HU5. Overall, it presents as a ready-made, income-producing HMO with no refurbishment required and minimal ongoing maintenance.",
+    "description": "London",
     "beds": "1-3",
     "baths": "1-3",
     "size": "50-150 sq m",
@@ -35,7 +31,7 @@
       ""
     ],
     "images": [
-      "https://static.tildacdn.com/tild3437-3666-4236-b864-353639366335/Facade.png"
+      "https://static.tildacdn.com/tild6164-3636-4837-b563-353331303139/Screenshot_2025-11-0.png"
     ],
     "marketInsightsImages": [
       "",
