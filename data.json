@@ -1,5 +1,58 @@
 [
   {
+    "dealId": "JPC-SID-04",
+    "title": "Turnkey 3-bed HMO",
+    "city": "Hull",
+    "address": "Sidmouth Street, Hull, HU5 2LИ",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "HMO",
+    "tenure": "Freehold",
+    "purchasePrice": 130000,
+    "reservationFee": 6000,
+    "projectEndValue": "156,390",
+    "belowMarketGDVDiscount": "4%",
+    "deposit": "32,500",
+    "yield": "10.4%",
+    "rent": "&pound;1,127",
+    "annualRent": "13,520",
+    "refurbCost": "0",
+    "listedDate": "2025-11-03",
+    "keyFeatures": [
+      "Fully tenanted until August 2026",
+      "Low maintenance - ideal hands-off HMO",
+      "Walking distance to University of Hull",
+      "Strong long-term hold with stable income"
+    ],
+    "description": "This 3-bedroom, 1-bathroom property is located in one of Hull's most reliable student and young professional areas, just off Newland Avenue, within easy walking distance to the University of Hull and local amenities. The property is fully tenanted until August 2026, generating &pound;13,500 for the 2025/26 academic year with two rooms currently let on a premium arrangement. When fully occupied, it is capable of producing up to &pound;15,000 p.a. - reflecting strong demand in this part of HU5. Overall, it presents as a ready-made, income-producing HMO with no refurbishment required and minimal ongoing maintenance.",
+    "beds": "3 beds",
+    "baths": "1 baths",
+    "size": "81 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1ZxGF5pzRN7nsft8AEfLFOSR3B7MwjPmE/view?usp=sharing",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Sidmouth-Street-Hull-2a0b6c4b014180d1bc25c493d60f5890?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Sidmouth-Street-Hull-2a0b6c4b0141809989d5de50a0ea29a2?source=copy_link",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild3037-3862-4161-b337-613736633630/ECR.png"
+    ],
+	"video": "https://drive.google.com/file/d/15ljW9hzlkplntTxl_tQ0nlF_2aqiuglT/preview",
+    "images": [
+      "https://static.tildacdn.com/tild3437-3666-4236-b864-353639366335/Facade.png",
+      "https://static.tildacdn.com/tild3031-6239-4763-b439-393364326637/Living_room.png",
+      "https://static.tildacdn.com/tild3335-3634-4233-b538-386662313030/Kitchen.png",
+      "https://static.tildacdn.com/tild3466-3265-4332-b431-393739386431/Bedroom_1.png",
+      "https://static.tildacdn.com/tild6236-6639-4464-a633-376266376338/Bedroom_2.png",
+      "https://static.tildacdn.com/tild3832-6338-4536-b536-333031323334/Bedroom_3.png",
+      "https://static.tildacdn.com/tild3038-3532-4766-b536-656533623563/Bathroom.png"
+    ],
+    "marketInsightsImages": [
+      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1179.1623163833883!2d-0.36223527879420303!3d53.76590793713539!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfb30093e813%3A0x85c05b2393f722e8!2sSidmouth%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sru!4v1762181231821!5m2!1sen!2sru"
+  },
+  {
     "dealId": "JPC-PEE-04",
     "title": "Turnkey 12 self-contained apartments",
     "city": "Hull",
