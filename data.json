@@ -1,4 +1,42 @@
 [
+	{
+    "dealId": "JPC-SID-04",
+    "title": "New Build",
+	"city": "London",
+	"address": "London",
+    "status": "Available",
+    "type": "Apartment - New Build",
+    "strategy": "BTL",
+    "tenure": "Leacehold",
+    "purchasePrice": "£10 - £100,000",
+    "deposit": "£36,500",
+    "yield": "10.4%",
+    "refurbCost": "£0",
+	"listedDate": "2025-11-04",
+	"keyFeatures": [
+        "Fully tenanted until August 2026",
+        "Low maintenance - ideal hands-off HMO",
+        "Walking distance to University of Hull",
+        "Strong long-term hold with stable income"
+    ],   
+    "description": "This 3-bedroom, 1-bathroom property is located in one of Hull's most reliable student and young professional areas, just off Newland Avenue, within easy walking distance to the University of Hull and local amenities. The property is fully tenanted until August 2026, generating £13,500 for the 2025/26 academic year with two rooms currently let on a premium arrangement. When fully occupied, it is capable of producing up to £15,000 p.a. - reflecting strong demand in this part of HU5. Overall, it presents as a ready-made, income-producing HMO with no refurbishment required and minimal ongoing maintenance.",
+    "beds": "1 - 3 beds",
+    "baths": "1 - 3 baths",
+    "size": "60 - 120 sq m",
+	"dealAnalysis": "",
+    "propertyAppraisal": "",
+	"images": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1179.1623163833883!2d-0.36223527879420303!3d53.76590793713539!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfb30093e813%3A0x85c05b2393f722e8!2sSidmouth%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sru!4v1762181231821!5m2!1sen!2sru"
+  },
+},
   {
     "dealId": "JPC-SID-04",
     "title": "Turnkey 3-bed HMO",
