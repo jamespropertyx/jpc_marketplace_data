@@ -8,7 +8,7 @@
     "type": "Apartment - New Build",
     "strategy": "BTL",
     "tenure": "Leasehold",
-    "purchasePrice": 10000, 100000
+    "purchasePrice": 100000
     "reservationFee": 0,
     "deposit": "36,500",
     "yield": "10.4%",
