@@ -1,4 +1,68 @@
 [
+	 {
+    "dealId": "JPC-CLU-01",
+    "title": "2-bed Hybrid BTL Opportunity",
+    "city": "Hull",
+    "address": "Clumber Street, Hull, HU5 3RJ",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "Hybrid BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 100000,
+    "reservationFee": 6000,
+    "projectEndValue": "117,400",
+    "belowMarketGDVDiscount": "13%",
+    "deposit": "25,000",
+    "yield": "20.3%",
+    "rent": "&pound;1,690",
+    "annualRent": "20,280",
+    "refurbCost": "50,000",
+    "listedDate": "2025-11-05",
+    "keyFeatures": [
+      "Gross Annual Rent: &pound;20,280",
+      "Excellent area for both students and young professionals",
+      "Perfect entry-level Hybrid BTL deal",
+      "Strong capital appreciation potential"
+    ],
+    "description": "This three-bedroom, one-bathroom mid-terrace property is located in one of Hull's most reliable investment areas, just off Princes Avenue and within walking distance to the University of Hull. It offers an excellent opportunity for conversion into a 3-bed Hybrid BTL, appealing to both professional tenants and mature students. The property is structurally sound with double glazing and gas central heating already in place, but requires a full refurbishment to bring it up to a modern, high-yielding standard.",
+    "beds": "2 beds",
+    "baths": "1 baths",
+    "size": "68 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1nu3SAXvmYHTFsjM_8UzSdgzFbyy1tUKU/view?usp=drive_link",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Clumber-Street-Hull-HU5-3RJ-29bb6c4b0141809a9e3cdb857bec3b19?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Clumber-Street-Hull-HU5-3RJ-29bb6c4b014180bca596f7c382c227b8?source=copy_link",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild6639-6630-4264-b533-386233323834/Screenshot_2025-11-0.png"
+    ],
+    "video": "https://drive.google.com/file/d/1U0_44v1Gj6zFfA0HQzKKAhtaxrj7MeEA/preview",
+    "images": [
+      "https://static.tildacdn.com/tild3761-6463-4132-b531-383634663933/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild6136-3331-4231-b963-666563303235/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild6364-3034-4966-b430-636333376663/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild6238-3962-4635-a232-336333623465/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3363-6535-4662-b762-393636383761/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3065-3966-4434-a335-366262373133/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3930-3362-4666-b961-336332653062/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3639-6366-4038-b564-353762636364/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3030-6631-4635-b933-386134333131/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3331-3832-4634-a562-396664613366/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3933-6530-4635-b134-316438366431/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3335-6663-4239-a564-333034643262/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3162-3434-4366-b866-383865376235/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3062-3532-4038-b762-643662333566/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild6434-6262-4139-a532-303632303932/Screenshot_2025-11-0.png"
+    ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild6531-3264-4033-b936-373233336231/Screenshot_2025-11-0.png"
+    ],
+    "marketInsightsImages": [
+      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2359.0190987578558!2d-0.36445019999999995!3d53.753543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfc959266865%3A0x9f4af78826bb1b1a!2sClumber%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sru!4v1762354139972!5m2!1sen!2sru"
+  },
 	{
     "dealId": "JPC-GRA-06",
     "title": "Turnkey 2-bed BTL",
