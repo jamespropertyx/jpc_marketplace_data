@@ -143,15 +143,8 @@
     "epcCertificate": [
       ""
     ],
-    "images": [
-      "https://static.tildacdn.com/tild6466-3462-4532-a161-353030646236/Screenshot_2025-11-0.png",
-	"https://static.tildacdn.com/tild3666-3832-4139-b361-353064346362/Screenshot_2025-11-0.png",
-	"https://static.tildacdn.com/tild3461-3233-4230-a436-363530373839/Screenshot_2025-11-0.png",
-	"https://static.tildacdn.com/tild3461-6161-4232-a435-643737336363/Screenshot_2025-11-0.png",
-	"https://static.tildacdn.com/tild6464-3639-4964-a230-333861366563/Screenshot_2025-11-0.png",
-	"https://static.tildacdn.com/tild3261-3132-4430-b865-336231393430/Screenshot_2025-11-0.png",
-	"https://static.tildacdn.com/tild3134-3439-4635-b235-383035613633/Screenshot_2025-11-0.png",
-	"https://static.tildacdn.com/tild3866-3839-4536-b263-386131373237/Screenshot_2025-11-0.png",
+	 "floorplan": [
+    "https://static.tildacdn.com/tild3866-3839-4536-b263-386131373237/Screenshot_2025-11-0.png",
 	"https://static.tildacdn.com/tild6336-6536-4031-b331-376434626331/Screenshot_2025-11-0.png",
 	"https://static.tildacdn.com/tild3163-3838-4530-a333-663732636165/Screenshot_2025-11-0.png",
 	"https://static.tildacdn.com/tild6238-3062-4566-b530-356463363865/Screenshot_2025-11-0.png",
@@ -160,6 +153,15 @@
 	"https://static.tildacdn.com/tild3334-3562-4636-a138-623465623561/Screenshot_2025-11-0.png",
 	"https://static.tildacdn.com/tild6436-3466-4134-b639-326635393861/Screenshot_2025-11-0.png",
 	"https://static.tildacdn.com/tild3237-3661-4138-b731-373938643737/Screenshot_2025-11-0.png"
+    ],	
+    "images": [
+      "https://static.tildacdn.com/tild6466-3462-4532-a161-353030646236/Screenshot_2025-11-0.png",
+	"https://static.tildacdn.com/tild3666-3832-4139-b361-353064346362/Screenshot_2025-11-0.png",
+	"https://static.tildacdn.com/tild3461-3233-4230-a436-363530373839/Screenshot_2025-11-0.png",
+	"https://static.tildacdn.com/tild3461-6161-4232-a435-643737336363/Screenshot_2025-11-0.png",
+	"https://static.tildacdn.com/tild6464-3639-4964-a230-333861366563/Screenshot_2025-11-0.png",
+	"https://static.tildacdn.com/tild3261-3132-4430-b865-336231393430/Screenshot_2025-11-0.png",
+	"https://static.tildacdn.com/tild3134-3439-4635-b235-383035613633/Screenshot_2025-11-0.png"
     ],
     "marketInsightsImages": [
       "",
