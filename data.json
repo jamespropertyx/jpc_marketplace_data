@@ -1,5 +1,65 @@
 [
   {
+    "dealId": "JPC-LAM-02",
+    "title": "3 self-contained apartments BRR",
+    "city": "Hull",
+    "address": "Lambert Street, Hull, HU5 2SG",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "BRR",
+    "tenure": "Freehold",
+    "purchasePrice": 145000,
+    "reservationFee": 6000,
+    "projectEndValue": "168,635",
+    "belowMarketGDVDiscount": "10%",
+    "deposit": "36,250",
+    "yield": "16.1%",
+    "rent": "&pound;1,950",
+    "annualRent": "23,400",
+    "refurbCost": "60,000",
+    "listedDate": "2025-11-05",
+    "keyFeatures": [
+      "Gross Annual Rent: &pound;23,400",
+      "One flat and the shop already producing steady rent",
+      "Located just off Beverley Road",
+      "Modernisation will unlock significant capital growth"
+    ],
+    "description": "This mixed-use freehold property is located just off Beverley Road, one of Hull's most reliable rental corridors for both students and working tenants. The building comprises three self-contained flats and a ground-floor commercial unit, offering immediate rental income from the existing tenants while also presenting strong value-add potential through refurbishment of the two vacant flats.",
+    "beds": "3 beds",
+    "baths": "3 baths",
+    "size": "179 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1VLBk9dxKZWkR_HbAbX3c1n4NjHJb7wmj/view?usp=drive_link",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Lambert-Street-Hull-HU5-2SG-293b6c4b014180209ee5fd21bf1cbf7c?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Lambert-Street-Hull-HU5-2SG-293b6c4b014180358184cc5ad0e15610?source=copy_link",
+	"video": ["https://drive.google.com/file/d/1phWF5KvyTJVHm-DFZom83lf9QzAp-2WK/preview"
+  ]
+    "images": [
+      "https://static.tildacdn.com/tild3734-3462-4038-b936-663532323534/Screenshot_2025-11-0.png"
+      "https://static.tildacdn.com/tild3638-6534-4430-b631-383864626633/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3638-3363-4630-b161-333962653666/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild6531-6230-4266-b838-633934323534/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3966-3662-4838-b939-336134326637/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3166-3462-4266-a234-393366363231/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3564-3932-4235-b737-646230336566/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3261-6136-4136-b261-363039653965/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3333-6662-4332-b532-646333313764/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild6132-3834-4234-b836-663966356439/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild6232-3266-4631-a336-353261653032/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3162-6563-4263-b264-303462666132/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3534-6132-4566-b437-316363393234/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild6365-3864-4063-a130-623966333639/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3163-3637-4030-b838-666136663766/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3738-3831-4335-a637-376638623239/Screenshot_2025-11-0.png"
+    ],
+    "marketInsightsImages": [
+      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.4642636459284!2d-0.35731562345850854!3d53.763421972413205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be4b633e797b%3A0xe833316d07648fbe!2sLambert%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sru!4v1762336540122!5m2!1sen!2sru"
+  },
+  {
     "dealId": "JPC-SOU-01",
     "title": "New Build Apartments at South Central",
     "city": "Birmingham",
