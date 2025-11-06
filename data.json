@@ -25,8 +25,8 @@
       "Suitable for both student and professional tenants"
     ],
     "description": "This six-bedroom, four-bathroom HMO is ideally positioned for both student and professional letting, benefiting from proximity to Derby city centre, the University of Derby, and major employment hubs. With private front and rear gardens, on-street parking, and spacious internal layout, this property is designed for low-maintenance, high-yield operation — ideal for investors seeking immediate returns with minimal management input.",
-    "beds": "2 beds",
-    "baths": "1 baths",
+    "beds": [2],
+    "baths": [1],
     "size": "180 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1dsFtU7Lq5kN6wDa2_A2Yc1TLQIbeosSM/view?usp=drive_link",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Green-Lane-Derby-DE1-1RZ-2a3b6c4b014180b7bf5bdc58e7536a9f?source=copy_link",
@@ -106,8 +106,8 @@
       "Strong capital appreciation potential"
     ],
     "description": "This three-bedroom, one-bathroom mid-terrace property is located in one of Hull's most reliable investment areas, just off Princes Avenue and within walking distance to the University of Hull. It offers an excellent opportunity for conversion into a 3-bed Hybrid BTL, appealing to both professional tenants and mature students. The property is structurally sound with double glazing and gas central heating already in place, but requires a full refurbishment to bring it up to a modern, high-yielding standard.",
-    "beds": "2 beds",
-    "baths": "1 baths",
+    "beds": [2],
+    "baths": [1],
     "size": "68 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1nu3SAXvmYHTFsjM_8UzSdgzFbyy1tUKU/view?usp=drive_link",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Clumber-Street-Hull-HU5-3RJ-29bb6c4b0141809a9e3cdb857bec3b19?source=copy_link",
