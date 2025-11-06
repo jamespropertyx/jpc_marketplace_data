@@ -25,7 +25,7 @@
       "Suitable for both student and professional tenants"
     ],
     "description": "This six-bedroom, four-bathroom HMO is ideally positioned for both student and professional letting, benefiting from proximity to Derby city centre, the University of Derby, and major employment hubs. With private front and rear gardens, on-street parking, and spacious internal layout, this property is designed for low-maintenance, high-yield operation — ideal for investors seeking immediate returns with minimal management input.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "180 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1dsFtU7Lq5kN6wDa2_A2Yc1TLQIbeosSM/view?usp=drive_link",
@@ -170,7 +170,7 @@
       "Low-maintenance option or value-add through luxury refurb"
     ],
     "description": "This 2-bedroom, 1-bathroom flat is located in a quiet residential area of Grangeside, HU6, just behind the University of Hull, a consistently strong location for student and professional lets. The flat forms part of a well-maintained purpose-built block with gated parking and a private garage. The property is currently tenanted, providing immediate rental income, but also offers clear potential for a high-end refurbishment that could reposition it toward the premium rental market.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "63 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1j3DeuU-Q_4XLd4_ekn96yw2yIe39Qgvc/view?usp=sharing",
@@ -221,8 +221,8 @@
       "Modernisation will unlock significant capital growth"
     ],
     "description": "This mixed-use freehold property is located just off Beverley Road, one of Hull's most reliable rental corridors for both students and working tenants. The building comprises three self-contained flats and a ground-floor commercial unit, offering immediate rental income from the existing tenants while also presenting strong value-add potential through refurbishment of the two vacant flats.",
-    "beds": [1,2,3],
-    "baths": [1,2,3],
+    "beds": [3],
+    "baths": [3],
     "size": "179 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1VLBk9dxKZWkR_HbAbX3c1n4NjHJb7wmj/view?usp=drive_link",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Lambert-Street-Hull-HU5-2SG-293b6c4b014180209ee5fd21bf1cbf7c?source=copy_link",
@@ -279,8 +279,8 @@
       "High rental demand from young professionals and graduates"
     ],
     "description": "South Central is a striking 30-storey landmark development in the heart of Birmingham's Southside district, one of the city's most vibrant cultural and lifestyle destinations. Designed by award-winning architects Glancy Nicholls and developed by Regal Property Group, the scheme brings together 166 premium studio, one, and two-bedroom apartments crafted for modern urban living. With its terracotta facade, skyline views, and high-quality interiors, South Central sets a new benchmark for city-centre design - complete with 24-hour concierge, fitness studio, coworking lounge, and rooftop cinema.",
-    "beds": [1,2],
-    "baths": [1,2],
+    "beds": [2],
+    "baths": [2],
     "size": "32-74 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1jmSdVpL9Q63zD-mtnossEzvO6E6cAHjo/view?usp=drive_link",
       "propertyAppraisal": "https://www.notion.so/Property-Appraisal-South-Central-33-Essex-Street-Birmingham-B5-4BX-2a1b6c4b014180369b69d3b63be5e9b3?source=copy_link",
@@ -328,6 +328,7 @@
     "reservationFee": 0,
     "deposit": "36,000",
     "yield": "7%",
+	"annualRent": "9,600",
     "refurbCost": "0",
     "listedDate": "2025-11-04",
     "keyFeatures": [
@@ -445,7 +446,7 @@
       "Strong long-term hold with stable income"
     ],
     "description": "This 3-bedroom, 1-bathroom property is located in one of Hull's most reliable student and young professional areas, just off Newland Avenue, within easy walking distance to the University of Hull and local amenities. The property is fully tenanted until August 2026, generating &pound;13,500 for the 2025/26 academic year with two rooms currently let on a premium arrangement. When fully occupied, it is capable of producing up to &pound;15,000 p.a. - reflecting strong demand in this part of HU5. Overall, it presents as a ready-made, income-producing HMO with no refurbishment required and minimal ongoing maintenance.",
-    "beds": [1,2,3],
+    "beds": [3],
     "baths": [1],
     "size": "81 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1ZxGF5pzRN7nsft8AEfLFOSR3B7MwjPmE/view?usp=sharing",
@@ -498,8 +499,8 @@
       "Excellent HU5 location for refinance & long-term hold"
     ],
     "description": "Peel Street is a block of eight self-contained apartments providing twelve bedrooms and eight bathrooms across approximately 372 sqm of internal space. Located close to Hull Royal Infirmary and within walking distance to the city centre, the property is ideally positioned for working professionals and long-term tenants. The building is in very good turnkey condition, fully let, and requires no refurbishment or compliance work. It offers a stable, high-yield investment with an excellent lettings track record and low management overheads.",
-    "beds": [1,2,3,4,5,6,7,8,9,10,11,12],
-    "baths": [1,2,3,4,5,6,7,8],
+    "beds": [12],
+    "baths": [8],
     "size": "372 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1ECHiPtgC9Cl6GQIsI_MqZOlYhwVFMqCr/view?usp=drive_link",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Peel-Street-Hull-HU3-1QR-2a0b6c4b014180a1a93cf8e2fde8213a",
@@ -578,8 +579,8 @@
       "Excellent HU5 location for refinance & long-term hold"
     ],
     "description": " This freehold apartment block of nine self-contained apartments is located along Beverley Road, Hull - one of the city's most active rental corridors for students and professionals alike. The buildings are fully tenanted and generating a strong rental return, with the potential to further uplift value through a light refurbishment programme. With a high yield and proven lettings history, it's ideal for investors looking for reliable cashflow with strong capital value in Hull's most indemand rental corridor.",
-    "beds": [1,2,3,4,5,6,7,8,9,10],
-    "baths": [1,2,3,4,5,6,7,8],
+    "beds": [10],
+    "baths": [8],
     "size": "371 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1BtHL-6PCjNoaeYOipdIHm5KqBSF03L6s/view?usp=drive_link",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Beverley-Road-Hull-HU5-1LH-29db6c4b014180ffbe0bd6b93a3e128c",
@@ -653,7 +654,7 @@
       "Gross yield = 9.4%"
     ],
     "description": "This 2-bedroom terraced house with an additional office/guest room is located on Granville Road, off Sculcoates Lane (HU5), a well-established residential area popular with both working professionals and students. The property is fully , with a long-term occupant paying &pound;650 pcm (&pound;150/week), and is in good overall condition, requiring no immediate works. It represents a  investment providing income from day one, ideal for landlords seeking a low-maintenance BTL in a stable Hull rental zone.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "57 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1qcJ_PY9DhKCZmyW4OH1tW7lkKVkxY1Ty/view?usp=sharing",
@@ -707,7 +708,7 @@
       "Prime HU5 student & professional area near Newland Avenue"
     ],
     "description": "This 3-bedroom, 1-bathroom semi-detached property is located on Goddard Avenue, Hull - one of the city's most desirable rental and investment areas, positioned between Newland Avenue and Beverley Road. The property benefits from excellent local amenities, strong tenant demand from both students and professionals, and close proximity to the University of Hull - just a short bike ride away. Although nicely presented, two of the bedrooms are compact, which makes it better suited for conversion into a 3-bed HMO with one en-suite. This layout can be achieved with a modest refurb budget and would significantly improve both lettability and rental income potential.",
-    "beds": [1,2,3],
+    "beds": [3],
     "baths": [1],
     "size": "73 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1rZ8A5d7Ttx-CrXRGxgkpUyUu48WO6s_A/view?usp=sharing",
@@ -766,8 +767,8 @@
       "Proven rental income stream with full occupancy"
     ],
     "description": "A well-presented, fully-tenanted 5-bed, 5-bath HMO located on Sherburn Street (HU9) - one of East Hull's most reliable rental pockets for working professionals. The property has been recently upgraded, maintained to compliance standards, and consistently performs with minimal voids and strong cash flow. All rooms are spacious, well-furnished, and in line with HMO regulations, offering  investment potential with a solid track record.",
-    "beds": [1,2,3,4,5],
-    "baths": [1,2,3,4,5],
+    "beds": [5],
+    "baths": [5],
     "size": "123 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1xwMJfYnBAk3wMxnGqBPcbt7UxBiXo96v/view?usp=drive_link",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Sherburn-Street-Hull-HU9-2LB-29db6c4b0141802b9dd9f98577e2129c?source=copy_link",
@@ -818,8 +819,8 @@
       "Excellent yield potential"
     ],
     "description": "This property consists of two self-contained 2-bedroom apartments, both fully let and generating consistent income. Located on Spring Bank West, one of Hull's key arterial routes, it sits close to Hull Royal Infirmary, city centre, and the Avenues district - all prime rental zones for professionals. Each flat benefits from separate utilities, modern interiors, and long-term tenants, making this a strong, low-maintenance investment with excellent cashflow potential and minimal capital expenditure required.",
-    "beds": [1,2,3,4],
-    "baths": [1,2],
+    "beds": [4],
+    "baths": [2],
     "size": "117 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1ur6SktfLb11Zhiac6kb3I_Cs8kkjrQi3/view?usp=drive_link",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Spring-Bank-West-Hull-HU3-1LD-276b6c4b014180c2950bc4e42fa01fd4?source=copy_link",
@@ -886,7 +887,7 @@
       "Located just off main commuter routes into Hull city centre"
     ],
     "description": "This 2-bedroom terraced property is located on Ashburn, Hull (HU3), a quiet side street just off the main arterial routes into the city centre. The location provides easy access to major employers, local amenities, and motorway links, making it an excellent option for working professionals or mature student tenants.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "45 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1uaHcR_KNZIed_ZwsUblYCx4BoH91lliC/view?usp=sharing",
@@ -938,7 +939,7 @@
       "Perfect for first-time investors or refinance strategy"
     ],
     "description": "This 2-bedroom terraced property is located just off Perth Street, within Hull's highly desirable HU5 rental corridor. It sits in a proven investment area close to Chanterlands Avenue, attracting both working professionals and mature students due to its central location and excellent transport links. It presents a flexible opportunity to either rent as a standard single let or convert into a Hybrid BTL achieving higher yields with minimal input.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "68 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1tHAxa9q7-Q6agOjMjIsTerFSVXJZqfN6/view",
@@ -997,7 +998,7 @@
       "Ideal for first-time or portfolio investors"
     ],
     "description": "This 3-bedroom, 1-bathroom terraced property with an additional WC is located in the highly popular HU5 rental district, close to both the University of Hull and Newland Avenue. Currently a family home, the property offers two clear routes - retain as a single-let or convert into a high-yielding Hybrid BTL.",
-    "beds": [1,2,3],
+    "beds": [3],
     "baths": [1],
     "size": "83 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/159YKgYSuKX99YGNQf0EhNiUZt6a_CwPM/view",
@@ -1053,7 +1054,7 @@
       "Low-risk investment with strong capital uplift potential"
     ],
     "description": "This 2-bedroom, 1-bathroom property is located in one of Hull's most reliable student and professional rental areas, just off Beverley Road, within walking distance to the University of Hull and the city's main student bar and cafe district. Currently vacant and in very good condition, it is ready to rent immediately to 2 tenants with minimal input. However, it also offers strong potential to add value through conversion into a 3-bed, 2-en-suite student HMO, an attractive opportunity in the high-demand HU5 market.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "91 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1yCw0-VtFyZeWUyX-mknojn2EAWR5F-5A/view?usp=sharing",
@@ -1109,8 +1110,8 @@
       "Ideal for long-term investors or refinance strategy"
     ],
     "description": "This exclusive dual freehold portfolio consists of two prime properties located within the Pearson Park Conservation Area - one of Hull's most sought-after and historically significant residential districts. Both assets are presented in excellent condition and generate stable rental income from a combined total of nine self-contained units, appealing to professionals, families, and corporate tenants alike. Together, they offer  income, strong capital security, and long-term appreciation potential in a location where stock of this calibre is exceptionally limited.",
-    "beds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
-    "baths": [1,2,3,4,5,6,7,8,9],
+    "beds": [13],
+    "baths": [9],
     "size": "591 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1ZC73q8q6UHhsNsrwowKJXFhebNvaOn5f/view?usp=sharing",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Pearson-Park-Hull-HU5-2TR-29bb6c4b0141808488e6c143114e5332?source=copy_link",
@@ -1181,7 +1182,7 @@
       "Prime Avenues location near Newland Avenue"
     ],
     "description": "This is a licensed 4-bedroom, 1-bathroom HMO located in the heart of Hull's popular HU5 Avenues district, an established rental hotspot for both students and working professionals. The property is presented in very good overall condition, with a recent roof, updated kitchen and bathroom, and no immediate maintenance required. It is fully licensed, currently let, providing a solid  investment with minimal input needed from the buyer.",
-    "beds": [1,2,3,4],
+    "beds": [4],
     "baths": [1],
     "size": "86 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1hDTtN784wflC8NNiNDcTVoTbkkPDgtL6/view?usp=drive_link",
@@ -1233,7 +1234,7 @@
       "Gross Yield 38.2%"
     ],
     "description": "This 3-bedroom, 1-bathroom property is located in one of Hull's most reliable student investment areas, just off Beverley Road and within walking distance to the University of Hull. Currently arranged as a large 3-bed house, the property offers exceptional potential for conversion into a 5-bed HMO or alternatively two self-contained apartments (1-bed and 2-bed), both of which are highly viable options given the strong local demand from students and young professionals.",
-    "beds": [1,2,3],
+    "beds": [3],
     "baths": [1],
     "size": "101 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1zS1f_6-D1s0w3lVyRvHQKVDec1P4HJKE/view?usp=sharing",
@@ -1288,7 +1289,7 @@
       "Walking distance to University & Beverley Road amenities"
     ],
     "description": "This is a well-presented three-bedroom terraced property located on Albert Avenue, one of the most popular rental corridors within walking distance of Hull Royal Infirmary, the MKM Stadium, and easy access routes to the city centre and universities. The property is in very good overall condition, requiring only minor redecoration and furnishing to be ready for tenants. Previously operated as a 4-bed HMO, it has clear potential to be reinstated as a compliant, high-yield multi-let, or alternatively used as a Hybrid BTL with strong demand from students and young professionals.",
-    "beds": [1,2,3],
+    "beds": [3],
     "baths": [1],
     "size": "82 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1wu6f1Ip7dO6xzPquBeKVSou19F5wQmtF/view",
@@ -1341,7 +1342,7 @@
       "Strong rental demand from students & young professionals"
     ],
     "description": "This 2-bedroom ground floor apartment is located within St Johns Court on Queens Road, one of Hull's most popular residential and professional letting areas. The property is purpose-built, currently tenanted for over 20 years, and includes private off-street parking to the rear. The apartment offers a stable income stream under the current tenancy agreement (in place until September 2027) and presents strong potential for a refurbishment-led uplift once the tenancy ends.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "42 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1RjCgoR-8GZsbP9KabArtOdwNfqk1YO4H/view?usp=sharing",
@@ -1445,7 +1446,7 @@
       "Low entry point, great first investment"
     ],
     "description": "This is a well-presented two-bedroom terraced property located in a quiet and desirable pocket of HU5, close to Newland Avenue and within easy reach of the University of Hull and key local amenities. The house is in very good overall condition, requiring only minor cosmetic touch-ups once vacant. It is an ideal Hybrid BTL opportunity, suited for conversion into a high-yield 2-bed professional or student let with minimal investment.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "57 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1HikxPFYxJjRLxwF0VGh02DfCqoAMh4W5/view?usp=drive_link",
@@ -1503,7 +1504,7 @@
       "Perfect for Hybrid BTL"
     ],
     "description": "This 2-bedroom, 1-bathroom property is located just off Princes Road, one of Hull's most popular and reliable areas for Hybrid BTL investments. It's within walking distance to Princes Avenue and close to the University of Hull, offering strong appeal to both students and working professionals. Currently vacant, the property requires a full refurbishment to achieve high-end rental standards with a projected income of &pound;130 per room per week.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "73 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1yNis7DLPsLJyYpGqCcOH7UogzYRb7sjT/view?usp=sharing",
@@ -1608,8 +1609,8 @@
       "Tenanted ground-floor retail unit"
     ],
     "description": "This substantial 8-bed, 8-bath HMO with an additional tenanted commercial unit is located in the heart of Goole DN14, within walking distance of the train station and key commuter routes to Hull and Leeds. The property comprises three self-contained apartments plus a retail unit, all recently refurbished to a high standard. It represents a turnkey mixed-use investment offering both strong rental income and long-term capital growth potential in an improving town centre location.",
-    "beds": [1,2,3,4,5,6,7,8],
-    "baths": [1,2,3,4,5,6,7,8],
+    "beds": [8],
+    "baths": [8],
     "size": "170 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1nsdFRlsozCcIvsmxGgo0dWpwbd_wmm9T/view?usp=drive_link",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Argyle-Street-Goole-DN14-5EW-295b6c4b0141803f89e5d47ba515d3c1",
@@ -1661,8 +1662,8 @@
       "Recent works completed"
     ],
     "description": "Ella Street is a large, seven-bedroom, four-bathroom terraced property located in the highly desirable HU5 Avenues district, a prime rental location for both students and young professionals. The property is in very good condition throughout, with a modern layout, solid structure and attractive period features.",
-    "beds": [1,2,3,4,5,6,7],
-    "baths": [1,2],
+    "beds": [7],
+    "baths": [2],
     "size": "157 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1OXKEFv_xnAPEfeMF4uVB6ZSGUvtfWrsF/view?usp=sharing",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Ella-Street-Hull-HU5-3AX-26fb6c4b01418010b97df13f008ba65a",
@@ -1721,7 +1722,7 @@
       "Strong opportunity for conversion into a 6 bed, 6-bath HMO"
     ],
     "description": "This 5-bedroom, 1-bathroom mid-terraced property is located on Boothferry Road, within walking distance of Goole town centre and key amenities. The property is currently vacant and presents a strong opportunity for conversion into a 6-bed, 6-bath HMO. Goole continues to benefit from major investment by large employers including Siemens, Amazon, and offshore wind projects, attracting a growing workforce. No planning permission is required for HMO up to 6 beds. Once refurbished to a high standard with en-suites in each room, the property is projected to achieve &pound;170 per room per week, generating approximately &pound;4,420 per month / &pound;53,040 per annum.",
-    "beds": [1,2,3,4,5],
+    "beds": [5],
     "baths": [1],
     "size": "215 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1e4i4M8RrtnglLTvcOe-OwCaahiep_XBj/view?usp=drive_link",
@@ -1777,7 +1778,7 @@
       "3-rooms opportunity"
     ],
     "description": "This 2-bedroom, 1-bathroom terraced property is situated just off Goddard Avenue in one of Hull's most popular student and professional rental areas. The property is within easy reach of the University of Hull and the vibrant amenities of Newland Avenue, making it a highly attractive investment opportunity. In its current condition, the house is ready to let immediately as a 2-bedroom property, requiring no refurbishment work. Alternatively, there is excellent potential to add a third bedroom and an en-suite, which would significantly increase both the rental income and capital value.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "75 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1X1Y6il6sv8_PZQ5ESo_5uND7KM6VLTIx/view?usp=drive_link",
@@ -1834,8 +1835,8 @@
       "Very strong rental demand from professionals"
     ],
     "description": "This two-apartments freehold property on Perth Street offers a strong turnkey-style investment opportunity in a well-connected, high-demand area of Hull. The location is highly desirable - a quiet residential street just 3 minutes from the busy Princes Avenue area and around 7 minutes by bike to the University of Hull.",
-    "beds": [1,2],
-    "baths": [1,2],
+    "beds": [2],
+    "baths": [2],
     "size": "73 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1qcAlHmaca2xQbJTKo9uASX7i-5FnNVru/view?usp=drive_link",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Perth-Street-Hull-HU5-3NZ-293b6c4b01418015b971dd0985f83d52",
@@ -1891,7 +1892,7 @@
       "Good opportunity for first time buyers"
     ],
     "description": "This 2-bedroom, 1-bathroom terraced property is located in one of Hull's strongest student and professional rental zones - just a 10-minute walk to the University of Hull and 5 minutes from the amenities of Newland Avenue.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "84 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1VylX-rgKBq6A-qzBeXS5qyISoo99K_OL/view?usp=sharing",
@@ -1948,7 +1949,7 @@
       "Walking distance to University & Beverley Road amenities"
     ],
     "description": "This 4-bedroom, 1-bathroom property is located in a strong student and working professional area just off Beverley Road, within walking distance of the University of Hull and the city centre. The property is partially rented and generating income but is below compliance standards and requires significant refurbishment to reach its full potential. With a complete upgrade, there's an opportunity to add en-suites, increase rental income, and improve long-term capital value.",
-    "beds": [1,2,3,4],
+    "beds": [4],
     "baths": [1],
     "size": "111 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1VEhs-leE7t01euCcoNTPtFCurnGlv7qz/view?usp=sharing",
@@ -2004,7 +2005,7 @@
       "Good opportunity for first time buyers"
     ],
     "description": "This 2-bedroom, 1-bathroom property is located in one of Hull's most desirable rental pockets, just off Newland Avenue and within easy reach of the University of Hull. A turnkey Hybrid BTL opportunity, this house offers immediate lettability with the option to add value through reconfiguration - converting the upper floor into two en-suite bedrooms, enhancing both rent and resale potential. The property's current layout already provides a modern apartment-style feel, ideal for students or young professionals looking for high-quality accommodation near the city's key amenities.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "61 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1vhMcHppzIDo2GXPXjfDEJFJHQbDByfGd/view?usp=sharing",
@@ -2054,7 +2055,7 @@
       "Proven demand from professionals & students"
     ],
     "description": "This 4-bedroom, 1-bathroom fully tenanted terraced house is located in the heart of HU5 - one of Hull's strongest rental areas for working professionals and students.The property has been occupied by the same tenants for a number of years, generating a reliable income with minimal management needs.While the property is slightly dated, it remains fully compliant and functional, with clear scope to uplift rent and capital value through light refurbishment or conversion of some rooms to en-suites.",
-    "beds": [1,2,3,4],
+    "beds": [4],
     "baths": [1],
     "size": "98 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1jKRMXwYekRdGAzIkwOt6auSNvD70-GyH/view?usp=drive_link",
@@ -2105,7 +2106,7 @@
       "Potential to convert living room into 3rd bedroom for higher yield"
     ],
     "description": "This 2-bedroom, 1-bathroom property is located in a highly desirable pocket of HU5 - within walking distance of Newland Avenue, the University of Hull, and the Hull Royal Infirmary. The location attracts a consistent mix of students, young professionals, and hospital staff. The house is presented in good condition throughout and requires minimal work to be rent-ready. With furniture added, it offers strong Hybrid BTL returns and future potential to convert the living room into a third bedroom if desired.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "67 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1Ec-HDZ14DRYC43pO5sPgq3KVz20EcM9c/view?usp=sharing",
@@ -2158,7 +2159,7 @@
       "A solid, low-entry investment"
     ],
     "description": "This 2-bedroom, 1-bathroom property is a well-presented Hybrid BTL located just off Newland Avenue - one of Hull's strongest rental areas for both students and working professionals. The house is in good condition, requiring some basic works, with an option to later refurbish for higher yields. It's a quiet residential street within easy access to amenities, transport links, and the University of Hull.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "63 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1wCAdOQ_Kwq5F2OQ6WPVyppbPvgUP3PWv/view?usp=sharing",
@@ -2212,8 +2213,8 @@
       "Fully refurbished"
     ],
     "description": "This block of 5 self-contained apartments (total 294 sqm / 3,165 sqft) is located on Beverley Road, HU5 1AH, one of Hull's strongest rental corridors with consistent student and professional demand. All units are fully let until August 2026, providing immediate income and long-term stability. The property is freehold and turnkey, requiring no refurbishment and offering a proven rent roll from both student and professional tenants.",
-    "beds": [1,2,3,4,5,6],
-    "baths": [1,2,3,4,5],
+    "beds": [6],
+    "baths": [5],
     "size": "294 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/17En-gq5ITFhnLMFfC0zNrbIdiM4kfnl2/view?usp=sharing",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-The-Bull-Beverley-Road-Hull-HU5-1AH-287b6c4b0141801cb184e6db3e9a611c?source=copy_link",
@@ -2261,8 +2262,8 @@
       "2 refurb options inside our property appraisal"
     ],
     "description": "This 8-bedroom, 2-bathroom HMO is located in one of Hull's most reliable student investment areas, within walking distance to the University of Hull. The biggest limitation of this property in its current condition is the ratio between the number bedrooms and bathrooms.",
-    "beds": [1,2,3,4,5,6,7,8],
-    "baths": [1,2,3],
+    "beds": [8],
+    "baths": [3],
     "size": "177 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1xudBtkhbopHTdbvhEaOYoBpM9sZlR-lE/view?usp=sharing",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Ryde-Street-Hull-HU5-1PA-28bb6c4b0141808087ecdd47c8d9d7b8?source=copy_link",
@@ -2327,7 +2328,7 @@
       "Excellent yield uplift opportunity through refurbishment"
     ],
     "description": "This 2-bedroom, 1-bathroom on Edgecombe Street, HU5 presents a fantastic refurbishment and uplift opportunity. Located in a prime student and professional rental area just off Newland Avenue, the property offers excellent potential to be reconfigured into a 3-bed, 2-bath layout, significantly enhancing rental yield and long-term value. Once refurbished, it can achieve &pound;120 - &pound;130 per room per week, offering strong returns and appeal for both investors and tenants.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "64 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1yZUWd-TDhR8g6kcg03FhQl306ItrF0HZ/view?usp=sharing",
@@ -2380,8 +2381,8 @@
       "Tenanted long-term, proven rental history"
     ],
     "description": "This property consists of 2 self-contained two-bedroom apartments (3 bedrooms, 2 bathrooms total), located on Leonard Street, HU3 - an established rental area with consistent demand from working tenants. Both units are fully let to long-term tenants, generating steady income and requiring no internal refurbishment. The property represents a hands-off, reliable investment with scope for minor rent increases and enhanced kerb appeal through light external works.",
-    "beds": [1,2,3],
-    "baths": [1,2],
+    "beds": [3],
+    "baths": [2],
     "size": "148 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/14Bp9acGCxRRQ2ZR0Bw9Gvj2REzFam_Jz/view?usp=sharing",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Leonard-Street-Hull-HU3-1SA-276b6c4b014180f2b247ca06a37d21ac?source=copy_link",
@@ -2438,7 +2439,7 @@
       "Perfect for converting into a 1-bed apartment with home office"
     ],
     "description": "This 1-2 bedroom, 1-bathroom apartment is located within West Park House, close to the city centre and major transport links. The apartment offers a great opportunity for first-time investors or AirBnB operators, with the block currently undergoing a wider refurbishment - improving both the kerb appeal and long-term value. Once refurbished internally, it can achieve &pound;150/week on standard rental or up to &pound;100/night on AirBnB, making it a high-yield hybrid BTL opportunity.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "58 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1nB4NRy2GhRVDrqsrPmY8hZefLKaPeXWg/view?usp=sharing",
@@ -2489,7 +2490,7 @@
       "High-yield property with long-term value growth potential"
     ],
     "description": "This 2-bedroom, 1-bathroom terraced house offers the ideal opportunity for a first-time buyer or investor seeking a fully renovated, ready-to-let property in a quiet and desirable area. Recently refurbished throughout, the property features a modern open-plan kitchen and reception area, a newly fitted bathroom, and a bright, contemporary finish enhanced by a large skylight that fills the space with natural light. Perfect for working professionals or small families, this is a turnkey opportunity requiring minimal additional work beyond furnishing.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "45 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1XrMbqGKAJeeG1SqWk_YsoF9pbAbEDgVE/view?usp=sharing",
@@ -2546,7 +2547,7 @@
       "High-yield, reliable investment with scope to add value"
     ],
     "description": "This 2-bedroom, 1-bathroom property is located in a quiet side street just off Newland Avenue, one of Hull's most vibrant rental locations with consistent demand from students and young professionals.With only minor decorative work and a professional clean, the property can be rented immediately at &pound;110+ per room per week with the addition of a quality furniture pack. Longer-term, there is potential to reconfigure the layout to add en-suites and increase overall rental income.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "58 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1h-3Guz1i8CrlmsALCTJ0moIk-dKU_0w-/view?usp=sharing",
@@ -2602,7 +2603,7 @@
       "Strong Hybrid BTL in prime student location"
     ],
     "description": "This 2-bedroom, 1-bathroom property is located on Devon Grove, HU5, within one of Hull's most reliable student rental areas. With strong local demand and close proximity to the University of Hull, it represents a ready-to-go investment. The house is in very good condition with no refurb required. By simply furnishing and presenting it well, the property can be marketed as a student let at &pound;125 per room, per week. There is also scope to add an en-suite to one bedroom if desired, providing further rental uplift.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "59 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1wSsneoxRiWMJL2ETiMz8Q5u03XECRdDU/view",
@@ -2656,8 +2657,8 @@
       "Fully tenanted, hands-off investment"
     ],
     "description": "This 7-bed, 2-bathroom licensed HMO is located on Peel Street, HU3 - a central Hull rental area with consistent demand from working tenants. The property is fully occupied, has a proven history of long-term lettings, and provides stable cash flow from day one. While a full refurbishment could be considered, the current tenant profile values affordable, functional accommodation, making this an ideal hands-off investment.",
-    "beds": [1,2,3,4,5,6,7],
-    "baths": [1,2],
+    "beds": [7],
+    "baths": [2],
     "size": "148 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1uCVfdc4DnTU_YGdQ1bkBCznVts3YROwG/view",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Peel-Street-Hull-HU3-1QR-27fb6c4b014180da9024c2bff5913c13",
@@ -2715,8 +2716,8 @@
       "Fully let for 25/26"
     ],
     "description": "This 4-bedroom, 2-bathroom licensed HMO is a turnkey investment located on Marshall Street, HU5 - a prime rental area with strong tenant demand from both students and young professionals. The property is in very good condition with no refurbishment required, making it an immediate income-producing asset.",
-    "beds": [1,2,3,4],
-    "baths": [1,2],
+    "beds": [4],
+    "baths": [2],
     "size": "104 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1x62afpzse-SLF-I-p4ZDXNGEJcWDvGt7/view?usp=sharing",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Marshall-Street-Hull-HU5-3DA-27eb6c4b01418044b34afa68e3115f3a?source=copy_link",
@@ -2773,8 +2774,8 @@
       "No major works required"
     ],
     "description": "This block of 4 self-contained apartments (2 x one-bedroom and 2 x studio) is located on Morpeth Street, HU3 - a well-established rental area with consistent demand from working professionals. The property is already fully tenanted and generates steady income. With minor cosmetic upgrades, there is scope to increase rents further and uplift long-term value.",
-    "beds": [1,2,3,4],
-    "baths": [1,2,3,4],
+    "beds": [4],
+    "baths": [4],
     "size": "173 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1wC8q4IlU0ja3fmCUFWdud1YauDL8l1wN/view?usp=sharing",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Morpeth-Street-Hull-HU3-1RF-276b6c4b01418015b11de44dd309e083?source=copy_link",
@@ -2837,8 +2838,8 @@
       "Ideal for the investor who wants a hands off investment"
     ],
     "description": "This 6-bedroom, 2-bathroom HMO is located on St Hilda Street, Hull HU3, a strong rental area with consistent tenant demand. The property is fully let, compliant, and income-producing at &pound;2,383 pcm (&pound;28,600 pa). The house is in turnkey condition, with no immediate works required. A new roof, good external presentation, and solid compliance (fire doors, alarms, escape routes) make this a low-maintenance investment. There is scope to further enhance value and rental by creating en-suites due to the property's large layout, but this is not essential.",
-    "beds": [1,2,3,4,5,6],
-    "baths": [1,2],
+    "beds": [6],
+    "baths": [2],
     "size": "178 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1cfNCAezxdvsrKfQ20KR1glt4XF2wkvtD/view?usp=sharing",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-St-Hilda-Street-Hull-HU3-1UT-277b6c4b0141804ba06ee04f430e39a3?source=copy_link",
@@ -2900,8 +2901,8 @@
       "Prime student location"
     ],
     "description": "Exclusive price for JPC investors: secured with a £61,000 discount. This 8-bedroom, 2-bathroom HMO is located on Grafton Street, a well-established and reliable student rental location close to Hull city centre and within walking distance to the University of Hull. The property has just passed council inspection with all required works completed, holding a valid HMO licence and all certificates in place. It is currently fully let for the 2024/2025 student year and is being marketed with existing furniture for the next academic year. ",
-    "beds": [1,2,3,4,5,6,7,8],
-    "baths": [1,2],
+    "beds": [8],
+    "baths": [2],
     "size": "147 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/11uUvs7Z_tuxN4bogXx_OvLC1691Yr4ov/view?usp=sharing",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Grafton-Street-Hull-HU5-2NP-26fb6c4b01418029ae20c3d103770f04?source=copy_link",
@@ -2957,7 +2958,7 @@
       "Prime for student rental or Airbnb"
     ],
     "description": "This 2-bedroom, 1-bathroom property is located in one of Hull's most reliable student and professional rental areas. With strong demand for both long-term lets and Airbnb-style rentals, the property represents a turnkey investment opportunity requiring minimal work aside from furnishing.The house has been recently refurbished to a high standard and stands out as one of the best-presented properties in the HU5 rental market.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "65 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1jKbAUXEifmTC33uMcuJrGXOWBY0f1Sg5/view?usp=sharing",
@@ -3018,8 +3019,8 @@
       "Potential to reconfigure into 4-bed, 2-bath BTL and increase rental income"
     ],
     "description": "This property comprises two self-contained 2-bed apartments, currently generating income from existing tenants. Located directly on Newland Avenue, one of Hull's busiest student and professional rental corridors, the property offers immediate yield and strong potential for reconfiguration. Apartment A: 2 bed / 1 bath - requires refurbishment. Apartment B: 2 bed / 1 bath - in good order, with a long-standing tenant in place. Investors have the choice of retaining the dual-apartment layout or converting back into a 4-bed, 2-bath BTL property to maximise rental return.",
-    "beds": [1,2,3,4],
-    "baths": [1,2],
+    "beds": [4],
+    "baths": [2],
     "size": "84 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1gntnJscVFZiQTtkN30wOui96Q51Rh-Oq/view?usp=sharing",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Newland-Avenue-Hull-HU5-2EL-264b6c4b014180eaa29af1b4194ce8d9?source=copy_link",
@@ -3076,8 +3077,8 @@
       "Excellent HU5 location, strong tenant demand"
     ],
     "description": "This 7-bedroom, 2-bathroom licensed HMO is located in one of Hull's most reliable student and professional rental areas, just off Princes Avenue and within walking distance to the University of Hull. The property has been recently refreshed by the landlord, including a new bathroom, and is presented as a turnkey investment requiring no refurbishment. Rentals on this road historically let quickly and maintain full occupancy, underlining the strength of this location.",
-    "beds": [1,2,3,4,5,6,7],
-    "baths": [1,2],
+    "beds": [7],
+    "baths": [2],
     "size": "132 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1xVrQ0tYpQMyHsO2Ffy4rYwRXgv9ZxAc4/view?usp=sharing",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Princes-Road-Hull-HU5-2RD-26bb6c4b014180789adedb1b5c20bc07?source=copy_link",
@@ -3137,8 +3138,8 @@
       "Private allocated parking for tenants"
     ],
     "description": "This block of 12 apartments (12 bedrooms, 8 bathrooms, 8 receptions) is located on Peel Street, Hull, close to Hull Royal Infirmary, with direct transport links to the city centre and motorway network. Currently producing &pound;49,140 gross annual rental income, this is a turnkey investment with no refurbishment required. The property benefits from a strong rental history and long-standing management, making it particularly attractive to investors seeking a secure, income-producing asset.",
-    "beds": [1,2,3,4,5,6,7,8,9,10,11,12],
-    "baths": [1,2,3,4,5,6,7,8],
+    "beds": [12],
+    "baths": [8],
     "size": "372 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1P0FKxM8yrdDgpctpN1DM6NT2-UN7N4Ki/view?usp=sharing",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Peel-Street-Hull-HU3-1QR-264b6c4b014180449dedc3a3f9a90810?source=copy_link",
@@ -3207,7 +3208,7 @@
       "Perfect entry-level investment for first-time buyers"
     ],
     "description": "This 2-bedroom, 1-bathroom terraced house is located on Sharp Street, HU5, one of Hull's most reliable rental locations just off Beverley Road and within walking distance to the University of Hull. The property is structurally sound with good kerb appeal, a large bathroom, and potential to add significant value through light refurbishment or reconfiguration. With a straightforward redecoration and new furniture, it can be repositioned immediately for the student market. Alternatively, a larger investment could convert the property into a 3-bed, 2-bath student HMO, maximising both income and long-term value.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "80 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1iuKG9TyNWmwwbqG7Vr_75-Y8wl672fSC/view?usp=sharing",
@@ -3263,7 +3264,7 @@
       "Currently let to a family"
     ],
     "description": "Newland Avenue is a spacious 2-bed, 1-bath property situated in a strong rental location at the top of Newland Avenue. The house is currently a family home but offers excellent scope for refurbishment. With a reconfiguration, it could be converted into a high-yielding 3-bed, 3-bath property, well suited to the student and professional rental market.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "103 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1VKdRbw_A4dXGA54AN18-q78qT63XGAP5/view?usp=sharing",
@@ -3322,7 +3323,7 @@
       "Location: 12 min walk to the University of Hull"
     ],
     "description": "This 4-bedroom, 1-bathroom property is located in one of Hull's most reliable student investment areas, just off Sidmouth Street and within walking distance to the University of Hull. The property is currently let and being marketed for the next academic year, meaning there is no immediate spend required. With only a professional deep clean and light decorative works, it can continue to generate strong income. For investors looking to increase returns, the property also offers scope to install en-suites and modernise the kitchen, which would reposition it at the top end of the student/professional market.",
-    "beds": [1,2,3,4],
+    "beds": [4],
     "baths": [1],
     "size": "85 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1qzo5nqvoeprCnI0f64XV9kjiSKvEdRtv/view?usp=sharing",
@@ -3374,8 +3375,8 @@
       "Value-add potential: convert to 7th en-suite bedroom"
     ],
     "description": "Opportunity to purchase a licensed 6-bed / 4-bath HMO in the highly popular HU5 rental area, close to Hull University, Newland Avenue and Hull Royal Infirmary. The property is fully let to working professionals and presents immediate strong rental income with scope to add further value through light reconfiguration. With minimal works, the property could easily be converted into a 7-bed HMO with en-suite and achieve a significant uplift in rental income.",
-    "beds": [1,2,3,4,5,6],
-    "baths": [1,2,3,4],
+    "beds": [6],
+    "baths": [4],
     "size": "143 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1Sf3K-2YO5PzUXnBnfK6wCOZ5NLd8fLZz/view?usp=sharing",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Park-Grove-Hull-HU5-25db6c4b014180dfbe8dfd2efe34eff0?source=copy_link",
@@ -3430,7 +3431,7 @@
       "HMO planning permission & licensing is required"
     ],
     "description": "The property is intended for conversion into a 6-bedroom House in Multiple Occupation (HMO). The refurb estimate reflects a worst-case scenario, assuming that the majority of work will be required",
-    "beds": [1,2,3,4,5,6],
+    "beds": [6],
     "baths": [1],
     "size": "105 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1PMBd0IlxBYKCOIW2gVT_7fT0YAtMvTpm/view?usp=sharing",
@@ -3485,7 +3486,7 @@
       "Entry-level purchase price with strong value-add potential"
     ],
     "description": "This 2-bedroom, 1-bathroom terraced house is located on Exmouth Street, HU5, within one of Hull's most reliable student and professional rental areas. The property benefits from a recent roof replacement, strong kerb appeal, and proximity to the University of Hull and key amenities. Currently empty, the property offers immediate scope to generate rental income with minimal works, while a full refurbishment presents an opportunity to reposition as a higher-yielding BTL with potential to create a third bedroom and en-suites.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "68 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1-Y2G60FeG0v9pLPmHSmmOxQwa9HVfPzl/view?usp=sharing",
@@ -3540,7 +3541,7 @@
       "Excellent condition with modern fittings"
     ],
     "description": "This 4-bedroom, 1-bathroom HMO is situated on Melbourne Street, HU5, a well-regarded residential street within close proximity to the University of Hull and popular student areas. The property is currently operating as a 4-bed HMO (with 3 rooms let to working professionals under tenancy until May 2026). With minimal immediate work required, it provides a secure income stream now, with excellent potential to reposition as a high-yield student HMO post-refurb.",
-    "beds": [1,2,3,4],
+    "beds": [4],
     "baths": [1],
     "size": "84 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1gaBVZ0gWaUIkfWFYHyFr1KEcAi9baxdj/view?usp=sharing",
@@ -3597,8 +3598,8 @@
       "Ready to perform from day one"
     ],
     "description": "This 5-bedroom, 5-bathroom HMO is located on Park Avenue, just off Princes Avenue — one of Hull’s most desirable rental areas. The property has recently been refurbished to a good standard and is fully licensed as an HMO. It is currently let to working professionals, mainly doctors and nurses via Hull Royal Infirmary contracts, providing strong, reliable demand.",
-    "beds": [1,2,3,4,5],
-    "baths": [1,2,3,4,5],
+    "beds": [5],
+    "baths": [5],
     "size": "136 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1ekhOsg_o5TRJm4MU8VluDz4PafxMG3Ny/view?usp=sharing",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Park-Grove-Princes-Ave-HU5-2UR-248b6c4b014180579d49d76a51e31ec1?source=copy_link",
@@ -3656,7 +3657,7 @@
       "Flexible layout with potential to increase rental income"
     ],
     "description": "This 4-bedroom, 1-bathroom property is located in a highly desirable rental area of Hull. It is within 10 minutes walk of the University of Hull and 5 minutes from Newland Avenue, a key hotspot for students and young professionals. The property has been very good refurbished and is ready to let as-is, with excellent scope for configuration changes to further increase rental income.",
-    "beds": [1,2,3,4],
+    "beds": [4],
     "baths": [1],
     "size": "107 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1kNM8Ft_FtXdn8geakx4EC64VCWC5GNow/view?usp=sharing",
@@ -3718,8 +3719,8 @@
       "Prime location - close to Hull city centre and Hull University"
     ],
     "description": "Opportunity to purchase a converted house split into 2 self-contained apartments, providing a total of 3 bedrooms and 2 bathrooms.The property is located close to Hull city centre and Hull University. Its central position, together with nearby amenities on Newland Avenue and Princes Avenue, makes it highly attractive for both students and professionals.",
-    "beds": [1,2,3],
-    "baths": [1,2],
+    "beds": [3],
+    "baths": [2],
     "size": "114 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1bzxZAApG8A7RUtaxHbuUML4T_A5GbGUQ/view?usp=sharing",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Park-Avenue-Princes-Avenue-Hull-HU5-4DE-255b6c4b0141804cbb62cb6d33300bd1?source=copy_link",
@@ -3775,7 +3776,7 @@
       "In very good overall condition"
     ],
     "description": "This 2-bedroom, 1-bathroom apartment is located in a secure, purpose-built block at Dunsley House (HU4 6SA), with gated access, allocated parking, and well-maintained communal gardens. The property is within close proximity to motorway links, making it ideal for professional tenants. With a light refurbishment and furniture package, it is ready to achieve strong rental demand.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "61 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1_RCy2Gu_POx62JYmBHA2VSmTW_MoOwL4/view",
@@ -3829,8 +3830,8 @@
       "Updated floor plan in the appraisal - for maximum rental potential"
     ],
     "description": "This 5-bedroom, 2-bathroom HMO is located in one of Hull's most reliable student investment areas, between Beverley Road and Newland Avenue and within walking distance to the University of Hull. Following our on-site inspection, we can confirm that the property is in good internal condition, requiring no major works - a rare find in this postcode.",
-    "beds": [1,2,3,4,5],
-    "baths": [1,2],
+    "beds": [5],
+    "baths": [2],
     "size": "109 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1DpTuHA9vGqT3Ny9_9WLuAp6brXXq9oDl/view?usp=sharing",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Beech-Grove-Hull-HU5-1LY-24eb6c4b01418074ba8fc75ae350a6df?source=copy_link",
@@ -3883,7 +3884,7 @@
       "In a walking distance to the De Montfort University and city centre"
     ],
     "description": "Newly refurbished to a high standard, this turnkey property is perfectly located within walking distance of De Montfort University, the city centre, and King Power Stadium, an ideal investment or ready-to-let home.",
-    "beds": [1,2,3],
+    "beds": [3],
     "baths": [1],
     "size": "83 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/10-8C3jT9IjCOyFa6M9NC9SKYILmXSn-E/view?usp=sharing",
@@ -3941,7 +3942,7 @@
       "Ideal for professional lets or Airbnb"
     ],
     "description": "This 2-bedroom, 1-bathroom first-floor apartment is in excellent overall condition and located in a highly desirable area directly opposite Pearson Park. The property offers strong appeal for both long-term rental and short-stay/Airbnb use, with the city centre, Princess Road's shops and bars, and Newland Avenue all within walking distance. With minimal works required beyond furnishing, and significant potential as an Airbnb short-let achieving up to &pound;1,000 per week, this apartment offers both immediate rental income and strong capital growth prospects.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "89 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1gr9dvKudumHCR3Up3hajCSAEq8ppNF8W/view?usp=sharing",
@@ -3999,8 +4000,8 @@
       "Ideal for working professionals"
     ],
     "description": "AThis is a rare double-property investment in central Hull, offering 13 self-contained units - each with en-suite, fridge, microwave and private living space. Two shared kitchens and utility areas serve the building, and all rooms are separately metered.",
-    "beds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
-    "baths": [1,2,3,4,5,6,7,8,9,10,11,12,13],
+    "beds": [13],
+    "baths": [13],
     "size": "193 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1SEzHe_xXb-kBt8-9JAlSRGZXhYdIxdrC/view?usp=sharing",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-John-Street-Hull-HU2-8DH-248b6c4b014180a89500c834e952ee58?source=copy_link",
@@ -4059,7 +4060,7 @@
       "Mixed-use freehold: 4 Bed HMO + Ground Floor Retail Uni"
     ],
     "description": "This mixed-use freehold property comprises a 4-bedroom HMO and a ground floor retail unit, located in a high-demand area of Hull. With strong demand for both residential and commercial units in the area, this property presents a solid value-add investment.",
-    "beds": [1,2,3,4],
+    "beds": [4],
     "baths": [1],
     "size": "142 sq m",
     "dealAnalysis": "https://static.tildacdn.com/tild3730-3932-4231-a433-633834306139/__2025-08-01__174238.png",
@@ -4114,8 +4115,8 @@
       "Potential for extension"
     ],
     "description": "This 6-bedroom, 2-bathroom HMO is located in one of Hull's most reliable student investment areas, just off Newland Avenue and within walking distance to the University of Hull. Priced at just &pound;150,000, this is significantly below what we've seen similar HMOs sell for in the area (e.g., &pound;225,000+ on Cranbrook Avenue). We've outlined two refurbishment options depending on whether you're looking for a light uplift or a more comprehensive value-add approach.",
-    "beds": [1,2,3,4,5,6],
-    "baths": [1,2],
+    "beds": [6],
+    "baths": [2],
     "size": "137 sq m",
     "dealAnalysis": "https://static.tildacdn.com/tild3531-6234-4939-a561-376534636237/__2025-08-01__162739.png",
     "propertyAppraisal": "https://docs.google.com/document/d/1GE4jBWtK7Cvop-ro_65QVKjQNE29QqhJlYkFewE3QjY/edit?usp=sharing",
@@ -4173,7 +4174,7 @@
       "Vacant and ready to let, just furnish and start earning"
     ],
     "description": "This 4-bedroom, 1-bathroom property is located in a strong rental area of Hull, with consistent tenant demand. The property is generally in good condition but would benefit from light refurbishment to bring it up to a modern standard - offering a great opportunity to add value while securing strong rental returns.",
-    "beds": [1,2,3,4],
+    "beds": [4],
     "baths": [1],
     "size": "77 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1MGqGoQw2ldb6Rx9FhfvcrqkddkYJiqNX/view?usp=sharing",
@@ -4227,8 +4228,8 @@
       "Sold vacant to undertake the refurb and rent out starting September 2025 with new student intake."
     ],
     "description": "The property is located on a clean and appealing street, contributing positively to its rental potential, very close to the University of Hull. It is a 4-bedroom house with well-proportioned rooms. With some investment and cosmetic upgrades, the property presents strong potential as a student rental.",
-    "beds": [1,2,3,4],
-    "baths": [1,2],
+    "beds": [4],
+    "baths": [2],
     "size": "99 sq m",
     "dealAnalysis": "https://static.tildacdn.com/tild3639-3461-4738-a634-393866393230/__2025-08-01__132630.png",
     "propertyAppraisal": "https://docs.google.com/document/d/1pdCLSJ_It2f8V1fWAIIgc8BpTX6QRMuYfmg3Z0Z1iU4/edit?usp=sharing",
@@ -4285,7 +4286,7 @@
       "Sold vacant to undertake the refurb and rent out starting September 2025 with new student intake."
     ],
     "description": "This 3-bedroom, 1-bathroom property is located in one of Hull's most reliable student investment areas, just off Newland Avenue and within walking distance to the University of Hull.",
-    "beds": [1,2,3],
+    "beds": [3],
     "baths": [1],
     "size": "75 sq m",
     "dealAnalysis": "https://static.tildacdn.com/tild3530-3631-4564-a638-626262623230/__2025-08-01__124825.png",
@@ -4338,7 +4339,7 @@
       "Lettings management in place"
     ],
     "description": "This 2-bedroom, 1-bathroom hybrid BTL is located in a prime student rental area of Hull, just a short walk from the university. The property is fully let until August 2026 with strong rental performance, offering immediate income and the option to refurbish once the tenancy ends.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "74 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1mhzQ7vJD0e-WkDKMN3oOaBvfW7qJHl6T/view?usp=sharing",
@@ -4395,8 +4396,8 @@
       "Fully tenanted"
     ],
     "description": "This 6-bedroom, 3-bathroom HMO is located in one of Hull's most reliable student investment areas, between Beverley Road and Newland Avenue and within walking distance to the University of Hull.",
-    "beds": [1,2,3,4,5,6],
-    "baths": [1,2,3],
+    "beds": [6],
+    "baths": [3],
     "size": "113 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1km2-DWGNlPL8stgjxa9XjkeztkIGD5Hk/view?usp=sharing",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Beech-Grove-Hull-HU5-1LY-268b6c4b0141806db894dcfad210b23c?source=copy_link",
@@ -4447,7 +4448,7 @@
       "Vacant and ready to let just furnish and start earning"
     ],
     "description": "A solid, well-maintained 4-bedroom HMO located on Ash Grove, HU5 - a strong rental area popular with students and professionals. This property is purposely built as a 4-bed HMO, with compliant layout and safety features already in place, including fire doors, pink plasterboard, and smoke alarms. Only light cosmetic works are suggested to further enhance rental appeal, along with a garden tidy. It presents a strong, low-effort option for landlords seeking immediate income with long-term stability.",
-    "beds": [1,2,3,4],
+    "beds": [4],
     "baths": [1],
     "size": "77 sq m",
     "dealAnalysis": "https://static.tildacdn.com/tild3030-6436-4431-b534-646562666431/__2025-07-30__160819.png",
@@ -4509,7 +4510,7 @@
       "Nearby properties have sold recently for &pound;115,000"
     ],
     "description": "This 2-bedroom, 1-bathroom property is located in one of Hull's most reliable student investment areas, just off Newland Avenue and within walking distance to the University of Hull.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "66 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1NsE3rLVWB2pATbHM0_EV1SJ3yEuBDs2o/view?usp=sharing",
@@ -4570,7 +4571,7 @@
       "Based on sold house prices we believe this property would achieve &pound;127,500 - &pound;130,000 end value."
     ],
     "description": "This 2-bedroom, 1-bathroom property is located in one of Hull's most reliable student investment areas, just off Newland Avenue and within walking distance to the University of Hull.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "74 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1k-8_D1RCYc54eAzAheWoIV-QAIFBfTiI/view?usp=sharing",
@@ -4624,7 +4625,7 @@
       "Vacant and ready to let just furnish and start earning"
     ],
     "description": "This 2-bedroom, 1-bathroom property is located in one of Hull's most reliable student investment areas, just off Newland Avenue and within walking distance to the University of Hull.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "77 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1_jZ0Wrc9X8Bz29-EpiLqqUB05iNAE4IL/view?usp=sharing",
@@ -4686,7 +4687,7 @@
       "Fully let for academic year 2025/2026"
     ],
     "description": "This spacious and well-maintained 3-bedroom terraced house is located in the heart of Hull's most popular student area, just a 10-minute walk to the University of Hull. It presents a turn-key investment opportunity with a strong tenancy track record and excellent rental potential.",
-    "beds": [1,2,3],
+    "beds": [3],
     "baths": [1],
     "size": "79 sq m",
     "dealAnalysis": "https://static.tildacdn.com/tild6331-3632-4664-b863-353737396531/__2025-07-30__091505.png",
@@ -4744,7 +4745,7 @@
       "Prime student location"
     ],
     "description": "This 3-bedroom, 1-bathroom property is located on Clumber Street, HU5 2RH, in a popular rental area for professionals. The layout allows for easy conversion to a 4-bedroom HMO by utilising one of the two downstairs reception rooms as an additional bedroom. The property already benefits from fire doors and pink plasterboard in place, making it a strong candidate for HMO use.",
-    "beds": [1,2,3],
+    "beds": [3],
     "baths": [1],
     "size": "75 sq m",
     "dealAnalysis": "https://lh3.googleusercontent.com/d/174uhKlkD6aptqho3XZg-THqbq_khBjnE",
@@ -4799,7 +4800,7 @@
       "Vacant and ready to let just furnish and start earning"
     ],
     "description": "A well-presented, purposely built 4-bedroom HMO located on Ash Grove, HU5 - a highly desirable rental location close to Newland Avenue and Beverley Road. The property is already functioning as a compliant multi-let with fire doors, pink plasterboard, and solid internal condition. With only minimal refurbishment (garden tidy, optional redecoration), this property can start producing income quickly. Ideal for investors looking for a low-hassle, income-generating asset in Hull's student and young professional market.",
-    "beds": [1,2,3,4],
+    "beds": [4],
     "baths": [1],
     "size": "78 sq m",
     "dealAnalysis": "https://static.tildacdn.com/tild3035-6435-4333-b432-373530613266/__2025-07-30__165202.png",
@@ -4858,7 +4859,7 @@
       "Furnishing needed"
     ],
     "description": "This 2-bedroom, 1-bathroom property is located in one of Hull's most reliable student investment areas, just off Newland Avenue and within walking distance to the University of Hull.",
-    "beds": [1,2],
+    "beds": [2],
     "baths": [1],
     "size": "74 sq m",
     "dealAnalysis": "https://static.tildacdn.com/tild3863-3135-4535-a536-333932383834/__2025-07-30__170403.png",
@@ -4914,8 +4915,8 @@
       "Fully tenanted"
     ],
     "description": "This 5-bedroom, 3-bathroom HMO (including 1 en-suite) is located in a solid rental area of Hull, with reliable tenant demand and proven rental performance. The current owner is in the process of completing works required by the council, ensuring the property will be fully compliant upon completion.",
-    "beds": [1,2,3,4,5],
-    "baths": [1,2,3],
+    "beds": [5],
+    "baths": [3],
     "size": "127 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1opO4U9cOYEllASe3QshUt0gaHP-Pws7E/view?usp=sharing",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Grafton-Street-Hull-245b6c4b014180dbbf51c3c63a779f37?source=copy_link",
