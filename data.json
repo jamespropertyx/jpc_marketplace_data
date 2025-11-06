@@ -372,7 +372,7 @@
     "tenure": "Leasehold",
     "purchasePrice": 430000,
     "reservationFee": 0,
-    "deposit": "100000",
+    "deposit": "100,000",
     "yield": "6%",
 	"annualRent": "22,000",
     "refurbCost": "0",
