@@ -270,6 +270,7 @@
     "reservationFee": 0,
     "deposit": "60,000",
     "yield": "7%",
+	"annualRent": "18,000",
     "refurbCost": "0",
     "listedDate": "2025-11-05",
     "keyFeatures": [
@@ -279,8 +280,8 @@
       "High rental demand from young professionals and graduates"
     ],
     "description": "South Central is a striking 30-storey landmark development in the heart of Birmingham's Southside district, one of the city's most vibrant cultural and lifestyle destinations. Designed by award-winning architects Glancy Nicholls and developed by Regal Property Group, the scheme brings together 166 premium studio, one, and two-bedroom apartments crafted for modern urban living. With its terracotta facade, skyline views, and high-quality interiors, South Central sets a new benchmark for city-centre design - complete with 24-hour concierge, fitness studio, coworking lounge, and rooftop cinema.",
-    "beds": [2],
-    "baths": [2],
+    "beds": [1,2],
+    "baths": [1,2],
     "size": "32-74 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1jmSdVpL9Q63zD-mtnossEzvO6E6cAHjo/view?usp=drive_link",
       "propertyAppraisal": "https://www.notion.so/Property-Appraisal-South-Central-33-Essex-Street-Birmingham-B5-4BX-2a1b6c4b014180369b69d3b63be5e9b3?source=copy_link",
@@ -341,7 +342,7 @@
     "beds": [1,2,3],
     "baths": [1,2,3],
     "size": "32-98 sq m",
-    "dealAnalysis": "",
+    "dealAnalysis": "https://drive.google.com/file/d/1WW8VIRaDWQal7j_XGTDlgxeTaftLqhNv/view?usp=drive_link",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Lombe-House-Liversage-Street-Derby-DE1-2HN-2a1b6c4b014180629034d229357e6b84?source=copy_link",
     "gdvAnalysis": "",
     "epcCertificate": [""],
@@ -374,6 +375,7 @@
     "reservationFee": 0,
     "deposit": "100000",
     "yield": "6%",
+	"annualRent": "22,000",
     "refurbCost": "0",
     "listedDate": "2025-11-04",
     "keyFeatures": [
