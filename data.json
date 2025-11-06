@@ -385,8 +385,8 @@
       "Delivered by Kinght Dragon, world-renowned urban developer"
     ],
     "description": "The Beacon at Peninsula Gardens offers stylish apartments in Greenwich, London's vibrant Zone 2, blending city access with tranquil waterside living. Developed by Knight Dragon, this project is part of a massive &pound;8.4 billion regeneration, forecasting significant property and rental growth. Residents benefit from excellent connectivity to central London, numerous green spaces, cultural venues like The O2 and Design District, and exclusive amenities including a gym and co-working spaces, making it an attractive option for both homeowners and investors.",
-    "beds": "1,2",
-    "baths": "1,2",
+    "beds": [1,2],
+    "baths": [1,2],
     "size": "40.3-75.6 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1BOkUl9q-9HFjs4EEl1k89hOmlc5h67dv/view?usp=sharing",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Peninsula-Gardens-Chandlers-Ave-London-SE10-0NW-2a1b6c4b0141804cb414e4eedbaefa93?source=copy_link",
