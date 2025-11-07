@@ -25,8 +25,8 @@
       "High-yield potential with room for uplift through modernization"
     ],
     "description": "This 8-bedroom HMO on Blackpark Terrace, Inverness offers a strong investment opportunity for buyers seeking high rental returns. The property includes a lounge, kitchen, en-suite, shared bathrooms, front garden, and private driveway, and is located close to local amenities. It is currently vacant and ready for immediate occupation or re-letting, with good potential to attract long-term tenants in a high-demand Inverness area.",
-    "beds": "8 beds",
-    "baths": "7 baths",
+    "beds": [8],
+    "baths": [7],
     "size": "247 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1j6nUqdT_4sflCJvJ-RSXq0K0w04TAsap/view?usp=sharing",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Blackpark-Terrace-Inverness-IV3-8NE-2a3b6c4b01418063b8cae37e13d55c63?source=copy_link",
