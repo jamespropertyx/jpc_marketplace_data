@@ -1,5 +1,5 @@
 [
-	{
+  {
     "dealId": "JPC-WEL-01",
     "title": " 5-bed HMO Opportunity",
     "city": "Hull",
@@ -57,7 +57,7 @@
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.0199113053313!2d-0.3551442234579989!3d53.771332872415655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be524890f05b%3A0xe0ab6132e381330e!2sWellesley%20Ave%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sru!4v1762513751850!5m2!1sen!2sru"
   },
-	{
+  {
     "dealId": "JPC-BLA-01",
     "title": "Turnkey 8-bed HMO",
     "city": "Inverness",
@@ -89,9 +89,7 @@
     "dealAnalysis": "https://drive.google.com/file/d/1j6nUqdT_4sflCJvJ-RSXq0K0w04TAsap/view?usp=sharing",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Blackpark-Terrace-Inverness-IV3-8NE-2a3b6c4b01418063b8cae37e13d55c63?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Blackpark-Terrace-Inverness-IV3-8NE-2a3b6c4b01418030becbd5d358d33b87?source=copy_link",
-    "epcCertificate": [
-      ""
-    ],
+    "epcCertificate": [""],
     "images": [
       "https://static.tildacdn.com/tild3563-3836-4863-b835-666264343161/Facade.png",
       "https://static.tildacdn.com/tild3534-3634-4361-b137-313735336364/Living_room_area_1.png",
@@ -108,12 +106,12 @@
       "https://static.tildacdn.com/tild3938-3238-4639-b665-663336643466/Bathroom_7.png",
       "https://static.tildacdn.com/tild6530-3831-4265-b931-323331343137/Bedroom_1.png",
       "https://static.tildacdn.com/tild3630-3230-4434-b437-383865316261/Bedroom_2.png",
-	  "https://static.tildacdn.com/tild6139-6535-4166-b130-333434366636/Bedroom_3.png",
+      "https://static.tildacdn.com/tild6139-6535-4166-b130-333434366636/Bedroom_3.png",
       "https://static.tildacdn.com/tild3763-3630-4531-b765-303062393131/Bedroom_4.png",
       "https://static.tildacdn.com/tild3963-6533-4837-b664-386563393734/Bedroom_5.png",
       "https://static.tildacdn.com/tild6131-6264-4530-b766-633864646639/Bedroom_6.png",
       "https://static.tildacdn.com/tild3135-6136-4564-b865-643539323535/Bedroom_7.png",
-	  "https://static.tildacdn.com/tild3737-3830-4266-a562-616437383838/Bedroom_8.png",
+      "https://static.tildacdn.com/tild3737-3830-4266-a562-616437383838/Bedroom_8.png",
       "https://static.tildacdn.com/tild3036-3164-4833-b362-633766363937/Bedroom_9.png"
     ],
     "floorplan": [
@@ -126,8 +124,8 @@
       "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2230889.2920534955!2d-4.595475823162197!3d56.90419609147573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x488f740639e8b231%3A0x71b538d213007045!2sBlackpark%20Terrace%2C%20Inverness%20IV3%208NE%2C%20UK!5e0!3m2!1sen!2sgr!4v1762440169329!5m2!1sen!2sgr"
-},
-	  {
+  },
+  {
     "dealId": "JPC-GRE-01",
     "title": "Student Turnkey 6-bed HMO ",
     "city": "Derby",
@@ -208,7 +206,7 @@
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2405.594636623189!2d-1.4780900000000001!3d52.91972450000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879f13d448cd8d9%3A0xdf1bbdf84c9440e0!2sGreen%20Ln%2C%20Derby%2C%20UK!5e0!3m2!1sen!2sru!4v1762419779633!5m2!1sen!2sru"
   },
-	 {
+  {
     "dealId": "JPC-CLU-01",
     "title": "2-bed Hybrid BTL Opportunity",
     "city": "Hull",
@@ -272,7 +270,7 @@
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2359.0190987578558!2d-0.36445019999999995!3d53.753543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfc959266865%3A0x9f4af78826bb1b1a!2sClumber%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sru!4v1762354139972!5m2!1sen!2sru"
   },
-	{
+  {
     "dealId": "JPC-GRA-06",
     "title": "Turnkey 2-bed BTL",
     "city": "Hull",
@@ -304,10 +302,8 @@
     "dealAnalysis": "https://drive.google.com/file/d/1j3DeuU-Q_4XLd4_ekn96yw2yIe39Qgvc/view?usp=sharing",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Grangeside-Hull-HU6-8LR-295b6c4b014180c9bb89ff92bfbeb79c?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Grangeside-Hull-HU6-8LR-295b6c4b01418064997bdf4afa8b1353?source=copy_link",
-    "epcCertificate": [
-      ""
-    ],
-	"video": "https://drive.google.com/file/d/1SPv-66gFfPvOEGaKTpSlvUABqX2WE65n/preview",
+    "epcCertificate": [""],
+    "video": "https://drive.google.com/file/d/1SPv-66gFfPvOEGaKTpSlvUABqX2WE65n/preview",
     "images": [
       "https://static.tildacdn.com/tild6437-3834-4832-b933-353662613335/Facade.png",
       "https://static.tildacdn.com/tild6564-3766-4430-b335-383137666636/Kitchen.png",
@@ -322,7 +318,7 @@
       "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9431.079739792234!2d-0.38435017116352155!3d53.77578290338702!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfa13034fce7%3A0x290aef79e2694675!2sGrangeside%20Ave%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sgr!4v1762352960679!5m2!1sen!2sgr"
-},
+  },
   {
     "dealId": "JPC-LAM-02",
     "title": "Mixed Use 3 self-contained apartments BRR + Commercial Unit",
@@ -355,10 +351,8 @@
     "dealAnalysis": "https://drive.google.com/file/d/1VLBk9dxKZWkR_HbAbX3c1n4NjHJb7wmj/view?usp=drive_link",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Lambert-Street-Hull-HU5-2SG-293b6c4b014180209ee5fd21bf1cbf7c?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Lambert-Street-Hull-HU5-2SG-293b6c4b014180358184cc5ad0e15610?source=copy_link",
-	"epcCertificate": [
-      ""
-    ],
-	"video": "https://drive.google.com/file/d/1phWF5KvyTJVHm-DFZom83lf9QzAp-2WK/preview",
+    "epcCertificate": [""],
+    "video": "https://drive.google.com/file/d/1phWF5KvyTJVHm-DFZom83lf9QzAp-2WK/preview",
     "images": [
       "https://static.tildacdn.com/tild3734-3462-4038-b936-663532323534/Screenshot_2025-11-0.png",
       "https://static.tildacdn.com/tild3638-6534-4430-b631-383864626633/Screenshot_2025-11-0.png",
@@ -390,15 +384,15 @@
     "title": "New Build Apartments at South Central",
     "city": "Birmingham",
     "address": "Birmingham",
-    "status": "Available",
+    "status": "New Build",
     "type": "Apartment",
-    "strategy": "New Build",
+    "strategy": "BTL",
     "tenure": "Leasehold",
     "purchasePrice": 242000,
     "reservationFee": 0,
     "deposit": "60,000",
     "yield": "7%",
-	"annualRent": "18,000",
+    "annualRent": "18,000",
     "refurbCost": "0",
     "listedDate": "2025-11-05",
     "keyFeatures": [
@@ -408,29 +402,27 @@
       "High rental demand from young professionals and graduates"
     ],
     "description": "South Central is a striking 30-storey landmark development in the heart of Birmingham's Southside district, one of the city's most vibrant cultural and lifestyle destinations. Designed by award-winning architects Glancy Nicholls and developed by Regal Property Group, the scheme brings together 166 premium studio, one, and two-bedroom apartments crafted for modern urban living. With its terracotta facade, skyline views, and high-quality interiors, South Central sets a new benchmark for city-centre design - complete with 24-hour concierge, fitness studio, coworking lounge, and rooftop cinema.",
-    "beds": [1,2],
-    "baths": [1,2],
+    "beds": [1, 2],
+    "baths": [1, 2],
     "size": "32-74 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1jmSdVpL9Q63zD-mtnossEzvO6E6cAHjo/view?usp=drive_link",
-      "propertyAppraisal": "https://www.notion.so/Property-Appraisal-South-Central-33-Essex-Street-Birmingham-B5-4BX-2a1b6c4b014180369b69d3b63be5e9b3?source=copy_link",
-      "gdvAnalysis": "",
-    "epcCertificate": [
-      ""
-    ],
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-South-Central-33-Essex-Street-Birmingham-B5-4BX-2a1b6c4b014180369b69d3b63be5e9b3?source=copy_link",
+    "gdvAnalysis": "",
+    "epcCertificate": [""],
     "images": [
       "https://static.tildacdn.com/tild6463-6231-4131-a433-383932623031/Screenshot_2025-11-0.png",
-  "https://static.tildacdn.com/tild3336-3436-4431-b933-633637663635/Screenshot_2025-11-0.png",
-  "https://static.tildacdn.com/tild3463-3364-4464-b937-626565623431/Screenshot_2025-11-0.png",
-  "https://static.tildacdn.com/tild3362-3065-4263-b333-616231633436/Screenshot_2025-11-0.png",
-  "https://static.tildacdn.com/tild3364-3333-4433-a231-616635353836/Screenshot_2025-11-0.png",
-  "https://static.tildacdn.com/tild6638-3237-4632-b938-646231376266/Screenshot_2025-11-0.png",
-  "https://static.tildacdn.com/tild3133-6338-4438-a632-653631633035/Screenshot_2025-11-0.png",
-  "https://static.tildacdn.com/tild3766-6563-4434-b532-383333633734/Screenshot_2025-11-0.png",
-  "https://static.tildacdn.com/tild6565-3331-4538-b531-376334373032/Screenshot_2025-11-0.png", 
-  "https://static.tildacdn.com/tild6361-3533-4137-b731-643933326330/Screenshot_2025-11-0.png",
-  "https://static.tildacdn.com/tild6138-3432-4432-b663-663335613932/Screenshot_2025-11-0.png",
-  "https://static.tildacdn.com/tild6139-3466-4532-a263-393533336132/Screenshot_2025-11-0.png",
-  "https://static.tildacdn.com/tild3861-3564-4339-b132-633965363933/Screenshot_2025-11-0.png"
+      "https://static.tildacdn.com/tild3336-3436-4431-b933-633637663635/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3463-3364-4464-b937-626565623431/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3362-3065-4263-b333-616231633436/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3364-3333-4433-a231-616635353836/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild6638-3237-4632-b938-646231376266/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3133-6338-4438-a632-653631633035/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3766-6563-4434-b532-383333633734/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild6565-3331-4538-b531-376334373032/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild6361-3533-4137-b731-643933326330/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild6138-3432-4432-b663-663335613932/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild6139-3466-4532-a263-393533336132/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3861-3564-4339-b132-633965363933/Screenshot_2025-11-0.png"
     ],
     "floorplan": [
       "https://static.tildacdn.com/tild3637-6461-4165-b438-376438646539/Screenshot_2025-11-0.png",
@@ -438,9 +430,7 @@
       "https://static.tildacdn.com/tild3138-3930-4430-b332-326436303635/Screenshot_2025-11-0.png",
       "https://static.tildacdn.com/tild6565-6432-4461-a161-663963393065/Screenshot_2025-11-0.png"
     ],
-    "marketInsightsImages": [
-      ""
-    ],
+    "marketInsightsImages": [""],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2430.3078635267184!2d-1.8988954000000002!3d52.47356130000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bc620274ace9%3A0xf6cc4b138f39d8db!2s33%20Essex%20St%2C%20South%20Central%2C%20Birmingham%20B5%204BX%2C%20UK!5e0!3m2!1sen!2sru!4v1762277873100!5m2!1sen!2sru"
   },
   {
@@ -448,15 +438,15 @@
     "title": "New Build Apartments at Lombe House",
     "city": "Derby",
     "address": "Derby",
-    "status": "Available",
+    "status": "New Build",
     "type": "Apartment",
-    "strategy": "New Build",
+    "strategy": "BTL",
     "tenure": "Leasehold",
     "purchasePrice": 180000,
     "reservationFee": 0,
     "deposit": "36,000",
     "yield": "7%",
-	"annualRent": "9,600",
+    "annualRent": "9,600",
     "refurbCost": "0",
     "listedDate": "2025-11-04",
     "keyFeatures": [
@@ -466,8 +456,8 @@
       "Modern, high-spec design with long-term low-maintenance appeal"
     ],
     "description": "Lombe House is a landmark new residential development in the heart of Derby city centre, delivering 258 modern studio, one, two, and three-bedroom apartments designed for contemporary urban living. Set around a landscaped gated courtyard, the development blends industrial-luxe architecture with high-quality finishes, creating stylish and practical homes ideal for professionals, graduates, and investors alike. Located on Liversage Street within the &pound;3.5 billion Castleward Urban Village regeneration zone, Lombe House sits moments from Derby Train Station, the Derbion shopping centre, and major employers including Rolls-Royce and Bombardier. With strong rental demand, excellent transport links, and forecasted capital growth of almost 20% by 2027, Lombe House represents one of the city's most attractive new investment opportunities.",
-    "beds": [1,2,3],
-    "baths": [1,2,3],
+    "beds": [1, 2, 3],
+    "baths": [1, 2, 3],
     "size": "32-98 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1WW8VIRaDWQal7j_XGTDlgxeTaftLqhNv/view?usp=drive_link",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Lombe-House-Liversage-Street-Derby-DE1-2HN-2a1b6c4b014180629034d229357e6b84?source=copy_link",
@@ -475,34 +465,34 @@
     "epcCertificate": [""],
     "images": [
       "https://static.tildacdn.com/tild6164-3636-4837-b563-353331303139/Screenshot_2025-11-0.png",
-  "https://static.tildacdn.com/tild3135-3439-4135-b130-643630363665/Screenshot_2025-11-0.png",
-  "https://static.tildacdn.com/tild3839-3661-4433-b533-383837383965/Screenshot_2025-11-0.png",
-  "https://static.tildacdn.com/tild3031-6433-4466-b232-336163633834/Screenshot_2025-11-0.png",
-  "https://static.tildacdn.com/tild3436-6661-4563-a132-656633336561/Screenshot_2025-11-0.png",
-  "https://static.tildacdn.com/tild3465-6537-4533-a464-666639356232/Screenshot_2025-11-0.png",
-  "https://static.tildacdn.com/tild3563-3461-4862-a434-343734613036/Screenshot_2025-11-0.png",
-  "https://static.tildacdn.com/tild3630-3565-4439-b230-333766313064/Screenshot_2025-11-0.png"
+      "https://static.tildacdn.com/tild3135-3439-4135-b130-643630363665/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3839-3661-4433-b533-383837383965/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3031-6433-4466-b232-336163633834/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3436-6661-4563-a132-656633336561/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3465-6537-4533-a464-666639356232/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3563-3461-4862-a434-343734613036/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3630-3565-4439-b230-333766313064/Screenshot_2025-11-0.png"
     ],
     "floorplan": [
       "https://static.tildacdn.com/tild6566-3863-4235-a430-346630353964/Screenshot_2025-11-0.png"
     ],
-   "marketInsightsImages": [""],
+    "marketInsightsImages": [""],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2405.657569934064!2d-1.4719527235146588!3d52.91859167216826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879f1109eaf480f%3A0x162b3b341d2d20c2!2sLiversage%20St%2C%20Derby%2C%20UK!5e0!3m2!1sen!2sru!4v1762268807570!5m2!1sen!2sru"
   },
-	{
+  {
     "dealId": "JPC-PEN-01",
     "title": "New Build Apartments at The Beacon, Peninsula Gardens",
     "city": "London",
     "address": "London",
-    "status": "Available",
+    "status": "New Build",
     "type": "Apartment",
-    "strategy": "New Build",
+    "strategy": "BTL",
     "tenure": "Leasehold",
     "purchasePrice": 430000,
     "reservationFee": 0,
     "deposit": "100,000",
     "yield": "6%",
-	"annualRent": "22,000",
+    "annualRent": "22,000",
     "refurbCost": "0",
     "listedDate": "2025-11-04",
     "keyFeatures": [
@@ -512,41 +502,34 @@
       "Delivered by Kinght Dragon, world-renowned urban developer"
     ],
     "description": "The Beacon at Peninsula Gardens offers stylish apartments in Greenwich, London's vibrant Zone 2, blending city access with tranquil waterside living. Developed by Knight Dragon, this project is part of a massive &pound;8.4 billion regeneration, forecasting significant property and rental growth. Residents benefit from excellent connectivity to central London, numerous green spaces, cultural venues like The O2 and Design District, and exclusive amenities including a gym and co-working spaces, making it an attractive option for both homeowners and investors.",
-    "beds": [1,2],
-    "baths": [1,2],
+    "beds": [1, 2],
+    "baths": [1, 2],
     "size": "40.3-75.6 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1BOkUl9q-9HFjs4EEl1k89hOmlc5h67dv/view?usp=sharing",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Peninsula-Gardens-Chandlers-Ave-London-SE10-0NW-2a1b6c4b0141804cb414e4eedbaefa93?source=copy_link",
     "gdvAnalysis": "",
-    "epcCertificate": [
-      ""
+    "epcCertificate": [""],
+    "floorplan": [
+      "https://static.tildacdn.com/tild3866-3839-4536-b263-386131373237/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild6336-6536-4031-b331-376434626331/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3163-3838-4530-a333-663732636165/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild6238-3062-4566-b530-356463363865/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3631-6434-4637-a561-353137623832/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3465-6538-4139-b736-373565316362/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3334-3562-4636-a138-623465623561/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild6436-3466-4134-b639-326635393861/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3237-3661-4138-b731-373938643737/Screenshot_2025-11-0.png"
     ],
-	 "floorplan": [
-    "https://static.tildacdn.com/tild3866-3839-4536-b263-386131373237/Screenshot_2025-11-0.png",
-	"https://static.tildacdn.com/tild6336-6536-4031-b331-376434626331/Screenshot_2025-11-0.png",
-	"https://static.tildacdn.com/tild3163-3838-4530-a333-663732636165/Screenshot_2025-11-0.png",
-	"https://static.tildacdn.com/tild6238-3062-4566-b530-356463363865/Screenshot_2025-11-0.png",
-	"https://static.tildacdn.com/tild3631-6434-4637-a561-353137623832/Screenshot_2025-11-0.png",
-	"https://static.tildacdn.com/tild3465-6538-4139-b736-373565316362/Screenshot_2025-11-0.png",
-	"https://static.tildacdn.com/tild3334-3562-4636-a138-623465623561/Screenshot_2025-11-0.png",
-	"https://static.tildacdn.com/tild6436-3466-4134-b639-326635393861/Screenshot_2025-11-0.png",
-	"https://static.tildacdn.com/tild3237-3661-4138-b731-373938643737/Screenshot_2025-11-0.png"
-    ],	
     "images": [
       "https://static.tildacdn.com/tild6466-3462-4532-a161-353030646236/Screenshot_2025-11-0.png",
-	"https://static.tildacdn.com/tild3666-3832-4139-b361-353064346362/Screenshot_2025-11-0.png",
-	"https://static.tildacdn.com/tild3461-3233-4230-a436-363530373839/Screenshot_2025-11-0.png",
-	"https://static.tildacdn.com/tild3461-6161-4232-a435-643737336363/Screenshot_2025-11-0.png",
-	"https://static.tildacdn.com/tild6464-3639-4964-a230-333861366563/Screenshot_2025-11-0.png",
-	"https://static.tildacdn.com/tild3261-3132-4430-b865-336231393430/Screenshot_2025-11-0.png",
-	"https://static.tildacdn.com/tild3134-3439-4635-b235-383035613633/Screenshot_2025-11-0.png"
+      "https://static.tildacdn.com/tild3666-3832-4139-b361-353064346362/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3461-3233-4230-a436-363530373839/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3461-6161-4232-a435-643737336363/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild6464-3639-4964-a230-333861366563/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3261-3132-4430-b865-336231393430/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3134-3439-4635-b235-383035613633/Screenshot_2025-11-0.png"
     ],
-    "marketInsightsImages": [
-      "",
-      "",
-      "",
-      ""
-    ],
+    "marketInsightsImages": ["", "", "", ""],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19870.579099542818!2d-0.03024221630229884!3d51.4981267537666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a97ff92da2c9%3A0xef7c27f5bd4f99d1!2sPeninsula%20Gardens!5e0!3m2!1sen!2sgr!4v1762265099773!5m2!1sen!2sgr"
   },
   {
@@ -584,7 +567,7 @@
     "epcCertificate": [
       "https://static.tildacdn.com/tild3037-3862-4161-b337-613736633630/ECR.png"
     ],
-	"video": "https://drive.google.com/file/d/15ljW9hzlkplntTxl_tQ0nlF_2aqiuglT/preview",
+    "video": "https://drive.google.com/file/d/15ljW9hzlkplntTxl_tQ0nlF_2aqiuglT/preview",
     "images": [
       "https://static.tildacdn.com/tild3437-3666-4236-b864-353639366335/Facade.png",
       "https://static.tildacdn.com/tild3031-6239-4763-b439-393364326637/Living_room.png",
@@ -665,7 +648,7 @@
       "https://static.tildacdn.com/tild3630-6265-4533-a534-383330353135/Screenshot_2025-11-0.png",
       "https://static.tildacdn.com/tild3138-6262-4832-b566-643135653133/Screenshot_2025-11-0.png",
       "https://static.tildacdn.com/tild3432-6430-4534-b163-393633383335/Screenshot_2025-11-0.png",
-      "https://static.tildacdn.com/tild3866-3435-4566-b136-393739633737/Screenshot_2025-11-0.png", 
+      "https://static.tildacdn.com/tild3866-3435-4566-b136-393739633737/Screenshot_2025-11-0.png",
       "https://static.tildacdn.com/tild3833-3430-4633-b661-653333373830/Screenshot_2025-11-0.png",
       "https://static.tildacdn.com/tild3562-3230-4363-b430-366437633065/Screenshot_2025-11-0.png",
       "https://static.tildacdn.com/tild3439-3038-4134-a465-326564666231/Screenshot_2025-11-0.png"
@@ -2881,7 +2864,7 @@
     "dealId": "JPC-MOR-01",
     "title": "Turnkey 4 self-contained Apartments",
     "city": "Hull",
-    "address": "Morpeth St",
+    "address": "Hull",
     "status": "Available",
     "type": "Block of Apartments",
     "strategy": "Block of Apartments",
@@ -3537,7 +3520,7 @@
     "dealId": "JPC-ROS-01",
     "title": "Student 6 Bed HMO Opportunity",
     "city": "Hull",
-    "address": "Raglan street",
+    "address": "Hull",
     "status": "Available",
     "type": "Terraced",
     "strategy": "HMO",
@@ -3705,7 +3688,7 @@
     "dealId": "JPC-PGV-01",
     "title": "Turnkey 5 Bed HMO Opportunity",
     "city": "Hull",
-    "address": "Princes Ave",
+    "address": "Hull",
     "status": "Sold",
     "type": "Terraced",
     "strategy": "HMO",
@@ -3764,7 +3747,7 @@
     "dealId": "JPC-WAS-01",
     "title": "4 Bed BTL Opportunity",
     "city": "Hull",
-    "address": "Washington Street HU5 1PL",
+    "address": "Hull",
     "status": "Available",
     "type": "Terraced",
     "strategy": "BTL",
@@ -4049,7 +4032,7 @@
     "dealId": "JPC-PRI-01",
     "title": "2-bed BTL Apartment - Hull",
     "city": "Hull",
-    "address": "Princess Avenue HU53JL",
+    "address": "Hull",
     "status": "Available",
     "type": "Block of Apartments",
     "strategy": "BTL",
@@ -4107,7 +4090,7 @@
     "dealId": "JPC-JHN-01",
     "title": "Turnkey Block of 13 Apartments - Hull",
     "city": "Hull",
-    "address": "John Street",
+    "address": "Hull",
     "status": "Available",
     "type": "Block of Apartments",
     "strategy": "",
@@ -4335,7 +4318,7 @@
     "dealId": "JPC-WAL-01",
     "title": "Student 4 Bed HMO - Hull",
     "city": "Hull",
-    "address": "Walgrave Street",
+    "address": "Hull",
     "status": "Sold",
     "type": "Terraced",
     "strategy": "HMO",
@@ -4793,7 +4776,7 @@
     "dealId": "JPC-WAL-02",
     "title": "Turnkey Student HMO - Hull",
     "city": "Hull",
-    "address": "Walgrave St",
+    "address": "Hull",
     "status": "Sold",
     "type": "Terraced",
     "strategy": "HMO",
@@ -4852,7 +4835,7 @@
     "dealId": "JPC-CLU-02",
     "title": "3 Bed HMO - Hull",
     "city": "Hull",
-    "address": "Clumber Street",
+    "address": "Hull",
     "status": "Sold",
     "type": "Terraced",
     "strategy": "HMO",
@@ -4907,7 +4890,7 @@
     "dealId": "JPC-ASH-03",
     "title": "Student 4 Bed HMO - Hull",
     "city": "Hull",
-    "address": "Ash Grove HU5 1LT",
+    "address": "Hull",
     "status": "Sold",
     "type": "Terraced",
     "strategy": "HMO",
@@ -5022,7 +5005,7 @@
     "dealId": "JPC-GRA-01",
     "title": "Student 5 Bed HMO - Hull",
     "city": "Hull",
-    "address": "Grafton Street",
+    "address": "Hull",
     "status": "Sold",
     "type": "Terraced",
     "strategy": "HMO",
