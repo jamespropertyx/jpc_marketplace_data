@@ -1,5 +1,63 @@
 [
 	{
+    "dealId": "JPC-WEL-01",
+    "title": " 5-bed HMO Opportunity",
+    "city": "Hull",
+    "address": "Wellesley Avenue, Hull, HU6 7LN",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "HMO Opportunity",
+    "tenure": "Freehold",
+    "purchasePrice": 212000,
+    "reservationFee": 7632,
+    "projectEndValue": "264,576",
+    "belowMarketGDVDiscount": "5.7%",
+    "deposit": "53,000",
+    "yield": "14.7%",
+    "rent": "&pound;2,600",
+    "annualRent": "31,200",
+    "refurbCost": "25,000",
+    "listedDate": "2025-11-07",
+    "keyFeatures": [
+      "8-bedroom detached HMO in Inverness - rare investment opportunity",
+      "Private driveway and front garden",
+      "Strong rental demand from professionals and contractors",
+      "High-yield potential with room for uplift through modernization"
+    ],
+    "description": "This 8-bedroom HMO on Blackpark Terrace, Inverness offers a strong investment opportunity for buyers seeking high rental returns. The property includes a lounge, kitchen, en-suite, shared bathrooms, front garden, and private driveway, and is located close to local amenities. It is currently vacant and ready for immediate occupation or re-letting, with good potential to attract long-term tenants in a high-demand Inverness area.",
+    "beds": [5],
+    "baths": [2],
+    "size": "141 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1-jAtdOiloR4ybrK9YCkMu9nRaZmBUtvM/view?usp=drive_link",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Wellesley-Avenue-Hull-HU6-7LN-2a4b6c4b0141807eb49fc9bc09213698?source=copy_link",
+    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Wellesley-Avenue-Hull-HU6-7LN-2a4b6c4b014180a0b93ad852a10b9642?source=copy_link",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild3963-3333-4435-a535-613762626636/Screenshot_2025-11-0.png"
+    ],
+    "video": "https://drive.google.com/file/d/11dJsVtMDu7yLLJ0gaEFz1xenPjsEwtIS/preview",
+    "images": [
+      "https://static.tildacdn.com/tild3837-3331-4230-a564-353364393238/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild6530-3736-4232-b061-356634666230/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3966-3265-4538-b865-343265323531/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild6436-6637-4439-a265-666262363339/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3038-6562-4237-a561-373164623334/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild6661-3565-4933-a535-643465343132/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3134-6237-4262-b833-393736333438/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild3763-6463-4563-b462-616432646363/Screenshot_2025-11-0.png",
+      "https://static.tildacdn.com/tild6430-6163-4661-a461-333933393234/Screenshot_2025-11-0.png"
+    ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild6562-6430-4066-a235-613438653636/Screenshot_2025-11-0.png"
+    ],
+    "marketInsightsImages": [
+      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.0430190505417!2d-0.3516015!3d53.7709215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be52260c79b9%3A0xe8822d93376272dc!2s59%20Wellesley%20Ave%2C%20Hull%20HU6%207LN%2C%20UK!5e0!3m2!1sen!2sru!4v1762512368461!5m2!1sen!2sru"
+  },
+	{
     "dealId": "JPC-BLA-01",
     "title": "Turnkey 8-bed HMO",
     "city": "Inverness",
