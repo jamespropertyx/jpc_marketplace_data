@@ -1,4 +1,57 @@
 [
+	{
+  "dealId": "JPC-RAG-01",
+  "title": " 4-bed HMO Opportunity",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "HMO",
+  "tenure": "Freehold",
+  "purchasePrice": 150000,
+  "reservationFee": 6000,
+  "projectEndValue": "186600",
+  "belowMarketGDVDiscount": "9%",
+  "deposit": "37,500",
+  "yield": "16.64%",
+  "rent": "&pound;2,080",
+  "annualRent": "24,960",
+  "refurbCost": "25,000",
+  "listedDate": "2025-11-10",
+  "keyFeatures": [
+    "Freehold property with strong rental history",
+    "Low maintenance, high-yield opportunity",
+    "Functional kitchen suitable for shared use",
+    "High occupancy potential with minimal voids"
+  ],
+  "description": "This 4-bed, 2-bath HMO is located in one of the city's most proven rental corridors, offering a reliable mix of student and professional tenants. The property is already well configured with spacious bedrooms, communal areas, and two bathrooms, making it an ideal refurb-and-re-let opportunity.",
+  "beds": [4],
+  "baths": [2],
+  "size": "102 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild6531-6539-4737-a630-643237303466/Screenshot_2025-11-1.png"
+  ],
+  "video": "https://drive.google.com/file/d/1VaKT_KzuI3uv1kLbxl3uyVc1YgVZ-1lU/preview",
+  "images": [
+    "https://static.tildacdn.com/tild6261-6564-4634-b562-656565306337/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3666-6664-4631-a436-303665623566/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6539-6365-4030-b061-653865346234/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6564-3430-4662-b665-613634326564/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3030-3438-4562-a365-373837653735/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3131-3336-4230-b966-653231333337/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3236-3634-4334-b032-313736346162/Screenshot_2025-11-1.png"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "map": ""
+},	
   {
     "dealId": "JPC-BER-01",
     "title": " 7-bed HMO Opportunity",
