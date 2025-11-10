@@ -1,5 +1,4 @@
-[
-	{
+[{
   "dealId": "JPC-CAR-01",
   "title": "Social Housing Self-Contained Apartments ",
   "city": "Bradford",
@@ -24,7 +23,11 @@
     "No Voids or Maintenance",
     "Buy One or Build a Mini Portfolio"
   ],
-  "description": "This opportunity offers investors access to a fully managed, hands-off social housing investment with a fixed 10% net yield and a 25-year Full Repairing & Insuring (FRI) lease in place. Located within Card House, Bradford, the development comprises modern, self-contained one-bedroom apartments leased to Yale Housing, a registered social housing provider. Each apartment delivers guaranteed rental income, paid directly by the provider, with no management, maintenance, or void costs to the investor. Three apartments are currently available within the same building, offering the flexibility to acquire one unit or build a small portfolio. With secure, long-term income and a socially responsible purpose, this project combines stable financial returns with positive community impact — an ideal fit for investors seeking predictable cashflow and zero operational hassle.",
+  "description": "This investment opportunity offers investors access to three fully managed, hands-off social housing units in the Card House development, Bradford. The units are located within the same building, with two on the second floor and one on the third floor. The price listed is for one unit.
+
+Each apartment is leased to Yale Housing, a registered social housing provider, and features a modern, self-contained one-bedroom layout. The properties provide guaranteed rental income, with no management, maintenance, or void costs to the investor. Each unit offers a fixed net yield, secured by a 25-year Full Repairing & Insuring (FRI) lease.
+
+Investors have the option to purchase one unit or build a small portfolio by acquiring multiple units. With stable long-term income and a socially responsible purpose, this opportunity combines reliable financial returns with positive community impact, making it an ideal choice for investors seeking predictable cashflow with zero operational hassle.",
   "beds": [1],
   "baths": [1],
   "size": "",
@@ -59,6 +62,7 @@
   ],
   "map": ""
 },
+
 	{
   "dealId": "JPC-RAG-01",
   "title": " 4-bed HMO Opportunity",
