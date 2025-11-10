@@ -1,4 +1,62 @@
-[{
+[
+	{
+    "dealId": "JPC-СRA-01",
+    "title": " 6-bed HMO Opportunity",
+    "city": "Hull",
+    "address": "Hull",
+    "status": "Available",
+    "type": "Semi-Detached",
+    "strategy": "HMO",
+    "tenure": "Freehold",
+    "purchasePrice": 250000,
+    "reservationFee": 9000,
+    "projectEndValue": "326,500",
+    "belowMarketGDVDiscount": "15.25%",
+    "deposit": "62,500",
+    "yield": "15%",
+    "rent": "&pound;3,120",
+    "annualRent": "37,440",
+    "refurbCost": "10,000",
+    "listedDate": "2025-11-10",
+    "keyFeatures": [
+       "Modern kitchen and bathrooms already in place",
+		"Option to add en-suites to increase rental value and demand",
+		"Potential rent: &pound;35,000-&pound;45,000 per year after completion",
+      	"Ideal for investors seeking a high-yield, ready-to-finish HMO"
+    ],
+    "description": "This 6-bedroom, 2-bathroom property is located in a prime location just off the University of Hull, making it a highly desirable student investment. The property is well presented and benefits from its proximity to the university, ideal for student tenants. The property is currently vacant, offering immediate potential to be let once the required HMO compliance works are completed.",
+    "beds": [6],
+    "baths": [2],
+    "size": "114 sq m",
+    "dealAnalysis": "",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild3565-6361-4733-b164-326561343062/EPC.png"
+    ],
+    "video": "https://drive.google.com/file/d/1rbHCvfQL1-n4YAG3ssKNSk2w7ja8d2UE/preview",
+    "images": [
+      "https://static.tildacdn.com/tild3332-3862-4635-b035-633430346463/Facade.png",
+      "https://static.tildacdn.com/tild3565-6633-4339-b865-366366313633/Living_room.png",
+      "https://static.tildacdn.com/tild6662-3335-4230-b932-626436626239/Kitchen_1.png",
+      "https://static.tildacdn.com/tild3439-3036-4966-b230-623362653436/Kitchen_2.png",
+      "https://static.tildacdn.com/tild3635-3238-4238-a135-663736623830/Bedroom_1.png",
+      "https://static.tildacdn.com/tild3831-3239-4766-a364-636435636134/Bedroom_2.png",
+      "https://static.tildacdn.com/tild6432-3037-4336-b333-663631363432/Bedroom_3.png",
+      "https://static.tildacdn.com/tild3833-3762-4138-b939-393263353261/Bedroom_4.png",
+	"https://static.tildacdn.com/tild3163-6437-4563-b331-376465373737/Bathroom_1.png",
+	"https://static.tildacdn.com/tild3663-3531-4566-a332-376663626133/Bathroom_2.png",
+     	"https://static.tildacdn.com/tild6630-6363-4138-b734-626630626534/Bathroom_3.png"
+    ],
+    "marketInsightsImages": [
+      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "map": ""
+  },
+	{
   "dealId": "JPC-CAR-01",
   "title": "Social Housing Self-Contained Apartments ",
   "city": "Bradford",
