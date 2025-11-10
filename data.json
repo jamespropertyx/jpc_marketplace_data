@@ -1,5 +1,64 @@
 [
   {
+    "dealId": "JPC-BER-01",
+    "title": " 7-bed HMO Opportunity",
+    "city": "Hull",
+    "address": "Hull",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "HMO",
+    "tenure": "Freehold",
+    "purchasePrice": 250000,
+    "reservationFee": 9000,
+    "projectEndValue": "322,750",
+    "belowMarketGDVDiscount": "3.85%",
+    "deposit": "62,500",
+    "yield": "18.93%",
+    "rent": "&pound;3,943",
+    "annualRent": "47,320",
+    "refurbCost": "25,000",
+    "listedDate": "2025-11-10",
+    "keyFeatures": [
+       "Modern kitchen and bathrooms already in place",
+	"Option to add en-suites to increase rental value and demand",
+	"Potential rent: &pound;35,000-&pound;45,000 per year after completion",
+      "Ideal for investors seeking a high-yield, ready-to-finish HMO"
+    ],
+    "description": "This 7-bedroom, 2-bathroom HMO is located on Beresford Avenue, Hull (HU6) - a highly desirable student area just off Cottingham Road, within walking distance to the University of Hull. The property already holds strong fundamentals: spacious layout, good kerb appeal, and a large rear garden. With only a few compliance-related works required following a recent council inspection, it presents an excellent opportunity for an investor to acquire a nearly-ready HMO in one of Hull's most proven rental zones.",
+    "beds": [7],
+    "baths": [2],
+    "size": "163 sq m",
+    "dealAnalysis": "",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild6530-3230-4230-b737-346137373464/EPC.png"
+    ],
+    "video": "https://drive.google.com/file/d/1k7Ii645308tAO-IR7Bgk6A49ipXWz08E/preview",
+    "images": [
+      "https://static.tildacdn.com/tild6536-6634-4463-b232-626534623738/Facade.jpg",
+      "https://static.tildacdn.com/tild6362-6136-4261-a164-383132636132/Kitchen.png",
+      "https://static.tildacdn.com/tild3762-3236-4637-b234-336433616466/Bedroom_1.png",
+      "https://static.tildacdn.com/tild3065-3637-4238-a564-663264386331/Bedroom_2.png",
+      "https://static.tildacdn.com/tild3135-3266-4364-b137-623334343863/Bedroom_3.png",
+      "https://static.tildacdn.com/tild6362-6135-4564-b635-353136366164/Bedroom_4.png",
+      "https://static.tildacdn.com/tild6435-6364-4234-b933-313636656466/Bedroom_5.png",
+      "https://static.tildacdn.com/tild3539-3432-4432-a630-393565366538/Bedroom_6.png",
+      "https://static.tildacdn.com/tild6163-6530-4538-a632-353264646136/Bedroom_7.png",
+	"https://static.tildacdn.com/tild6233-3735-4636-a261-616235323038/Bathroom_1.png"
+    ],
+    "floorplan": [
+      ""
+    ],
+    "marketInsightsImages": [
+      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "map": ""
+  },
+  {
     "dealId": "JPC-WEL-01",
     "title": " 5-bed HMO Opportunity",
     "city": "Hull",
