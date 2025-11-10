@@ -11,7 +11,7 @@
   "reservationFee": 5000,
   "projectEndValue": "",
   "belowMarketGDVDiscount": "",
-  "deposit": "45500",
+  "deposit": "45,500",
   "yield": "10%",
   "rent": "&pound;1,516",
   "annualRent": "18,200",
@@ -58,7 +58,6 @@
   ],
   "map": ""
 },
-
 	{
   "dealId": "JPC-RAG-01",
   "title": " 4-bed HMO Opportunity",
