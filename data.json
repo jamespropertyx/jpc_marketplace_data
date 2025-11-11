@@ -10,7 +10,7 @@
   "tenure": "Leasehold",
   "purchasePrice": 144000,
   "reservationFee": 6000,
-  "projectEndValue": "175,104",
+  "projectEndValue": "",
   "belowMarketGDVDiscount": "",
   "deposit": "36,000",
   "yield": "10%",
@@ -48,9 +48,6 @@
     	"https://static.tildacdn.com/tild6238-6164-4339-a562-653162353030/--9.jpg",
     	"https://static.tildacdn.com/tild3434-6537-4630-b839-656466623139/--10.jpg",
     	"https://static.tildacdn.com/tild3733-3862-4233-a238-666333636635/--11.jpg"
-  ],
-  "floorplan": [
-    ""
   ],
   "marketInsightsImages": [
     "https://static.tildacdn.com/tild6136-6533-4663-b630-616134376165/--0.jpg",
