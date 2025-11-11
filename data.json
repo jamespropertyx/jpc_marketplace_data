@@ -60,7 +60,7 @@
   "strategy": "Social Housing",
   "tenure": "Leasehold",
   "purchasePrice": 182000,
-  "reservationFee": 5000,
+  "reservationFee": 6552,
   "projectEndValue": "",
   "belowMarketGDVDiscount": "",
   "deposit": "45,500",
@@ -71,7 +71,7 @@
   "listedDate": "2025-11-10",
   "keyFeatures": [
     "The price listed is for one unit",
-    "Long-Term Secure Income",
+    "Only 3 apartments left",
     "No Voids or Maintenance",
     "Buy One or Build a Mini Portfolio"
   ],
@@ -79,7 +79,7 @@
   "beds": [1],
   "baths": [1],
   "size": "",
-  "dealAnalysis": "",
+  "dealAnalysis": "https://drive.google.com/file/d/1JId7nAwSkMIx075h6qRBvmkSpOS9cji6/view?usp=drive_link",
   "propertyAppraisal": "",
   "gdvAnalysis": "",
   "epcCertificate": [
@@ -89,7 +89,19 @@
   "https://static.tildacdn.com/tild3231-3336-4136-b463-356331636264/__2025-11-07__171014.png",
   "https://static.tildacdn.com/tild6566-6330-4263-b438-633832306532/__2025-11-07__171036.png",
   "https://static.tildacdn.com/tild3930-3935-4538-a361-313233353532/__2025-11-07__171045.png",
-  "https://static.tildacdn.com/tild6338-3435-4562-b266-643166386564/__2025-11-07__171056.png"
+  "https://static.tildacdn.com/tild6338-3435-4562-b266-643166386564/__2025-11-07__171056.png",
+ "https://static.tildacdn.com/tild6136-6533-4663-b630-616134376165/--0.jpg",
+    "https://static.tildacdn.com/tild3434-3131-4438-b961-336437333537/--1.jpg",
+    "https://static.tildacdn.com/tild3832-6163-4236-a339-353331646335/--2.jpg",
+    "https://static.tildacdn.com/tild3964-3666-4162-a464-303763376334/--3.jpg",
+    "https://static.tildacdn.com/tild6330-3032-4566-b930-643338636133/--4.jpg",
+    "https://static.tildacdn.com/tild3330-3864-4530-b832-653663663164/--5.jpg",
+    "https://static.tildacdn.com/tild3564-6164-4232-a466-343862343033/--6.jpg",
+    "https://static.tildacdn.com/tild6230-6334-4630-b462-356464646630/__page-0008.jpg",
+    "https://static.tildacdn.com/tild6663-3631-4438-b738-616563353335/__page-0009.jpg",
+    "https://static.tildacdn.com/tild6238-6164-4339-a562-653162353030/--9.jpg",
+    "https://static.tildacdn.com/tild3434-6537-4630-b839-656466623139/--10.jpg",
+    "https://static.tildacdn.com/tild3733-3862-4233-a238-666333636635/--11.jpg"
   ],
   "floorplan": [
     "https://static.tildacdn.com/tild3231-3435-4064-b732-643161616437/__2025-11-07__171137.png"
