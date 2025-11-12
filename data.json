@@ -34,8 +34,9 @@
     "epcCertificate": [
       "https://static.tildacdn.com/tild3166-3133-4433-b533-666439666463/Screenshot_2025-11-1.png"
     ],
-    "video": ["https://drive.google.com/file/d/1nSNC6l0Ge0SyAPMgHajQlXFTxq7MYCfB/preview",  
-    "https://drive.google.com/file/d/1eVkpBtjps0y7MgdCO-yWbERvt7Mb0Ed4/preview"
+    "video": [ 
+		"https://drive.google.com/file/d/1nSNC6l0Ge0SyAPMgHajQlXFTxq7MYCfB/preview", 
+		"https://drive.google.com/file/d/1eVkpBtjps0y7MgdCO-yWbERvt7Mb0Ed4/preview"
   ],
     "images": [
       "https://static.tildacdn.com/tild6663-3332-4464-b433-623130363636/Screenshot_2025-11-1.png",
