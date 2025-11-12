@@ -1,5 +1,65 @@
 [
 	{
+    "dealId": "JPC-GOD-04",
+    "title": "Student 2-bed Hybrid BTL",
+    "city": "Hull",
+    "address": "Hull",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "Hybrid BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 110000,
+    "reservationFee": 6000,
+    "projectEndValue": "134,640",
+    "belowMarketGDVDiscount": "26.7%",
+    "deposit": "27,500",
+    "yield": "12.3%",
+    "rent": "&pound;1,127",
+    "annualRent": "13,524",
+    "refurbCost": "2,000",
+    "listedDate": "2025-11-12",
+    "keyFeatures": [
+       "2-bed property in a prime student location, near the university",
+		"Opportunity to convert to a 3-bed with en-suites for increased rental income",
+		"Good yield potential with minimal investment to address minor issues",
+      	"Invest in a growing area with high demand for student housing"
+    ],
+    "description": "This 2-bedroom, 1-bathroom property offers a great investment opportunity in a desirable student area of Hull. Situated just a short walk from Newlands Avenue and the university, this property is well-suited for both student and professional tenants. Currently vacant, the property offers immediate rental potential with minimal refurbishment required, and further growth opportunities through converting to a 3-bedroom with en-suites.",
+    "beds": [2],
+    "baths": [1],
+    "size": "82 sq m",
+    "dealAnalysis": "",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild6232-6135-4266-b235-626365376332/EPC.png"
+    ],
+    "video": "https://drive.google.com/file/d/1c1GTgRZoD2h_z9AuZlWWYLUPEvD6m9bJ/preview",
+    "images": [
+      "https://static.tildacdn.com/tild6438-3636-4435-a233-663435386332/Facade.jpg",
+      "https://static.tildacdn.com/tild6234-6135-4936-a139-666664666130/alley.jpg",
+      "https://static.tildacdn.com/tild3437-3232-4433-b731-666164613039/Back_Yard__1.png",
+      "https://static.tildacdn.com/tild3633-3834-4239-b832-326333626261/Back_Yard__2.png",
+      "https://static.tildacdn.com/tild3530-6263-4532-a538-633437333731/Living_room.png",
+      "https://static.tildacdn.com/tild6131-3965-4836-a662-373930373164/Dining_room.png",
+      "https://static.tildacdn.com/tild3434-6365-4630-a134-313732393632/Kitchen.png",
+      "https://static.tildacdn.com/tild3531-6339-4736-b236-396530336131/Bedroom_1.png",
+      "https://static.tildacdn.com/tild6237-3163-4366-b766-613134646264/Bedroom_2.png",
+      "https://static.tildacdn.com/tild3166-6631-4035-b965-323139393862/Bathroom.png",
+      "https://static.tildacdn.com/tild3635-3338-4363-b562-626331353233/Meter.jpg",
+  ],
+	"floorplan": [
+		"https://static.tildacdn.com/tild3936-3063-4936-a135-323566343934/Floor_Plan.png"
+  ],
+    "marketInsightsImages": [
+      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "map": ""
+  },
+	{
     "dealId": "JPC-ALX-01",
     "title": "Student 2-bed BRR Opportunity",
     "city": "Hull",
