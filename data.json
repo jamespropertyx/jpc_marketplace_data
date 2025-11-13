@@ -1,5 +1,61 @@
 [
 	{
+    "dealId": "JPC-REY-01",
+    "title": "Turnkey 2-bed Hybrid BTL",
+    "city": "Hull",
+    "address": "Hull",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "Hybrid BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 115000,
+    "reservationFee": 6000,
+    "projectEndValue": "134,205",
+    "belowMarketGDVDiscount": "6%",
+    "deposit": "28,750",
+    "yield": "9%",
+    "rent": "&pound;867",
+    "annualRent": "10,404",
+    "refurbCost": "0",
+    "listedDate": "2025-11-13",
+    "keyFeatures": [
+       "Just a short walk to the University of Hull",
+		"Vacant property ready to rent",
+		"Great long-term investment",
+      	"Hassle-free rental management"
+    ],
+    "description": "This 2-bedroom, 1-bathroom property is located in one of Hull's most reliable student investment areas, and within walking distance to the University of Hull. The area is known for its strong rental demand from both students and young professionals.",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild3131-3937-4862-b965-366631393961/Screenshot_2025-11-1.png"
+    ],
+    "video": "https://drive.google.com/file/d/1Xx6evgafFJuYdRWo26Wk4h8mrFMvu5QN/preview",
+    "images": [
+      "https://static.tildacdn.com/tild3035-6436-4334-a235-636236666262/Screenshot_2025-11-1.png",
+      "https://static.tildacdn.com/tild6232-3564-4133-b231-646136646161/Screenshot_2025-11-1.png",
+      "https://static.tildacdn.com/tild3831-6330-4362-a130-393036353937/Screenshot_2025-11-1.png",
+      "https://static.tildacdn.com/tild6330-3835-4962-a366-316539306133/Screenshot_2025-11-1.png",
+      "https://static.tildacdn.com/tild6630-3337-4139-b233-623465386632/Screenshot_2025-11-1.png",
+      "https://static.tildacdn.com/tild6630-3337-4139-b233-623465386632/Screenshot_2025-11-1.png",
+      "https://static.tildacdn.com/tild3233-3165-4136-b364-313137313864/Screenshot_2025-11-1.png",
+      "https://static.tildacdn.com/tild6132-6463-4162-b165-386531386333/Screenshot_2025-11-1.png",
+      "https://static.tildacdn.com/tild3630-3464-4938-b638-623566646537/WhatsApp_Image_2025-.jpeg",
+      "https://static.tildacdn.com/tild6539-3162-4333-b433-666338633866/WhatsApp_Image_2025-.jpeg",
+      "https://static.tildacdn.com/tild6339-3265-4333-a133-666537626531/WhatsApp_Image_2025-.jpeg",
+      "https://static.tildacdn.com/tild6531-6439-4236-b835-626639303534/WhatsApp_Image_2025-.jpeg"
+  ],
+	"floorplan": [
+		"https://static.tildacdn.com/tild3732-6161-4539-b162-396137626533/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3435-3336-4333-a332-366466616430/Screenshot_2025-11-1.png"
+  ],
+    "marketInsightsImages": [
+      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "map": ""
+  },
+	{
     "dealId": "JPC-GOD-04",
     "title": "Student 2-bed Hybrid BTL",
     "city": "Hull",
