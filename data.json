@@ -4021,7 +4021,7 @@
     "address": "Hull",
     "status": "Available",
     "type": "Block of Apartments",
-    "strategy": "Block of Apartments",
+    "strategy": "BTL",
     "tenure": "Freehold",
     "purchasePrice": 450000,
     "reservationFee": 16200,
@@ -4039,7 +4039,7 @@
       "Strong demand from working professionals",
       "Private allocated parking for tenants"
     ],
-    "description": "This block of 12 apartments (12 bedrooms, 8 bathrooms, 8 receptions) is located on Peel Street, Hull, close to Hull Royal Infirmary, with direct transport links to the city centre and motorway network. Currently producing &pound;49,140 gross annual rental income, this is a turnkey investment with no refurbishment required. The property benefits from a strong rental history and long-standing management, making it particularly attractive to investors seeking a secure, income-producing asset.",
+    "description": "This block of 12 apartments (12 bedrooms, 8 bathrooms, 8 receptions) is located close to Hull Royal Infirmary, with direct transport links to the city centre and motorway network. Currently producing &pound;49,140 gross annual rental income, this is a turnkey investment with no refurbishment required. The property benefits from a strong rental history and long-standing management, making it particularly attractive to investors seeking a secure, income-producing asset.",
     "beds": [12],
     "baths": [8],
     "size": "372 sq m",
