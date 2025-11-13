@@ -1,5 +1,59 @@
 [
 	{
+  "dealId": "JPC-LIN-01",
+  "title": "Student 2-bed Hybrid BTL",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "Hybrid BTL",
+  "tenure": "Freehold",
+  "purchasePrice": 75000,
+  "reservationFee": 6000,
+  "projectEndValue": "86,475",
+  "belowMarketGDVDiscount": "4.7%",
+  "deposit": "18,750",
+  "yield": "18%",
+  "rent": "&pound;1,127",
+  "annualRent": "13,524",
+  "refurbCost": "30,000",
+  "listedDate": "2025-11-13",
+  "keyFeatures": [
+    "Meet student and professional housing demands",
+    "Refurb to unlock maximum rental yield",
+    "Affordable price for new landlords",
+    "Property values rising in the area"
+  ],
+  "description": "This 2-bedroom, 1-bathroom property is located in one of Hull's most reliable student investment areas, within walking distance to the University of Hull. It offers great potential for student and professional rental, with its proximity to local amenities, transport links, and the university. With a refurbishment budget, the property could achieve significant rental growth, increasing from its current condition to a fully modernised student rental or professional let, meeting the demands of the local market.",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3366-3931-4664-b638-366232303834/Screenshot_2025-11-1.png"
+  ],
+  "video": "https://drive.google.com/file/d/1Xx6evgafFJuYdRWo26Wk4h8mrFMvu5QN/preview",
+  "images": [
+    "https://static.tildacdn.com/tild3331-6533-4030-b865-663938393538/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6437-3361-4933-a561-656538343434/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3061-3131-4362-b962-613432353134/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3665-6630-4539-b130-636366636363/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3038-3037-4235-a631-353565393662/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3139-3064-4565-a562-396535306566/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6434-3833-4436-a263-323735343239/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6664-3165-4336-b961-303165613636/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3539-3034-4139-b664-393235336533/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3133-3630-4735-b761-383837636661/WhatsApp_Image_2025-.jpeg"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild3938-3764-4632-a534-623531333562/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3830-3065-4331-b162-636264366635/Screenshot_2025-11-1.png"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "map": ""
+},
+	{
     "dealId": "JPC-REY-01",
     "title": "Turnkey 2-bed Hybrid BTL",
     "city": "Hull",
