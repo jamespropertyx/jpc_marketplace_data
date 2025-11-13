@@ -25,8 +25,8 @@
       "High-yield potential with income-based GDV up to £135,000"
     ],
     "description": "A well-presented two-bedroom terraced property, one of Hull's most popular rental zones for both professionals and students. The property has been recently improved and configured as a Hybrid Buy-to-Let, offering a modern layout designed for higher rental returns. The accommodation includes a bright lounge, modern kitchen, two well-sized bedrooms, and a clean, functional bathroom. Internally, the property is in very good condition, requiring no immediate works.",
-    "beds": "2 beds",
-    "baths": "1 bath",
+    "beds": [2],
+    "baths": [1],
     "size": "60 sq m",
     "dealAnalysis": "",
     "propertyAppraisal": "",
@@ -47,16 +47,14 @@
       "https://static.tildacdn.com/tild6330-3335-4066-a433-373634666238/Yard.jpeg"
  
     ],
-    "floorplan": [
-    ],
     "marketInsightsImages": [
       "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
       "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
       "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
       "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
     ],
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d103807.39351289172!2d-0.4281197537973905!3d53.739100626449044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfc6e8a134e7%3A0xd4f33964ab3e7918!2sMarne%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sno!4v1763042098470!5m2!1sen!2sno"
-
+    "map": ""
+	},
 	{
   "dealId": "JPC-LIN-01",
   "title": "Student 2-bed Hybrid BTL",
