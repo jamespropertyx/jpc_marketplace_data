@@ -25,6 +25,12 @@
     "Property values rising in the area"
   ],
   "description": "This 2-bedroom, 1-bathroom property is located in one of Hull's most reliable student investment areas, within walking distance to the University of Hull. It offers great potential for student and professional rental, with its proximity to local amenities, transport links, and the university. With a refurbishment budget, the property could achieve significant rental growth, increasing from its current condition to a fully modernised student rental or professional let, meeting the demands of the local market.",
+	"beds": [2],
+    "baths": [1],
+    "size": "57 sq m",
+    "dealAnalysis": "",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
   "epcCertificate": [
     "https://static.tildacdn.com/tild3366-3931-4664-b638-366232303834/Screenshot_2025-11-1.png"
   ],
