@@ -1,9 +1,9 @@
 [
 	{
     "dealId": "JPC-MAR-04",
-    "title": "Hybrid BTL 2-Bed Opportunity",
+    "title": "2-Bed Hybrid BTL Opportunity",
     "city": "Hull",
-    "address": "Marne Street, Hull, HU5 3SU",
+    "address": "Hull",
     "status": "Available",
     "type": "Terraced",
     "strategy": "Hybrid BTL",
@@ -17,7 +17,7 @@
     "rent": "&pound;1,127",
     "annualRent": "13,524",
     "refurbCost": "30,000",
-    "listedDate": "2025-11-07",
+    "listedDate": "2025-11-13",
     "keyFeatures": [
       "2-bed Hybrid BTL in a strong HU5 rental area",
       "Potential rent: £60,000+ per year",
@@ -48,7 +48,6 @@
  
     ],
     "floorplan": [
-  
     ],
     "marketInsightsImages": [
       "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
