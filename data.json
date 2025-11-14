@@ -1,5 +1,66 @@
 [
 	{
+  "dealId": "JPC-FER-01",
+  "title": "Student 3-bed Hybrid BTL",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "Hybrid BTL",
+  "tenure": "Freehold",
+  "purchasePrice": 110000,
+  "reservationFee": 6000,
+  "projectEndValue": "139,194",
+  "belowMarketGDVDiscount": "19%",
+  "deposit": "27,500",
+  "yield": "10.2%",
+  "rent": "&pound;936",
+  "annualRent": "11,232",
+  "refurbCost": "1,000",
+  "listedDate": "2025-11-14",
+  "keyFeatures": [
+    "Strong long-term capital resilience",
+    "Excellent tenant profile",
+    "Perfect stepping-stone investment",
+    "Robust GDV with income and capital value aligned for investor returns"
+  ],
+  "description": "This 3-bedroom property sits in one of Hull's strongest rental pockets, highly popular with both students and working professionals. Just a short walk from major bus routes, local shops, and the University of Hull, the location alone makes this a dependable, low-void investment area. With a smart refurbishment, it can be repositioned as a high-income Hybrid BTL, significantly increasing both rental income and long-term capital value. Investors looking for strong demand, proven tenant profiles, and clear uplift potential will find this property highly attractive.",
+  "beds": [3],
+  "baths": [1],
+  "size": "85 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3134-6365-4836-b437-643834626435/Screenshot_2025-11-1.png"
+  ],
+  "video": "https://drive.google.com/file/d/1yOD6eDzxpabuoLBPTGMFTT1k7hEQFKvq/preview",
+  "images": [
+    "https://static.tildacdn.com/tild3864-6561-4839-b336-363636653431/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6264-3061-4463-b732-353764626431/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3836-6430-4539-b830-366136616535/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3032-3133-4438-a463-636665356630/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6335-3834-4630-a635-633365383335/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6663-3439-4531-a334-306462643234/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3966-6634-4861-a232-623666303131/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3664-6365-4363-b962-333461353035/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3135-3035-4130-a363-366364313339/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3732-3564-4565-a635-396261616636/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6265-3233-4436-a161-313931636462/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3864-3838-4337-a462-616464303961/WhatsApp_Image_2025-.jpeg"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild3031-3839-4266-b963-666431623166/Screenshot_2025-11-1.png"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "map": ""
+},
+	{
   "dealId": "JPC-LOW-01",
   "title": "Turnkey 6-bed HMO",
   "city": "Nottingham",
