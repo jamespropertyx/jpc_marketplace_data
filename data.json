@@ -1,5 +1,64 @@
 [
 	{
+  "dealId": "JPC-SCU-02",
+  "title": "Turnkey 4-bed HMO",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "HMO",
+  "tenure": "Freehold",
+  "purchasePrice": 140000,
+  "reservationFee": 6000,
+  "projectEndValue": "182,140",
+  "belowMarketGDVDiscount": "4.7%",
+  "deposit": "35,000",
+  "yield": "14.6%",
+  "rent": "&pound;1,699",
+  "annualRent": "20,388",
+  "refurbCost": "0",
+  "listedDate": "2025-11-14",
+  "keyFeatures": [
+    "Strong rental history already in place",
+    "Minimal work needed from day one",
+    "High-demand location for students and professionals",
+    "Great option for hands-off investors"
+  ],
+  "description": "This 4-bedroom, 3-bathroom HMO is located in one of Hull's strongest rental corridors, close to key student and young-professional demand zones. The property is already operating as a purpose-built HMO with a solid rental track record and requires minimal immediate work. With light redecoration and small aesthetic improvements, the rental income can be pushed further. Its condition, layout, and compliance positioning make it a strong option for investors seeking a stable, low-maintenance asset in HU5.",
+  "beds": [4],
+  "baths": [3],
+  "size": "98 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3139-6439-4132-b038-373239376131/Screenshot_2025-11-1.png"
+  ],
+  "video": "https://drive.google.com/file/d/1e4mU5WaBTrX_4roTm27ytBEhSvXbWZdH/preview",
+  "images": [
+    "https://static.tildacdn.com/tild3935-6363-4562-a538-366565326633/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3935-6363-4562-a538-366565326633/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3931-3561-4063-a531-353735643464/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6662-6362-4435-b862-633031323638/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3332-3339-4865-b730-306465343766/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6431-3461-4136-b835-666131643262/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6335-3637-4831-a239-386135653765/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3861-3533-4466-a264-636162643831/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3764-3734-4965-b964-656637326336/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3930-6237-4461-a430-643239356139/Screenshot_2025-11-1.png"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild3066-3732-4565-b063-306131653333/Screenshot_2025-11-1.png"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "map": ""
+},
+	{
   "dealId": "JPC-FER-01",
   "title": "Student 3-bed Hybrid BTL",
   "city": "Hull",
