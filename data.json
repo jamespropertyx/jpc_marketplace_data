@@ -26,6 +26,9 @@
     "Spacious layout, ideal for conversion or simple upgrades"
   ],
   "description": "This 3-bedroom, 1-bathroom end-terrace property in the sought-after HU5 area offers strong rental potential. Located close to public transport and the University of Hull, it's perfect for students and working professionals. With minimal refurbishment, it can be rented as a 2-bedroom Hybrid BTL, or converted into a 3-bedroom HMO with an en-suite for higher returns. This property offers a great opportunity to modernise and achieve strong rental income in a high-demand area.",
+  "beds": [3],
+  "baths": [1],
+  "size": "90 sq m",
   "dealAnalysis": "",
   "propertyAppraisal": "",
   "gdvAnalysis": "",
