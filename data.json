@@ -1,5 +1,69 @@
 [
 	{
+  "dealId": "JPC-LIM-01",
+  "title": "3-bed HMO Opportunity",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "HMO Opportunity",
+  "tenure": "Freehold",
+  "purchasePrice": 150000,
+  "reservationFee": 6000,
+  "projectEndValue": "171,750",
+  "belowMarketGDVDiscount": "3.3%",
+  "deposit": "37,500",
+  "yield": "12.5%",
+  "rent": "&pound;1,560",
+  "annualRent": "18,720",
+  "refurbCost": "45,000",
+  "listedDate": "2025-11-17",
+  "occupancy": "Vacant",
+  "keyFeatures": [
+    "Vacant and ready for refurbishment",
+    "High rental demand year-round",
+    "Excellent ROI potential",
+    "Good transport and amenity access"
+  ],
+  "description": "This 3-bedroom, 1-bathroom end-terrace property in the sought-after HU5 area offers strong rental potential. Located close to public transport and the University of Hull, it's perfect for students and working professionals. With minimal refurbishment, it can be rented as a 2-bedroom Hybrid BTL, or converted into a 3-bedroom HMO with an en-suite for higher returns. This property offers a great opportunity to modernise and achieve strong rental income in a high-demand area.",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3462-6231-4438-b737-333831323636/Screenshot_2025-11-1.png"
+  ],
+  "video": "https://drive.google.com/file/d/12cx9NahzWID2XOKJzX8FbCY8UCB7tiNl/preview",
+  "images": [
+    "https://static.tildacdn.com/tild3137-6334-4230-b139-376437343032/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6538-6331-4031-a335-653331616136/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6662-3538-4466-a133-323835366433/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6138-3265-4634-b733-363961623030/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3565-6363-4262-b262-623061646662/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6431-3137-4235-b535-643133386661/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3538-3434-4766-a462-363831626464/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6365-3531-4062-b034-653662363765/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3062-3538-4132-b165-343234373439/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6335-3266-4665-b465-333539393834/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6232-3736-4139-b563-363462636538/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3962-3364-4465-a336-373431386630/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3966-6365-4033-b062-653731393164/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3539-6363-4232-a661-323563313766/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6233-3965-4330-b165-353864313531/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6333-6364-4931-b434-303064643135/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3033-6265-4263-a331-386633346130/WhatsApp_Image_2025-.jpeg"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild6331-3936-4636-b466-333531323639/Screenshot_2025-11-1.png"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "map": ""
+},
+	{
   "dealId": "JPC-AUG-01",
   "title": "2-bed BRR Opportunity",
   "city": "Hull",
