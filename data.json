@@ -1,5 +1,68 @@
 [
 	{
+  "dealId": "JPC-RYD-02",
+  "title": "3-bed Hybrid BTL Opportunity",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "Hybrid BTL",
+  "tenure": "Freehold",
+  "purchasePrice": 130000,
+  "reservationFee": 6000,
+  "projectEndValue": "153,660",
+  "belowMarketGDVDiscount": "3.7%",
+  "deposit": "32,500",
+  "yield": "10%",
+  "rent": "&pound;1,083",
+  "annualRent": "12,996",
+  "refurbCost": "5,000",
+  "listedDate": "2025-11-17",
+  "occupancy": "Vacant",
+  "keyFeatures": [
+    "Vacant and ready to let immediately",
+    "Ideal for students or working professionals",
+    "Perfect entry-level investment with predictable numbers",
+    "Only light cosmetic upgrades needed to maximise rent"
+  ],
+  "description": "This 3-bedroom, 1-bathroom terraced property is located in one of Hull's most consistent rental areas, popular with both students and young professionals. The street sits just off the main student corridor and provides strong long-term rental demand with easy access to the University of Hull, transport links, shops and local amenities. The house is in good general condition, with potential for two clear strategies: Low-cost uplift (&pound;5k) — light decoration, furniture and dressing to let as a premium 2-bed student/working professional let at &pound;125 pppw x 2. Full HMO conversion reconfiguring layout to create 3 bedrooms and achieve &pound;125 pppw x 3. Both routes provide strong rental demand and solid long-term performance.",
+  "beds": [3],
+  "baths": [1],
+  "size": "98 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild6332-3234-4638-a565-343531323164/Screenshot_2025-11-1.png"
+  ],
+  "video": "https://drive.google.com/file/d/1e4mU5WaBTrX_4roTm27ytBEhSvXbWZdH/preview",
+  "images": [
+    "https://static.tildacdn.com/tild6638-3131-4534-b063-336631326536/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3832-3632-4436-b632-386165303164/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3961-3239-4439-b932-393134653039/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3636-6163-4462-b761-663565623561/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3464-3032-4862-a136-396136633836/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6337-3964-4162-a630-626337333264/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3163-3437-4931-a437-636331366430/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3035-3239-4161-a532-653632373130/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3138-3636-4437-a135-396236616539/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6462-3335-4530-b039-646166383764/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6366-6561-4137-a331-396635313966/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3134-6334-4434-b038-323034326362/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6139-6438-4132-a562-313432343465/WhatsApp_Image_2025-.jpeg"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild6433-3064-4365-b233-633339656537/Screenshot_2025-11-1.png"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "map": ""
+},
+	{
   "dealId": "JPC-CUR-01",
   "title": "Turnkey 7-bed HMO",
   "city": "Carlisle",
