@@ -1,5 +1,65 @@
 [
 	{
+  "dealId": "JPC-CUR-01",
+  "title": "Turnkey 7-bed HMO",
+  "city": "Carlisle",
+  "address": "Carlisle",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "HMO",
+  "tenure": "Freehold",
+  "purchasePrice": 225000,
+  "reservationFee": 8100,
+  "projectEndValue": "279,900",
+  "belowMarketGDVDiscount": "25%",
+  "deposit": "56,250",
+  "yield": "8.8%",
+  "rent": "&pound;1,650",
+  "annualRent": "19,800",
+  "refurbCost": "0",
+  "listedDate": "2025-11-17",
+  "keyFeatures": [
+    "Annual gross income: &pound;19,800 with tenants already in place",
+    "Opportunity to raise rents with light modernisation in future",
+    "Strong rental demand in the area with steady multi-occupant tenants",
+    "Suitable for long-term investors seeking stable northern cashflow"
+  ],
+  "description": "This 7-bedroom end-terrace HMO offers a straightforward, income-producing investment in a strong rental area of Carlisle. The property is currently fully tenanted, generating a gross annual income of &pound;19,800, and sits within walking distance of local amenities, transport links, and services. With seven bedrooms, a shared lounge, kitchen, bathroom, and private rear garden, the layout suits both long-term renters and multi-occupant tenants. This property is well-positioned for investors looking for steady cashflow and capital appreciation potential in an affordable northern market.",
+  "beds": [7],
+  "baths": [1],
+  "size": "176 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3335-6662-4436-b234-623235663365/EPC.png"
+  ],
+   "images": [
+    "https://static.tildacdn.com/tild3239-6332-4062-a263-613731643162/Facade.png",
+    "https://static.tildacdn.com/tild6134-6165-4263-b663-316233613339/Living_room_1.png",
+    "https://static.tildacdn.com/tild3362-3862-4562-a265-306166616564/Living_room_2.png",
+    "https://static.tildacdn.com/tild3935-3530-4139-b531-326439656132/Kitchen_1.png",
+    "https://static.tildacdn.com/tild6133-3237-4236-a465-316133646637/Kitchen_2.png",
+    "https://static.tildacdn.com/tild3330-6433-4063-b738-306337636539/Staircase_1.png",
+    "https://static.tildacdn.com/tild6463-3933-4032-b437-636537376564/Staircase_2.png",
+    "https://static.tildacdn.com/tild6562-6236-4630-b531-313534313332/Bedroom_1.png",
+    "https://static.tildacdn.com/tild3531-6232-4961-b364-376662323763/Bedroom_2.png",
+    "https://static.tildacdn.com/tild6264-6330-4631-b836-323166653936/Bedroom_3.png",
+	"https://static.tildacdn.com/tild3036-3739-4434-b262-366266343235/Bedroom_4.png",
+	"https://static.tildacdn.com/tild3366-6437-4865-b032-633466393364/Laundry_room.png",
+	"https://static.tildacdn.com/tild3636-6662-4637-a532-383438373364/Bathroom.png",
+	"https://static.tildacdn.com/tild6665-6338-4162-b263-626638333939/Backyard_1.png",
+	"https://static.tildacdn.com/tild6235-3539-4861-b338-323038313661/Backyard_2.png"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "map": ""
+},
+	{
   "dealId": "JPC-SCU-02",
   "title": "Turnkey 4-bed HMO",
   "city": "Hull",
