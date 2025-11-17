@@ -1,5 +1,71 @@
 [
 	{
+  "dealId": "JPC-AUG-01",
+  "title": "2-bed BRR Opportunity",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "BRR",
+  "tenure": "Freehold",
+  "purchasePrice": 65000,
+  "reservationFee": 6000,
+  "projectEndValue": "73,645",
+  "belowMarketGDVDiscount": "13.3%",
+  "deposit": "16,250",
+  "yield": "20%",
+  "rent": "&pound;1,083",
+  "annualRent": "12,996",
+  "refurbCost": "35,000",
+  "listedDate": "2025-11-17",
+  "occupancy": "Vacant",
+  "keyFeatures": [
+    "Vacant and ready for refurbishment",
+    "High rental demand year-round",
+    "Excellent ROI potential",
+    "Good transport and amenity access"
+  ],
+  "description": "This 2-bedroom, 1-bathroom end-terrace home sits in a well-loved HU5 location known for strong rental demand from both students and working professionals. With Newland Avenue, transport links, shops, cafes and the University of Hull all within easy reach, it is a convenient and appealing spot for long-term tenants. The property would benefit from a full refurbishment, but this creates an excellent opportunity to modernise the home and position it for strong rental performance. With the right upgrades, it can become a high-demand, reliable investment in a consistently popular area.",
+  "beds": [2],
+  "baths": [1],
+  "size": "61 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3733-6333-4335-b430-356430363634/Screenshot_2025-11-1.png"
+  ],
+  "video": "https://drive.google.com/file/d/1AhqLic9Ze1pXCI3IMe18AbDuRUlpmSB4/preview",
+  "images": [
+    "https://static.tildacdn.com/tild3031-6266-4865-b864-313134353734/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6564-3637-4630-a466-333232643161/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6637-6633-4934-b565-383064616539/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3265-6165-4933-b636-643036373637/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3132-6366-4361-a331-643436613166/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3065-3632-4332-a561-373138623332/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3535-3839-4866-b765-376137343961/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3164-6364-4661-a531-616266376132/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3463-3239-4038-b965-623765363333/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3537-3365-4334-b362-326565366137/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3334-3637-4237-a635-666466326239/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3230-3866-4638-b035-393539353163/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3765-3630-4366-b830-643164613735/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6234-3937-4765-a536-336662636363/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6133-3433-4462-b335-366430383366/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3662-3639-4039-a366-653461613136/WhatsApp_Image_2025-.jpeg"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild3964-3137-4335-a561-336130353031/Screenshot_2025-11-1.png"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "map": ""
+},
+	{
   "dealId": "JPC-RYD-02",
   "title": "3-bed Hybrid BTL Opportunity",
   "city": "Hull",
