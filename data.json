@@ -2475,7 +2475,7 @@
     "type": "Terraced",
     "strategy": "HMO Opportunity",
     "tenure": "Freehold",
-    "purchasePrice": 135000,
+    "purchasePrice": 145000,
     "reservationFee": 6000,
     "projectEndValue": "144,760",
     "belowMarketGDVDiscount": "18%",
