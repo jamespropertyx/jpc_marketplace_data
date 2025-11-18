@@ -5,6 +5,7 @@
     "city": "Hull",
     "address": "Hull",
     "status": "Available",
+	"occupancy": "Vacant",
     "type": "Terraced",
     "strategy": "Hybrid BTL",
     "tenure": "Freehold",
