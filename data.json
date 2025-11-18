@@ -1,5 +1,60 @@
 [
 	{
+  "dealId": "JPC-CAR-03",
+  "title": "4-bed HMO Opportunity",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "HMO Opportunity",
+  "tenure": "Freehold",
+  "purchasePrice": 140000,
+  "reservationFee": 6000,
+  "projectEndValue": "145,440",
+  "belowMarketGDVDiscount": "12.5%",
+  "deposit": "35,000",
+  "yield": "15.6%",
+  "rent": "&pound;1,820",
+  "annualRent": "21,840",
+  "refurbCost": "0",
+  "listedDate": "2025-11-18",
+  "occupancy": "Tenanted",
+  "keyFeatures": [
+    "Ready to start earning - just complete minimal works",
+    "Prime location near the University of Hull",
+    "HMO opportunity with high demand",
+    "Ideal for investors looking for high-yield rental opportunities in a sought-after area"
+  ],
+  "description": "This is a 4-bedroom, 3-bathroom property located in a highly desirable area of Hull, just off Newland Avenue and within walking distance to the University of Hull. The property is ideally positioned for both student tenants and working professionals due to its proximity to local amenities, transport links, and the city centre. The property is currently partially let but requires remedial work to satisfy HMO licensing requirements. With refurbishment, it can be a fully compliant HMO or alternatively used as a Hybrid BTL with strong rental demand.",
+  "beds": [4],
+  "baths": [3],
+  "size": "106 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3261-6237-4732-a533-373836333537/Screenshot_2025-11-1.png"
+  ],
+  "video": "https://drive.google.com/file/d/1Z7wN6xMQlx57rW6qsJ17FI0O3CSb98OD/preview",
+  "images": [
+    "https://static.tildacdn.com/tild6438-6133-4634-b366-306665613665/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3435-3062-4533-b430-383531336162/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6232-6563-4636-a631-656362326138/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6363-6133-4164-a266-316439376336/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3365-3032-4132-a161-326234653833/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6331-3839-4165-b263-306162376532/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3561-3563-4236-b639-306335363465/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6335-3932-4337-b730-623834633634/WhatsApp_Image_2025-.jpeg"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "map": ""
+},
+	{
   "dealId": "JPC-CAR-02",
   "title": "Student 2-bed Hybrid BTL",
   "city": "Hull",
