@@ -1,5 +1,61 @@
 [
-{
+	{
+  "dealId": "JPC-CAR-02",
+  "title": "Student 2-bed Hybrid BTL",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "Hybrid BTL",
+  "tenure": "Freehold",
+  "purchasePrice": 79950,
+  "reservationFee": 6000,
+  "projectEndValue": "96,819",
+  "belowMarketGDVDiscount": "23.8%",
+  "deposit": "19,988",
+  "yield": "16.3%",
+  "rent": "&pound;1,083",
+  "annualRent": "13,000",
+  "refurbCost": "10000",
+  "listedDate": "2025-11-18",
+  "occupancy": "Vacant",
+  "keyFeatures": [
+    "Low maintenance terraced property in a proven rental patch",
+    "Good local transport links; easy access to Hull University",
+    "Option to upgrade; full refurbishment will significantly increase property value and rental income",
+    "Potential for guaranteed rent with social housing providers (no voids)"
+  ],
+  "description": "This 2-bedroom, 1-bathroom property is located in a quiet area within walking distance to the University of Hull, making it an excellent investment for students. It's tucked away near Exmouth Street, which is a prime location for student housing, ensuring good rental potential.",
+  "beds": [2],
+  "baths": [1],
+  "size": "56 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3935-3561-4636-a136-373262646263/EPC.png"
+  ],
+  "images": [
+    "https://static.tildacdn.com/tild6465-6432-4338-a234-333835643130/Facade.png",
+    "https://static.tildacdn.com/tild3839-6261-4165-b232-653137316435/Kitchen.png",
+    "https://static.tildacdn.com/tild6137-3239-4935-b231-633964643264/Living_room.png",
+    "https://static.tildacdn.com/tild6135-3263-4632-b962-326334626661/Bedroom_1.png",
+    "https://static.tildacdn.com/tild3431-3837-4133-b537-376430396637/Bedroom_2.png",
+    "https://static.tildacdn.com/tild3261-3561-4262-b839-313262626666/Bathroom.png",
+    "https://static.tildacdn.com/tild3738-3264-4236-a539-663531663665/Back_yard.png"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild3032-6466-4435-b236-336332376464/Floor_Plan.png"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "map": ""
+},
+	{
     "dealId": "JPC-MAR-04",
     "title": "Hybrid BTL 2-Bed Opportunity",
     "city": "Hull",
