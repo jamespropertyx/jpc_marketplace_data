@@ -1,5 +1,57 @@
 [
 	{
+  "dealId": "JPC-BER-02",
+  "title": "5 Bed HMO Opportunity",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "HMO Opportunity",
+  "tenure": "Freehold",
+  "purchasePrice": 210000,
+  "reservationFee": 7560,
+  "projectEndValue": "263,550",
+  "belowMarketGDVDiscount": "6.3%",
+  "deposit": "52,500",
+  "yield": "13.0%",
+  "rent": "&pound;2,275",
+  "annualRent": "27,300",
+  "refurbCost": "10,000",
+  "listedDate": "2025-11-19",
+  "occupancy": "Tenanted",
+  "keyFeatures": [
+    "Great location near the University of Hull",
+    "5 spacious bedrooms with room for en-suites",
+    "Council works needed",
+    "Strong potential for future capital appreciation"
+  ],
+  "description": "This 5-bedroom, 2-bathroom property is located in one of Hull's most reliable student investment areas, just off Beverley Road and within walking distance to the University of Hull. The property is positioned perfectly for both student tenants and working professionals due to its proximity to local amenities, transport links, and the city centre. The property is currently partially tenanted but is in need of some remedial works to meet HMO licensing requirements.",
+  "beds": [5],
+  "baths": [2],
+  "size": "148 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild6339-3563-4037-a562-393964383463/Screenshot_2025-11-1.png"
+  ],
+  "video": "https://drive.google.com/file/d/18AgPSov4PEjsWOLSvVtnQpZQIY7lLp0f/preview",
+  "images": [
+    "hhttps://static.tildacdn.com/tild3231-3531-4331-b439-636264346162/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3562-3233-4339-a638-613765396535/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3861-3934-4536-a639-363238393765/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3634-3462-4337-b439-663063356332/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3363-6339-4539-b366-343936303232/Screenshot_2025-11-1.png"
+    ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "map": ""
+},
+	{
   "dealId": "JPC-BRA-01",
   "title": "2-bed Hybrid BTL Opportunity",
   "city": "Hull",
