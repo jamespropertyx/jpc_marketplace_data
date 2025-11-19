@@ -1,5 +1,60 @@
 [
 	{
+  "dealId": "JPC-SUF-02",
+  "title": "4-bed HMO Opportunity",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "HMO Opportunity",
+  "tenure": "Freehold",
+  "purchasePrice": 140000,
+  "reservationFee": 6000,
+  "projectEndValue": "178,080",
+  "belowMarketGDVDiscount": "3.4%",
+  "deposit": "35,000",
+  "yield": "15.6%",
+  "rent": "&pound;1,820",
+  "annualRent": "21,840",
+  "refurbCost": "10,000",
+  "listedDate": "2025-11-19",
+  "occupancy": "Tenanted",
+  "keyFeatures": [
+    "Budget-friendly renovation",
+    "Increased rental income potential",
+    "Focused on student & professional tenants",
+    "Great entry point for investors"
+  ],
+  "description": "This 4-bedroom, 2-bathroom property is located in one of Hull's most reliable student investment areas, just off Newland Avenue and within walking distance to the University of Hull. The property is ideally positioned for both student tenants and working professionals due to its proximity to local amenities, transport links, and the city centre.",
+  "beds": [4],
+  "baths": [2],
+  "size": "103 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3934-3036-4231-b666-373738383562/Screenshot_2025-11-1.png"
+  ],
+  "video": "https://drive.google.com/file/d/1qNGM-mq53r-j8eGLTYA2XlOpo20hCwE_/view?usp=drive_link",
+  "images": [
+    "https://static.tildacdn.com/tild3937-3336-4966-a363-663533653965/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3133-3961-4265-b565-643533316264/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3939-3365-4334-b761-326438343066/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6664-6533-4633-b332-313662616639/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3163-3230-4739-b263-633363393438/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6363-3937-4332-a134-663236373331/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild6239-3664-4032-a561-303837633131/Screenshot_2025-11-1.png",
+    "https://static.tildacdn.com/tild3565-3333-4635-b864-336239646465/Screenshot_2025-11-1.png"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "map": ""
+},
+	{
   "dealId": "JPC-CAR-03",
   "title": "4-bed HMO Opportunity",
   "city": "Hull",
