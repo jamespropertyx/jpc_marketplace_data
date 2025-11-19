@@ -1,5 +1,60 @@
 [
 	{
+  "dealId": "JPC-MAY-01",
+  "title": "Student 2-bed Hybrid BTL",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "Hybrid BTL",
+  "tenure": "Freehold",
+  "purchasePrice": 65000,
+  "reservationFee": 6000,
+  "projectEndValue": "83,590",
+  "belowMarketGDVDiscount": "13.3%",
+  "deposit": "16,250",
+  "yield": "20.8%",
+  "rent": "&pound;1,127",
+  "annualRent": "13,250",
+  "refurbCost": "4000",
+  "listedDate": "2025-11-19",
+  "occupancy": "Vacant",
+  "keyFeatures": [
+    "Quick turnaround; with just &pound;4k for damp repairs and a new furniture pack, ready for student market",
+    "Investment SDLT; &pound;3,250 in stamp duty for this investment",
+    "Prime location; quiet, clean street close to university and main student areas",
+    "Social housing option; potential to convert into social housing with guaranteed rent"
+  ],
+  "description": "This 2-bedroom, 1-bathroom property is ideal for buy-to-let investors looking to cater to the university student market. The property is within walking distance to the University of Hull and easily accessible to local amenities, transport links, and the city center. With an investment of &pound;4k for essential works and a new furniture pack, the property can be fully modernised and ready for the rental market. Additionally, with the increasing demand for student accommodation in Hull, this property is set in a highly desirable location that will likely appreciate in value, offering long-term growth potential. This property also offers flexibility in terms of refurbishment. If desired, investors can choose to enhance the property further, ensuring long-term capital growth, or opt for a quicker turnaround by focusing on the core works, making it an ideal option for those looking to generate cash flow with minimal outlay.",
+  "beds": [2],
+  "baths": [1],
+  "size": "62 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild6664-3265-4135-b466-393132643864/EPC.png"
+  ],
+  "images": [
+    "https://static.tildacdn.com/tild3463-3533-4032-b161-653430636465/Facade_1.png",
+    "https://static.tildacdn.com/tild6465-3964-4330-a334-316134356461/Diningroom.png",
+    "https://static.tildacdn.com/tild3839-3731-4163-a362-633533626137/kitchen.png",
+    "hhttps://static.tildacdn.com/tild3437-3832-4031-b162-313337616339/kitchen1.png",
+    "https://static.tildacdn.com/tild3761-3931-4665-a663-366366393336/guestroom.png",
+    "https://static.tildacdn.com/tild6164-6465-4238-b366-383961393137/Bathroom.png"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild3834-3933-4664-b333-626463633866/Floor_Plan.png"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "map": ""
+},
+	{
   "dealId": "JPC-SUF-02",
   "title": "4-bed HMO Opportunity",
   "city": "Hull",
