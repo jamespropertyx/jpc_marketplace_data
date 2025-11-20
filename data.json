@@ -1,5 +1,63 @@
 [
 	{
+  "dealId": "JPC-HAS-01",
+  "title": "2-bed Hybrid BTL",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "Hybrid BTL",
+  "tenure": "Freehold",
+  "purchasePrice": 75000,
+  "reservationFee": 6000,
+  "projectEndValue": "92,550",
+  "belowMarketGDVDiscount": "6.25%",
+  "deposit": "18,750",
+  "yield": "16.6%",
+  "rent": "&pound;1,040",
+  "annualRent": "12,480",
+  "refurbCost": "5,000",
+  "listedDate": "2025-11-20",
+  "occupancy": "Vacant",
+  "keyFeatures": [
+    "Minimal work needed for quick rental income",
+    "Prime location; quiet street with easy access to Hull University and local amenities",
+    "Ideal for students or professionals; 2 spacious bedrooms, great for sharing",
+    "Seller’s market; high demand for rental properties in this area"
+  ],
+  "description": "This 2-bedroom, 1-bathroom property is located in an area known for its strong student rental market. The property offers great potential for rental income with minimal refurbishment needed. It's close to key local amenities, transport links, and the University of Hull, making it an excellent choice for investors targeting student accommodation or working professionals in the area. The property is currently vacant but, with some essential work and a new furniture package, it could easily be rented to 2 students at &pound;120 per week per room, offering a solid return on investment.",
+  "beds": [2],
+  "baths": [1],
+  "size": "61 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3338-6164-4135-b162-353230633237/EPC.png"
+  ],
+	"video": "https://drive.google.com/file/d/17FXCv5bsOPzWVJR3ghzQRD_h4UZ__QCM/preview",
+  "images": [
+    "https://static.tildacdn.com/tild6238-3532-4262-b939-396663333530/Facade.png",
+    "https://static.tildacdn.com/tild3632-3163-4461-a433-656238363233/Lounge.png",
+    "https://static.tildacdn.com/tild3862-3439-4333-b062-326461356632/Living_roon_1.png",
+    "https://static.tildacdn.com/tild3835-6165-4063-b334-373066613731/Living_roon_2.png",
+    "https://static.tildacdn.com/tild3931-6431-4735-b736-616539393136/Kitchen.png",
+    "https://static.tildacdn.com/tild3066-6235-4566-a165-656265343564/Bedroom_1.png",
+	"https://static.tildacdn.com/tild6635-6166-4833-b864-666263323139/Bedroom_2.png",
+    "https://static.tildacdn.com/tild6263-3634-4436-b532-613930613637/Bathroom.png"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild6232-6634-4363-a131-663564396631/Floor_Plan.png"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "map": ""
+},
+	{
   "dealId": "JPC-ABB-01",
   "title": "Turnkey Social Housing 2-bed Unit ",
   "city": "Hull",
