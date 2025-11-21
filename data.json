@@ -707,8 +707,8 @@
       "Highly demanded location for professionals and students"
     ],
     "description": "A well-presented two-bedroom terraced property, one of Hull's most popular rental zones for both professionals and students. The property has been recently improved and configured as a Hybrid Buy-to-Let, offering a modern layout designed for higher rental returns. The accommodation includes a bright lounge, modern kitchen, two well-sized bedrooms, and a clean, functional bathroom. Internally, the property is in very good condition, requiring no immediate works.",
-    "beds": "2 beds",
-    "baths": "1",
+    "beds": "[2]",
+    "baths": "[1]",
     "size": "60 sq m",
     "dealAnalysis": "",
     "propertyAppraisal": "",
@@ -3532,8 +3532,8 @@
       "Clear equity margin and long-term value growth"
     ],
     "description": "This substantial three-storey period property sits directly on Pearson Park, one of Hull's most prestigious addresses. The building's grandeur, ceiling heights and frontage make it ideal for high-end residential conversion or blue-chip professional lets.",
-    "beds": [-],
-    "baths": [-],
+    "beds": [0],
+    "baths": [0],
 	"floors": "3 floors",
     "size": "246 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1UEauxL0r5ppeQlRPpXdd-Uh2FBwXrr7t/view?usp=drive_link",
