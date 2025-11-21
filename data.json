@@ -3532,7 +3532,9 @@
       "Clear equity margin and long-term value growth"
     ],
     "description": "This substantial three-storey period property sits directly on Pearson Park, one of Hull's most prestigious addresses. The building's grandeur, ceiling heights and frontage make it ideal for high-end residential conversion or blue-chip professional lets.",
-    "floors": "3 floors",
+    "beds": [-],
+    "baths": [-],
+	"floors": "3 floors",
     "size": "246 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1UEauxL0r5ppeQlRPpXdd-Uh2FBwXrr7t/view?usp=drive_link",
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Navy-House-Pearson-Park-Hull-HU5-2TD-295b6c4b014180678450ee213e5815d6",
