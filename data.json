@@ -1292,7 +1292,7 @@
       "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
     ],
     "map": "",
-    "occupancy": "Vacant"
+    "occupancy": "Tenanted"
   },
   {
     "dealId": "JPC-FER-01",
@@ -1446,7 +1446,7 @@
       "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
     ],
     "map": "",
-    "occupancy": "Vacant"
+    "occupancy": "Tenanted"
   },
   {
     "dealId": "JPC-LIN-01",
@@ -2329,7 +2329,7 @@
       "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.0199113053313!2d-0.3551442234579989!3d53.771332872415655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be524890f05b%3A0xe0ab6132e381330e!2sWellesley%20Ave%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sru!4v1762513751850!5m2!1sen!2sru",
-    "occupancy": "Vacant"
+    "occupancy": "Tenanted"
   },
   {
     "dealId": "JPC-BLA-01",
@@ -2490,7 +2490,7 @@
       "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2405.594636623189!2d-1.4780900000000001!3d52.91972450000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879f13d448cd8d9%3A0xdf1bbdf84c9440e0!2sGreen%20Ln%2C%20Derby%2C%20UK!5e0!3m2!1sen!2sru!4v1762419779633!5m2!1sen!2sru",
-    "occupancy": "Vacant"
+    "occupancy": "Tenanted"
   },
   {
     "dealId": "JPC-CLU-01",
@@ -2615,7 +2615,7 @@
       "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9431.079739792234!2d-0.38435017116352155!3d53.77578290338702!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfa13034fce7%3A0x290aef79e2694675!2sGrangeside%20Ave%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sgr!4v1762352960679!5m2!1sen!2sgr",
-    "occupancy": "Vacant"
+    "occupancy": "Tenanted"
   },
   {
     "dealId": "JPC-LAM-02",
@@ -2940,7 +2940,7 @@
       "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1179.1623163833883!2d-0.36223527879420303!3d53.76590793713539!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfb30093e813%3A0x85c05b2393f722e8!2sSidmouth%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sru!4v1762181231821!5m2!1sen!2sru",
-    "occupancy": "Vacant"
+    "occupancy": "Tenanted"
   },
   {
     "dealId": "JPC-PEE-04",
@@ -3025,7 +3025,7 @@
       "https://static.tildacdn.com/tild6339-3738-4138-a636-653963653839/Screenshot_2025-11-0.png"
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2357.6385566855834!2d-0.3599407239362756!3d53.77812157241766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfaa5f5584b3%3A0xa2d97cae62d969bc!2sBeverley%20Rd%2C%20Hull%2C%20UK!5e0!3m2!1sen!2snl!4v1754550182472!5m2!1sen!2snl",
-    "occupancy": "Vacant"
+    "occupancy": "Tenanted"
   },
   {
     "dealId": "JPC-BEV-04",
@@ -3105,7 +3105,7 @@
       "https://static.tildacdn.com/tild3233-3330-4934-b238-336237363930/212300_33775294_IMG_.jpeg"
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2357.6385566855834!2d-0.3599407239362756!3d53.77812157241766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfaa5f5584b3%3A0xa2d97cae62d969bc!2sBeverley%20Rd%2C%20Hull%2C%20UK!5e0!3m2!1sen!2snl!4v1754550182472!5m2!1sen!2snl",
-    "occupancy": "Vacant"
+    "occupancy": "Tenanted"
   },
   {
     "dealId": "JPC-GRA-05",
@@ -3285,7 +3285,7 @@
       "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.93926141342!2d-0.3100224!3d53.7549646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be0a4b7d5757%3A0xe8e1c47c67c04153!2sSherburn%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sru!4v1761899931574!5m2!1sen!2sru",
-    "occupancy": "Vacant"
+    "occupancy": "Tenanted"
   },
   {
     "dealId": "JPC-SPR-01",
@@ -3358,7 +3358,7 @@
       "https://static.tildacdn.com/tild6566-3937-4031-a435-383263613962/Screenshot_2025-10-3.png"
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2359.191946125163!2d-0.38232413201599114!3d53.750465156006435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfc26ec3de9b%3A0x9dded18ae56bd2d9!2sSpring%20Bank%20W%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sru!4v1761835301042!5m2!1sen!2sru",
-    "occupancy": "Vacant"
+    "occupancy": "Tenanted"
   },
   {
     "dealId": "JPC-ASH-04",
@@ -3910,7 +3910,7 @@
       "https://static.tildacdn.com/tild6433-6461-4238-a535-326363376630/photo_2025-10-28_10-.jpg"
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d589.6459207010064!2d-0.35309727145022846!3d53.761295791063596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be4bc9a8f575%3A0xb338754b7b0d698e!2s12%20Queens%20Rd%2C%20Hull%20HU5%202QG%2C%20UK!5e0!3m2!1sen!2sru!4v1761636729826!5m2!1sen!2sru",
-    "occupancy": "Vacant"
+    "occupancy": "Tenanted"
   },
   {
     "dealId": "JPC-PEA-02",
@@ -4197,7 +4197,7 @@
       "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2361.7511201621137!2d-0.868881723462453!3d53.7048804723955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48791fa6ee983211%3A0xef1362d0033e9117!2sArgyle%20St%2C%20Goole%2C%20UK!5e0!3m2!1sen!2snl!4v1761304969714!5m2!1sen!2snl",
-    "occupancy": "Vacant"
+    "occupancy": "Tenanted"
   },
   {
     "dealId": "JPC-ELL-01",
@@ -4447,7 +4447,7 @@
       "https://static.tildacdn.com/tild6633-6436-4634-b866-623037353130/Screenshot_2025-10-2.png"
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.999876802579!2d-0.37340662345920833!3d53.753885272410315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfc6bf39eecf%3A0xf6623a335f3f11e5!2sPerth%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2snl!4v1761128005054!5m2!1sen!2snl",
-    "occupancy": "Vacant"
+    "occupancy": "Tenanted"
   },
   {
     "dealId": "JPC-HAR-01",
@@ -4508,7 +4508,7 @@
       "https://static.tildacdn.com/tild3831-3534-4037-a563-396139363663/Screenshot_2025-10-2.png"
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.2740506910195!2d-0.3597983234582568!3d53.76680847241428!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be4d2e585a93%3A0xa90986e27516777!2sHardy%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2snl!4v1761090234738!5m2!1sen!2snl",
-    "occupancy": "Vacant"
+    "occupancy": "Tenanted"
   },
   {
     "dealId": "JPC-SUF-01",
@@ -4680,7 +4680,7 @@
       "https://static.tildacdn.com/tild3131-3962-4236-a566-633434666365/Screenshot_2025-10-1.png"
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.4317309387593!2d-0.35758502084677607!3d53.76400118633097!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be4c9080436d%3A0xc574f8cf94ed7d3!2sGrafton%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sru!4v1760710826099!5m2!1sen!2sru",
-    "occupancy": "Vacant"
+    "occupancy": "Tenanted"
   },
   {
     "dealId": "JPC-BEL-01",
@@ -5043,7 +5043,7 @@
     ],
     "floorplan": [],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2359.076698890703!2d-0.35350542372653354!3d53.7525173442557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be33ffd91577%3A0xd6bd1e4bdaf91acd!2sLeonard%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sth!4v1760017496943!5m2!1sen!2sth",
-    "occupancy": "Vacant"
+    "occupancy": "Tenanted"
   },
   {
     "dealId": "JPC-WES-01",
@@ -5345,7 +5345,7 @@
     ],
     "floorplan": [],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2359.0898737672314!2d-0.3567182885891329!3d53.75228274415879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be33781b7a41%3A0x3551d3c95dcd982b!2sPeel%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2snl!4v1759400446708!5m2!1sen!2snl",
-    "occupancy": "Vacant"
+    "occupancy": "Tenanted"
   },
   {
     "dealId": "JPC-MAR-02",
@@ -5476,7 +5476,7 @@
     ],
     "floorplan": [],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2359.1598526678868!2d-0.35512168858919824!3d53.75103664425246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be33bf711329%3A0xff8bf09081bf7e50!2sMorpeth%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2snl!4v1758791381795!5m2!1sen!2snl",
-    "occupancy": "Vacant"
+    "occupancy": "Tenanted"
   },
   {
     "dealId": "JPC-HIL-01",
@@ -5739,7 +5739,7 @@
       "https://static.tildacdn.com/tild6534-3765-4833-b739-613938623430/__2025-09-15__115905.png"
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.4136980313024!2d-0.3612723885881762!3d53.76432224325333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfb3445719b1%3A0xe9f661ca343961!2sNewland%20Ave%2C%20Hull%2C%20UK!5e0!3m2!1sen!2snl!4v1757929172608!5m2!1sen!2snl",
-    "occupancy": "Vacant"
+    "occupancy": "Tenanted"
   },
   {
     "dealId": "JPC-PRI-02",
@@ -5880,7 +5880,7 @@
       "https://static.tildacdn.com/tild3265-6230-4166-b461-343561376336/__2025-09-10__102747.png"
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2359.0898737607663!2d-0.3567129241500196!3d53.75228274427391!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be33781b7a41%3A0x3551d3c95dcd982b!2sPeel%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2snl!4v1757493512527!5m2!1sen!2snl",
-    "occupancy": "Vacant"
+    "occupancy": "Tenanted"
   },
   {
     "dealId": "JPC-SHA-02",
@@ -6122,7 +6122,7 @@
     ],
     "floorplan": [],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.9106546085513!2d-0.36159528837664323!3d53.755473972295725!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfcae0766845%3A0x79411359e2272c0e!2sPark%20Grove!5e0!3m2!1sen!2sru!4v1756391458769!5m2!1sen!2sru",
-    "occupancy": "Vacant"
+    "occupancy": "Tenanted"
   },
   {
     "dealId": "JPC-ROS-01",
@@ -6305,7 +6305,7 @@
       "https://static.tildacdn.com/tild3834-3537-4131-a238-313235383164/__2025-08-22__180328.png"
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.4113823008965!2d-0.36252988837596556!3d53.76436347229841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfb368ea28b7%3A0xe168b2312c738d1e!2sMelbourne%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sru!4v1755875239828!5m2!1sen!2sru",
-    "occupancy": "Vacant"
+    "occupancy": "Tenanted"
   },
   {
     "dealId": "JPC-PGV-01",
@@ -6498,7 +6498,7 @@
       "https://static.tildacdn.com/tild3733-6464-4933-b431-383862386139/__2025-08-21__120104.png"
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.7712268977666!2d-0.36886298837646986!3d53.75795657229645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bfcee922b4b3%3A0x1574bfe2b1c79e0f!2zUGFyayBBdmUsIEh1bGwsINCS0LXQu9C40LrQvtCx0YDQuNGC0LDQvdC40Y8!5e0!3m2!1sru!2snl!4v1755766998812!5m2!1sru!2snl",
-    "occupancy": "Vacant"
+    "occupancy": "Tenanted"
   },
   {
     "dealId": "JPC-DUN-01",
