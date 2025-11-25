@@ -6,7 +6,7 @@
   "address": "Hull",
   "status": "Available",
   "type": "Terraced",
-  "strategy": "Hybrid DTL",
+  "strategy": "Hybrid BTL",
   "tenure": "Freehold",
   "purchasePrice": 124000,
   "reservationFee": 6000,
