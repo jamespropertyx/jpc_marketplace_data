@@ -1,5 +1,72 @@
 [
   {
+  "dealId": "JPC-WAL-03",
+  "title": "Turnkey 2-bed Hybrid BTL",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "Hybrid DTL",
+  "tenure": "Freehold",
+  "purchasePrice": 124000,
+  "reservationFee": 6000,
+  "projectEndValue": "140,000",
+  "belowMarketGDVDiscount": "11.4%",
+  "deposit": "31,000",
+  "yield": "10.1%",
+  "rent": "&pound;1,040",
+  "annualRent": "12,480",
+  "refurbCost": "0",
+  "listedDate": "2025-11-25",
+  "keyFeatures": [
+    "Secure tenants already in place, start earning now",
+    "CoL in Place",
+    "HMO Planning Permission",
+    "HMO License"
+  ],
+  "description": "This 2-bedroom, 1-bathroom property is located in one of Hull's most reliable student and professional rental areas, just off Newland Avenue, offering excellent access to shops, transport links, and the University of Hull. The house is in turnkey condition, making it suitable for immediate letting, but also offers a clear upgrade path to convert into a 3-bedroom HMO with minimal structural changes.",
+  "beds": [2],
+  "baths": [1],
+  "size": "89 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild6234-6564-4135-b564-396666373337/Screenshot_2025-11-2.png"
+  ],
+  "video": "https://drive.google.com/file/d/1cqm3Kqh2XwUts8DmoGgNIBpIMdrkWJvH/preview",
+  "images": [
+    "https://static.tildacdn.com/tild6632-3533-4662-a531-646231306439/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6266-6538-4735-b364-656231393330/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3364-3330-4437-b066-383565666532/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3333-3264-4933-a632-323136636536/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3935-3364-4137-a336-326364343630/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3231-3161-4738-a638-393830353337/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3537-3861-4733-b537-386631663231/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3630-6264-4061-a664-643238313664/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3366-3332-4265-b335-386465363162/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3166-6638-4437-a562-666562626538/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild6366-6435-4461-b461-613332333635/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild6538-3863-4566-a635-383361356133/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3730-3730-4164-b932-343564303635/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3866-3932-4266-b235-623730366537/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild6637-3535-4633-b563-343638353065/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3566-6630-4261-b637-636365623566/WhatsApp_Image_2025-.jpeg"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild6538-3439-4333-b931-356430346665/Screenshot_2025-11-2.png"
+  ],
+  "map": "",
+  "occupancy": "Vacant",
+  "condition": ["Turnkey"]
+},
+  {
   "dealId": "JPC-FOR-01",
   "title": "Turnkey 4-bed HMO",
   "city": "Nottingham",
