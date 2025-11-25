@@ -1,4 +1,57 @@
 [
+  {
+"dealId": " JPC-SQU-01",
+   "title": "2-Storey Mixed-Use Commercial Building",
+   "city": "Hull",
+   "address": "Hull",
+   "status": "Available",
+   "type": "Commercial",
+   "strategy": "Commercial",
+   "tenure": "Freehold",
+   "purchasePrice": 295000,
+   "reservationFee": 10620,
+   "projectEndValue": "351,345",
+   "belowMarketGDVDiscount": "35.5%",
+   "deposit": "73,750",
+   "yield": "18,3%",
+   "rent": "&pound;4,507",
+   "annualRent": "54,084",
+   "refurbCost": "100,000",
+   "listedDate": "2025-11-25",
+   "keyFeatures": [
+     "Former bank in premium Willerby parade",
+     "Ground floor ideal for retail or services",
+     "Mixed-use possibilities",
+     "Commercial purchase - SDLT-free"
+   ],
+   "description": "This three-storey mid-terraced commercial building sits within walking distance of Hull City Centre. Previously used as a dental studio, it offers a ground-floor office/workshop with open-plan and private offices across the first and second floors, along with existing W.C. facilities. The property benefits from a private gated rear courtyard, providing parking for up to four vehicles - a strong advantage for both commercial use and future residential tenants. Suitable for continued office use, the building also has clear potential for conversion into four self-contained apartments. Its solid brick construction, practical layout and central location make it a strong value-add opportunity for investors looking for a commercial or residential redevelopment project.",
+   "baths": [0],
+   "floors": "2 floors",
+   "size": "201 sq m",
+   "dealAnalysis": "",
+   "propertyAppraisal": "",
+   "gdvAnalysis": "",
+   "epcCertificate": ["https://static.tildacdn.com/tild3833-6131-4333-a539-626433643165/1_3.png"],
+   "images": [
+     "https://static.tildacdn.com/tild3236-6235-4833-b865-313130346135/Screenshot_2025-11-2.png",
+     "https://static.tildacdn.com/tild3966-6232-4333-b338-653838383134/Screenshot_2025-11-2.png",
+     "https://static.tildacdn.com/tild6566-3265-4634-a362-633964303334/Screenshot_2025-11-2.png"
+   ],
+   "marketInsightsImages": [
+     "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+     "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+     "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+     "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+   ],
+   "floorplan": [
+     "https://static.tildacdn.com/tild3034-6530-4066-b533-363265663631/Screenshot_2025-11-2.png",
+     "https://static.tildacdn.com/tild6664-3866-4963-b034-333730353061/Screenshot_2025-11-2.png",
+     "https://static.tildacdn.com/tild3063-3965-4666-b565-383663633362/Screenshot_2025-11-2.png"
+   ],
+   "map": "",
+   "occupancy": "Vacant",
+   "condition": ["Full Refurb"]
+ },
    {
 "dealId": "JPC-BEV-05",
     "title": "3-Storey Commercial Building",
