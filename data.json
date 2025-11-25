@@ -1,5 +1,63 @@
 [
   {
+  "dealId": "JPC-DEE-01",
+  "title": "3-bed BRR Opportunity",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "BRR",
+  "tenure": "Freehold",
+  "purchasePrice": 30000,
+  "reservationFee": 6000,
+  "projectEndValue": "36,330",
+  "belowMarketGDVDiscount": "70%",
+  "deposit": "7,500",
+  "yield": "62.4%",
+  "rent": "&pound;1,560",
+  "annualRent": "18,720",
+  "refurbCost": "45,000",
+  "listedDate": "2025-11-25",
+  "keyFeatures": [
+    "End-terrace 3-bed refurb project",
+    "Fully stripped back to brick",
+    "Huge uplift potential after full renovation",
+    "Low entry price creates strong ROI potential"
+  ],
+  "description": "This 3-bedroom, 1-bathroom end-of-terrace house is located just off Hessle Road, one of Hull's busiest and most reliable rental areas. The property has been fully stripped back to brick, with steels already installed to create an open-plan ground floor layout. Positioned close to Hull Royal Infirmary, MKM Stadium and major transport links, the location attracts strong demand from families, hospital staff and working professionals. With the structural prep already completed, the property is ready for a full refurbishment and presents a strong BRR or flip investment.",
+  "beds": [3],
+  "baths": [1],
+  "size": "114 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild6438-6335-4530-a132-623161353038/Screenshot_2025-11-2.png"
+  ],
+  "images": [
+    "https://static.tildacdn.com/tild3863-6364-4437-b030-633830343335/image-0-1024x1024.webp",
+    "https://static.tildacdn.com/tild6437-6430-4736-b131-363065653531/image-1-1024x1024.webp",
+    "https://static.tildacdn.com/tild6334-3464-4666-a638-666530636562/image-2-1024x1024.webp",
+    "https://static.tildacdn.com/tild3039-3035-4232-b433-313064333338/image-3-1024x1024.webp",
+    "https://static.tildacdn.com/tild3238-3363-4933-a132-613866336463/image-4-1024x1024.webp",
+    "https://static.tildacdn.com/tild6337-6130-4336-a663-626262613864/image-6-1024x1024.webp",
+    "https://static.tildacdn.com/tild3231-6664-4232-b561-333738346637/image-7-1024x1024.webp",
+    "https://static.tildacdn.com/tild3731-6262-4632-b432-336337633664/image-8-1024x1024.webp"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild3933-3432-4066-a161-386462373531/Screenshot_2025-11-2.png"
+  ],
+  "map": "",
+  "occupancy": "Vacant",
+  "condition": ["Full Refurb"]
+},
+  {
 "dealId": " JPC-SQU-01",
    "title": "2-Storey Mixed-Use Commercial Building",
    "city": "Hull",
