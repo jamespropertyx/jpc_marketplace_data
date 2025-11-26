@@ -1,5 +1,75 @@
 [
   {
+  "dealId": "JPC-LOU-01",
+  "title": "Turnkey 5-bed Block of Apartments",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Block of Apartments",
+  "strategy": "Block of Apartments",
+  "tenure": "Freehold",
+  "purchasePrice": 170000,
+  "reservationFee": 6120,
+  "projectEndValue": "218,000",
+  "belowMarketGDVDiscount": "22%",
+  "deposit": "42,500",
+  "yield": "21.2%",
+  "rent": "&pound;3,000",
+  "annualRent": "36,000",
+  "refurbCost": "0",
+  "listedDate": "2025-11-26",
+  "keyFeatures": [
+    "Three self-contained flats in one freehold block",
+    "Long-standing tenants - low turnover, stable income",
+    "Ideal for hands-off investors seeking passive income",
+    "Excellent yield profile with safe, predictable returns"
+  ],
+  "description": "This 5-bedroom, 3-bathroom block of three self-contained flats is located just off Beverley Road, in one of Hull's strongest rental areas for working professionals and long-standing tenants. The property is fully tenanted, generating stable income, and offers immediate cash flow with potential for rental uplift. Walking distance to local shops, bus routes, the city centre, and the university.",
+  "beds": [5],
+  "baths": [3],
+  "size": "168 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3762-3961-4134-b330-323232306234/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3230-3064-4334-b763-663061633865/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild6436-6637-4234-a663-636134313466/Screenshot_2025-11-2.png"
+  ],
+  "images": [
+    "https://static.tildacdn.com/tild3366-3431-4037-b935-376137393634/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3038-3635-4262-b936-346432363236/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3938-3539-4930-b166-636263336333/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild6239-3364-4564-b961-623762326335/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3539-3433-4137-a139-663134616431/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3663-6661-4763-b030-646235633032/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild6164-6136-4863-b138-633262373231/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3532-6361-4538-b465-376530616237/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3065-6461-4633-b062-323839326163/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3637-6661-4431-a635-616262383533/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3162-6436-4531-b831-616235643538/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3965-3963-4831-b633-663565323732/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3062-6530-4166-b939-613438326236/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3331-3334-4233-b332-373165336630/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild6636-6535-4164-a161-326132643530/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild6531-3732-4432-a637-376538653865/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3061-3165-4562-a339-326137636632/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild6534-6666-4338-a331-346337343233/Screenshot_2025-11-2.png"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild3431-3831-4330-b333-353732326636/Screenshot_2025-11-2.png"
+  ],
+  "map": "",
+  "occupancy": "Tenanted",
+  "condition": ["Turnkey"]
+},
+  {
   "dealId": "JPC-BEV-06",
   "title": "1-bed Apartment BTL Opportunity",
   "city": "Hull",
