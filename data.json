@@ -6275,7 +6275,7 @@
     "address": "Hull",
     "status": "Available",
     "type": "Terraced",
-    "strategy": "HMO",
+    "strategy": "HMO Opportunity",
     "tenure": "Freehold",
     "purchasePrice": 130000,
     "reservationFee": 6000,
