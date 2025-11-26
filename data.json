@@ -1,5 +1,68 @@
 [
   {
+  "dealId": "JPC-BEV-06",
+  "title": "1-bed Apartment BTL Opportunity",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "BTL",
+  "tenure": "Freehold",
+  "purchasePrice": 65000,
+  "reservationFee": 6000,
+  "projectEndValue": "90,000",
+  "belowMarketGDVDiscount": "27.7%",
+  "deposit": "16,250",
+  "yield": "11.2%",
+  "rent": "&pound;607",
+  "annualRent": "7,284",
+  "refurbCost": "2,000",
+  "listedDate": "2025-11-26",
+  "keyFeatures": [
+    "Ideal low-price, low-maintenance city investment",
+    "Airbnb potential with high occupancy",
+    "Perfect starter asset or portfolio add-on",
+    "Light refurb only - repaint and dress"
+  ],
+  "description": "This 1-bedroom, 1-bathroom apartment is located within walking distance to Hull city centre, the train station, and major bus routes. The property sits in a converted block with secure gated parking, making it attractive to working professionals, mature students, and short-stay guests. The apartment has a unique layout with an open-plan living/kitchen area, spiral staircase, French doors to a communal patio, and allocated parking. It is currently vacant and offers two clear strategies: standard BTL or Airbnb with minimal uplift required.",
+  "beds": [1],
+  "baths": [1],
+  "size": "55 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3762-3961-4134-b330-323232306234/Screenshot_2025-11-2.png"
+  ],
+  "video": "https://drive.google.com/file/d/1nBzLsTSxEd2O7YTnzaIgv2LYVMDkXQEs/preview",
+  "images": [
+    "https://static.tildacdn.com/tild3438-6532-4438-a465-656631313032/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3864-3231-4435-b832-623634393138/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild6165-6661-4436-a139-316165353331/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3461-3164-4134-b431-633463623733/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3064-3064-4436-b439-646261636131/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3139-3233-4934-a237-636237626264/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3366-6361-4534-a332-663235373335/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild6661-3737-4638-a334-326531646330/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild6333-3865-4234-b262-333838363737/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6162-3439-4534-b633-663165343436/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3431-3165-4736-b162-653837653037/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3438-3061-4064-b964-333565343362/WhatsApp_Image_2025-.jpeg"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild3835-3736-4437-a565-643036633834/Screenshot_2025-11-2.png"
+  ],
+  "map": "",
+  "occupancy": "Vacant",
+  "condition": ["Light Refurb"]
+},
+  {
   "dealId": "JPC-CRA-02",
   "title": "Student Hybrid BTL Conversion Opportunity",
   "city": "Hull",
