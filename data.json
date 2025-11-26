@@ -4641,7 +4641,7 @@
     "address": "Hull",
     "status": "Available",
     "type": "Terraced",
-    "strategy": "HMO",
+    "strategy": "HMO Opportunity",
     "occupancy": "Tenanted",
     "tenure": "Freehold",
     "purchasePrice": 125000,
