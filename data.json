@@ -2428,7 +2428,7 @@
     "address": "Hull",
     "status": "Available",
     "type": "Terraced",
-    "strategy": "HMO",
+    "strategy": "HMO Opportunity",
     "tenure": "Freehold",
     "purchasePrice": 150000,
     "reservationFee": 6000,
