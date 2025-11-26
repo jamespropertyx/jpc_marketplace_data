@@ -4134,7 +4134,7 @@
     "address": "Hull",
     "status": "Available",
     "type": "Commercial",
-    "strategy": "HMO Opportunity",
+    "strategy": "Commercial",
     "tenure": "Freehold",
     "purchasePrice": 595000,
     "reservationFee": 21096,
