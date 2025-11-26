@@ -6099,7 +6099,7 @@
   },
   {
     "dealId": "JPC-PAR-02",
-    "title": "6 Bed HMO Opportunity",
+    "title": "Licensed 6 Bed HMO",
     "city": "Hull",
     "address": "Hull",
     "status": "Available",
@@ -6161,7 +6161,7 @@
     "address": "Hull",
     "status": "Available",
     "type": "Terraced",
-    "strategy": "HMO",
+    "strategy": "HMO Opportunity",
     "tenure": "Freehold",
     "purchasePrice": 136000,
     "reservationFee": 6000,
