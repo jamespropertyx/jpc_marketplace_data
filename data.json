@@ -77,8 +77,8 @@
         "Historic building (built 1897) with stunning character"
     ],
     "description": "A substantial detached home situated within one of Hull's most prestigious residential areas. Surrounded by period homes and mature gardens, this property appeals to both families and professional tenants, offering consistent demand and long-term capital growth.",
-    "beds": "4 beds",
-    "baths": "4 bath",
+    "beds": [4],
+    "baths": [4],
     "size": "191 sq m",
     "dealAnalysis": "",
     "propertyAppraisal": "",
