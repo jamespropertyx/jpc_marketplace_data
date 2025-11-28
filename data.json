@@ -1,5 +1,57 @@
 [
   {
+  "dealId": "JPC-PEA-04",
+  "title": "9-bed Main House",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Detached",
+  "strategy": "HMO Oppoerunity",
+  "tenure": "Freehold",
+  "purchasePrice": 800000,
+  "reservationFee": 28800,
+  "projectEndValue": "850,000",
+  "belowMarketGDVDiscount": "5.8%",
+  "deposit": "200,000",
+  "yield": "6.1%",
+  "rent": "&pound;4,083",
+  "annualRent": "48,996",
+  "refurbCost": "0",
+  "listedDate": "2025-11-28",
+  "keyFeatures": [
+    "Fully let",
+    "Premium kerb appeal and strong long-term demand",
+    "Professionally converted with modern kitchens and bathrooms",
+    "Portfolio purchase provides significant tax efficiencies"
+  ],
+  "description": "A grand period villa divided into three 2-bed apartments, one 1-bed apartment, and one 2-bed townhouse - a total of five self-contained dwellings. The property has been converted to a high standard, retaining its character features while offering modern amenities and ample off-street parking.",
+  "beds": "9 beds",
+  "baths": "5 baths",
+  "size": "400 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3836-3462-4030-a632-643132613338/__2025-10-21__160929.png"
+  ],
+  "video": "https://drive.google.com/file/d/1XzSPPXjN1btB7j_w33HwTbpZMrqijQNl/view?usp=drive_link",
+  "images": [
+    "https://static.tildacdn.com/tild3037-3031-4333-a135-386539373436/__2025-10-21__185715.png",
+    "https://static.tildacdn.com/tild3065-3561-4131-b665-656433373961/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild6135-3439-4533-a561-653261313239/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3761-3862-4434-a136-663234663766/Screenshot_2025-11-2.png"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "map": "",
+  "occupancy": "Tenanted",
+  "condition": ["Turnkey"]
+},
+  {
     "dealId": "JPC-PRP-01",
     "title": "Turnkey 4-bed Block of Apartments",
     "city": "Hull",
