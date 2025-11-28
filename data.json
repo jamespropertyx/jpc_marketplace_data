@@ -1,5 +1,72 @@
 [
   {
+  "dealId": "JPC-LOU-02",
+  "title": "Turnkey 4-bed Block of Apartments",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Block of Apartments",
+  "strategy": "Block of Apartments",
+  "tenure": "Freehold",
+  "purchasePrice": 175000,
+  "reservationFee": 6300,
+  "projectEndValue": "192,000",
+  "belowMarketGDVDiscount": "8.8%",
+  "deposit": "43,750",
+  "yield": "11.0%",
+  "rent": "&pound;1,600",
+  "annualRent": "19,200",
+  "refurbCost": "0",
+  "listedDate": "2025-11-28",
+  "keyFeatures": [
+    "Fully tenanted with long-standing occupants",
+    "Clear opportunity to increase rents to current market levels",
+    "Ground-floor flat benefits from private rear garden access",
+    "Low-maintenance asset - no major capital expenditure expected"
+  ],
+  "description": "This freehold block of three self-contained flats is located in a consistently high-demand rental area just off Beverley Road, close to the city centre and major transport routes. The property is fully tenanted with long-standing occupants and generates a stable income from day one. With a total floor area of 162 sqm, very good overall condition, and scope to increase rents to current market levels, this is a strong turnkey investment suitable for investors seeking predictable returns with minimal upfront refurbishment.",
+  "beds": [4],
+  "baths": [3],
+  "size": "162 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3535-3564-4261-a137-653361333963/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild6638-3366-4432-b730-343161666265/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild6265-3137-4634-b365-386563393330/Screenshot_2025-11-2.png"
+  ],
+  "images": [
+    "https://static.tildacdn.com/tild6163-3835-4832-b764-346165656633/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild6231-3562-4239-b439-316434396265/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3164-3731-4334-a138-616330336661/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3133-3935-4165-b832-653937666137/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild6464-3535-4665-a138-666363336563/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3664-6434-4166-b135-666363336564/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3062-3963-4737-b536-393435353065/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3565-3336-4535-b666-393436336333/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3038-3237-4935-b636-306132613532/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild6464-3465-4662-b631-303765376233/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3233-6531-4962-b038-663863353438/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3836-3165-4232-b766-643235363266/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild6134-6631-4363-a234-613039333862/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild6436-6335-4235-b464-373165396131/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild3230-6132-4538-a535-303938386262/Screenshot_2025-11-2.png"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild3565-3466-4432-b862-376364356239/Screenshot_2025-11-2.png"
+  ],
+  "map": "",
+  "occupancy": "Tenanted",
+  "condition": ["Turnkey"]
+},
+  {
   "dealId": "JPC-LOU-01",
   "title": "Turnkey 5-bed Block of Apartments",
   "city": "Hull",
