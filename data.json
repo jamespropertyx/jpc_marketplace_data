@@ -1,5 +1,66 @@
 [
   {
+  "dealId": "JPC-CLO-02",
+  "title": "Turnkey 5-bed HMO",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "HMO",
+  "tenure": "Freehold",
+  "purchasePrice": 137000,
+  "reservationFee": 6000,
+  "projectEndValue": "156,000",
+  "belowMarketGDVDiscount": "12.2%",
+  "deposit": "34,250",
+  "yield": "15.9%",
+  "rent": "&pound;1,820",
+  "annualRent": "21,840",
+  "refurbCost": "0",
+  "listedDate": "2025-11-28",
+  "keyFeatures": [
+    "Fully tenanted with long-standing occupants",
+    "Clear opportunity to increase rents to current market levels",
+    "Ground-floor flat benefits from private rear garden access",
+    "Low-maintenance asset - no major capital expenditure expected"
+  ],
+  "description": "This fully refurbished 5-bedroom HMO sits in a popular location for working tenants and company lets due to its proximity to major employment zones, transport links, and amenities. The property is in turnkey condition with a company lease in place until April 2027, generating a guaranteed income of £1,820 per month, with all bills paid by the leaseholder. With 106 sqm of internal space, strong presentation, and a stable long-term lease, this represents a hands-off, income-focused investment with no immediate refurbishment requirements.",
+  "beds": [5],
+  "baths": [2],
+  "size": "106 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3531-6663-4465-b631-343463336661/Screenshot_2025-11-2.png"
+  ],
+  "images": [
+    "https://static.tildacdn.com/tild6662-6638-4932-b631-393132343936/Screenshot_2025-11-2.png",
+    "https://static.tildacdn.com/tild6261-3065-4636-b938-353963386639/Bedroom.png",
+    "https://static.tildacdn.com/tild3662-3732-4363-b661-653236323438/Bedroom_2.png",
+    "https://static.tildacdn.com/tild3066-3164-4565-b032-363963626338/Bathroom.png",
+    "https://static.tildacdn.com/tild6537-6137-4532-b663-346264313265/Bedroom_3.png",
+    "https://static.tildacdn.com/tild6135-3265-4531-b965-666563373539/Bedroom_4.png",
+    "https://static.tildacdn.com/tild3631-6537-4164-b361-346432653433/Hall.png",
+    "https://static.tildacdn.com/tild3939-6666-4263-b935-653934313062/Kitchen_2.png",
+    "https://static.tildacdn.com/tild3862-3236-4339-a135-643261343836/Kitchen.png",
+    "https://static.tildacdn.com/tild3435-3933-4136-b866-386530353436/Living_room_2.png",
+    "https://static.tildacdn.com/tild3930-6238-4863-b961-663765653334/Living_room.png"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild3566-3936-4066-a430-623465656334/Screenshot_2025-11-2.png"
+  ],
+  "map": "",
+  "occupancy": "Tenanted",
+  "condition": ["Turnkey"]
+},
+  {
   "dealId": "JPC-PEA-04",
   "title": "Turnkey 9-bed Detached House",
   "city": "Hull",
