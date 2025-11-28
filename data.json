@@ -25,8 +25,8 @@
     "Portfolio purchase provides significant tax efficiencies"
   ],
   "description": "A grand period villa divided into three 2-bed apartments, one 1-bed apartment, and one 2-bed townhouse - a total of five self-contained dwellings. The property has been converted to a high standard, retaining its character features while offering modern amenities and ample off-street parking.",
-  "beds": "9 beds",
-  "baths": "5 baths",
+  "beds": [9],
+  "baths": [5],
   "size": "400 sq m",
   "dealAnalysis": "",
   "propertyAppraisal": "",
