@@ -1,5 +1,68 @@
 [
   {
+  "dealId": "Hull, JPC-SPR-02",
+  "title": "3-bed Social Housing Opportunity",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "Social Housing",
+  "tenure": "Freehold",
+  "purchasePrice": 115000,
+  "reservationFee": 6000,
+  "projectEndValue": "120,000",
+  "belowMarketGDVDiscount": "4.2",
+  "deposit": "28,750",
+  "yield": "5.7%",
+  "rent": "&pound;550",
+  "annualRent": "6,600",
+  "refurbCost": "5,000",
+  "listedDate": "2025-12-01",
+  "keyFeatures": [
+    "Ideal for social housing placement with minimal works required",
+    "Professional-let option also available with larger refurb",
+    "Internal layout is practical and does not require structural changes",
+    "The property is currently vacant and ready for immediate works"
+  ],
+  "description": "This 3-bedroom, 1-bathroom terraced property is located in a well-established rental area, offering strong demand from social housing providers and good access to Hull city centre. The property is currently a vacant family home but is well-suited to a social housing setup with minimal works. With a light refurbishment it can be placed immediately into a stable, long-term tenancy. The location benefits from strong transport links, proximity to major employment zones, and consistent rental demand. The second option is a full refurbishment, upgrading the entire property to a modern specification. This includes updating the kitchen, bathroom, flooring, decor, and internal finishes throughout. Once fully improved, the property becomes suitable for professional tenants and can be configured for a room-by-room letting model.",
+  "beds": [3],
+  "baths": [1],
+  "size": "72 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3038-3366-4361-b937-393762383031/Screenshot_2025-12-0.png"
+  ],
+  "video": "https://drive.google.com/file/d/1LLmb8cymHL33nrkWN5BIDqCwk5GeElvc/preview",
+  "images": [
+    "https://static.tildacdn.com/tild6633-6361-4735-a562-333764656537/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3631-3237-4430-b238-356433623764/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild6631-3630-4631-a365-346163356565/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild6636-6234-4234-a434-626233633964/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3236-6236-4632-a562-376334626166/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3661-6565-4039-a531-363866346331/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3465-6636-4037-b062-353232343565/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3035-6264-4262-b065-383435316163/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild6466-3166-4937-b633-663061303432/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild6639-3435-4562-b464-363733613931/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3036-3534-4539-a433-623864323633/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3738-3263-4766-b032-326534613866/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild6534-3862-4562-a432-623861303937/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3332-6161-4266-a461-356537306266/WhatsApp_Image_2025-.jpeg"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "floorplan": ["https://static.tildacdn.com/tild3731-6136-4235-a264-633132393564/Screenshot_2025-12-0.png"],
+  "map": "",
+  "occupancy": "Vacant",
+  "condition": ["Light Refurbishment"]
+},
+  {
   "dealId": "JPC-CHE-01",
   "title": "Student 2-bed Hybrid BTL",
   "city": "Hull",
