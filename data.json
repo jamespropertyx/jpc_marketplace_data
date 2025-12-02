@@ -1,4 +1,72 @@
 [
+	{
+  "dealId": "JPC-VEN-01",
+  "title": "Turnkey Student 2-bed Hybrid BTL",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "Hybrid BTL",
+  "tenure": "Freehold",
+  "purchasePrice": 100000,
+  "reservationFee": 6000,
+  "projectEndValue": "110,000",
+  "belowMarketGDVDiscount": "9.1%",
+  "deposit": "25,000",
+  "yield": "13.5%",
+  "rent": "&pound;1,127",
+  "annualRent": "13,524",
+  "refurbCost": "0",
+  "listedDate": "2025-12-02",
+  "keyFeatures": [
+    "HMO License",
+    "Fully tenanted with, providing guaranteed rental income",
+    "Fully furnished",
+    "Excellent potential for long-term capital growth in a stable market"
+  ],
+  "description": "This 2-bedroom, 1-bathroom property is located in Hull's HU5 area, a well-established and reliable location for student investments. It is situated close to Newland Avenue, providing easy access to local amenities and within walking distance to the University of Hull. The property is currently vacant, offering an excellent opportunity for an investor to either convert it into student accommodation or potentially use it for social housing.",
+  "beds": [2],
+  "baths": [1],
+  "size": "75 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3839-3132-4131-b031-323961323232/Screenshot_2025-12-0.png"
+  ],
+  "video": "https://drive.google.com/file/d/1-edB1TlHzpeYQeF3CEYK8xbiPnK6EvVG/preview",
+  "images": [
+    "https://static.tildacdn.com/tild3031-6161-4335-b534-373737396135/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild6438-3465-4838-b938-643939353333/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3461-3734-4930-a430-323164313663/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild6636-3232-4034-b231-613562643432/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild6331-3737-4062-a630-393339366361/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild6235-6365-4832-b164-386362616361/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3336-6531-4061-b364-383233623265/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3563-3664-4763-b337-333531616339/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6236-3934-4939-b438-323766613331/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3534-3239-4062-b365-303964643561/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6365-3961-4632-b133-333139373032/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3463-3334-4936-a661-643162623930/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6535-3530-4738-b338-303137353435/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6537-3066-4130-b437-663736653062/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3531-3734-4339-b531-336536616332/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6462-6437-4937-b538-323436656332/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3631-6264-4333-a162-646631323964/WhatsApp_Image_2025-.jpeg"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild3238-3662-4332-b830-656236633765/Screenshot_2025-12-0.png"
+  ],
+  "map": "",
+  "occupancy": "Vacant",
+  "condition": ["Turnkey"]
+},
   {
   "dealId": "JPC-PAR-03",
   "title": "14-Bed Social Housing Opportunity",
