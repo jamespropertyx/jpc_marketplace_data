@@ -1,5 +1,72 @@
 [
   {
+  "dealId": "JPC-GRO-01",
+  "title": "Turnkey 7-bed Social Housing Unit",
+  "city": "Skegness",
+  "address": "Skegness",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "Social Housing",
+  "tenure": "Freehold",
+  "purchasePrice": 307745,
+  "reservationFee": 11079,
+  "projectEndValue": "338,520",
+  "belowMarketGDVDiscount": "9.1%",
+  "deposit": "76,396",
+  "yield": "11%",
+  "rent": "&pound;2,821",
+  "annualRent": "33,852",
+  "refurbCost": "0",
+  "listedDate": "2025-12-02",
+  "keyFeatures": [
+    "HMO License",
+    "Fully tenanted with, providing guaranteed rental income",
+    "Fully furnished",
+    "Excellent potential for long-term capital growth in a stable market"
+  ],
+  "description": "This 7-bedroom, 2-bathroom property is located in a well-established area of Skegness, within walking distance to local amenities, including Skegness Beach and transport links. The property is currently being used as social housing under a contract, offering a stable and reliable income stream. The property is currently tenanted, with an established lease agreement that runs from March 2025 to January 2032, providing a stable rental income. The property is used for social housing, with the lease secured for 6 years.",
+  "beds": [7],
+  "baths": [2],
+  "size": "164 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3437-3164-4334-a538-643936316236/Screenshot_2025-12-0.png"
+  ],
+  "video": "https://drive.google.com/file/d/1OCe6WXS5UFaFF5IHp9mBti4uhFbmnTuT/preview",
+  "images": [
+    "https://static.tildacdn.com/tild3433-6536-4965-b538-376138383839/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3362-6163-4132-a132-616333373533/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3033-3866-4662-b336-386538343266/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3235-3231-4835-b164-363062396434/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6239-3662-4439-b732-383961393632/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3433-3932-4037-b034-623433316566/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6136-3564-4836-b932-616262643966/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6264-6434-4233-b237-623133663130/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3062-6662-4238-b438-353661623466/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3062-6662-4238-b438-353661623466/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3737-3662-4132-b266-616561356438/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6138-3239-4837-a334-613063616134/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3833-3561-4634-b465-323565626366/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6134-3130-4834-b939-376537646433/WhatsApp_Image_2025-.jpeg"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild3865-6634-4361-a564-346630626265/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild6232-3432-4566-a164-373531326134/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild6466-3462-4462-b462-316530633432/Screenshot_2025-12-0.png"
+  ],
+  "map": "",
+  "occupancy": "Tenanted",
+  "condition": ["Turnkey"]
+},
+  {
   "dealId": "JPC-FOL-01",
   "title": "Hybrid BTL Conversion Opportunity",
   "city": "Hull",
