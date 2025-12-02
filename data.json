@@ -132,7 +132,7 @@
   "floorplan": ["https://static.tildacdn.com/tild6439-6431-4534-a534-646332663461/Screenshot_2025-12-0.jpeg"],
   "map": "",
   "occupancy": "Vacant",
-  "condition": ["Light Refurbishment"]
+  "condition": ["Light Refurb"]
 },
   {
   "dealId": "JPC-VEN-02",
@@ -203,7 +203,7 @@
   "floorplan": ["https://static.tildacdn.com/tild3532-3335-4762-a365-346639343333/Screenshot_2025-12-0.png"],
   "map": "",
   "occupancy": "Vacant",
-  "condition": ["Full Refurbishment"]
+  "condition": ["Full Refurb"]
 },
   {
   "dealId": "JPC-SPR-02",
@@ -266,7 +266,7 @@
   "floorplan": ["https://static.tildacdn.com/tild3731-6136-4235-a264-633132393564/Screenshot_2025-12-0.png"],
   "map": "",
   "occupancy": "Vacant",
-  "condition": ["Light Refurbishment"]
+  "condition": ["Light Refurb"]
 },
   {
   "dealId": "JPC-CHE-01",
