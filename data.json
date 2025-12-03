@@ -1,5 +1,78 @@
 [
 	{
+  "dealId": " JPC-HOP-01",
+  "title": "Turnkey 4-bed Social Housing Unit",
+  "city": "Carlisle",
+  "address": "Carlisle",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "Social Housing",
+  "tenure": "Freehold",
+  "purchasePrice": 156000,
+  "reservationFee": 6000,
+  "projectEndValue": "",
+  "belowMarketGDVDiscount": "",
+  "deposit": "15,600",
+  "yield": "~10%",
+  "rent": "&pound;1300",
+  "annualRent": "13,200",
+  "refurbCost": "0",
+  "listedDate": "2025-12-03",
+  "keyFeatures": [
+    "Turnkey 4-bed HMO in Carlisle - fully operational from day one",
+    "Lease in place until July 2030 with stable, predictable income",
+    "HMO License",
+    "Fully furnished"
+  ],
+  "description": "This 4-bed, 1-bath turnkey HMO is located in a stable residential area of Carlisle, close to local amenities and within easy access of the city centre. The property is fully operational, holds an active HMO licence, and is currently let under a Social Housing lease running until July 2030. The lease provides stable, predictable income, and the internal condition supports continued operation with minimal intervention. The layout includes a ground-floor bedroom, bathroom, living room, and kitchen, with three bedrooms on the first floor. Overall, the property is in very good condition, consistent with long-term supported accommodation use.",
+  "beds": [4],
+  "baths": [1],
+  "size": "77 sq m",
+  "dealAnalysis": "https://drive.google.com/file/d/1PXiTC9MIJ9lyhCp45vzddmmeUqupgO1a/view?usp=drive_link",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3437-6238-4438-b634-623763353561/Screenshot_2025-12-0.png"
+  ],
+  "images": [
+    "https://static.tildacdn.com/tild3662-6332-4235-b130-396565343063/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3465-3165-4161-b863-353665616239/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3832-3230-4030-b931-363639646561/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6464-6166-4563-b262-663364653038/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3562-3035-4363-b063-663430666630/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3035-3566-4632-a339-623862616338/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6639-6663-4663-a531-363139346663/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6161-6238-4766-b336-323633633233/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6331-3935-4461-b637-393530343436/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6466-3436-4430-b539-313737643335/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3737-6337-4233-a665-323238316538/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3664-6536-4632-b462-346534616631/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3833-3034-4330-b434-366561313930/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6664-3863-4863-b065-386231303039/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6535-6530-4061-b761-316537303330/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3937-3765-4031-b962-343533396562/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3936-3762-4562-b535-333063346664/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6363-3266-4764-a566-396130383231/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3933-6633-4363-b139-636339666236/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6633-3264-4836-a238-303232316334/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3032-3032-4536-a233-353137633364/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3162-3363-4131-a336-323162316661/WhatsApp_Image_2025-.jpeg"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+    "floorplan": [
+    "https://static.tildacdn.com/tild6231-6530-4236-b161-353866666132/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild6463-3361-4533-b731-633435313539/Screenshot_2025-12-0.png"
+  ],
+  "map": "",
+  "occupancy": "Tenanted",
+  "condition": ["Turnkey"]
+},
+	{
   "dealId": "JPC-ASH-05",
   "title": "4-Bed Social Housing Opportunity",
   "city": "Hull",
