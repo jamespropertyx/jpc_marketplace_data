@@ -1,12 +1,12 @@
 [
 	{
-  "dealId": "JPC-CRA-04",
-  "title": "2-Bed Social Housing Opportunity",
+  "dealId": "JPC-GLA-01",
+  "title": "Turnkey 1-bed Apartment BTL",
   "city": "Hull",
   "address": "Hull",
   "status": "Available",
   "type": "Terraced",
-  "strategy": "Social Housing",
+  "strategy": "BTL",
   "tenure": "Freehold",
   "purchasePrice": 110000,
   "reservationFee": 6000,
