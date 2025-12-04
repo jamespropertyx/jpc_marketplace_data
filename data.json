@@ -1,5 +1,63 @@
 [
 	{
+  "dealId": "JPC-CRA-04",
+  "title": "2-Bed Social Housing Opportunity",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "Social Housing",
+  "tenure": "Freehold",
+  "purchasePrice": 115000,
+  "reservationFee": 6000,
+  "projectEndValue": "",
+  "belowMarketGDVDiscount": "",
+  "deposit": "28,750",
+  "yield": "~6.3%",
+  "rent": "&pound;600",
+  "annualRent": "7,200",
+  "refurbCost": "0",
+  "listedDate": "2025-12-04",
+  "keyFeatures": [
+    "Zero refurbishment required",
+    "Ideal for Social Housing placement",
+    "Simple, low-risk investment with immediate income potential",
+    "Good long-term hold in a high-demand postcode"
+  ],
+  "description": "This 2-bedroom, 1-bathroom property with an additional loft room is located close to the University and within easy reach of the Avenues, one of Hull's most desirable rental corridors. With strong demand from students, working professionals, and social housing providers, the property is ideally positioned for an investor looking for a turnkey rental with no refurbishment required. The layout and condition make it particularly suitable for a Social Housing placement.",
+  "beds": [2],
+  "baths": [1],
+  "size": "73 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild6332-3961-4333-b837-343866333365/Screenshot_2025-12-0.png"
+  ],
+  "images": [
+    "https://static.tildacdn.com/tild6666-6361-4231-a333-313433626366/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3937-6338-4636-b931-363663663437/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild6439-6433-4339-b636-386534646633/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild6437-6664-4632-b565-336435333464/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild6565-3664-4634-b239-346334396139/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3737-6433-4864-a137-386436303062/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3761-3463-4564-a565-356233663635/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild6263-3433-4638-b266-383737643134/Screenshot_2025-12-0.png"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild3036-6330-4239-a438-343333316530/Screenshot_2025-12-0.png"
+  ],
+  "map": "",
+  "occupancy": "Vacant",
+  "condition": ["Turnkey"]
+},
+	{
   "dealId": "JPC-REY-02",
   "title": "Hybrid BTL Conversion Opportunity",
   "city": "Hull",
