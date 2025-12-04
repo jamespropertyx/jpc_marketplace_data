@@ -1,4 +1,72 @@
 [
+	{
+  "dealId": "JPC-CRA-04",
+  "title": "2-Bed Social Housing Opportunity",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "Social Housing",
+  "tenure": "Freehold",
+  "purchasePrice": 110000,
+  "reservationFee": 6000,
+  "projectEndValue": "110,000",
+  "belowMarketGDVDiscount": "",
+  "deposit": "27,500",
+  "yield": "6.3%",
+  "rent": "&pound;580",
+  "annualRent": "6,960",
+  "refurbCost": "0",
+  "listedDate": "2025-12-04",
+  "keyFeatures": [
+    "Zero refurbishment required",
+    "Modern 1-bed duplex apartment",
+    "Ideal for young professionals and key workers",
+    "Great option for first-time investors or hands-off landlords"
+  ],
+  "description": "This property is a modern 1-bedroom duplex apartment located in a highly sought-after area of HU5. Offering convenient access to Newland Avenue and the University of Hull, this apartment is perfect for young professionals, students, or key workers seeking a stylish and well-located home. Externally, the apartment includes secure allocated parking and is located in a purpose-built converted block, offering both security and convenience. With no refurbishment required, this property is a turnkey investment for those seeking a low-maintenance, high-demand asset in one of Hull's most reliable rental areas.",
+  "beds": [1],
+  "baths": [1],
+  "size": "54 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3663-3536-4038-b962-336335353538/Screenshot_2025-12-0.png"
+  ],
+  "video": "https://drive.google.com/file/d/1mbGs-eQs-yYT8kvu5UWcoKbE-zrwWaAZ/preview",
+  "images": [
+    "https://static.tildacdn.com/tild3636-6338-4935-b761-643634353038/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3234-3230-4433-b830-366435313637/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3662-3538-4338-b037-396461653562/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild6632-6564-4136-a139-306362303462/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild6534-3033-4139-b934-393863353165/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3330-3538-4138-b432-306531396662/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3661-3938-4232-a138-633131333332/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3464-3066-4438-a563-653536383630/Bathroom.jpg",
+    "https://static.tildacdn.com/tild3331-6536-4533-b164-353837306465/Bedroom.jpg",
+    "https://static.tildacdn.com/tild3364-3166-4266-a664-303230353431/Hall.jpg",
+    "https://static.tildacdn.com/tild3336-3839-4861-b635-613231386366/Hall_2.jpg",
+    "https://static.tildacdn.com/tild3161-6333-4838-b233-333636383833/Hall_3.jpg",
+    "https://static.tildacdn.com/tild6637-3039-4132-b133-306132303537/Kitchen.jpg",
+    "https://static.tildacdn.com/tild3937-3466-4161-a262-653133623436/Kitchen_2.jpg",
+    "https://static.tildacdn.com/tild6565-3162-4937-a533-623538636365/Living_room.jpg",
+    "https://static.tildacdn.com/tild6534-3063-4534-b562-643036633564/Outside_2.jpg",
+    "https://static.tildacdn.com/tild3264-3464-4564-a266-656432643335/Outside.jpg"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild6166-3765-4462-b264-633136653732/Screenshot_2025-12-0.png"
+  ],
+  "map": "",
+  "occupancy": "Vacant",
+  "condition": ["Turnkey"]
+},
 {
   "dealId": "JPC-CRA-04",
   "title": "2-Bed Social Housing Opportunity",
@@ -24,6 +92,7 @@
     "Simple, low-risk investment with immediate income potential",
     "Good long-term hold in a high-demand postcode"
   ],
+  "video": "https://drive.google.com/file/d/1jLHLHGlIQxeXa4PHx9xkgfbXSvfE1OKZ/preview",
   "description": "This 2-bedroom, 1-bathroom property with an additional loft room is located close to the University and within easy reach of the Avenues, one of Hull's most desirable rental corridors. With strong demand from students, working professionals, and social housing providers, the property is ideally positioned for an investor looking for a turnkey rental with no refurbishment required. The layout and condition make it particularly suitable for a Social Housing placement.",
   "beds": [2],
   "baths": [1],
@@ -104,6 +173,7 @@
     "Popular street with consistent occupancy rates",
     "Multiple strategies and long-term stability"
   ],
+  "video":"https://drive.google.com/file/d/1mAsp6n9h8WlKSpcHQ5tx1lgb_NNcGVIy/preview",
   "description": "This 3-bedroom, 1-bathroom property is located in a highly reliable rental area of HU5, within walking distance of Newland Avenue. The property works well for working professionals, students,2 sharers without planning, and is also suitable for Social Housing due to its layout and location.",
   "beds": [3],
   "baths": [1],
@@ -112,7 +182,7 @@
   "propertyAppraisal": "",
   "gdvAnalysis": "",
   "epcCertificate": [
-    "https://static.tildacdn.com/tild3335-6639-4138-a434-386236353434/Screenshot_2025-12-0.png"
+"https://static.tildacdn.com/tild3335-6639-4138-a434-386236353434/Screenshot_2025-12-0.png"
   ],
   "images": [
     "https://static.tildacdn.com/tild3235-3663-4237-a630-646339343363/Screenshot_2025-12-0.png",
