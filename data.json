@@ -1,5 +1,72 @@
 [
 	{
+  "dealId": "JPC-WIN-02",
+  "title": "2-bed BRR Opportunity",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "BRR",
+  "tenure": "Freehold",
+  "purchasePrice": 70000,
+  "reservationFee": 6000,
+  "projectEndValue": "110,000",
+  "belowMarketGDVDiscount": "36.4%",
+  "deposit": "17,500",
+  "yield": "18.6%",
+  "rent": "&pound;1083",
+  "annualRent": "12,996",
+  "refurbCost": "40,000",
+  "listedDate": "2025-12-05",
+  "keyFeatures": [
+    "Zero refurbishment required",
+    "Modern 1-bed duplex apartment",
+    "Ideal for young professionals and key workers",
+    "Great option for first-time investors or hands-off landlords"
+  ],
+  "description": "This 2-bedroom, 1-bathroom mid-terraced property is located in a reliable rental area close to local amenities and within walking distance of Hull city centre. The property is ideal for investors seeking to apply the BRR (Buy, Refurbish, Refinance) strategy. It offers a good rental yield potential once refurbished, especially suited for students or working professionals.",
+  "beds": [2],
+  "baths": [1],
+  "size": "55 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3936-3533-4235-a565-376330376238/Screenshot_2025-12-0.png"
+  ],
+  "video":"https://drive.google.com/file/d/14I7jQw9qATzGEMVHsBe3_0g8MFAgIDmZ/preview",
+  "images": [
+    "https://static.tildacdn.com/tild6334-6539-4630-a534-633039303265/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3137-6230-4662-b334-313664393064/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3862-3838-4435-b265-353834376261/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3031-6435-4333-b766-623733613962/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3761-3365-4334-b738-343336653134/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3234-3964-4632-b330-633564666433/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild6234-6464-4061-a234-303636353334/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3133-3862-4232-a132-313534303130/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild6132-6666-4664-a465-623862633132/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3537-6133-4266-a164-616366653961/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild6235-3533-4230-a562-653166336432/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3731-6532-4165-b465-343061663366/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3734-3836-4630-b736-623063383937/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild3761-6331-4564-a161-663631613565/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6433-3761-4531-b035-366563306138/WhatsApp_Image_2025-.jpeg",
+    "https://static.tildacdn.com/tild6136-6161-4632-a430-343034663335/Screenshot_2025-12-0.png"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild3634-6139-4631-a437-623437363861/Screenshot_2025-12-0.png"
+  ],
+  "map": "",
+  "occupancy": "Vacant",
+  "condition": ["Full Refurb"]
+},
+	{
   "dealId": "JPC-GLA-01",
   "title": "Turnkey 1-bed Apartment BTL",
   "city": "Hull",
