@@ -1,5 +1,74 @@
 [
 	{
+  "dealId": "JPU-WHI-01",
+  "title": "Turnkey 4-bed HMO",
+  "city": "Leeds",
+  "address": "Leeds",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "HMO",
+  "tenure": "Freehold",
+  "purchasePrice": 160000,
+  "reservationFee": 6000,
+  "projectEndValue": "170,000",
+  "belowMarketGDVDiscount": "6%",
+  "deposit": "40,000",
+  "yield": "7.1%",
+  "rent": "&pound;950",
+  "annualRent": "11,400",
+  "refurbCost": "0",
+  "listedDate": "2025-12-08",
+  "keyFeatures": [
+    "Long-term tenancy in place (2+ years)",
+    "Renewal would increase rent potential",
+    "Strong rental demand in the area",
+    "Property benefits from street parking"
+  ],
+  "description": "This 4-bedroom, 1-bathroom mid-terraced property is located on Whingate Avenue, Leeds LS12, a strong rental area with stable tenant demand and good access to local amenities and transport links. The property is fully furnished, currently tenanted, and generating &pound;950 pcm on a long-term tenancy (2+ years). While it is fully functional for the current tenants, an internal renewal would increase rental appeal and allow for stronger rental income in future.",
+  "beds": [4],
+  "baths": [1],
+  "size": "101 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild6566-6633-4030-b733-656532373138/Screenshot_2025-12-0.png"
+  ],
+  "images": [
+    "https://static.tildacdn.com/tild6565-3431-4235-a131-633966366535/Screenshot_2025-12-0.png",
+    "https://static.tildacdn.com/tild3433-3439-4866-b862-313139383938/Bathroom_2.png",
+    "https://static.tildacdn.com/tild3363-6365-4639-a330-653430663061/Bedroom_3.png",
+    "https://static.tildacdn.com/tild3238-6439-4964-b433-316464383833/Bedroom_4.png",
+    "https://static.tildacdn.com/tild6462-3230-4437-b264-336161383933/Bedroom_5.png",
+    "https://static.tildacdn.com/tild3035-3234-4336-a635-316166373835/Bedroom_6.png",
+    "https://static.tildacdn.com/tild3864-3861-4832-b637-336231366237/Bedroom_7.png",
+    "https://static.tildacdn.com/tild6537-3064-4831-b439-316561653261/Bedroom_8.png",
+    "https://static.tildacdn.com/tild3266-6139-4233-a437-346337663061/Bedroom.png",
+    "https://static.tildacdn.com/tild3133-3134-4837-b235-363862303836/Hall.pngg",
+    "https://static.tildacdn.com/tild6461-6161-4365-b531-383934663133/Hall_2.png",
+    "https://static.tildacdn.com/tild6136-6338-4534-b237-363635303236/Kitchen.png",
+    "https://static.tildacdn.com/tild3562-6335-4739-b562-646235643331/Kitchen_2.png",
+    "https://static.tildacdn.com/tild3537-3737-4035-b531-323065643930/Living_room_2.png",
+    "https://static.tildacdn.com/tild6630-6466-4337-b663-613464363161/Living_room.png",
+    "https://static.tildacdn.com/tild6364-6364-4638-a165-663365393436/Utilities.png",
+    "https://static.tildacdn.com/tild3961-3735-4839-a466-633066346230/Utilities_2.png",
+    "https://static.tildacdn.com/tild3434-3533-4761-b264-656237653233/Basement.png",
+    "https://static.tildacdn.com/tild6338-3361-4331-b761-306439663638/Basement_2.png"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild3962-3235-4063-b237-346463626131/Screenshot_2025-12-0.png"
+  ],
+  "map": "",
+  "occupancy": "Tenanted",
+  "condition": ["Turnkey"]
+},
+	{
   "dealId": "JPC-WAR-01",
   "title": "Turnkey 5-bed Social Housing Unit",
   "city": "Fleetwood",
