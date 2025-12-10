@@ -1,5 +1,73 @@
 [
 	{
+  "dealId": " JPC-BRA-02",
+  "title": "Turnkey 4-bed HMO",
+  "city": "Bolton",
+  "address": "Bolton",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "HMO",
+  "tenure": "Leasehold",
+  "purchasePrice": 135000,
+  "reservationFee": 6000,
+  "projectEndValue": "195,000",
+  "belowMarketGDVDiscount": "30.8%",
+  "deposit": "33,750",
+  "yield": "14.7%",
+  "rent": "&pound;1,650",
+  "annualRent": "19,800",
+  "refurbCost": "0",
+  "listedDate": "2025-12-08",
+  "keyFeatures": [
+    "Long-term tenancy in place (2+ years)",
+    "Potential to increase rent with cosmetic upgrades",
+    "Leasehold with 827 years remaining",
+    "Suitable for hands-off investors seeking strong monthly returns"
+  ],
+  "description": "This 4-bedroom, 2-bathroom HMO is located in Bolton in a well-established rental area with strong demand from working tenants. The property is currently fully tenanted, generating &pound;1,650 per month, and comes fully furnished. Internal condition is good overall, with all rooms functional and lettable. A light internal refresh in the future may help to maintain rent levels and support tenant retention.",
+  "beds": [4],
+  "baths": [2],
+  "size": "99 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild6432-3334-4664-b031-633465343262/EPC.png"
+  ],
+  "video": "https://drive.google.com/file/d/1xE5HBtScglYvzzI_hFUxz_Y62T6SfnGN/preview",
+  "images": [
+    "https://static.tildacdn.com/tild3565-6532-4763-b634-646131336533/Facade.png",
+    "https://static.tildacdn.com/tild3533-3133-4138-b531-393062663234/Bathroom_2.png",
+    "https://static.tildacdn.com/tild3538-3166-4166-b865-656237653566/Bathroom_3.png",
+    "https://static.tildacdn.com/tild6437-6533-4135-b539-396530303262/Batroom.png",
+    "https://static.tildacdn.com/tild6461-3531-4463-b537-363536663431/Bedroom.png",
+    "https://static.tildacdn.com/tild6462-6164-4132-b666-353236646336/Bedroom_2.png",
+    "https://static.tildacdn.com/tild6162-6339-4838-b835-336661333636/Bedroom_3.png",
+    "https://static.tildacdn.com/tild3166-3331-4436-b333-326536313137/Bedroom_6.png",
+    "https://static.tildacdn.com/tild6463-3034-4037-b664-656532646639/Bedroom_5.png",
+    "https://static.tildacdn.com/tild6330-6163-4239-b264-306264383833/Bedroom_4.png",
+    "https://static.tildacdn.com/tild6332-6138-4231-a536-333666333531/Bedroom_7.png",
+    "https://static.tildacdn.com/tild6431-3530-4039-a238-333431653837/Bedroom_8.png",
+    "https://static.tildacdn.com/tild6361-3632-4230-a265-323664663538/Kitchen.png",
+    "https://static.tildacdn.com/tild3930-6661-4633-b432-343531373764/Kitchen_2.png",
+    "https://static.tildacdn.com/tild3835-3336-4637-a566-323931306362/Utilities.png",
+    "https://static.tildacdn.com/tild6233-3039-4937-b839-376137613631/Yard.png",
+    "https://static.tildacdn.com/tild3935-3435-4562-b261-313936376132/Yard_2.png"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild3466-3836-4564-b766-343438393339/Floor.png"
+  ],
+  "map": "",
+  "occupancy": "Tenanted",
+  "condition": ["Turnkey"]
+},
+	{
   "dealId": "JPU-WHI-01",
   "title": "Turnkey 4-bed HMO",
   "city": "Leeds",
