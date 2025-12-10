@@ -10,8 +10,8 @@
   "tenure": "Freehold",
   "purchasePrice": 260000,
   "reservationFee": 9360,
-  "projectEndValue": "215,000",
-  "belowMarketGDVDiscount": "",
+  "projectEndValue": "286,000",
+  "belowMarketGDVDiscount": "9%",
   "deposit": "65,000",
   "yield": "11%",
   "rent": "&pound;2,390",
@@ -35,7 +35,7 @@
     "https://static.tildacdn.com/tild3566-6432-4734-b661-663233326234/EPC.png"
   ],
   "images": [
-    "https://static.tildacdn.com/tild6366-3564-4939-a539-356132313935/Facade.jpg",
+    "https://static.tildacdn.com/tild6264-6161-4365-a566-643966613561/front_no_number.png",
     "https://static.tildacdn.com/tild3937-3336-4133-b561-383133333234/Bathroom.jpg",
     "https://static.tildacdn.com/tild3037-6431-4630-b865-393439373235/Bathroom_2.jpg",
     "https://static.tildacdn.com/tild6534-3066-4435-b131-383862613934/Bathroom_3.jpg",
