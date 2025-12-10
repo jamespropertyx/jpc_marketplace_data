@@ -1,5 +1,58 @@
 [
 	{
+  "dealId": "JPC-KIN-03",
+  "title": "3-Bed HMO with Self-Contained Apartment",
+  "city": "Goole",
+  "address": "Goole",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "HMO",
+  "tenure": "Freehold",
+  "purchasePrice": 160000,
+  "reservationFee": 6000,
+  "projectEndValue": "195,600",
+  "belowMarketGDVDiscount": "18.2%",
+  "deposit": "40,000",
+  "yield": "9.8%",
+  "rent": "&pound;1,304",
+  "annualRent": "15,648",
+  "refurbCost": "0",
+  "listedDate": "2025-12-10",
+  "keyFeatures": [
+    "Fully tenanted with reliable tenants in place",
+    "Dual-income property with HMO + apartment",
+    "Potential to convert the apartment into an Airbnb for additional income",
+    "No Article 4 restrictions"
+  ],
+  "description": "This 4-bedroom, 2-bathroom property is located in Goole, at an established residential area with good access to local amenities and transport links. The property offers a 3-bed HMO layout plus a self-contained 1-bed apartment, creating strong dual-income potential. With minimal work required, this property is ideal for investors looking for a turnkey investment. The self-contained apartment offers flexibility, with the option to convert it into an Airbnb unit for additional income.",
+  "beds": [4],
+  "baths": [2],
+  "size": "118 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild6136-3232-4264-b434-353566323035/Screenshot_2025-12-1.png"
+  ],
+  "video": "https://drive.google.com/file/d/1G2CRC1zzElynva_wYrWEA-ELsbLW69wm/preview",
+  "images": [
+    "https://static.tildacdn.com/tild3030-6664-4464-a339-643063623233/Screenshot_2025-12-1.png",
+    "https://static.tildacdn.com/tild3366-6466-4766-b061-613038663439/Screenshot_2025-12-1.png",
+    "https://static.tildacdn.com/tild3636-3639-4839-b363-646632383936/Screenshot_2025-12-1.png",
+    "https://static.tildacdn.com/tild6664-3434-4032-b364-383164653962/Screenshot_2025-12-1.png",
+    "https://static.tildacdn.com/tild6564-6361-4338-b731-613661623731/Screenshot_2025-12-1.png"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "map": "",
+  "occupancy": "Tenanted",
+  "condition": ["Turnkey"]
+},
+	{
   "dealId": " JPC-BRA-02",
   "title": "Turnkey 4-bed HMO",
   "city": "Bolton",
