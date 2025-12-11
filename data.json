@@ -1,5 +1,65 @@
 [
 	{
+  "dealId": " JPC-OLI-01",
+  "title": "Turnkey 4-Bed HMO",
+  "city": "Coventry",
+  "address": "Coventry",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "HMO",
+  "tenure": "Freehold",
+  "purchasePrice": 185000,
+  "reservationFee": 6660,
+  "projectEndValue": "214,680",
+  "belowMarketGDVDiscount": "13.8%",
+  "deposit": "46,250",
+  "yield": "11.6%",
+  "rent": "&pound;1,789",
+  "annualRent": "21,468",
+  "refurbCost": "0",
+  "listedDate": "2025-12-11",
+  "keyFeatures": [
+    "Current rent: &pound;1,789 pcm generating immediate income",
+    "Strong potential for rental uplift",
+    "HMO License",
+    "Attractive opportunity for HMO portfolio expansion"
+  ],
+  "description": "This 4-bedroom, 4-bathroom HMO is located in Coventry — a high-demand rental area known for strong yields and consistent tenant demand. With spacious rooms, an ensuite, and long-term tenants already in place, the property is fully operational and generating income from day one. It is well-positioned for investors seeking a stable, cash-flowing addition to their portfolio.",
+  "beds": [4],
+  "baths": [4],
+  "size": "100 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3161-3230-4930-b263-386139323066/EPC.png"
+  ],
+  "images": [
+    "https://static.tildacdn.com/tild3963-3664-4332-b735-316363616237/Facade.png",
+    "https://static.tildacdn.com/tild3132-6638-4066-a135-336531343438/Bathroom.png",
+    "https://static.tildacdn.com/tild3533-6533-4438-a333-623163333132/Bedroom_2.png",
+    "https://static.tildacdn.com/tild6163-3366-4865-a638-366161373033/Bedroom_3.png",
+    "https://static.tildacdn.com/tild6332-6561-4232-a233-313865326430/Hall.png",
+    "https://static.tildacdn.com/tild3637-3933-4565-b666-343832343466/Kitchen.png",
+    "https://static.tildacdn.com/tild3563-3437-4534-a534-373163666534/Kitchen_2.png",
+    "https://static.tildacdn.com/tild3939-3335-4933-b234-303438323538/Living_room_2.png",
+    "https://static.tildacdn.com/tild6331-3737-4834-b938-353236343839/Living_room_3.png",
+    "https://static.tildacdn.com/tild6266-3864-4430-b139-336535323132/Yard2.png"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild6638-6332-4663-b234-363364326339/Screenshot_2025-12-1.png"
+  ],
+  "map": "",
+  "occupancy": "Tenanted",
+  "condition": ["Turnkey"]
+},
+	{
   "dealId": "JPU-ALB-02",
   "title": "Turnkey 4-bed HMO",
   "city": "Wigan",
