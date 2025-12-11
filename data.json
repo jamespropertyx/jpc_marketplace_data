@@ -2136,7 +2136,7 @@
   "title": "3-bed BRR Opportunity",
   "city": "Hull",
   "address": "Hull",
-  "status": "Sold",
+  "status": "Available",
   "type": "Terraced",
   "strategy": "BRR",
   "tenure": "Freehold",
@@ -2148,7 +2148,7 @@
   "yield": "62.4%",
   "rent": "&pound;1,560",
   "annualRent": "18,720",
-  "refurbCost": "45,000",
+  "refurbCost": "60,000",
   "listedDate": "2025-11-25",
   "keyFeatures": [
     "End-terrace 3-bed refurb project",
