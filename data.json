@@ -1,5 +1,69 @@
 [
 	{
+  "dealId": "JPC-BUR-01",
+  "title": "Turnkey 4-Bed HMO",
+  "city": "Bolton",
+  "address": "Bolton",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "HMO",
+  "tenure": "Leasehold",
+  "purchasePrice": 235000,
+  "reservationFee": 8460,
+  "projectEndValue": "240,000",
+  "belowMarketGDVDiscount": "2.1%",
+  "deposit": "58,750",
+  "yield": "9.8%",
+  "rent": "&pound;1,925",
+  "annualRent": "23,100",
+  "refurbCost": "0",
+  "listedDate": "2025-12-15",
+  "keyFeatures": [
+    "Property is fully compliant",
+    "HMO Licence",
+    "Currently producing £23,100 annual gross income",
+    "Minimal refurbishment needed to increase rental value"
+  ],
+  "description": "This 4-bedroom, 2-bathroom mid-terraced HMO located on Bury Road, Bolton is currently occupied by tenants and offers strong rental potential. With street parking, private front and back gardens, and proximity to valuable amenities, this property is an excellent opportunity for investors.",
+  "beds": [4],
+  "baths": [2],
+  "size": "102 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild6265-6337-4233-a230-663336313335/epc.png"
+  ],
+  "video": "https://drive.google.com/file/d/1inN2iMHTmhktlR0AXIJmDGrKSmGRiePc/preview",
+  "images": [
+    "https://static.tildacdn.com/tild3239-3833-4639-a533-363965396237/Facade_2.png",
+    "https://static.tildacdn.com/tild3762-6638-4162-b765-376366633763/bathroom.png",
+    "https://static.tildacdn.com/tild3236-3736-4033-a465-326638636331/bathroom_2.png",
+    "https://static.tildacdn.com/tild6539-6135-4532-b435-336563613331/kitchen.png",
+    "https://static.tildacdn.com/tild3231-3133-4530-a366-366363343064/living_room.png",
+    "https://static.tildacdn.com/tild3435-3130-4864-a438-643530393036/living_room_2.png",
+    "https://static.tildacdn.com/tild6135-3337-4538-b931-633463343733/living_room_3.png",
+    "https://static.tildacdn.com/tild6531-3730-4539-b737-616630646431/utilities.png",
+    "https://static.tildacdn.com/tild6530-3864-4166-b565-393133353937/utilities_2.png",
+    "https://static.tildacdn.com/tild3330-3264-4639-b937-346436333934/utilities_3.png",
+    "https://static.tildacdn.com/tild3964-3533-4434-a439-646134393234/yard.png",
+    "https://static.tildacdn.com/tild6432-3466-4365-a263-633934363162/yard_2.png",
+    "https://static.tildacdn.com/tild3833-3833-4135-a666-636466363135/yard_3.png"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild3964-3839-4432-b038-373437613364/floorplan.png"
+  ],
+  "map": "",
+  "occupancy": "Tenanted",
+  "condition": ["Turnkey"]
+},
+	{
     "dealId": "JPC-RCI-01",
     "title": "Turnkey 4-Bed HMO",
     "city": "Wallasey",
