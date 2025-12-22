@@ -1,5 +1,81 @@
 [
 	{
+  "dealId": "JPC-WAL-05",
+  "title": "Turnkey 3-bed HMO",
+  "city": "Coventry",
+  "address": "KCoventry",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "HMO",
+  "tenure": "Freehold",
+  "purchasePrice": 300000,
+  "reservationFee": 10800,
+  "projectEndValue": "300,000",
+  "belowMarketGDVDiscount": "",
+  "deposit": "75,000",
+  "yield": "8.0%",
+  "rent": "&pound;2,000",
+  "annualRent": "24,000",
+  "refurbCost": "0",
+  "listedDate": "2025-12-22",
+  "keyFeatures": [
+      "Private shared parking",
+      "Fully compliant HMO with long-term tenants",
+      "Long-term rental potential with future rent increases",
+      "Annual gross income of &pound;25,680"
+  ],
+  "description": "This 3-bedroom, 1-bathroom terraced property is located in Coventry, a well-established rental corridor with consistent demand from professionals and sharers. The property is currently operating as an HMO, with tenants in situ, and is held **freehold**. The area benefits from strong transport links into Coventry city centre, proximity to local amenities, and ongoing rental demand.",
+  "beds": [
+      3
+  ],
+  "baths": [
+      1
+  ],
+  "size": "86 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+      "https://static.tildacdn.com/tild3462-3936-4138-a565-343033356539/Screenshot_2025-12-2.png"
+  ],
+  "video": "https://drive.google.com/file/d/1p6FmdBSCAvwkPjsGgxoiH0TZTeX2FAtI/preview",
+  "images": [
+      "https://static.tildacdn.com/tild6666-6536-4638-a231-333036343765/Screenshot_2025-12-2.png",
+      "https://static.tildacdn.com/tild3439-3761-4430-b834-386636653632/Screenshot_2025-12-2.png",
+      "https://static.tildacdn.com/tild3335-3564-4663-a633-613439313361/Screenshot_2025-12-2.png",
+      "https://static.tildacdn.com/tild6532-3333-4431-a531-356534323666/Screenshot_2025-12-2.png",
+      "https://static.tildacdn.com/tild3961-3536-4162-b539-616231333535/Screenshot_2025-12-2.png",
+      "https://static.tildacdn.com/tild3164-3064-4666-a364-353234313031/Screenshot_2025-12-2.png",
+      "https://static.tildacdn.com/tild3563-3261-4065-b735-346432656433/Screenshot_2025-12-2.png",
+      "https://static.tildacdn.com/tild3765-3965-4337-a463-353763616137/Screenshot_2025-12-2.png",
+      "https://static.tildacdn.com/tild3361-6235-4231-a265-346665306631/Screenshot_2025-12-2.png",
+      "https://static.tildacdn.com/tild3235-3464-4038-b565-626531393832/Screenshot_2025-12-2.png",
+      "https://static.tildacdn.com/tild6331-3762-4435-b861-323231313436/Screenshot_2025-12-2.png",
+      "https://static.tildacdn.com/tild3461-3133-4262-b739-656435626134/Screenshot_2025-12-2.png",
+      "https://static.tildacdn.com/tild6431-3266-4634-b736-336265626431/Screenshot_2025-12-2.png",
+      "https://static.tildacdn.com/tild6534-6463-4230-b637-633331346466/Screenshot_2025-12-2.png",
+      "https://static.tildacdn.com/tild3336-6363-4166-b336-386361363334/Screenshot_2025-12-2.png",
+      "https://static.tildacdn.com/tild6165-6562-4664-a563-646632336263/Screenshot_2025-12-2.png",
+      "https://static.tildacdn.com/tild3938-6639-4834-a332-323865653638/Screenshot_2025-12-2.png",
+      "https://static.tildacdn.com/tild6638-3262-4437-b361-656330646265/Screenshot_2025-12-2.png",
+      "https://static.tildacdn.com/tild3961-6164-4463-b064-336635383561/Screenshot_2025-12-2.png",
+      "https://static.tildacdn.com/tild3538-3139-4530-b431-333139383031/Screenshot_2025-12-2.png",
+      "https://static.tildacdn.com/tild3264-3065-4532-b065-643164383262/Screenshot_2025-12-2.png",
+      "https://static.tildacdn.com/tild3438-3061-4666-b739-356364616261/Screenshot_2025-12-2.png",
+      "https://static.tildacdn.com/tild3235-3638-4634-a330-343439383535/Screenshot_2025-12-2.png",
+      "https://static.tildacdn.com/tild3566-3663-4333-b364-363132633363/Screenshot_2025-12-2.png"
+  ],
+  "marketInsightsImages": [],
+  "floorplan": [
+      "https://static.tildacdn.com/tild6562-3861-4232-a430-643034613139/Screenshot_2025-12-2.png"
+  ],
+  "map": "",
+  "occupancy": "Tenanted",
+  "condition": [
+      "Turnkey"
+  ]
+},
+	{
   "dealId": "JPC-GRO-02",
   "title": "Turnkey 6-Bed Social Housing Unit",
   "city": "Skegness",
