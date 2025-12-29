@@ -64,7 +64,7 @@
     "condition": [
       "Turnkey"
     ],
-    "exclusive": true
+    "exclusive": false
   },
   {
     "dealId": "JPC-WAL-05",
