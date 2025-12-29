@@ -56,7 +56,7 @@
         "https://static.tildacdn.com/tild3434-3437-4863-b963-336164613462/Bathroom_2.jpg"
     ],
     "marketInsightsImages": [ ],
-    "floorplan": "https://static.tildacdn.com/tild6438-3532-4133-b230-336638343336/Screenshot_2025-12-2.png",
+    "floorplan": ["https://static.tildacdn.com/tild6438-3532-4133-b230-336638343336/Screenshot_2025-12-2.png"],
     "map": "",
     "occupancy": "Tenanted",
     "condition": [
