@@ -1,5 +1,69 @@
 [
 	{
+    "dealId": "JPC-ROY-01",
+    "title": "Student 2-bed Hybrid BTL",
+    "city": "Nottingham",
+    "address": "Nottingham",
+    "status": "Available",
+    "type": "Apartment",
+    "strategy": "Hybrid BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 120000,
+    "reservationFee": 6000,
+    "projectEndValue": "130,000",
+    "belowMarketGDVDiscount": "7.7%",
+    "deposit": "30,000",
+    "yield": "12.4%",
+    "rent": "&pound;1,240",
+    "annualRent": "14,880",
+    "refurbCost": "0",
+    "listedDate": "2025-12-29",
+    "keyFeatures": [
+        "Walking distance to Nottingham Trent University",
+        "Strong Hybrid BTL strategy",
+        "Gross annual rent £14,880",
+        "Suitable for first-time investors"
+    ],
+    "description": "This 2-bedroom, 1-bathroom apartment is located in a well-established student area of Nottingham, within approximately half a mile of Nottingham Trent University and with easy access to the City Centre. The property is positioned on the top floor and offers practical, low-maintenance accommodation that is well suited to students. The surrounding area is predominantly student-led, with a mix of private residential properties and purpose-built student accommodation, including a Homes for Students block nearby, reinforcing long-term rental demand.",
+    "beds": [
+        2
+    ],
+    "baths": [
+        1
+    ],
+    "size": "57 sq m",
+    "dealAnalysis": "",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+        "https://static.tildacdn.com/tild3835-6338-4538-b561-323366316137/Screenshot_2025-12-2.png"
+    ],
+    "images": [
+        "https://static.tildacdn.com/tild3964-3333-4933-b534-326665636161/Screenshot_2025-12-2.png",
+        "https://static.tildacdn.com/tild3733-3834-4462-b365-653733343562/Living_room_area_2.jpg",
+        "https://static.tildacdn.com/tild3038-6466-4862-b332-356234353265/Living_room_area.jpg",
+        "https://static.tildacdn.com/tild6161-6565-4161-a134-613639336438/Kitchen_4.jpg",
+        "https://static.tildacdn.com/tild3035-3839-4364-a536-663537383264/Kitchen_3.jpg",
+        "https://static.tildacdn.com/tild3862-3933-4462-a262-643062643663/Kitchen_2.jpg",
+        "https://static.tildacdn.com/tild3439-3934-4133-a530-613630373766/Kitchen.jpg",
+        "https://static.tildacdn.com/tild3736-3461-4739-a664-313566623964/Bedroom.jpg",
+        "https://static.tildacdn.com/tild3064-6432-4038-b961-626662363737/Bedroom_6.jpg",
+        "https://static.tildacdn.com/tild3361-6239-4230-a161-313938363163/Bedroom_5.jpg",
+        "https://static.tildacdn.com/tild3861-3630-4737-b632-633137316134/Bedroom_4.jpg",
+        "https://static.tildacdn.com/tild3235-3231-4562-a139-326630376466/Bedroom_3.jpg",
+        "https://static.tildacdn.com/tild3762-6534-4862-b332-663764666238/Bedroom_2.jpg",
+        "https://static.tildacdn.com/tild3938-3333-4138-b265-306262656432/Bathroom_3.jpg",
+        "https://static.tildacdn.com/tild3434-3437-4863-b963-336164613462/Bathroom_2.jpg"
+    ],
+    "marketInsightsImages": [ ],
+    "floorplan": "https://static.tildacdn.com/tild6438-3532-4133-b230-336638343336/Screenshot_2025-12-2.png",
+    "map": "",
+    "occupancy": "Tenanted",
+    "condition": [
+        "Turnkey"
+    ]
+},
+	{
   "dealId": "JPC-WAL-05",
   "title": "Turnkey 3-bed HMO",
   "city": "Coventry",
