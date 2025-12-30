@@ -83,7 +83,8 @@
     ],
     "map": "",
     "occupancy": "Tenanted",
-    "condition": ["Turnkey"]
+    "condition": ["Turnkey"],
+     "exclusive": true
   },
   {
     "dealId": "JPC-ROY-01",
