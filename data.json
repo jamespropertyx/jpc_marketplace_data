@@ -1,4 +1,76 @@
-[
+{
+    "dealId": "JPC-ACR-01",
+    "title": "Turnkey 2-bed Hybrid BTL",
+    "city": "Halifax",
+    "address": "Halifax",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "Hybrid BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 180000,
+    "reservationFee": 6480,
+    "projectEndValue": "190,000",
+    "belowMarketGDVDiscount": "5.3%",
+    "deposit": "45,000",
+    "yield": "6.0%",
+    "rent": "&pound;900",
+    "annualRent": "10,800",
+    "refurbCost": "0",
+    "listedDate": "2025-12-30",
+    "keyFeatures": [
+      "New build warranty valid until October 2032",
+      "1 main bathroom + separate ground-floor WC",
+      "Currently let on AST",
+      "Ideal hands-off long-term investment"
+    ],
+    "description": "This 2-bedroom, 1-bathroom house with an additional ground-floor WC is located in a popular residential area of Halifax, within easy reach of Halifax town centre and local amenities. The property is a modern build and is well suited to a Hybrid BTL strategy, appealing to professionals, couples, and small families. The house benefits from a driveway, enclosed rear garden, EPC B rating, and a new build warranty valid until 17/10/2032, making it a low-maintenance and future-proof investment.",
+    "beds": [
+      2
+    ],
+    "baths": [
+      1
+    ],
+    "size": "70 sq m",
+    "dealAnalysis": "",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild6633-6338-4635-a264-313435363137/Screenshot_2025-12-3.png"
+    ],
+    "images": [
+      "https://static.tildacdn.com/tild3034-3435-4335-b030-633131326334/Screenshot_2025-12-3.png",
+      "https://static.tildacdn.com/tild3730-3537-4463-b235-653866383561/Badroom_4.jpeg",
+      "https://static.tildacdn.com/tild3830-3765-4838-b036-353739323239/Bedroom_2.jpeg",
+      "https://static.tildacdn.com/tild6239-3165-4131-b230-363266366663/Bedroom_3.jpeg",
+      "https://static.tildacdn.com/tild3461-3439-4864-a433-663030386166/Bedroom_5.jpeg",
+      "https://static.tildacdn.com/tild6630-3937-4162-a535-616539383062/Bedroom_6.jpeg",
+      "https://static.tildacdn.com/tild6235-3562-4261-b061-356165646530/Bedroom.jpeg",
+      "https://static.tildacdn.com/tild6135-6432-4665-b064-666138626661/Dining_room_area.jpeg",
+      "https://static.tildacdn.com/tild3535-6565-4634-b133-323833336236/Hall_2.jpeg",
+      "https://static.tildacdn.com/tild3736-6533-4433-b063-643039663563/Hall_3.jpeg",
+      "https://static.tildacdn.com/tild3133-6464-4865-a166-303433346338/Hall_4.jpeg",
+      "https://static.tildacdn.com/tild6336-6362-4366-b634-336335306565/Hall.jpeg",
+      "https://static.tildacdn.com/tild3862-3639-4336-b766-333439326362/Kitchen_2.jpeg",
+      "https://static.tildacdn.com/tild3039-3130-4262-a435-396636373663/Kitchen.jpeg",
+      "https://static.tildacdn.com/tild3765-3139-4461-a664-373833363664/Living_room_2.jpeg",
+      "https://static.tildacdn.com/tild3861-3134-4236-b737-356464383939/Living_room_3.jpeg",
+      "https://static.tildacdn.com/tild6531-3761-4834-a463-393339363663/Living_room.jpeg",
+      "https://static.tildacdn.com/tild6562-3462-4431-a536-623961646231/Outside_2.jpeg",
+      "https://static.tildacdn.com/tild3865-3463-4663-a331-623366623962/Outside.jpeg",
+      "https://static.tildacdn.com/tild3732-3231-4130-a263-313365316161/Yard_2.jpeg",
+      "https://static.tildacdn.com/tild3033-6665-4432-b962-363332353635/Yard.jpeg"
+    ],
+    "marketInsightsImages": [],
+    "floorplan": [
+      "https://static.tildacdn.com/tild3634-3062-4533-a562-643939336439/Screenshot_2025-12-3.png"
+    ],
+    "map": "",
+    "occupancy": "Tenanted",
+    "condition": [
+      "Turnkey"
+    ],
+    "exclusive": true
+  },
   {
     "dealId": "JPC-AIN-01",
     "title": "4-Bed Social Housing Unit",
