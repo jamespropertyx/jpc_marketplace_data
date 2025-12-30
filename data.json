@@ -3866,7 +3866,7 @@
     "condition": [
       "Turnkey"
     ],
-    "exclusive": false
+    "exclusive": true
   },
   {
     "dealId": "JPC-HAS-01",
