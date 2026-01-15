@@ -219,7 +219,7 @@
     "map": "",
     "occupancy": "Tenanted",
     "condition": ["Turnkey"],
-    "exclusive": true
+    "exclusive": false
   },
   {
     "dealId": "JPC-AIN-01",
@@ -306,7 +306,7 @@
     "map": "",
     "occupancy": "Tenanted",
     "condition": ["Turnkey"],
-    "exclusive": true
+    "exclusive": false
   },
   {
     "dealId": "JPC-ROY-01",
@@ -367,7 +367,7 @@
     "map": "",
     "occupancy": "Tenanted",
     "condition": ["Turnkey"],
-    "exclusive": true
+    "exclusive": false
   },
   {
     "dealId": "JPC-WAL-05",
@@ -532,7 +532,7 @@
     "map": "",
     "occupancy": "Tenanted",
     "condition": ["Turnkey"],
-    "exclusive": true
+    "exclusive": false
   },
   {
     "dealId": "JPC-AND-01",
@@ -664,7 +664,7 @@
     "map": "",
     "occupancy": "Vacant",
     "condition": ["Turnkey"],
-    "exclusive": true
+    "exclusive": false
   },
   {
     "dealId": "JPC-PAR-04",
@@ -1032,7 +1032,7 @@
     "map": "",
     "occupancy": "Tenanted",
     "condition": ["Turnkey"],
-    "exclusive": true
+    "exclusive": false
   },
   {
     "dealId": "JPC-COR-01",
@@ -1130,7 +1130,7 @@
     "map": "",
     "occupancy": "Tenanted",
     "condition": ["Turnkey"],
-    "exclusive": true
+    "exclusive": false
   },
   {
     "dealId": " JPC-OLI-01",
@@ -1346,7 +1346,7 @@
     "map": "",
     "occupancy": "Tenanted",
     "condition": ["Turnkey"],
-    "exclusive": true
+    "exclusive": false
   },
   {
     "dealId": "JPC-KIN-03",
@@ -1624,7 +1624,7 @@
     "map": "",
     "occupancy": "Tenanted",
     "condition": ["Turnkey"],
-    "exclusive": true
+    "exclusive": false
   },
   {
     "dealId": "JPC-GLA-01",
@@ -1937,7 +1937,7 @@
     "map": "",
     "occupancy": "Tenanted",
     "condition": ["Turnkey"],
-    "exclusive": true
+    "exclusive": false
   },
   {
     "dealId": "JPC-ASH-05",
@@ -2331,7 +2331,7 @@
     "map": "",
     "occupancy": "Tenanted",
     "condition": ["Turnkey"],
-    "exclusive": true
+    "exclusive": false
   },
   {
     "dealId": "JPC-FOL-01",
@@ -3470,7 +3470,7 @@
     ],
     "map": "",
     "condition": ["Turnkey"],
-    "exclusive": true
+    "exclusive": false
   },
   {
     "dealId": "JPC-HAS-01",
