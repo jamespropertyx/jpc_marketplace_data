@@ -2914,59 +2914,6 @@
     "exclusive": false
   },
   {
-    "dealId": "JPC-MEL-03",
-    "title": "Student 3-bed HMO Opportunity",
-    "city": "Hull",
-    "address": "Hull",
-    "status": "Available",
-    "type": "Terraced",
-    "strategy": "HMO Opportunity",
-    "tenure": "Freehold",
-    "purchasePrice": 110000,
-    "reservationFee": 6000,
-    "projectEndValue": "115,000",
-    "belowMarketGDVDiscount": "4.3%",
-    "deposit": "27,500",
-    "yield": "7.6%",
-    "rent": "&pound;700",
-    "annualRent": "8,400",
-    "refurbCost": "0",
-    "listedDate": "2025-11-21",
-    "occupancy": "Tenanted",
-    "keyFeatures": [
-      "Potential for a strong return on investment with minimal work",
-      "Generating steady rental income",
-      "Will require HMO planning permission",
-      "The property is turnkey, with options to either refurbish for student housing or continue as a social housing property"
-    ],
-    "description": "This 3-bedroom, 1-bathroom property is located in a prime area of Hull, ideal for the student rental market. The property is currently tenanted and offers immediate rental income, with the potential for a strong return on investment with minimal work required. It would make a perfect 3-bedroom, 2-bathroom student house with the right refurbishment. Alternatively, the property is perfect for the social housing market, offering stable rental income with no major work required for continued use in that sector.",
-    "beds": [3],
-    "baths": [2],
-    "size": "76 sq m",
-    "dealAnalysis": "",
-    "propertyAppraisal": "",
-    "gdvAnalysis": "",
-    "epcCertificate": [
-      "https://static.tildacdn.com/tild3732-6565-4266-a566-616632353064/Screenshot_2025-11-2.png"
-    ],
-    "video": "https://drive.google.com/file/d/18HNmnx9Yz_1A5uRaAYbGFz5TDebz5hyN/preview",
-    "images": [
-      "https://static.tildacdn.com/tild3731-3632-4962-b334-636234616232/Screenshot_2025-11-2.png",
-      "https://static.tildacdn.com/tild3866-3838-4532-a661-373263663738/Screenshot_2025-11-2.png",
-      "https://static.tildacdn.com/tild3166-6138-4163-b462-363663666365/Screenshot_2025-11-2.png",
-      "https://static.tildacdn.com/tild3635-3133-4737-b431-643733393530/Screenshot_2025-11-2.png"
-    ],
-    "marketInsightsImages": [
-      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
-      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
-      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
-      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
-    ],
-    "map": "",
-    "condition": ["Turnkey"],
-    "exclusive": false
-  },
-  {
     "dealId": "JPC-WOO-01",
     "title": "Turnkey 12-bed Detached House",
     "city": "Hull",
