@@ -64,7 +64,7 @@
     "map": "",
     "occupancy": "Vacant",
     "condition": ["Full Refurb"],
-    "exclusive": true
+    "exclusive": false
   },
   {
     "dealId": "JPC-DUD-01",
