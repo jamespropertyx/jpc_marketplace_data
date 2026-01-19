@@ -16,6 +16,7 @@
     "yield": "20.8%",
     "rent": "&pound;1,040",
     "annualRent": "12,480",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "25,000",
     "listedDate": "2026-01-15",
     "keyFeatures": [
@@ -81,6 +82,7 @@
     "yield": "18.2%",
     "rent": "&pound;4,920",
     "annualRent": "59,040",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2026-01-15",
     "keyFeatures": [
@@ -169,6 +171,7 @@
     "yield": "11.5%",
     "rent": "&pound;621",
     "annualRent": "7,452",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2026-01-07",
     "keyFeatures": [
@@ -237,6 +240,7 @@
     "yield": "~11.9%",
     "rent": "&pound;845",
     "annualRent": "10,140",
+    "annualRentLabel": "Net Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-12-30",
     "keyFeatures": [
@@ -324,6 +328,7 @@
     "yield": "6.0%",
     "rent": "&pound;900",
     "annualRent": "10,800",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-12-30",
     "keyFeatures": [
@@ -391,6 +396,7 @@
     "yield": "~11.3%",
     "rent": "&pound;1,040",
     "annualRent": "12,480",
+    "annualRentLabel": "Net Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-12-29",
     "keyFeatures": [
@@ -478,6 +484,7 @@
     "yield": "12.4%",
     "rent": "&pound;1,240",
     "annualRent": "14,880",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-12-29",
     "keyFeatures": [
@@ -539,6 +546,7 @@
     "yield": "8.6%",
     "rent": "&pound;2,000",
     "annualRent": "24,000",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-12-22",
     "keyFeatures": [
@@ -610,6 +618,7 @@
     "yield": "~11%",
     "rent": "&pound;2,416",
     "annualRent": "28,992",
+    "annualRentLabel": "Net Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-12-19",
     "keyFeatures": [
@@ -704,6 +713,7 @@
     "yield": "11%",
     "rent": "&pound;4,580",
     "annualRent": "54,960",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-12-18",
     "keyFeatures": [
@@ -836,6 +846,7 @@
     "yield": "10.2%",
     "rent": "&pound;2,140",
     "annualRent": "25,680",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-12-17",
     "keyFeatures": [
@@ -899,6 +910,7 @@
     "yield": "9.8%",
     "rent": "&pound;1,925",
     "annualRent": "23,100",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-12-15",
     "keyFeatures": [
@@ -959,6 +971,7 @@
     "yield": "13.6%",
     "rent": "&pound;1,530",
     "annualRent": "18,360",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-12-12",
     "keyFeatures": [
@@ -1027,6 +1040,7 @@
     "yield": "10.9%",
     "rent": "&pound;1,680",
     "annualRent": "20,160",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-12-11",
     "keyFeatures": [
@@ -1110,6 +1124,7 @@
     "yield": "~9%",
     "rent": "&pound;1,750",
     "annualRent": "21,000",
+    "annualRentLabel": "Net Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-12-11",
     "keyFeatures": [
@@ -1204,6 +1219,7 @@
     "yield": "~9%",
     "rent": "&pound;1,950",
     "annualRent": "23,400",
+    "annualRentLabel": "Net Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-12-11",
     "keyFeatures": [
@@ -1302,6 +1318,7 @@
     "yield": "11.6%",
     "rent": "&pound;1,789",
     "annualRent": "21,468",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-12-11",
     "keyFeatures": [
@@ -1358,6 +1375,7 @@
     "yield": "~9.0%",
     "rent": "&pound;1,950",
     "annualRent": "23,400",
+    "annualRentLabel": "Net Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-12-10",
     "keyFeatures": [
@@ -1441,6 +1459,7 @@
     "yield": "9.8%",
     "rent": "&pound;1,304",
     "annualRent": "15,648",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-12-10",
     "keyFeatures": [
@@ -1490,6 +1509,7 @@
     "yield": "7.1%",
     "rent": "&pound;950",
     "annualRent": "11,400",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-12-09",
     "keyFeatures": [
@@ -1555,6 +1575,7 @@
     "yield": "~9%",
     "rent": "&pound;1,749",
     "annualRent": "20,988",
+    "annualRentLabel": "Net Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-12-08",
     "keyFeatures": [
@@ -1655,6 +1676,7 @@
     "yield": "~6.3%",
     "rent": "&pound;600",
     "annualRent": "7,200",
+    "annualRentLabel": "Net Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-12-04",
     "keyFeatures": [
@@ -1737,6 +1759,7 @@
     "yield": "11.8%",
     "rent": "&pound;1,083",
     "annualRent": "12,996",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-12-04",
     "keyFeatures": [
@@ -1803,6 +1826,7 @@
     "yield": "~10%",
     "rent": "&pound;1300",
     "annualRent": "13,200",
+    "annualRentLabel": "Net Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-12-03",
     "keyFeatures": [
@@ -1899,6 +1923,7 @@
     "yield": "10.9%",
     "rent": "&pound;997",
     "annualRent": "11,964",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "4,000",
     "listedDate": "2025-12-03",
     "keyFeatures": [
@@ -1962,6 +1987,7 @@
     "yield": "13.5%",
     "rent": "&pound;1,127",
     "annualRent": "13,524",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-12-02",
     "keyFeatures": [
@@ -2031,6 +2057,7 @@
     "yield": "~11%",
     "rent": "&pound;2,821",
     "annualRent": "33,852",
+    "annualRentLabel": "Net Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-12-02",
     "keyFeatures": [
@@ -2121,6 +2148,7 @@
     "yield": "5.7%",
     "rent": "&pound;550",
     "annualRent": "6,600",
+    "annualRentLabel": "Net Annual Rent",
     "refurbCost": "5,000",
     "listedDate": "2025-12-01",
     "keyFeatures": [
@@ -2209,6 +2237,7 @@
     "yield": "12.4%",
     "rent": "&pound;1,083",
     "annualRent": "12,996",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "3,000",
     "listedDate": "2025-12-01",
     "keyFeatures": [
@@ -2270,6 +2299,7 @@
     "yield": "15.9%",
     "rent": "&pound;1,820",
     "annualRent": "21,840",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-11-28",
     "keyFeatures": [
@@ -2332,6 +2362,7 @@
     "yield": "6.1%",
     "rent": "&pound;4,083",
     "annualRent": "48,996",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-11-28",
     "keyFeatures": [
@@ -2385,6 +2416,7 @@
     "yield": "7%",
     "rent": "&pound;2,294",
     "annualRent": "27,528",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-10-21",
     "keyFeatures": [
@@ -2455,6 +2487,7 @@
     "yield": "11.0%",
     "rent": "&pound;1,600",
     "annualRent": "19,200",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-11-28",
     "keyFeatures": [
@@ -2523,6 +2556,7 @@
     "yield": "11.7%",
     "rent": "&pound;1,700",
     "annualRent": "20,400",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-11-26",
     "keyFeatures": [
@@ -2593,6 +2627,7 @@
     "yield": "10.1%",
     "rent": "&pound;1,040",
     "annualRent": "12,480",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-11-25",
     "keyFeatures": [
@@ -2661,6 +2696,7 @@
     "yield": "10.3%",
     "rent": "&pound;2,427",
     "annualRent": "29,124",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-11-25",
     "keyFeatures": [
@@ -2721,6 +2757,7 @@
     "yield": "~7.5%",
     "rent": "&pound;680",
     "annualRent": "8,160",
+    "annualRentLabel": "Net Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-11-21",
     "occupancy": "Tenanted",
@@ -2810,6 +2847,7 @@
     "yield": "13.5%",
     "rent": "&pound;7,904",
     "annualRent": "94,848",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-11-20",
     "occupancy": "Tenanted",
@@ -2878,6 +2916,7 @@
     "yield": "16.6%",
     "rent": "&pound;1,040",
     "annualRent": "12,480",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "5,000",
     "listedDate": "2025-11-20",
     "occupancy": "Vacant",
@@ -2938,6 +2977,7 @@
     "yield": "13.0%",
     "rent": "&pound;2,275",
     "annualRent": "27,300",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "10,000",
     "listedDate": "2025-11-19",
     "occupancy": "Partially Tenanted",
@@ -2993,6 +3033,7 @@
     "yield": "14.9%",
     "rent": "&pound;1,127",
     "annualRent": "13,524",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "30,000",
     "listedDate": "2025-11-18",
     "keyFeatures": [
@@ -3051,6 +3092,7 @@
     "yield": "10.8%",
     "rent": "&pound;1,083",
     "annualRent": "12,996",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-11-18",
     "occupancy": "Vacant",
@@ -3131,6 +3173,7 @@
     "yield": "10%",
     "rent": "&pound;1,083",
     "annualRent": "12,996",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "5,000",
     "listedDate": "2025-11-17",
     "occupancy": "Vacant",
@@ -3196,6 +3239,7 @@
     "yield": "8.8%",
     "rent": "&pound;1,650",
     "annualRent": "19,800",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-11-17",
     "occupancy": "Tenanted",
@@ -3254,6 +3298,7 @@
     "yield": "14.6%",
     "rent": "&pound;1,699",
     "annualRent": "20,388",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-11-14",
     "keyFeatures": [
@@ -3316,6 +3361,7 @@
     "yield": "10.2%",
     "rent": "&pound;936",
     "annualRent": "11,232",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "1,000",
     "listedDate": "2025-11-14",
     "keyFeatures": [
@@ -3380,6 +3426,7 @@
     "yield": "9.6%",
     "rent": "&pound;3,523",
     "annualRent": "42,276",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-11-14",
     "keyFeatures": [
@@ -3461,6 +3508,7 @@
     "yield": "9%",
     "rent": "&pound;867",
     "annualRent": "10,404",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-11-13",
     "keyFeatures": [
@@ -3525,6 +3573,7 @@
     "yield": "~12%",
     "rent": "&pound;3,120",
     "annualRent": "37,440",
+    "annualRentLabel": "Net Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-11-11",
     "tags": ["New Build", "Cash Only"],
@@ -3611,6 +3660,7 @@
     "yield": "~12%",
     "rent": "&pound;2,400",
     "annualRent": "28,808",
+    "annualRentLabel": "Net Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-11-11",
     "tags": ["New Build", "Cash Only"],
@@ -3691,6 +3741,7 @@
     "yield": "15%",
     "rent": "&pound;3,120",
     "annualRent": "37,440",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "10,000",
     "listedDate": "2025-11-10",
     "keyFeatures": [
@@ -3745,6 +3796,7 @@
     "yield": "~10%",
     "rent": "&pound;1,516",
     "annualRent": "18,200",
+    "annualRentLabel": "Net Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-12-22",
     "tags": ["Cash Only"],
@@ -3825,6 +3877,7 @@
     "yield": "16.64%",
     "rent": "&pound;2,080",
     "annualRent": "24,960",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "25,000",
     "listedDate": "2025-11-10",
     "keyFeatures": [
@@ -3881,6 +3934,7 @@
     "yield": "18.93%",
     "rent": "&pound;3,943",
     "annualRent": "47,320",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "25,000",
     "listedDate": "2025-11-10",
     "keyFeatures": [
@@ -3938,6 +3992,7 @@
     "yield": "14.7%",
     "rent": "&pound;2,600",
     "annualRent": "31,200",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "25,000",
     "listedDate": "2025-11-07",
     "keyFeatures": [
@@ -3999,6 +4054,7 @@
     "yield": "9.4%",
     "rent": "&pound;3,500",
     "annualRent": "42,000",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-11-06",
     "keyFeatures": [
@@ -4065,6 +4121,7 @@
     "yield": "10.6%",
     "rent": "&pound;3,625",
     "annualRent": "43,500",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-11-06",
     "keyFeatures": [
@@ -4144,6 +4201,7 @@
     "yield": "~6.9%",
     "rent": "&pound;600",
     "annualRent": "7,200",
+    "annualRentLabel": "Net Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-11-05",
     "keyFeatures": [
@@ -4211,6 +4269,7 @@
     "yield": "8.3%",
     "rent": "&pound;520",
     "annualRent": "6,240",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-11-05",
     "keyFeatures": [
@@ -4263,6 +4322,7 @@
     "yield": "16.8%",
     "rent": "&pound;1,950",
     "annualRent": "23,400",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "50,000",
     "listedDate": "2025-11-05",
     "keyFeatures": [
@@ -4323,6 +4383,7 @@
     "deposit": "60,000",
     "yield": "7%",
     "annualRent": "18,000",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-11-05",
     "tags": ["New Build"],
@@ -4381,6 +4442,7 @@
     "deposit": "36,000",
     "yield": "7%",
     "annualRent": "9,600",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-11-04",
     "tags": ["New Build"],
@@ -4431,6 +4493,7 @@
     "deposit": "100,000",
     "yield": "6%",
     "annualRent": "22,000",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-11-04",
     "tags": ["New Build"],
@@ -4491,6 +4554,7 @@
     "yield": "10.8%",
     "rent": "&pound;1,127",
     "annualRent": "13,520",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-11-04",
     "keyFeatures": [
@@ -4547,6 +4611,7 @@
     "yield": "10.9%",
     "rent": "&pound;4,095",
     "annualRent": "49,140",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-11-03",
     "keyFeatures": [
@@ -4630,6 +4695,7 @@
     "yield": "12.5%",
     "rent": "&pound;9,295",
     "annualRent": "111,540",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-10-31",
     "keyFeatures": [
@@ -4708,6 +4774,7 @@
     "yield": "33.5%",
     "rent": "&pound;1,300",
     "annualRent": "15,600",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-10-31",
     "keyFeatures": [
@@ -4764,6 +4831,7 @@
     "yield": "9.7%",
     "rent": "&pound;1,380",
     "annualRent": "16,560",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-10-30",
     "keyFeatures": [
@@ -4835,6 +4903,7 @@
     "yield": "16.3%",
     "rent": "&pound;1,560",
     "annualRent": "18,720",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-10-30",
     "keyFeatures": [
@@ -4894,6 +4963,7 @@
     "yield": "15.3%",
     "rent": "&pound;1,083",
     "annualRent": "13,000",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-10-29",
     "keyFeatures": [
@@ -4952,6 +5022,7 @@
     "yield": "7%",
     "rent": "&pound;2,294",
     "annualRent": "76,524",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-10-21",
     "keyFeatures": [
@@ -5027,6 +5098,7 @@
     "yield": "13.1%",
     "rent": "&pound;1,577",
     "annualRent": "18,924",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-10-28",
     "keyFeatures": [
@@ -5082,6 +5154,7 @@
     "yield": "18.1%",
     "rent": "&pound;650",
     "annualRent": "7,800",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-10-28",
     "keyFeatures": [
@@ -5141,6 +5214,7 @@
     "yield": "13%",
     "rent": "&pound;6,450",
     "annualRent": "77,400",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "100,000",
     "listedDate": "2025-10-28",
     "keyFeatures": [
@@ -5194,6 +5268,7 @@
     "yield": "16.9%",
     "rent": "&pound;1,127",
     "annualRent": "13,520",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "30,000",
     "listedDate": "2025-10-24",
     "keyFeatures": [
@@ -5248,6 +5323,7 @@
     "yield": "13.3%",
     "rent": "&pound;4,610",
     "annualRent": "55,320",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-10-24",
     "keyFeatures": [
@@ -5299,6 +5375,7 @@
     "yield": "18.4%",
     "rent": "&pound;2,833",
     "annualRent": "33,996",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-10-23",
     "keyFeatures": [
@@ -5362,6 +5439,7 @@
     "yield": "16.64%",
     "rent": "&pound;1,733",
     "annualRent": "20,796",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-10-21",
     "keyFeatures": [
@@ -5420,6 +5498,7 @@
     "yield": "14.3%",
     "rent": "&pound;1,040",
     "annualRent": "12,480",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-10-20",
     "keyFeatures": [
@@ -5474,6 +5553,7 @@
     "yield": "18.8%",
     "rent": "&pound;2,080",
     "annualRent": "24,960",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-10-17",
     "keyFeatures": [
@@ -5527,6 +5607,7 @@
     "yield": "13.9%",
     "rent": "&pound;953",
     "annualRent": "11,436",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "8,000",
     "listedDate": "2025-10-14",
     "keyFeatures": [
@@ -5583,6 +5664,7 @@
     "yield": "13.5%",
     "rent": "&pound;4,160",
     "annualRent": "49,920",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-10-14",
     "keyFeatures": [
@@ -5636,6 +5718,7 @@
     "yield": "16.46%",
     "rent": "&pound;3,085",
     "annualRent": "37,020",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "11,600",
     "listedDate": "2025-10-13",
     "keyFeatures": [
@@ -5705,6 +5788,7 @@
     "yield": "16%",
     "rent": "&pound;1,213",
     "annualRent": "14,560",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "35,000",
     "listedDate": "2025-10-10",
     "keyFeatures": [
@@ -5760,6 +5844,7 @@
     "yield": "7.4%",
     "rent": "&pound;797",
     "annualRent": "9,564",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-10-09",
     "keyFeatures": [
@@ -5821,6 +5906,7 @@
     "yield": "13.0%",
     "rent": "&pound;650",
     "annualRent": "7,800",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "20,000",
     "listedDate": "2025-10-07",
     "keyFeatures": [
@@ -5875,6 +5961,7 @@
     "yield": "8%",
     "rent": "&pound;700",
     "annualRent": "8,400",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-10-07",
     "keyFeatures": [
@@ -5929,6 +6016,7 @@
     "yield": "13.6%",
     "rent": "&pound;1872",
     "annualRent": "22,464",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-09-30",
     "keyFeatures": [
@@ -5990,6 +6078,7 @@
     "yield": "12.2%",
     "rent": "&pound;1480",
     "annualRent": "17,760",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-09-25",
     "keyFeatures": [
@@ -6057,6 +6146,7 @@
     "yield": "18.49%",
     "rent": "&pound;2080",
     "annualRent": "24,960",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "50,000",
     "listedDate": "2025-09-15",
     "keyFeatures": [
@@ -6116,6 +6206,7 @@
     "yield": "18.2%",
     "rent": "&pound;3640",
     "annualRent": "43,680",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-09-10",
     "keyFeatures": [
@@ -6180,6 +6271,7 @@
     "yield": "13.52%",
     "rent": "&pound;1127",
     "annualRent": "13,524",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "20,000",
     "listedDate": "2025-09-03",
     "keyFeatures": [
@@ -6240,6 +6332,7 @@
     "yield": "18.96%",
     "rent": "&pound;3792",
     "annualRent": "45,500",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "10,000",
     "listedDate": "2025-08-28",
     "keyFeatures": [
@@ -6298,6 +6391,7 @@
     "yield": "22.94%",
     "rent": "&pound;2600",
     "annualRent": "31,200",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "71,000",
     "listedDate": "2025-08-27",
     "keyFeatures": [
@@ -6356,6 +6450,7 @@
     "yield": "10.08%",
     "rent": "&pound;867",
     "annualRent": "10,404",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "7,000",
     "listedDate": "2025-08-25",
     "keyFeatures": [
@@ -6413,6 +6508,7 @@
     "yield": "10.08%",
     "rent": "&pound;1092",
     "annualRent": "13,104",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-09-29",
     "keyFeatures": [
@@ -6473,6 +6569,7 @@
     "yield": "15.9%",
     "rent": "&pound;3,033",
     "annualRent": "36,396",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "25,000",
     "listedDate": "2025-08-13",
     "keyFeatures": [
@@ -6530,6 +6627,7 @@
     "yield": "6.5%",
     "rent": "&pound;1,300",
     "annualRent": "15,600",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-08-11",
     "keyFeatures": [
@@ -6584,6 +6682,7 @@
     "yield": "22.22%",
     "rent": "&pound;2,926",
     "annualRent": "35,112",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "45,000",
     "listedDate": "2025-04-29",
     "keyFeatures": [
@@ -6642,6 +6741,7 @@
     "yield": "24%",
     "rent": "&pound;3,033",
     "annualRent": "36,396",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "0",
     "listedDate": "2025-04-04",
     "keyFeatures": [
@@ -6701,6 +6801,7 @@
     "yield": "19.5%",
     "rent": "&pound;1,625",
     "annualRent": "19,500",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "40,000",
     "listedDate": "2025-06-18",
     "keyFeatures": [
@@ -6754,6 +6855,7 @@
     "yield": "42.2%",
     "rent": "&pound;3,120",
     "annualRent": "37,440",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "22,280",
     "listedDate": "2025-09-08",
     "keyFeatures": [
@@ -6807,6 +6909,7 @@
     "yield": "16.2%",
     "rent": "&pound;1,213",
     "annualRent": "14,556",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "10,000",
     "listedDate": "2025-06-30",
     "keyFeatures": [
@@ -6868,6 +6971,7 @@
     "yield": "10.79%",
     "rent": "&pound;1,213",
     "annualRent": "14,556",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "6,000",
     "listedDate": "2025-07-17",
     "keyFeatures": [
@@ -6930,6 +7034,7 @@
     "yield": "13.73%",
     "rent": "&pound;1,430",
     "annualRent": "17,160",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "5,000",
     "listedDate": "2025-07-02",
     "keyFeatures": [
@@ -6990,6 +7095,7 @@
     "yield": "14.6%",
     "rent": "&pound;1,521",
     "annualRent": "18,252",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "6,000",
     "listedDate": "2025-07-16",
     "keyFeatures": [
@@ -7046,6 +7152,7 @@
     "yield": "14.93%",
     "rent": "&pound;1,213",
     "annualRent": "14,556",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "5,000",
     "listedDate": "2025-07-15",
     "keyFeatures": [
@@ -7103,6 +7210,7 @@
     "yield": "14.4%",
     "rent": "&pound;1,860",
     "annualRent": "22,320",
+    "annualRentLabel": "Gross Annual Rent",
     "refurbCost": "20,000",
     "listedDate": "2025-07-10",
     "keyFeatures": [
