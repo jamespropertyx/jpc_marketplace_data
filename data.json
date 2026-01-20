@@ -60,6 +60,9 @@
         "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
         "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
       ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild3562-6237-4535-b164-366435336530/Screenshot_2026-01-2.jpeg"
+    ],
     "map": "",
     "occupancy": "Tenanted",
     "condition": ["Full Refurb"],
@@ -123,7 +126,12 @@
       "https://static.tildacdn.com/tild3535-6235-4261-b535-633635613361/WhatsApp_Image_2026-.jpeg",
       "https://static.tildacdn.com/tild3739-6163-4235-b138-653333653465/WhatsApp_Image_2026-.jpeg"
     ],
-    "marketInsightsImages": [],
+     "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+      ],
     "floorplan": [
       "https://static.tildacdn.com/tild3433-6231-4136-a466-383334333630/Screenshot_2026-01-1.png"
     ],
