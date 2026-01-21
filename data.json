@@ -1,5 +1,58 @@
 [
   {
+    "dealId": "JPC-INS-01",
+    "title": "Turnkey Buy-to-Let Apartments",
+    "city": "Heckmondwike",
+    "address": "Heckmondwike",
+    "status": "Available",
+    "strategy": "BTL",
+    "type": "Apartment",
+    "tenure": "Leasehold",
+    "purchasePrice": 82000,
+    "reservationFee": 0,
+    "deposit": "20,500",
+    "yield": "~7%",
+    "annualRent": "9,600",
+    "refurbCost": "0",
+    "listedDate": "2026-01-21",
+    "keyFeatures": [
+      "Fully tenanted flats with immediate rental income",
+      "Affordable Property with High Returns",
+      "Net Yield: Approximately 7% across the development",
+      "Leasehold with 999 years remaining"
+    ],
+    "description": "This property offers a turnkey investment in 1, 2, and 3-bedroom apartments located in Heckmondwike, West Yorkshire. This development is fully tenanted, providing immediate rental income from day one. The apartments are professionally managed, making it a hands-off investment for those seeking a stable income without the need for tenant sourcing or property management. All units are tenanted, with no refurbishments needed, allowing investors to purchase and start earning income immediately.",
+    "beds": [1, 2, 3],
+    "baths": [1],
+    "size": "44-71 sq m",
+    "dealAnalysis": "https://drive.google.com/file/d/1nVbrJrGOnp6aWPCWJAPq4XdMAczaDPzt/view?usp=drive_link",
+    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Heckmondwike-JPC-INS-01-2eeb6c4b014180288228fe70e92036fa?source=copy_link",
+    "gdvAnalysis": "",
+    "epcCertificate": ["https://static.tildacdn.com/tild3833-6131-4333-a539-626433643165/1_3.png"],
+    "video": "https://drive.google.com/file/d/1tg3U00nnTdyDRW1pMrZKM8H4_x5SaCht/view?usp=drive_link",
+    "images": [
+      "https://static.tildacdn.com/tild3138-6435-4461-b034-613233653933/Screenshot_2026-01-2.png",
+      "https://static.tildacdn.com/tild3531-3039-4764-b234-666532366136/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3366-3039-4537-a330-623834393061/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3237-3630-4336-a232-373261353535/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6536-3065-4561-b435-383163613233/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6535-3335-4539-a534-656136306137/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3833-6664-4164-b332-383262386136/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6635-3532-4563-a631-376431613733/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6333-3530-4139-b933-663864616636/WhatsApp_Image_2026-.jpeg"
+    ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild3563-6135-4232-b861-373831613766/Screenshot_2026-01-2.png",
+      "https://static.tildacdn.com/tild6439-6664-4431-b765-373235313231/Screenshot_2026-01-2.png",
+      "https://static.tildacdn.com/tild6632-3635-4561-a663-343631313637/Screenshot_2026-01-2.png"
+    ],
+    "marketInsightsImages": [],
+    "map": " ",
+    "occupancy": "Tenanted",
+    "condition": ["Turnkey"],
+    "exclusive": false
+  },
+  {
     "dealId": "JPC-CRA-04",
     "title": "2-bed BRR Opportunity",
     "city": "Hull",
