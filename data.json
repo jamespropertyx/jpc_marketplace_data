@@ -1,4 +1,67 @@
 [
+   {
+    "dealId": "JPC-BAK-01",
+    "title": "Turnkey 4-bed Apartment",
+    "city": "Chester",
+    "address": "Chester",
+    "status": "Available",
+    "type": "Apartment",
+    "strategy": "HMO",
+    "tenure": "Leasehold",
+    "purchasePrice": 250000,
+    "reservationFee": 9000,
+    "projectEndValue": "355,000",
+    "belowMarketGDVDiscount": "29.6%",
+    "deposit": "62,500",
+    "yield": "10.4%",
+    "rent": "&pound;2,166",
+    "annualRent": "25,992",
+    "refurbCost": "0",
+    "listedDate": "2026-01-21",
+    "keyFeatures": [
+      "No HMO licence required under current local authority rules",
+      "Fully let to 4 tenants on a single AST",
+      "Leasehold with 170 years remaining",
+      "Ideal hands-off long-term investment"
+    ],
+    "description": "This 4-bedroom apartment is located in a well-established residential area, a location that has proven demand from student tenants due to its accessibility, transport links, and proximity to key amenities. The property is currently fully let, generating &pound;2,166 pcm, with a strong rental payment history and tenants keen to renew.  The property is well presented, has benefited from bathroom upgrades in 2021, and requires no refurbishment to maintain current income. In line with local authority requirements, this configuration does not require an HMO licence, and the property is operated compliantly within current regulations.",
+    "beds":[4],
+    "baths": [3],
+    "size": "80 sq m",
+    "dealAnalysis": "",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild6134-3633-4264-a538-373733636434/Screenshot_2026-01-2.png"
+    ],
+    "images": [
+      "https://static.tildacdn.com/tild3236-3465-4535-b161-373230333935/Screenshot_2026-01-2.png",
+      "https://static.tildacdn.com/tild6235-3334-4930-a261-383062343131/Bathroom_2.jpg",
+      "https://static.tildacdn.com/tild3965-6330-4562-b235-373332323238/Bathroom.jpg",
+      "https://static.tildacdn.com/tild3861-3137-4835-b534-323532633366/Bedroom_2.jpg",
+      "https://static.tildacdn.com/tild3964-3532-4438-b333-633932633035/Bedroom_3.jpg",
+      "https://static.tildacdn.com/tild3634-3562-4665-a539-366435383262/Bedroom_4.jpg",
+      "https://static.tildacdn.com/tild3961-3966-4235-b533-303239613235/Bedroom_5.jpg",
+      "https://static.tildacdn.com/tild6463-3539-4636-b866-623338306433/Bedroom_6.jpg",
+      "https://static.tildacdn.com/tild6332-6439-4965-b364-653364353539/Bedroom_7.jpg",
+      "https://static.tildacdn.com/tild3436-6461-4034-b432-323633363337/Bedroom_8.jpg",
+      "https://static.tildacdn.com/tild3030-3366-4961-b837-343638663132/Bedroom_9.jpg",
+      "https://static.tildacdn.com/tild3931-3030-4636-a136-393437356464/En-suite.jpg",
+      "https://static.tildacdn.com/tild3835-6435-4830-b730-666134306330/Kitchen_2.jpg",
+      "https://static.tildacdn.com/tild6531-3464-4033-a130-616263653664/Kitchen.jpg",
+      "https://static.tildacdn.com/tild3538-3133-4830-b832-333165353334/Living_room_2.jpg",
+      "https://static.tildacdn.com/tild3862-3734-4964-b835-633336633135/Living_room_3.jpg",
+      "https://static.tildacdn.com/tild3439-6565-4033-a662-663432643837/Living_room.jpg"
+    ],
+    "marketInsightsImages": [],
+    "floorplan": [
+      "https://static.tildacdn.com/tild3539-3864-4365-b035-643336383865/Screenshot_2026-01-2.png"
+    ],
+    "map": "",
+    "occupancy": "Tenanted",
+    "condition": ["Turnkey"],
+    "exclusive": false
+  },
   {
     "dealId": "JPC-INS-01",
     "title": "Turnkey Buy-to-Let Apartments",
