@@ -30,6 +30,7 @@
     "baths": [3],
     "size": "80 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -91,6 +92,7 @@
     "baths": [1],
     "size": "44-71 sq m",
     "dealAnalysis": ["https://drive.google.com/file/d/1nVbrJrGOnp6aWPCWJAPq4XdMAczaDPzt/view?usp=drive_link"],
+    "showSectionAnalysis": false,
     "propertyAppraisal": " ",
     "gdvAnalysis": "",
     "epcCertificate": ["https://static.tildacdn.com/tild3833-6131-4333-a539-626433643165/1_3.png"],
@@ -148,6 +150,7 @@
     "baths": [1],
     "size": "59 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -218,6 +221,7 @@
     "baths": [1],
     "size": "56 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -292,6 +296,7 @@
     "baths": [1],
     "size": "65 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -359,6 +364,7 @@
     "baths": [5],
     "size": "172 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -449,6 +455,7 @@
     "baths": [1],
     "size": "60 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -519,6 +526,7 @@
     "baths": [1],
     "size": "75 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1jUepqbI8Y89FJLsQWwBujh2CTmmR9wSe/view?usp=drive_link",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -608,6 +616,7 @@
     "baths": [1],
     "size": "70 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -677,6 +686,7 @@
     "baths": [1],
     "size": "85 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1TJAQRVm62R3doJw9wI752aORcSp4A8Eg/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -766,6 +776,7 @@
     "baths": [1],
     "size": "57 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -829,6 +840,7 @@
     "baths": [1],
     "size": "86 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -902,6 +914,7 @@
     "baths": [8],
     "size": "255 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1NQQiOd25TmiKr1SwwZw2v3C0yt1dSTqo/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -1036,6 +1049,7 @@
     "baths": [2],
     "size": "99 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -1101,6 +1115,7 @@
     "baths": [2],
     "size": "102 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -1163,6 +1178,7 @@
     "baths": [1],
     "size": "114 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -1233,6 +1249,7 @@
     "baths": [2],
     "size": "135 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -1318,6 +1335,7 @@
     "baths": [1],
     "size": "81 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1Qpmqu-tr4uiy5hk1TR_QLnI6K0rYc4gt/view?usp=drive_link",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -1414,6 +1432,7 @@
     "baths": [2],
     "size": "113 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1xPGhvHVkl9mX59wpDfq5vSUqEw1HpR0b/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -1514,6 +1533,7 @@
     "baths": [4],
     "size": "100 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -1572,6 +1592,7 @@
     "baths": [2],
     "size": "121 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1AbTC65SZumwVnTuKE81lrDf-0x-b4fZF/view?usp=drive_link",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -1657,6 +1678,7 @@
     "baths": [2],
     "size": "118 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -1708,6 +1730,7 @@
     "baths": [1],
     "size": "101 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -1775,6 +1798,7 @@
     "baths": [1],
     "size": "98 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1Ln9mUngADZyQR9ACK-L8lD9MUtmBamzK/view?usp=drive_link",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -1878,6 +1902,7 @@
     "baths": [1],
     "size": "73 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1lpmYDWT4jjh3dMp6Mn3i_3ha79OSHEgy/view?usp=drive_link",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -1962,6 +1987,7 @@
     "baths": [1],
     "size": "87 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -2029,6 +2055,7 @@
     "baths": [1],
     "size": "74 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -2094,6 +2121,7 @@
     "baths": [1],
     "size": "75 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -2165,6 +2193,7 @@
     "baths": [2],
     "size": "164 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1wip1VsU8oay7RIIAHKsxBZOijhzOTyXf/view?usp=drive_link",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -2257,6 +2286,7 @@
     "baths": [1],
     "size": "72 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1LdpmlwmAKknEk9s3FMDljwY8wl0qAe0R/view?usp=drive_link",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -2347,6 +2377,7 @@
     "baths": [1],
     "size": "60 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -2410,6 +2441,7 @@
     "baths": [2],
     "size": "106 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -2474,6 +2506,7 @@
     "baths": [5],
     "size": "400 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -2529,6 +2562,7 @@
     "baths": [4],
     "size": "191 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": "https://static.tildacdn.com/tild3836-3462-4030-a632-643132613338/__2025-10-21__160929.png",
@@ -2601,6 +2635,7 @@
     "baths": [3],
     "size": "162 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -2671,6 +2706,7 @@
     "baths": [3],
     "size": "168 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -2743,6 +2779,7 @@
     "baths": [1],
     "size": "89 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -2813,6 +2850,7 @@
     "baths": [1],
     "size": "92 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -2876,6 +2914,7 @@
     "baths": [3],
     "size": "89 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1c6eU-4ETMF8Vp1eGz3YvY7iwnra1K-Rj/view?usp=drive_link",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -2967,6 +3006,7 @@
     "baths": [12],
     "size": "439 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -3037,6 +3077,7 @@
     "baths": [1],
     "size": "61 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -3099,6 +3140,7 @@
     "baths": [2],
     "size": "148 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -3155,6 +3197,7 @@
     "baths": [1],
     "size": "60 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -3216,6 +3259,7 @@
     "baths": [1],
     "size": "81 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -3298,6 +3342,7 @@
     "baths": [1],
     "size": "98 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -3365,6 +3410,7 @@
     "baths": [1],
     "size": "176 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -3424,6 +3470,7 @@
     "baths": [3],
     "size": "98 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -3488,6 +3535,7 @@
     "baths": [1],
     "size": "85 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -3554,6 +3602,7 @@
     "baths": [6],
     "size": "142 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -3637,6 +3686,7 @@
     "baths": [1],
     "size": "66 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -3704,6 +3754,7 @@
     "baths": [1],
     "size": "70 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/19xV_DL3h15gyoewWuKF1rzFpFsg8mz_n/view?usp=drive_link",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -3792,6 +3843,7 @@
     "baths": [0],
     "size": "60 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1hQVKDxbuFehBULXjpQlNepX922skTuSh/view?usp=drive_link",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -3873,6 +3925,7 @@
     "baths": [2],
     "size": "114 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -3930,6 +3983,7 @@
     "baths": [1],
     "size": "",
     "dealAnalysis": "https://drive.google.com/file/d/1JId7nAwSkMIx075h6qRBvmkSpOS9cji6/view?usp=drive_link",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -4011,6 +4065,7 @@
     "baths": [2],
     "size": "102 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -4069,6 +4124,7 @@
     "baths": [2],
     "size": "163 sq m",
     "dealAnalysis": "",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": [
@@ -4128,6 +4184,7 @@
     "baths": [2],
     "size": "141 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1-jAtdOiloR4ybrK9YCkMu9nRaZmBUtvM/view?usp=drive_link",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Wellesley-Avenue-Hull-HU6-7LN-2a4b6c4b0141807eb49fc9bc09213698?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Wellesley-Avenue-Hull-HU6-7LN-2a4b6c4b014180a0b93ad852a10b9642?source=copy_link",
     "epcCertificate": [
@@ -4191,6 +4248,7 @@
     "baths": [7],
     "size": "247 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1j6nUqdT_4sflCJvJ-RSXq0K0w04TAsap/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Blackpark-Terrace-Inverness-IV3-8NE-2a3b6c4b01418063b8cae37e13d55c63?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Blackpark-Terrace-Inverness-IV3-8NE-2a3b6c4b01418030becbd5d358d33b87?source=copy_link",
     "epcCertificate": [""],
@@ -4259,6 +4317,7 @@
     "baths": [4],
     "size": "180 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1dsFtU7Lq5kN6wDa2_A2Yc1TLQIbeosSM/view?usp=drive_link",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Green-Lane-Derby-DE1-1RZ-2a3b6c4b014180b7bf5bdc58e7536a9f?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Green-Lane-Derby-DE1-1RZ-2a3b6c4b014180078515c87b799bb7e8?source=copy_link",
     "epcCertificate": [
@@ -4340,6 +4399,7 @@
     "baths": [1],
     "size": "68 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1nu3SAXvmYHTFsjM_8UzSdgzFbyy1tUKU/view?usp=drive_link",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Clumber-Street-Hull-HU5-3RJ-29bb6c4b0141809a9e3cdb857bec3b19?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Clumber-Street-Hull-HU5-3RJ-29bb6c4b014180bca596f7c382c227b8?source=copy_link",
     "epcCertificate": [
@@ -4409,6 +4469,7 @@
     "baths": [1],
     "size": "63 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1j3DeuU-Q_4XLd4_ekn96yw2yIe39Qgvc/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Grangeside-Hull-HU6-8LR-295b6c4b014180c9bb89ff92bfbeb79c?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Grangeside-Hull-HU6-8LR-295b6c4b01418064997bdf4afa8b1353?source=copy_link",
     "epcCertificate": [""],
@@ -4463,6 +4524,7 @@
     "baths": [3],
     "size": "179 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1VLBk9dxKZWkR_HbAbX3c1n4NjHJb7wmj/view?usp=drive_link",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Lambert-Street-Hull-HU5-2SG-293b6c4b014180209ee5fd21bf1cbf7c?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Lambert-Street-Hull-HU5-2SG-293b6c4b014180358184cc5ad0e15610?source=copy_link",
     "epcCertificate": [""],
@@ -4526,6 +4588,7 @@
     "baths": [1, 2],
     "size": "32-74 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1jmSdVpL9Q63zD-mtnossEzvO6E6cAHjo/view?usp=drive_link",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-South-Central-33-Essex-Street-Birmingham-B5-4BX-2a1b6c4b014180369b69d3b63be5e9b3?source=copy_link",
     "gdvAnalysis": "",
     "epcCertificate": [""],
@@ -4586,6 +4649,7 @@
     "baths": [1, 2, 3],
     "size": "32-98 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1WW8VIRaDWQal7j_XGTDlgxeTaftLqhNv/view?usp=drive_link",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Lombe-House-Liversage-Street-Derby-DE1-2HN-2a1b6c4b014180629034d229357e6b84?source=copy_link",
     "gdvAnalysis": "",
     "epcCertificate": [""],
@@ -4638,6 +4702,7 @@
     "baths": [1, 2],
     "size": "40-75 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1BOkUl9q-9HFjs4EEl1k89hOmlc5h67dv/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Peninsula-Gardens-Chandlers-Ave-London-SE10-0NW-2a1b6c4b0141804cb414e4eedbaefa93?source=copy_link",
     "gdvAnalysis": "",
     "epcCertificate": [""],
@@ -4699,6 +4764,7 @@
     "baths": [1],
     "size": "81 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1ZxGF5pzRN7nsft8AEfLFOSR3B7MwjPmE/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Sidmouth-Street-Hull-2a0b6c4b014180d1bc25c493d60f5890?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Sidmouth-Street-Hull-2a0b6c4b0141809989d5de50a0ea29a2?source=copy_link",
     "epcCertificate": [
@@ -4757,6 +4823,7 @@
     "baths": [8],
     "size": "372 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1ECHiPtgC9Cl6GQIsI_MqZOlYhwVFMqCr/view?usp=drive_link",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Peel-Street-Hull-HU3-1QR-2a0b6c4b014180a1a93cf8e2fde8213a",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Peel-Street-Hull-HU3-1QR-2a0b6c4b014180e28b7edd695c8b32bc",
     "epcCertificate": [
@@ -4842,6 +4909,7 @@
     "baths": [8],
     "size": "371 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1rMGuLFlO9tlQTW-0WKZVuYEB2zPXuhfV/view?usp=drive_link",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Beverley-Road-Hull-HU5-1LH-29db6c4b014180ffbe0bd6b93a3e128c",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Beverley-Road-Hull-HU5-1LH-29db6c4b014180a3be78de45c7de6d42",
     "epcCertificate": [
@@ -4922,6 +4990,7 @@
     "baths": [1],
     "size": "57 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1qcJ_PY9DhKCZmyW4OH1tW7lkKVkxY1Ty/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Granville-Grove-Hull-HU5-1DX-29bb6c4b01418096828bde2772d951d1?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Granville-Grove-Hull-HU5-1DX-29bb6c4b0141802fa594f1cfab8aea8f?source=copy_link",
     "epcCertificate": [
@@ -4980,6 +5049,7 @@
     "baths": [2],
     "size": "117 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1ur6SktfLb11Zhiac6kb3I_Cs8kkjrQi3/view?usp=drive_link",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Spring-Bank-West-Hull-HU3-1LD-276b6c4b014180c2950bc4e42fa01fd4?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Spring-Bank-West-Hull-HU3-1LD-276b6c4b014180dfa312e252d590d5f3?source=copy_link",
     "epcCertificate": [
@@ -5053,6 +5123,7 @@
     "baths": [1],
     "size": "83 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/159YKgYSuKX99YGNQf0EhNiUZt6a_CwPM/view",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Sharp-Street-Hull-HU5-2AF-296b6c4b0141805784d6d82b8e157f07",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Sharp-Street-Hull-HU5-2AF-296b6c4b014180f2958bdb1fdd706bbb",
     "epcCertificate": [
@@ -5114,6 +5185,7 @@
     "baths": [1],
     "size": "91 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1yCw0-VtFyZeWUyX-mknojn2EAWR5F-5A/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Marshall-Street-Hull-HU5-3DA-29bb6c4b014180fca2d7d81e08b35088?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Marshall-Street-Hull-HU5-3DA-29bb6c4b014180bf88f9ea9f3b8f431b?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild3332-6330-4733-a234-653337646635/ERS.png",
@@ -5174,6 +5246,7 @@
     "baths": [9],
     "size": "591 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1ZC73q8q6UHhsNsrwowKJXFhebNvaOn5f/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Pearson-Park-Hull-HU5-2TR-29bb6c4b0141808488e6c143114e5332?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Pearson-Park-Hull-HU5-2TR-29bb6c4b014180598e4aea9fcfdef52b?source=copy_link",
     "epcCertificate": [
@@ -5251,6 +5324,7 @@
     "baths": [1],
     "size": "86 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1hDTtN784wflC8NNiNDcTVoTbkkPDgtL6/view?usp=drive_link",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Sidmouth-Street-Hull-HU5-2LB-295b6c4b014180d6b219c794530a6911",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Sidmouth-Street-Hull-HU5-2LB-295b6c4b01418087ba65c081d4573d75?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild6338-3536-4636-b537-353434643563/Screenshot_2025-10-2.png",
@@ -5308,6 +5382,7 @@
     "baths": [1],
     "size": "42 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1RjCgoR-8GZsbP9KabArtOdwNfqk1YO4H/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Queens-Road-Hull-HU5-2QG-276b6c4b014180ed8233e807045e7003?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Queens-Road-Hull-HU5-2QG-276b6c4b014180ef9f2dc351fa5a0a5e?source=copy_link",
     "epcCertificate": [
@@ -5368,6 +5443,7 @@
     "floors": "3 floors",
     "size": "246 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1UEauxL0r5ppeQlRPpXdd-Uh2FBwXrr7t/view?usp=drive_link",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Navy-House-Pearson-Park-Hull-HU5-2TD-295b6c4b014180678450ee213e5815d6",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Navy-House-Pearson-Park-Hull-HU5-2TD-295b6c4b014180f9ab4fe98143d225f6",
     "epcCertificate": "https://static.tildacdn.com/tild3434-6330-4434-b531-356336383139/6.png",
@@ -5424,6 +5500,7 @@
     "baths": [1],
     "size": "73 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1yNis7DLPsLJyYpGqCcOH7UogzYRb7sjT/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Derwent-Grove-Princes-Road-Hull-HU5-2SF-293b6c4b014180aca7b2cadb0670de44?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Derwent-Grove-Princes-Road-Hull-HU5-2SF-293b6c4b01418043aba9e215b3f2d162?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild3630-6232-4063-b135-623736366232/Energy_cert.png",
@@ -5480,6 +5557,7 @@
     "baths": [8],
     "size": "170 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1nsdFRlsozCcIvsmxGgo0dWpwbd_wmm9T/view?usp=drive_link",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Argyle-Street-Goole-DN14-5EW-295b6c4b0141803f89e5d47ba515d3c1",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Argyle-Street-Goole-DN14-5EW-295b6c4b014180c6a2eaf4261c5c1d4f",
     "epcCertificate": [
@@ -5533,6 +5611,7 @@
     "baths": [2],
     "size": "157 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1OXKEFv_xnAPEfeMF4uVB6ZSGUvtfWrsF/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Ella-Street-Hull-HU5-3AX-26fb6c4b01418010b97df13f008ba65a",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Ella-Street-Hull-HU5-3AX-26fb6c4b0141804b980cc7cbb85f4e26",
     "epcCertificate": "https://static.tildacdn.com/tild6234-3930-4264-b362-666636656334/Screenshot_2025-10-2.png",
@@ -5598,6 +5677,7 @@
     "baths": [1],
     "size": "111 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1VEhs-leE7t01euCcoNTPtFCurnGlv7qz/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Suffolk-Street-Hull-HU5-1PJ-27fb6c4b014180588379f6442f878852?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Suffolk-Street-Hull-HU5-1PJ-27fb6c4b014180f4b222c6a0f36986db?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild3663-3735-4138-a135-393635326631/Screenshot_2025-10-2.png",
@@ -5658,6 +5738,7 @@
     "baths": [1],
     "size": "61 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1vhMcHppzIDo2GXPXjfDEJFJHQbDByfGd/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Worthing-Street-Hull-HU5-1PP-292b6c4b0141803f9148d481c87bff5c?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Worthing-Street-Hull-HU5-1PP-292b6c4b014180e9a696c6a24e807046?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild6162-3938-4534-b338-306538636336/Screenshot_2025-10-2.png",
@@ -5713,6 +5794,7 @@
     "baths": [1],
     "size": "98 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1jKRMXwYekRdGAzIkwOt6auSNvD70-GyH/view?usp=drive_link",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/PROPERTY-APPRAISAL-Grafton-Street-Hull-HU5-2NP-28fb6c4b014180bdbd38e728f361543b?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Grafton-Street-Hull-HU5-2NP-28fb6c4b014180019835c75c255940bc?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild3862-6564-4639-b232-663132396530/Screenshot_2025-10-1.png",
@@ -5769,6 +5851,7 @@
     "baths": [1],
     "size": "63 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1wCAdOQ_Kwq5F2OQ6WPVyppbPvgUP3PWv/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Winslade-Crescent-Hull-HU5-3NX-288b6c4b0141800e9d10d339252a8d75?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Winslade-Crescent-Hull-HU5-3NX-288b6c4b014180a8bac6e80916bca48f?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild3862-3934-4666-b039-633138303237/__2025-10-14_212704.png",
@@ -5828,6 +5911,7 @@
     "baths": [5],
     "size": "294 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/17En-gq5ITFhnLMFfC0zNrbIdiM4kfnl2/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-The-Bull-Beverley-Road-Hull-HU5-1AH-287b6c4b0141801cb184e6db3e9a611c?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-The-Bull-Beverley-Road-Hull-HU5-1AH-287b6c4b014180a190bffcb13dc2c90a?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild6533-3663-4262-b362-623030376535/__2025-10-14_142401.png",
@@ -5882,6 +5966,7 @@
     "baths": [3],
     "size": "177 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1xudBtkhbopHTdbvhEaOYoBpM9sZlR-lE/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Ryde-Street-Hull-HU5-1PA-28bb6c4b0141808087ecdd47c8d9d7b8?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Ryde-Street-Hull-HU5-1PA-241b6c4b014180e5876dde17740b7f96?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild3933-3238-4231-b562-303937643262/__2025-10-13_221744.png",
@@ -5953,6 +6038,7 @@
     "baths": [1],
     "size": "64 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1yZUWd-TDhR8g6kcg03FhQl306ItrF0HZ/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Edgecumbe-Street-Hull-HU5-2EU-288b6c4b0141809eb70bcac551dabf85?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Edgecumbe-Street-Hull-HU5-2EU-288b6c4b01418000a316f4d46f81fa16?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild6134-3365-4232-b862-666432356131/__2025-10-10_175935.png",
@@ -6010,6 +6096,7 @@
     "baths": [2],
     "size": "148 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/14Bp9acGCxRRQ2ZR0Bw9Gvj2REzFam_Jz/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Leonard-Street-Hull-HU3-1SA-276b6c4b014180f2b247ca06a37d21ac?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Leonard-Street-Hull-HU3-1SA-276b6c4b01418076bc9fe18a5f5c5e65?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild6132-3637-4333-b431-346536633765/__2025-10-09_204300.png",
@@ -6073,6 +6160,7 @@
     "baths": [1],
     "size": "58 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1nB4NRy2GhRVDrqsrPmY8hZefLKaPeXWg/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-West-Park-House-Hull-HU3-1QW-27fb6c4b014180a59837c1a12cf34ea9?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-West-Park-House-Hull-HU3-1QW-27fb6c4b0141801389a3e80ae21e18d4?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild3231-3735-4762-a262-306661393065/__2025-10-07_213102.png",
@@ -6129,6 +6217,7 @@
     "baths": [1],
     "size": "45 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1XrMbqGKAJeeG1SqWk_YsoF9pbAbEDgVE/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-King-Street-Abertillery-NP13-1AD-284b6c4b014181d1bcadda6cac2c0998?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-King-Street-Abertillery-NP13-1AD-284b6c4b01418153a084dfd27c0c4b3c?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild3036-6635-4431-a565-623232376434/__2025-10-07_152306.png",
@@ -6185,6 +6274,7 @@
     "baths": [2],
     "size": "104 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1x62afpzse-SLF-I-p4ZDXNGEJcWDvGt7/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Marshall-Street-Hull-HU5-3DA-27eb6c4b01418044b34afa68e3115f3a?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Marshall-Street-Hull-HU5-3DA-27eb6c4b01418093a241f06d40031c5e?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild3132-6332-4435-b761-376662306330/__2025-09-30__160958.png",
@@ -6248,6 +6338,7 @@
     "baths": [4],
     "size": "173 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1wC8q4IlU0ja3fmCUFWdud1YauDL8l1wN/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Morpeth-Street-Hull-HU3-1RF-276b6c4b01418015b11de44dd309e083?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Morpeth-Street-Hull-HU3-1RF-276b6c4b0141807b9274ea94729f1b3b?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild6563-3539-4162-b162-336434343739/__2025-09-25__120304.png",
@@ -6317,6 +6408,7 @@
     "baths": [2],
     "size": "84 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1gntnJscVFZiQTtkN30wOui96Q51Rh-Oq/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Newland-Avenue-Hull-HU5-2EL-264b6c4b014180eaa29af1b4194ce8d9?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Newland-Avenue-Hull-HU5-2EL-264b6c4b0141800ca0facac3565a8a96?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild6161-6366-4339-a137-303634356264/__2025-09-15__115922.png",
@@ -6378,6 +6470,7 @@
     "baths": [2],
     "size": "132 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1xVrQ0tYpQMyHsO2Ffy4rYwRXgv9ZxAc4/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Princes-Road-Hull-HU5-2RD-26bb6c4b014180789adedb1b5c20bc07?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Princes-Road-Hull-HU5-2RD-26bb6c4b01418000b3ced97c46907f68?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild3161-3333-4431-b430-323436323034/__2025-09-11__174237.png",
@@ -6445,6 +6538,7 @@
     "baths": [1],
     "size": "103 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1VKdRbw_A4dXGA54AN18-q78qT63XGAP5/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Newland-Avenue-263b6c4b014180b5a3ffd4f7c385b497?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Newland-Avenue-Hull-HU5-2NB-263b6c4b014180b5be05d7bbff84f113?source=copy_link",
     "epcCertificate": "https://tilda.cc/page/?pageid=75302086&projectid=12126467",
@@ -6506,6 +6600,7 @@
     "baths": [4],
     "size": "143 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1Sf3K-2YO5PzUXnBnfK6wCOZ5NLd8fLZz/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Park-Grove-Hull-HU5-25db6c4b014180dfbe8dfd2efe34eff0?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Park-Grove-Hull-HU5-2UP-25db6c4b01418086a85bc15e99ad395f?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild3733-3634-4134-b936-306636616132/__2025-08-28__172618.png",
@@ -6566,6 +6661,7 @@
     "baths": [1],
     "size": "105 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1PMBd0IlxBYKCOIW2gVT_7fT0YAtMvTpm/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://docs.google.com/document/d/1KpFJn5JjPwkA8ok9_BWjZVbOYN0Vej-0vvKAgUEG2uQ/edit?usp=sharing",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Raglan-street-22ab6c4b014180d8a7d0ce357702186d?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild6561-3966-4530-b034-353665623233/__2025-08-27__170830.png",
@@ -6626,6 +6722,7 @@
     "baths": [1],
     "size": "68 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1-Y2G60FeG0v9pLPmHSmmOxQwa9HVfPzl/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Exmouth-Street-Hull-HU5-2LE-257b6c4b0141803992e4d13de7c02ad1?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Exmouth-Street-Hull-HU5-2LE-257b6c4b01418071862dd425e3f0dd7d?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild6333-3234-4638-b538-373764306330/__2025-08-25__162946.png",
@@ -6685,6 +6782,7 @@
     "baths": [1],
     "size": "84 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1gaBVZ0gWaUIkfWFYHyFr1KEcAi9baxdj/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Melbourne-Street-Hull-HU5-2ET-256b6c4b014180e18453e7a95acbeeea?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Melbourne-Street-HU5-2ET-256b6c4b01418058b464f0aef7a6bb8e?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild3635-6162-4738-b639-663832633232/__2025-08-22__180216.png",
@@ -6747,6 +6845,7 @@
     "baths": [2],
     "size": "109 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1DpTuHA9vGqT3Ny9_9WLuAp6brXXq9oDl/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Beech-Grove-Hull-HU5-1LY-24eb6c4b01418074ba8fc75ae350a6df?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Beech-Grove-Hull-HU5-1LY-24db6c4b01418076b251f8df2e3fce6c?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild6666-3432-4431-b830-666630376135/__2025-08-13__150939.png",
@@ -6805,6 +6904,7 @@
     "baths": [1],
     "size": "83 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/10-8C3jT9IjCOyFa6M9NC9SKYILmXSn-E/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Minehead-Street-Leicester-LE3-0SJ-249b6c4b014180d998a6cc8a97f60fb9?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild3831-6133-4265-b539-333031643233/__2025-08-12__165102.png",
@@ -6862,6 +6962,7 @@
     "baths": [1],
     "size": "142 sq m",
     "dealAnalysis": "https://static.tildacdn.com/tild3730-3932-4231-a433-633834306139/__2025-08-01__174238.png",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "",
     "gdvAnalysis": "",
     "epcCertificate": "https://static.tildacdn.com/tild3331-3531-4031-b336-333039303664/photo_2025-08-01_174.jpeg",
@@ -6921,6 +7022,7 @@
     "baths": [2],
     "size": "137 sq m",
     "dealAnalysis": "https://static.tildacdn.com/tild3531-6234-4939-a561-376534636237/__2025-08-01__162739.png",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://docs.google.com/document/d/1GE4jBWtK7Cvop-ro_65QVKjQNE29QqhJlYkFewE3QjY/edit?usp=sharing",
     "gdvAnalysis": "",
     "epcCertificate": "https://static.tildacdn.com/tild3736-3838-4564-a236-643764633964/__2025-08-01__162907.png",
@@ -6983,6 +7085,7 @@
     "baths": [1],
     "size": "75 sq m",
     "dealAnalysis": "https://static.tildacdn.com/tild3530-3631-4564-a638-626262623230/__2025-08-01__124825.png",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://docs.google.com/document/d/1UKYm5K9BbFRps-K2H9OZFgzjgR_qUuOI_1T8ampKZPk/edit?usp=sharing",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-The-Beeches-Hull-HU5-2JS-234b6c4b014180aca215d1106e72cfab?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild3338-3737-4139-b234-313862613863/__2025-08-01__124838.png",
@@ -7038,6 +7141,7 @@
     "baths": [3],
     "size": "113 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1km2-DWGNlPL8stgjxa9XjkeztkIGD5Hk/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Beech-Grove-Hull-HU5-1LY-268b6c4b0141806db894dcfad210b23c?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Beech-Grove-Hull-HU5-1LY-25db6c4b01418086a85bc15e99ad395f?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild3533-6262-4463-a337-326335646233/__2025-07-31__094208.png",
@@ -7093,6 +7197,7 @@
     "baths": [1],
     "size": "66 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1NsE3rLVWB2pATbHM0_EV1SJ3yEuBDs2o/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Marshall-Street-Hull-HU5-3DA-245b6c4b014180e88e46e8f94fe343e3?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Marshall-Street-Hull-HU5-3DA-240b6c4b014180daa608fb6dd624ec3b?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild3737-3863-4463-a636-653237353738/__2025-07-30__140834.png",
@@ -7156,6 +7261,7 @@
     "baths": [1],
     "size": "77 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1_jZ0Wrc9X8Bz29-EpiLqqUB05iNAE4IL/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Goddard-Avenue-Hull-245b6c4b014180f1833ed1ec6e6e86e1?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Goddard-Avenue-232b6c4b014180a79e67ef59c73b15a4?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild6561-6666-4836-b835-333739373933/__2025-07-30__115140.png",
@@ -7221,6 +7327,7 @@
     "baths": [1],
     "size": "79 sq m",
     "dealAnalysis": "https://static.tildacdn.com/tild6331-3632-4664-b863-353737396531/__2025-07-30__091505.png",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Walgrave-Street-Property-Appraisal-223b6c4b0141805ca922e6b0389c656f?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Walgrave-Street-HU5-223b6c4b01418051b666dfb5b5d69857?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild6462-6230-4565-a234-316637323763/__2025-07-30__091814.png",
@@ -7282,6 +7389,7 @@
     "baths": [1],
     "size": "75 sq m",
     "dealAnalysis": "https://lh3.googleusercontent.com/d/174uhKlkD6aptqho3XZg-THqbq_khBjnE",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://docs.google.com/document/d/1yVLDe62hUJrWoJreKKU8tpfbFXJn5n0qtadZy43fjb0/edit?usp=sharing",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Clumber-Street-231b6c4b014180fc8b97f0527636619e?source=copy_link",
     "epcCertificate": "https://lh3.googleusercontent.com/d/1Psb7A-VbU4uBEd7Cd3dNyBNCd1TWnIf8",
@@ -7340,6 +7448,7 @@
     "baths": [1],
     "size": "74 sq m",
     "dealAnalysis": "https://static.tildacdn.com/tild3863-3135-4535-a536-333932383834/__2025-07-30__170403.png",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://docs.google.com/document/d/1fNzzZCHtInTnJxzjbo9oANSFWYZMza0z8z-ER9mSLMA/edit?usp=sharing",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Virginia-Crescent-230b6c4b014180ef8f9ac2b95c42f5c2?source=copy_link",
     "epcCertificate": "https://static.tildacdn.com/tild6266-3839-4530-a637-663665633465/__2025-07-30__170417.png",
@@ -7399,6 +7508,7 @@
     "baths": [3],
     "size": "127 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1opO4U9cOYEllASe3QshUt0gaHP-Pws7E/view?usp=sharing",
+    "showSectionAnalysis": false,
     "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Grafton-Street-Hull-245b6c4b014180dbbf51c3c63a779f37?source=copy_link",
     "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Grafton-Street-22cb6c4b014180caa0ede981af383850",
     "epcCertificate": "https://static.tildacdn.com/tild6130-3965-4462-b130-396265343430/__2025-07-30__111016.png",
