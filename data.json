@@ -5653,7 +5653,7 @@
   },
   {
     "dealId": "JPC-ELL-01",
-    "title": "Turnkey 7-bed HMO Opportunity",
+    "title": "7-bed HMO Opportunity",
     "city": "Hull",
     "address": "Hull",
     "status": "Available",
@@ -5670,7 +5670,7 @@
     "rent": "&pound;2,833",
     "annualRent": "33,996",
     "annualRentLabel": "Gross Annual Rent",
-    "refurbCost": "0",
+    "refurbCost": "5,000",
     "listedDate": "2025-10-23",
     "keyFeatures": [
       "Gross Annual Rent: &pound;33,996",
@@ -5678,7 +5678,7 @@
       "Ideal for student or professional HMO conversion",
       "Recent works completed"
     ],
-    "description": "A large, 7-bedroom, 4-bathroom terraced property located in the highly desirable HU5 Avenues district, a prime rental location for both students and young professionals. The property is in very good condition throughout, with a modern layout, solid structure and attractive period features.",
+    "description": "Ella Street is a spacious seven-bedroom, four-bathroom terraced property located in the highly desirable HU5 Avenues district, a prime rental area for students and young professionals. The property is in good overall condition, offering a modern layout, a solid structure, and attractive period features. However, some works are required to meet HMO standards.",
     "beds": [7],
     "baths": [2],
     "size": "157 sq m",
