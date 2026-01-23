@@ -16,6 +16,7 @@
   "yield": "9.9%",
   "rent": "&pound;695",
   "annualRent": "8,340",
+  "annualRentLabel": "Net Annual Rent",
   "refurbCost": "15,000",
   "listedDate": "2026-01-23",
   "keyFeatures": [
