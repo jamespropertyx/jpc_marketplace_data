@@ -1,5 +1,65 @@
 [
     {
+  "dealId": "JPC-SCU-04",
+  "title": "2-bed BRR Opportunity",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "BRR",
+  "tenure": "Freehold",
+  "purchasePrice": 67500,
+  "purchasePriceLabel": "",
+  "reservationFee": 6000,
+  "projectEndValue": "85,000",
+  "belowMarketGDVDiscount": "20.5%",
+  "deposit": "16,875",
+  "yield": "19.3%",
+  "rent": "&pound;1,083",
+  "annualRent": "12,996",
+  "refurbCost": "15,000",
+  "listedDate": "2026-01-23",
+  "keyFeatures": [
+    "Vacant possession",
+    "Full refurb required for student/professional let",
+    "Option for low-capex “let & forget” model",
+    "Minimal risk of void periods"
+  ],
+  "description": "This 2-bedroom, 1-bathroom mid-terraced house is located in a strong rental area of Hull, making it an ideal opportunity for both first-time buyers and investors looking for a low-cost entry into the rental market. The property is currently vacant, with no onward chain, and is priced attractively at &pound;67,500, making it a strong value proposition for investors looking to capitalise on Hull's reliable rental demand. The property benefits from two spacious double bedrooms, a low-maintenance rear garden, and a great location close to local transport links, amenities on Beverley Road, and good schooling options. This property is a solid addition to an investment portfolio or a first-time buy for those seeking a well-priced option in a highly rentable area.",
+  "beds": [2],
+  "baths": [1],
+  "size": "54 sq m",
+  "dealAnalysis": "",
+  "showSectionAnalysis": false,
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3061-3732-4934-a335-623034383130/Screenshot_2026-01-2.png" 
+  ],
+  "images": [
+    "https://static.tildacdn.com/tild3363-3234-4937-b466-383132643739/Screenshot_2026-01-2.png",
+    "https://static.tildacdn.com/tild3963-6430-4563-a361-616262623534/a725bc1c23036841761e.jpeg",
+    "https://static.tildacdn.com/tild6238-6562-4339-a139-663466626434/c02cadbfa26af7b0a8a7.jpeg", 
+    "https://static.tildacdn.com/tild6238-6562-4339-a139-663466626434/c02cadbfa26af7b0a8a7.jpeg",
+    "https://static.tildacdn.com/tild3663-6135-4565-b738-366531303530/c9a14dc69121cd850508.jpeg",
+    "https://static.tildacdn.com/tild6136-6463-4564-b762-633132326563/44f321e306bef2154758.jpeg",
+    "https://static.tildacdn.com/tild6564-6266-4336-b566-376434613032/c0977ff4d832966f2511.jpeg"
+  ],
+  "marketInsightsImages": [
+      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild3939-3362-4361-b833-626165323761/Screenshot_2026-01-2.png"
+  ],
+  "map": "",
+  "occupancy": "Vacant",
+  "condition": ["Full Refurb"],
+  "exclusive": false
+},
+    {
     "dealId": "JPC-VIC-01",
     "title": "Turnkey 7-bed HMO",
     "city": "Scarborough",
