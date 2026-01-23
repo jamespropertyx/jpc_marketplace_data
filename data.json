@@ -1,5 +1,68 @@
 [
     {
+  "dealId": "JPC-FOL-03",
+  "title": "Turnkey 2-bed Hybrid BTL",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "BRR",
+  "tenure": "Freehold",
+  "purchasePrice": 83950,
+  "purchasePriceLabel": "",
+  "reservationFee": 6000,
+  "projectEndValue": "85,000",
+  "belowMarketGDVDiscount": "1.2%",
+  "deposit": "20,988",
+  "yield": "9.9%",
+  "rent": "&pound;695",
+  "purchasePriceLabel": "Net Annual Rent",
+  "annualRent": "8,340",
+  "refurbCost": "15,000",
+  "listedDate": "2026-01-23",
+  "keyFeatures": [
+    "Currently let to a working family",
+    "No major repairs required",
+    "Option for low-capex “let & forget” model",
+    "Property located in a high-demand rental area"
+  ],
+  "description": "This 2-bedroom, 1-bathroom end-terraced house is located in a popular and convenient area of Hull, situated off Sculcoates Lane, within easy reach of Hull city centre and local amenities. The property is currently let on an AST, generating &pound;695 pcm. The house is ideal for both first-time investors and those looking to expand their portfolio. The accommodation includes a spacious lounge, fitted kitchen, two bedrooms, and a bathroom. Outside, the property benefits from private front and rear gardens.",
+  "beds": [2],
+  "baths": [1],
+  "size": "69 sq m",
+  "dealAnalysis": "",
+  "showSectionAnalysis": false,
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild6263-3939-4639-b033-346336643166/Screenshot_2026-01-2.png" 
+  ],
+  "video": "https://drive.google.com/file/d/1geT3O9XpnH72_4YrdT_r4Pb72El-YS6P/preview",
+  "images": [
+    "https://static.tildacdn.com/tild6365-6537-4863-b136-343830383865/Screenshot_2026-01-2.png",
+    "https://static.tildacdn.com/tild3164-6239-4736-b363-396565386137/Screenshot_2026-01-2.png",
+    "https://static.tildacdn.com/tild6262-3134-4630-b465-383461666162/Screenshot_2026-01-2.png", 
+    "https://static.tildacdn.com/tild6431-3064-4835-b564-643861366238/Screenshot_2026-01-2.png",
+    "https://static.tildacdn.com/tild3564-3231-4839-b166-366233633239/Screenshot_2026-01-2.png",
+    "https://static.tildacdn.com/tild6236-3535-4634-b838-376137616237/Screenshot_2026-01-2.png",
+    "https://static.tildacdn.com/tild3638-6239-4932-b738-323462613738/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6536-6139-4436-a130-363262613835/WhatsApp_Image_2026-.jpeg"
+  ],
+  "marketInsightsImages": [
+      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild6637-3430-4132-a664-613464366433/Screenshot_2026-01-2.png"
+  ],
+  "map": "",
+  "occupancy": "Tenanted",
+  "condition": ["Turnkey"],
+  "exclusive": false
+},
+    {
   "dealId": "JPC-SCU-04",
   "title": "2-bed BRR Opportunity",
   "city": "Hull",
