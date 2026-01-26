@@ -947,7 +947,7 @@
     "type": "Apartment",
     "strategy": "Hybrid BTL",
     "tenure": "Leasehold",
-    "purchasePrice": 120000,
+    "purchasePrice": 100000,
     "purchasePriceLabel": "",
     "reservationFee": 6000,
     "projectEndValue": "130,000",
