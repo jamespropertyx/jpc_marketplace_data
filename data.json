@@ -1,4 +1,71 @@
 [
+     {
+    "dealId": "JPC-LON-01",
+    "title": "2-bed Hybrid BTL",
+    "city": "Hull",
+    "address": "Hull",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "Hybrid BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 85000,
+    "reservationFee": 6000,
+    "projectEndValue": "100,000",
+    "belowMarketGDVDiscount": "15%",
+    "deposit": "21,250",
+    "yield": "14.7%",
+    "rent": "&pound;1,040",
+    "annualRent": "12,480,",
+    "refurbCost": "5,000",
+    "listedDate": "2025-01-28",
+    "keyFeatures": [
+      "Light refurbishment required overall",
+      "Vacant possession - ready to move quickly",
+      "Suitable layout for "let&forget" ",
+      "Ideal Hybrid BTL with balanced cash flow and low complexity"
+    ],
+    "description": "This 3-bedroom, 1-bathroom mid-terrace property is located on HU3, a well-established residential area of Hull that performs reliably for working professionals and Hybrid BTL strategies. The property is currently vacant, with the seller exiting after abandoning refurbishment plans, creating a clear opportunity for an investor to complete a light, well-defined upgrade and bring the property back into use quickly. The property requires targeted remedial works rather than a full refurbishment, keeping capital expenditure controlled.",
+    "beds": [2],
+    "baths": [1],
+    "size": "79 sq m",
+    "dealAnalysis": "",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild3164-3037-4264-b431-366637653465/Screenshot_2026-01-2.png"
+    ],
+    "video": "https://drive.google.com/file/d/14W9iYcTsrC5hnpTSW5TBdKN_noOtc4Kv/view?usp=drive_link/preview",
+    "images": [
+      "https://static.tildacdn.com/tild6235-3831-4166-b837-356563623938/Screenshot_2026-01-2.png",
+      "https://static.tildacdn.com/tild3562-6331-4230-a264-353764353862/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6231-3733-4665-b235-623961323264/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6636-6666-4865-a135-666561663638/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3363-3538-4935-b534-373238373635/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3631-3932-4464-b534-633833636361/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6230-6434-4162-a462-653332326161/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3532-3139-4466-b964-356566653539/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6562-3633-4935-a539-643033316639/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6234-3932-4631-b634-306365633434/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6234-3932-4631-b634-306365633434/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3735-3338-4761-a334-353263613137/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6230-3532-4463-b766-326139376462/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3239-6632-4331-a335-376261663236/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6266-3037-4936-b764-626634663833/WhatsApp_Image_2026-.jpeg"
+    ],
+    "marketInsightsImages": [
+      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild3665-6465-4266-a236-346236363466/Screenshot_2026-01-2.png"
+    ],
+    "map": "",
+    "occupancy": "Vacant",
+    "condition": ["Light Refurb"],
+    "exclusive": false
+  },
     {
   "dealId": "JPC-ASH-02",
   "title": "Student 8-Bed HMO",
