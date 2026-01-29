@@ -1,5 +1,62 @@
 [
-     
+     {
+    "dealId": "JPC-HOR-01",
+    "title": "Turnkey 2-bed Hybrid BTL",
+    "city": "Hull",
+    "address": "Hull",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "Hybrid BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 81950,
+    "reservationFee": 6000,
+    "projectEndValue": "85,000",
+    "belowMarketGDVDiscount": "3.6%",
+    "deposit": "20,488",
+    "yield": "8.8%",
+    "rent": "&pound;600",
+    "annualRentLabel": "Net Annual Rent",
+    "annualRent": "7,200",
+    "refurbCost": "0",
+    "listedDate": "2026-01-29",
+    "keyFeatures": [
+      "Walking distance to Nottingham Trent University",
+      "Strong Hybrid BTL strategy",
+      "80 years remaining on the lease",
+      "Suitable for first-time investors"
+    ],
+    "description": "This 2-bedroom, 1-bathroom terraced property is located just in HU5, one of Hull's most established and reliable residential rental areas. The property sits within close proximity to local amenities, transport links, and Hull city centre, making it attractive to long-term working tenants. The house is currently tenanted to a working family who have been in situ for over 6 years with a strong payment history, providing immediate income stability. This is a low-risk, income-led investment with minimal management requirements and no refurbishment dependency.",
+    "beds": [2],
+    "baths": [1],
+    "size": "55 sq m",
+    "dealAnalysis": "",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild6130-3465-4166-a565-373139653132/Screenshot_2026-01-2.png"
+    ],
+    "video": "https://drive.google.com/file/d/1fJuVtIkS_GQTFhTEC1vl4F-IyspZ7AS0/preview",
+    "images": [
+      "https://static.tildacdn.com/tild3762-3631-4637-a663-323161633562/Screenshot_2026-01-2.png",
+      "https://static.tildacdn.com/tild3963-3538-4264-b563-313964653763/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3862-3130-4665-a537-313664343237/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6464-3134-4564-a362-666438616231/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3961-3230-4534-a430-653263333138/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6136-3065-4033-b931-386230633935/Screenshot_2026-01-2.png",
+      "https://static.tildacdn.com/tild6261-6430-4538-a164-643236633231/Screenshot_2026-01-2.png",
+      "https://static.tildacdn.com/tild3363-6262-4433-a361-613734366331/Screenshot_2026-01-2.png",
+      "https://static.tildacdn.com/tild3734-6636-4830-b935-366365303731/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6464-3134-4564-a362-666438616231/WhatsApp_Image_2026-.jpeg"
+    ],
+    "marketInsightsImages": [],
+    "floorplan": [
+      "https://static.tildacdn.com/tild6162-6430-4638-b038-666432326435/Screenshot_2026-01-2.png"
+    ],
+    "map": "",
+    "occupancy": "Tenanted",
+    "condition": ["Turnkey"],
+    "exclusive": false
+  },
      {
     "dealId": "JPC-LON-01",
     "title": "2-bed Hybrid BTL",
