@@ -1,4 +1,58 @@
 [
+      {
+    "dealId": "JPC-FER-02",
+    "title": "2-bed Hybrid BTL",
+    "city": "Hull",
+    "address": "Hull",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "Hybrid BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 80000,
+    "reservationFee": 6000,
+    "projectEndValue": "110,000",
+    "belowMarketGDVDiscount": "27.2%",
+    "deposit": "20,000",
+    "yield": "16.3%",
+    "rent": "&pound;1083",
+    "annualRent": "12,996",
+    "refurbCost": "20,000",
+    "listedDate": "2026-01-30",
+    "keyFeatures": [
+      "Popular HU5 location with consistent rental demand",
+      "Suitable for working professionals or family let",
+      "Flexible exit",
+      "Attractive entry price"
+    ],
+    "description": "This 2-bedroom, 1-bathroom end-terrace property is located in the HU5 area of Hull, a well-established location popular with students and working professionals due to its proximity to the University of Hull, Beverley Road, and the city centre. The property is currently vacant and requires a refurbishment. Once refurbished, the property should achieve strong rental demand and competitive rents within the local market.",
+    "beds": [2],
+    "baths": [1],
+    "size": "72 sq m",
+    "dealAnalysis": "",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild6330-3566-4936-b839-306634383236/Screenshot_2026-01-3.png"
+    ],
+    "video": "https://drive.google.com/file/d/1F-BdaA0abB5c3F2xA6_A0C_PRcE9BdjY/preview",
+    "images": [
+      "https://static.tildacdn.com/tild6461-3430-4230-a431-363261343735/Screenshot_2026-01-3.png",
+      "https://static.tildacdn.com/tild6335-3232-4639-b163-333639646162/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3862-3130-4665-a537-313664343237/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6463-3336-4633-b861-313734666233/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6461-3639-4239-b166-303131643733/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6662-3064-4237-a661-383333366662/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3762-3533-4133-b464-323037653637/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3762-3533-4133-b464-323037653637/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6139-3461-4263-b837-623439376565/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6236-3764-4139-a334-393361633538/WhatsApp_Image_2026-.jpeg"
+    ],
+    "marketInsightsImages": [],
+    "map": "",
+    "occupancy": "Tenanted",
+    "condition": ["Turnkey"],
+    "exclusive": false
+  },
      {
     "dealId": "JPC-HOR-01",
     "title": "Turnkey 2-bed Hybrid BTL",
