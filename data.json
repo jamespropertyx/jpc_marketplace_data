@@ -50,7 +50,7 @@
     "marketInsightsImages": [],
     "map": "",
     "occupancy": "Tenanted",
-    "condition": ["Turnkey"],
+    "condition": ["Full Refurb"],
     "exclusive": false
   },
      {
@@ -301,7 +301,7 @@
   ],
   "map": "",
   "occupancy": "Tenanted",
-  "condition": ["Turnkey"],
+  "condition": ["Full Refurb"],
   "exclusive": false
 },
     {
