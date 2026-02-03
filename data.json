@@ -1,4 +1,62 @@
-[
+[ 
+      {
+  "dealId": "JPC-RYD-03",
+  "title": "Turnkey 5-bed HMO",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "HMO",
+  "tenure": "Freehold",
+  "purchasePrice": 155000,
+  "reservationFee": 6000,
+  "projectEndValue": "155,000",
+  "belowMarketGDVDiscount": "0.6%",
+  "deposit": "38,750",
+  "yield": "15.1%",
+  "rent": "&pound;1,950",
+  "annualRent": "23,100",
+  "refurbCost": "0",
+  "listedDate": "2026-02-03",
+  "keyFeatures": [
+    "HMO in a prime East Yorkshire rental hotspot",
+    "Converted pre-Article 4",
+    "Strong tenant appeal due to location",
+    "Modern communal living space with dining area"
+  ],
+  "description": "This 5-bedroom, 2-bathroom Semi-Detached House located in Kenilworth is currently being used as a House of Multiple Occupation (HMO). The property offers spacious rooms and is located in a highly sought-after area with easy access to local amenities. It also includes private parking, making it an ideal investment opportunity for buy-to-let investors.",
+  "beds": [5],
+  "baths": [2],
+  "size": "120 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3839-3532-4337-b036-613537653630/Screenshot_2026-02-0.png"
+  ],
+  "images": [
+    "https://static.tildacdn.com/tild6461-3032-4863-a333-306266316636/Screenshot_2026-02-0.png",
+    "https://static.tildacdn.com/tild6363-6635-4431-b130-336435616234/photo_2026-02-02_180.jpeg",
+    "https://static.tildacdn.com/tild6666-6663-4431-a138-343162356439/photo_2026-02-02_180.jpeg",
+    "https://static.tildacdn.com/tild3436-3335-4532-b533-373239393263/photo_2026-02-02_180.jpeg",
+    "https://static.tildacdn.com/tild6531-6562-4935-b063-623162633234/photo_2026-02-02_180.jpeg",
+    "https://static.tildacdn.com/tild3938-3733-4534-a564-663632626534/photo_2026-02-02_180.jpeg",
+    "https://static.tildacdn.com/tild6539-6266-4931-b737-313732343233/photo_2026-02-02_180.jpeg",
+    "https://static.tildacdn.com/tild3334-3534-4935-a531-333533346335/photo_2026-02-02_180.jpeg"
+  ],
+   "marketInsightsImages": [
+      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild3635-3730-4462-b136-323366646164/Screenshot_2026-02-0.png"
+  ],
+  "map": "",
+  "occupancy": "Vacant",
+  "condition": ["Turnkey"]
+},
       {
     "dealId": "JPC-FER-02",
     "title": "2-bed Hybrid BTL",
@@ -47,7 +105,12 @@
       "https://static.tildacdn.com/tild6139-3461-4263-b837-623439376565/WhatsApp_Image_2026-.jpeg",
       "https://static.tildacdn.com/tild6236-3764-4139-a334-393361633538/WhatsApp_Image_2026-.jpeg"
     ],
-    "marketInsightsImages": [],
+     "marketInsightsImages": [
+      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
     "map": "",
     "occupancy": "Tenanted",
     "condition": ["Full Refurb"],
@@ -101,7 +164,12 @@
       "https://static.tildacdn.com/tild3734-6636-4830-b935-366365303731/WhatsApp_Image_2026-.jpeg",
       "https://static.tildacdn.com/tild6464-3134-4564-a362-666438616231/WhatsApp_Image_2026-.jpeg"
     ],
-    "marketInsightsImages": [],
+     "marketInsightsImages": [
+      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
     "floorplan": [
       "https://static.tildacdn.com/tild6162-6430-4638-b038-666432326435/Screenshot_2026-01-2.png"
     ],
