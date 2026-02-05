@@ -1,4 +1,62 @@
 [ 
+       {
+    "dealId": "JPC-CLO-03",
+    "title": "Turnkey 2-bed Hybrid BTL",
+    "city": "Hull",
+    "address": "Hull",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "Hybrid BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 85000,
+    "reservationFee": 6000,
+    "projectEndValue": "105,000",
+    "belowMarketGDVDiscount": "19%",
+    "deposit": "21,250",
+    "yield": "15.3%",
+    "rent": "&pound;12,996",
+    "annualRent": "12,996",
+    "refurbCost": "0",
+    "listedDate": "2026-02-05",
+    "keyFeatures": [
+      "Strong student and professional rental location",
+      "Solid long-term hold ",
+      "Vacant possession",
+      "Ideal for first-time or portfolio investors"
+    ],
+    "description": "This 2-bedroom, 1-bathroom property is located in one of Hull's most reliable student and professional rental areas, just off Manvers Street and within close proximity to the University of Hull. The location benefits from consistent tenant demand, strong rental history, and established residential streets, making it suitable for a Hybrid BTL strategy targeting either students or working professionals. The property is currently vacant, allowing a buyer to proceed without any possession delays and reposition the asset immediately after completion.",
+    "beds": [2],
+    "baths": [1],
+    "size": "54 sq m",
+    "dealAnalysis": "",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild3432-3539-4666-a163-383365366636/EPC.png"
+    ],
+    "video": "https://drive.google.com/file/d/1UfVxeDUCpKrC43ojhMlElBrrTBOlTRx2/preview",
+    "images": [
+      "https://static.tildacdn.com/tild3935-3065-4130-a666-333966636436/Screenshot_2026-02-0.png",
+      "https://static.tildacdn.com/tild3730-6231-4763-b933-333536653463/134a5a840e72fd3209dd.jpeg",
+      "https://static.tildacdn.com/tild3033-3564-4366-a237-386139373563/c718b6311ca789db65a7.jpeg",
+      "https://static.tildacdn.com/tild3031-3364-4161-b466-346232353931/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3630-6532-4363-a634-613031633462/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3366-6231-4337-b030-353563626333/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6164-6531-4661-b637-343563663363/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3736-6464-4239-a364-306132646633/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6264-6265-4334-b765-613761343062/WhatsApp_Image_2026-.jpeg"
+    ],
+    "marketInsightsImages": [
+      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "map": "",
+    "occupancy": "Vacant",
+    "condition": ["Turnkey"],
+    "exclusive": false
+  },
       {
   "dealId": "JPC-RYD-03",
   "title": "Turnkey 5-bed HMO",
