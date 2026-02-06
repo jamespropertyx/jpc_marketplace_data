@@ -50,7 +50,7 @@
       "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
     ],
     "map": "",
-    "floorplan": "https://static.tildacdn.com/tild6631-3638-4561-a366-333937373231/Screenshot_2026-02-0.png",
+    "floorplan": ["https://static.tildacdn.com/tild6631-3638-4561-a366-333937373231/Screenshot_2026-02-0.png"],
     "occupancy": "Tenanted",
     "condition": ["Full Refurb"],
     "exclusive": false
