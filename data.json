@@ -381,71 +381,6 @@
     "exclusive": false
   },
     {
-  "dealId": "JPC-ASH-02",
-  "title": "Student 8-Bed HMO",
-  "city": "Hull",
-  "address": "Hull",
-  "status": "Available",
-  "type": "Terraced",
-  "strategy": "HMO",
-  "tenure": "Freehold",
-  "purchasePrice": 195000,
-  "reservationFee": 7020,
-  "projectEndValue": "277,056",
-  "belowMarketGDVDiscount": "29.6%",
-  "deposit": "48,750",
-  "yield": "21.3%",
-  "rent": "&pound;3,467",
-  "annualRent": "41,604",
-  "refurbCost": "10,000",
-  "listedDate": "2026-01-27",
-  "keyFeatures": [
-    "Prime student area, with easy access to the University of Hull",
-    "Efficient heating system, ensuring low running costs",
-    "Cosmetic works needed",
-    "HMO License"
-  ],
-  "description": "This 8-bedroom, 3-bathroom mid-terraced property is located in a well-established area of Hull, just off Beverley Road, making it ideal for student housing. The property has a solid foundation, benefiting from UPVC double glazing and gas central heating throughout, offering a good starting point for future improvements. While some parts of the property would benefit from a fresh coat of paint, new flooring, and modernisation, the core structure and layout of the building are in good condition.",
-  "beds": [8],
-  "baths": [3],
-  "size": "217 sq m",
-  "dealAnalysis": "",
-  "showSectionAnalysis": false,
-  "propertyAppraisal": "",
-  "gdvAnalysis": "",
-  "epcCertificate": [
-    "https://static.tildacdn.com/tild3064-3337-4663-b464-336339653764/Screenshot_2026-01-2.png" 
-  ],
-  "video": "https://drive.google.com/file/d/1TUv3aClvQ_wbYSxU08I8dycF40q42PCq/preview",
-  "images": [
-    "https://static.tildacdn.com/tild6634-3263-4963-b832-313137653235/Screenshot_2026-01-2.png",
-    "https://static.tildacdn.com/tild3238-6265-4434-a234-323563346661/WhatsApp_Image_2026-.jpeg",
-    "https://static.tildacdn.com/tild3464-6663-4432-b538-383365376539/WhatsApp_Image_2026-.jpeg", 
-    "https://static.tildacdn.com/tild3366-3832-4437-b335-333365353731/WhatsApp_Image_2026-.jpeg",
-    "https://static.tildacdn.com/tild3137-3562-4666-b062-353837373733/WhatsApp_Image_2026-.jpeg",
-    "https://static.tildacdn.com/tild3165-3338-4638-b436-626161323731/WhatsApp_Image_2026-.jpeg",
-    "https://static.tildacdn.com/tild6162-3039-4261-a436-396333613465/WhatsApp_Image_2026-.jpeg",
-    "https://static.tildacdn.com/tild3966-3535-4364-a432-316461393265/WhatsApp_Image_2026-.jpeg",
-    "https://static.tildacdn.com/tild6333-3038-4661-a164-313738383939/WhatsApp_Image_2026-.jpeg",
-    "https://static.tildacdn.com/tild3238-3634-4662-a535-363032376535/WhatsApp_Image_2026-.jpeg",
-    "https://static.tildacdn.com/tild3361-6234-4530-a239-623636626364/WhatsApp_Image_2026-.jpeg",
-    "https://static.tildacdn.com/tild6133-3734-4335-b732-396433303331/WhatsApp_Image_2026-.jpeg"
-  ],
-  "marketInsightsImages": [
-      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
-      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
-      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
-      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
-    ],
-  "floorplan": [
-    "https://static.tildacdn.com/tild6162-3865-4963-a164-393535306264/Screenshot_2026-01-2.png"
-  ],
-  "map": "",
-  "occupancy": "Vacant",
-  "condition": ["Light Refurb"],
-  "exclusive": false
-},
-    {
   "dealId": "JPC-FOL-03",
   "title": "2-bed Hybrid BTL",
   "city": "Hull",
@@ -5078,7 +5013,7 @@
     "refurbCost": "11,600",
     "listedDate": "2025-10-13",
     "keyFeatures": [
-      "Gross Annual Rent: &pound;37,020",
+      "Company lease in place for the next 3 years",
       "Prime student area near the University",
       "Strong long-term capital growth",
       "2 refurb options inside our property appraisal"
@@ -5124,7 +5059,7 @@
     ],
     "floorplan": [],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.427475874588!2d-0.35117022284684773!3d53.76407694338533!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be4ed70e0081%3A0xfcc4df7680acbc54!2sRyde%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2sth!4v1760369291294!5m2!1sen!2sth",
-    "occupancy": "Vacant",
+    "occupancy": "Tenanted",
     "condition": ["Light Refurb"],
     "exclusive": false
   },
