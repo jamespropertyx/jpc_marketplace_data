@@ -1,5 +1,62 @@
 [ 
        {
+    "dealId": "JPC-BRO-01",
+    "title": "2-bed BRR Opportunity",
+    "city": "Hull",
+    "address": "Hull",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "BRR",
+    "tenure": "Freehold",
+    "purchasePrice": 69950,
+    "reservationFee": 6000,
+    "projectEndValue": "95,000",
+    "belowMarketGDVDiscount": "26.3%",
+    "deposit": "44,981",
+    "yield": "17.8%",
+    "rent": "&pound;1,040",
+    "annualRent": "12,480",
+    "refurbCost": "15,000",
+    "listedDate": "2026-02-06",
+    "keyFeatures": [ 
+      "Current Rent: &pound;500 per month",
+      "Perfect for students or working professionals",
+      "Close to Hull city centre, local amenities, and public transport",
+      "Low-entry cost with potential for strong capital growth"
+    ],
+    "description": "This 2-bedroom, 1-bathroom property is located in HU5, situated in one of Hull's most reliable student investment areas. It is within walking distance to the University of Hull, making it an attractive choice for student accommodation, as well as for working professionals and contractors. The property is currently tenanted by a working professional, generating a rental income of &pound;500 per month (&pound;6,000 annually). Once the property becomes vacant, the investor would have the opportunity to undertake a comprehensive refurbishment and subsequently re-let the property to working professionals, thereby increasing the rental income.",
+    "baths": [1],
+    "beds": [2],
+    "size": "47 sq m",
+    "dealAnalysis": "",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild3439-3866-4962-a265-376639353365/Screenshot_2026-02-0.png"
+    ],
+    "video": "https://drive.google.com/file/d/16AAMoaULspy-8YppCq3DzBzpbkZ-QBkB/preview",
+    "images": [
+      "https://static.tildacdn.com/tild3761-6434-4338-b461-623366313935/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3465-3534-4562-b564-656335346535/1024px2623728__17600.jpg",
+      "https://static.tildacdn.com/tild6337-3564-4231-b566-346136353965/1024px2623729__17600.jpg",
+      "https://static.tildacdn.com/tild3730-3339-4835-a133-333733333234/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6637-3735-4236-b161-313034366435/1024px2623725__17600.jpg",
+      "https://static.tildacdn.com/tild3435-3163-4437-a639-306539613134/WhatsApp_Image_2026-.jpeg"
+    ],
+    "marketInsightsImages": [
+      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "map": "",
+    "floorplan": "https://static.tildacdn.com/tild6631-3638-4561-a366-333937373231/Screenshot_2026-02-0.png",
+    "occupancy": "Tenanted",
+    "condition": ["Full Refurb"],
+    "tags": [ "Cash Only"],
+    "exclusive": false
+  },
+       {
     "dealId": "JPC-BEL-01",
     "title": "1-bed Social Housing Units",
     "city": "Stockton-on-Tees",
