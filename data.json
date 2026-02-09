@@ -72,7 +72,9 @@
       "https://static.tildacdn.com/tild3632-3064-4337-a163-313963646162/Social_Housing__page.jpg",
       "https://static.tildacdn.com/tild6632-6332-4461-a265-356661346262/Social_Housing__page.jpg"
     ],
-    "floorplan": "https://static.tildacdn.com/tild3137-6539-4333-b936-623462383838/image005.png",
+    "floorplan": [
+    "https://static.tildacdn.com/tild3137-6539-4333-b936-623462383838/image005.png"
+  ],
     "map": "",
     "occupancy": "Tenanted",
     "condition": ["Turnkey"],
