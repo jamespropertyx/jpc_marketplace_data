@@ -19,10 +19,10 @@
     "refurbCost": "15,000",
     "listedDate": "2026-02-10",
     "keyFeatures": [
-      "Tenant in situ",
-      "Gross yield increases to ~11.5% at market rent",
-      "Low capital entry point",
-      "Ideal for yield-focused investors"
+      "Current Rent: &pound;400 pcm",
+      "Full refurb on vacancy",
+      "Low entry price, clear value-add",
+      "Suits yield-focused investors"
     ],
     "description": "This 2-bedroom, 1-bathroom terraced property is located at HU9, within a well-established residential area of East Hull. The property is being sold with a long-term sitting tenant who has occupied the property for over 10 years, currently paying below-market rent. The opportunity is best suited to a BRR-style investor, where the initial phase focuses on completing essential works to stabilise the asset, followed by a full refurbishment upon vacancy to materially increase rental income and unlock value.",
     "beds": [2],
@@ -59,7 +59,7 @@
       "https://static.tildacdn.com/tild3139-6561-4266-b935-313730353835/Screenshot_2026-02-1.png"
     ],
     "map": "",
-    "occupancy": "Fully Tenanted",
+    "occupancy": "Tenanted",
     "condition": ["Full Refurb"],
     "exclusive": false
   },
