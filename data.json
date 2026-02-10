@@ -1,5 +1,69 @@
 [ 
        {
+    "dealId": "JPC-EST-01",
+    "title": "2-bed BRR Opportunity",
+    "city": "Hull",
+    "address": "Hull",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "BRR",
+    "tenure": "Freehold",
+    "purchasePrice": 55000,
+    "reservationFee": 6000,
+    "projectEndValue": "77,000",
+    "belowMarketGDVDiscount": "28.5%",
+    "deposit": "13,750",
+    "yield": "22.7%",
+    "rent": "&pound;1,040",
+    "annualRent": "12,480",
+    "refurbCost": "15,000",
+    "listedDate": "2025-02-10",
+    "keyFeatures": [
+      "Tenant in situ",
+      "Gross yield increases to ~11.5% at market rent",
+      "Low capital entry point",
+      "Ideal for yield-focused investors"
+    ],
+    "description": "This 2-bedroom, 1-bathroom terraced property is located at HU9, within a well-established residential area of East Hull. The property is being sold with a long-term sitting tenant who has occupied the property for over 10 years, currently paying below-market rent. The opportunity is best suited to a BRR-style investor, where the initial phase focuses on completing essential works to stabilise the asset, followed by a full refurbishment upon vacancy to materially increase rental income and unlock value.",
+    "beds": [2],
+    "baths": [1],
+    "size": "53 sq m",
+    "dealAnalysis": "",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild6664-6337-4539-a563-626635353830/Screenshot_2026-02-1.png"
+    ],
+    "video": "https://drive.google.com/file/d/1m0ZvbgfM5UnSBWXZ58mOZqGR9RSK6FBp/preview",
+    "images": [
+      "https://static.tildacdn.com/tild3530-6462-4532-a662-653466626464/e33fbecd6cd3292e4a0a.jpeg",
+      "https://static.tildacdn.com/tild3836-3233-4665-b465-373134393664/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3364-3331-4631-a661-653266356231/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6437-3662-4265-a231-346533326564/Screenshot_2026-02-1.png",
+      "https://static.tildacdn.com/tild3065-3930-4462-b662-656339363065/Screenshot_2026-02-1.png",
+      "https://static.tildacdn.com/tild6233-3931-4462-a539-316535366561/Screenshot_2026-02-1.png",
+      "https://static.tildacdn.com/tild3038-6139-4636-b762-666239383663/Screenshot_2026-02-1.png",
+      "https://static.tildacdn.com/tild3436-6237-4162-b334-613735313236/Screenshot_2026-02-1.png",
+      "https://static.tildacdn.com/tild3765-6532-4332-b163-633839613666/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3737-3639-4061-b366-346661313165/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3937-3733-4565-b234-666538383434/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3237-3932-4264-b863-356637313330/WhatsApp_Image_2026-.jpeg"
+    ],
+    "marketInsightsImages": [
+      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild3139-6561-4266-b935-313730353835/Screenshot_2026-02-1.png"
+    ],
+    "map": "",
+    "occupancy": "Fully Tenanted",
+    "condition": ["Full Refurb"],
+    "exclusive": false
+  },
+       {
     "dealId": "JPC-EAS-01",
     "title": "1-bed Social Housing Units",
     "city": "Runcorn",
