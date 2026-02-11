@@ -1,4 +1,67 @@
 [ 
+      {
+    "dealId": "JPC-WES-02",
+    "title": "3-bed HMO Opportunity",
+    "city": "Hull",
+    "address": "Hull",
+    "status": "Available",
+    "type": "Semi-Detached",
+    "strategy": "HMO Opportunity",
+    "tenure": "Freehold",
+    "purchasePrice": 160000,
+    "reservationFee": 6000,
+    "projectEndValue": "220,000",
+    "belowMarketGDVDiscount": "27.3%",
+    "deposit": "40,000",
+    "yield": "16.3%",
+    "rent": "&pound;2,167",
+    "annualRent": "26,004",
+    "refurbCost": "40,000",
+    "listedDate": "2025-02-11",
+    "keyFeatures": [
+      "Vacant - immediate access for works",
+      "No Article 4 restrictions",
+      "High-demand contractor market",
+      "Strong HMO repositioning potential"
+    ],
+    "description": "This 3-bedroom property is located in a well-established residential area of DN14. The property benefits from excellent kerb appeal, a large front garden, and a substantial garage suitable for 3-4 vehicles. The current layout supports a straightforward value-add strategy. With full refurbishment and reconfiguration of the upstairs floor plan, the property can be repositioned as a high-demand contractor or professional HMO. The asset is currently vacant, allowing immediate access for works and no tenant-related delays.",
+    "baths": [1],
+    "beds": [],
+    "size": "96 sq m",
+    "dealAnalysis": "",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild6661-3238-4233-b834-393939643661/Screenshot_2026-02-1.png"
+    ],
+    "video": "https://drive.google.com/file/d/1jNP30e0KFWnYGeI9EorDDCrCD5DdEExS/preview",
+    "images": [
+      "https://static.tildacdn.com/tild6136-3066-4631-a661-393030306437/Screenshot_2026-02-1.png",
+      "https://static.tildacdn.com/tild3662-6365-4931-a462-396663623062/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6261-6463-4131-a139-643137393437/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6535-6430-4638-b132-303066373066/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3635-6637-4834-b365-326238393136/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3561-6362-4933-a130-313733333136/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3866-3833-4534-b961-396531386233/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3063-3863-4538-a338-646136643865/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6366-3937-4936-b934-663534333031/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3534-6135-4165-b038-623433623564/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6662-3863-4232-b461-393163343737/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3764-6331-4566-b931-303532643765/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3761-3631-4461-a335-343933353637/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3630-3461-4463-b566-663764356635/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6135-3538-4164-b031-323136323632/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6630-6566-4766-b238-626463316261/WhatsApp_Image_2026-.jpeg"
+    ],
+    "marketInsightsImages": [ ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild6333-6365-4665-b062-396636343136/Screenshot_2026-02-1.png"
+    ],
+    "map": "",
+    "occupancy": "Vacant",
+    "condition": ["Full Refurb"],
+    "exclusive": false
+  },   
        {
     "dealId": "JPC-EST-01",
     "title": "2-bed BRR Opportunity",
