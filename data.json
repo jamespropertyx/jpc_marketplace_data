@@ -1,5 +1,56 @@
 [ 
       {
+    "dealId": "JPC-KEN-01",
+    "title": "3-bed HMO Opportunity",
+    "city": "Goole",
+    "address": "Goole",
+    "status": "Available",
+    "type": "Semi-Detached",
+    "strategy": "HMO Opportunity",
+    "tenure": "Freehold",
+    "purchasePrice": 120000,
+    "reservationFee": 6000,
+    "projectEndValue": "185,000",
+    "belowMarketGDVDiscount": "35.1%",
+    "deposit": "30,000",
+    "yield": "23.4%",
+    "rent": "&pound;2,340",
+    "annualRent": "28,080",
+    "refurbCost": "30,000",
+    "listedDate": "2025-02-12",
+    "keyFeatures": [
+      "Full refurbishment required",
+      "No Article 4 restrictions",
+      "High-demand contractor market",
+      "Potential to create off-street parking"
+    ],
+    "description": "This 3-bedroom, 1-bathroom terraced property is located at DN14, within a strong residential pocket of Goole. The area appeals to families and working professionals, with consistent tenant demand and good access to local amenities and transport links. The asking price appears slightly optimistic relative to its current condition, however there may be room for negotiation with a firm offer. The property is currently vacant and requires a full refurbishment. A notable feature is the large rear garden and sizeable front area, which presents potential to apply for a dropped kerb and create off-street parking. This could materially improve resale and rental appeal.",
+    "baths": [1],
+    "beds": [3],
+    "size": "74 sq m",
+    "dealAnalysis": "",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild3435-3036-4266-a136-373165356464/Screenshot_2026-02-1.png"
+    ],
+    "video": "https://drive.google.com/file/d/1QkDpKH3NRf_28cE1q40W0GiCjbSqP3i5/preview",
+    "images": [
+      "https://static.tildacdn.com/tild3436-3133-4666-b434-653965623831/Screenshot_2026-02-1.png",
+      "https://static.tildacdn.com/tild6434-6432-4932-a662-643939383235/Screenshot_2026-02-1.png",
+      "https://static.tildacdn.com/tild3032-6131-4233-b136-623663623339/Screenshot_2026-02-1.png",
+      "https://static.tildacdn.com/tild6231-3162-4132-b533-323837623835/Screenshot_2026-02-1.png"
+    ],
+    "marketInsightsImages": [ ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild3030-6533-4038-b639-396364393466/Screenshot_2026-02-1.png"
+    ],
+    "map": "",
+    "occupancy": "Vacant",
+    "condition": ["Full Refurb"],
+    "exclusive": false
+  },
+      {
     "dealId": "JPC-WES-02",
     "title": "3-bed HMO Opportunity",
     "city": "Goole",
