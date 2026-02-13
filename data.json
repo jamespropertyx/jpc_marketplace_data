@@ -10,8 +10,8 @@
     "tenure": "Freehold",
     "purchasePrice": 150000,
     "reservationFee": 6000,
-    "projectEndValue": "",
-    "belowMarketGDVDiscount": "",
+    "projectEndValue": " ",
+    "belowMarketGDVDiscount": " ",
     "deposit": "37,500",
     "yield": "10.3%",
     "rent": "&pound;1283",
@@ -29,8 +29,8 @@
     "beds": [4],
     "size": "107 sq m",
     "dealAnalysis": "https://drive.google.com/file/d/1F_8kcoKS1SlKYOaX9rRYGqvC6fSWgFe7/view?usp=drive_link",
-    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Washington-Street-Hull-248b6c4b014180ddaf24c9b3cf137d62?source=copy_link",
-    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Washington-Street-248b6c4b014180e9b7a1cb9f0956ba19?source=copy_link",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
     "epcCertificate": "https://static.tildacdn.com/tild6265-6138-4131-b137-616332633836/__2025-08-22__100642.png",
     "images": [
       "https://static.tildacdn.com/tild3130-3736-4463-b466-313934303934/__2025-08-22__101430.png",
@@ -80,7 +80,7 @@
     "floorplan": [
       "https://static.tildacdn.com/tild3730-3136-4463-a536-386232636637/__2025-08-22__100605.png"
     ],
-    "map": "",
+    "map": " ",
     "occupancy": "Vacant",
     "condition": ["Light Refurb"],
     "exclusive": false
