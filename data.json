@@ -1,4 +1,65 @@
 [ 
+    {
+    "dealId": "JPC-FOL-02",
+    "title": "2-bed Hybrid BTL",
+    "city": "Hull",
+    "address": "Hull",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "Hybrid BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 83950,
+    "reservationFee": 6000,
+    "projectEndValue": "100,000",
+    "belowMarketGDVDiscount": "16%",
+    "deposit": "20,988",
+    "yield": "14.9%",
+    "rent": "&pound;1040",
+    "annualRent": "12,480",
+    "refurbCost": "15,000",
+    "listedDate": "2026-02-18",
+    "keyFeatures": [
+      "Previously achieving &pound;695pcm",
+      "Strong entry-level investment price point",
+      "Suitable for Social Housing submission post-refurb",
+      "Two clear strategies"
+    ],
+    "description": "This 2-bedroom end-terrace property in HU5 presents a strong entry-level investment opportunity in a proven rental location popular with working professionals. Previously achieving £695pcm and now vacant, the property offers clear scope for value-add through a light refurbishment programme focused on resolving minor damp issues, upgrading ventilation in the bathroom, redecorating throughout and refreshing floor coverings. The roof has been recently replaced and the boiler appears in good condition, reducing major capital expenditure risk. With a manageable essential works budget and potential to either re-let to the professional market or explore a Social Housing strategy, this asset provides flexibility, downside protection at its price point and realistic scope to improve rental performance.",
+    "beds": [2],
+    "baths": [1],
+    "size": "73 sq m",
+    "dealAnalysis": "",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild3130-6435-4162-a231-323034363166/Screenshot_2026-02-1.png"
+    ],
+    "video": "https://drive.google.com/file/d/1v_pK-AdmH0ADL8kYd_ZkH533I8B3T-E6/preview",
+    "images": [
+      "https://static.tildacdn.com/tild3962-6536-4439-b563-356132333436/Screenshot_2026-02-1.png",
+      "https://static.tildacdn.com/tild3366-3865-4136-b238-313761333463/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3234-3333-4136-b839-656466396238/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3062-3534-4564-b030-356166646539/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6233-6637-4966-a434-323337393530/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3464-3332-4934-b230-353335613562/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6261-6361-4264-a266-333730396338/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3430-3262-4439-b133-306238386235/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6434-3465-4466-b365-643933306463/WhatsApp_Image_2026-.jpeg"
+    ],
+    "marketInsightsImages": [
+      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild3031-3063-4865-b238-326563346133/Screenshot_2026-02-1.png"
+    ],
+    "map": "",
+    "occupancy": "Vacant",
+    "condition": ["Full Refurb"],
+    "exclusive": false
+  },
   {
   "dealId": "JPC-MEL-02",
   "title": "4 Bed Social Housing Opportunity",
