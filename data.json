@@ -5133,7 +5133,7 @@
     "address": "Goole",
     "status": "Available",
     "type": "Block of Apartments",
-    "strategy": "HMO",
+    "strategy": "Block of Apartments",
     "tenure": "Freehold",
     "purchasePrice": 415000,
     "purchasePriceLabel": "",
@@ -5153,7 +5153,7 @@
       "Excellent transport links",
       "Tenanted ground-floor retail unit"
     ],
-    "description": "This substantial 8-bed, 8-bath HMO with an additional tenanted commercial unit is located in the heart of Goole DN14, within walking distance of the train station and key commuter routes to Hull and Leeds. The property comprises three self-contained apartments plus a retail unit, all recently refurbished to a high standard. It represents a turnkey mixed-use investment offering both strong rental income and long-term capital growth potential in an improving town centre location.",
+    "description": "This substantial 8-bed, 8-bath property with an additional tenanted commercial unit is located in the heart of Goole DN14, within walking distance of the train station and key commuter routes to Hull and Leeds. The property comprises three self-contained apartments plus a retail unit, all recently refurbished to a high standard. It represents a turnkey mixed-use investment offering both strong rental income and long-term capital growth potential in an improving town centre location.",
     "beds": [8],
     "baths": [8],
     "size": "170 sq m",
