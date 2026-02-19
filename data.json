@@ -1,5 +1,67 @@
 [ 
     {
+    "dealId": "JPC-FOU-01",
+    "title": "3-bed BRR Opportunity",
+    "city": "Goole",
+    "address": "Goole",
+    "status": "Available",
+    "type": "Semi-Detached",
+    "strategy": "BRR",
+    "tenure": "Freehold",
+    "purchasePrice": 165000,
+    "reservationFee": 6000,
+    "projectEndValue": "215,000",
+    "belowMarketGDVDiscount": "23.3%",
+    "deposit": "41,250",
+    "yield": "23.4%",
+    "rent": "&pound;2,166",
+    "annualRent": "28,080",
+    "refurbCost": "40,000",
+    "listedDate": "2026-02-19",
+    "keyFeatures": [
+      "Scope to convert into 4-bedroom professional HMO",
+      "Downstairs WC already in place",
+      "Private off-street parking at the front",
+      "Strong contractor demand in DN14 area"
+    ],
+    "description": "This 3-bedroom, 1-bathroom semi-detached property is located in Goole in a well-established residential area. The property was previously a family home and is now being sold. It offers significant value-add potential due to its size, large rear garden, and private off-street parking. The current layout supports a full refurbishment strategy, with strong potential to convert into a 4-bedroom professional HMO with en-suites, subject to compliance works. The area is non-Article 4, meaning planning constraints are reduced, though full fire and HMO compliance would be required.",
+    "baths": [1],
+    "beds": [3],
+    "size": "91 sq m",
+    "dealAnalysis": "",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild3830-3035-4064-b332-396436353064/Screenshot_2026-02-1.png"
+    ],
+    "video": "https://drive.google.com/file/d/1zw2uAPeEx8IZMOc2OES9cmuajPq1Gjjy/preview",
+    "images": [
+      "https://static.tildacdn.com/tild3330-3237-4838-a436-363037333534/Screenshot_2026-02-1.png",
+      "https://static.tildacdn.com/tild3932-3134-4063-b064-353161303138/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3836-3761-4034-a137-333265663331/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3232-6238-4765-b735-353338623966/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3232-3636-4236-b931-626637343664/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6130-3631-4630-b066-363166646664/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6134-6639-4663-b862-643365373236/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6436-3932-4331-b539-383339303130/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6434-6134-4465-a133-363135633639/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6139-3636-4438-a666-656439373337/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3135-6137-4439-a536-643534343439/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3038-3134-4139-b464-656632326230/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6130-3166-4939-a564-313734373837/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3063-3438-4532-a536-643165626333/WhatsApp_Image_2026-.jpeg"
+    ],
+    "marketInsightsImages": [ ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild3032-3036-4663-b030-376236636565/Screenshot_2026-02-1.png",
+      "https://static.tildacdn.com/tild6433-3631-4535-b739-633732366134/Screenshot_2026-02-1.png"
+    ],
+    "map": "",
+    "occupancy": "Vacant",
+    "condition": ["Full Refurb"],
+    "exclusive": false
+  },
+    {
     "dealId": "JPC-FOL-02",
     "title": "2-bed Hybrid BTL",
     "city": "Hull",
