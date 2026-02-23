@@ -1,4 +1,68 @@
-[ 
+[
+  {
+    "dealId": "JPC-MAL-01",
+    "title": "3-bed HMO Opportunity",
+    "city": "Goole",
+    "address": "Goole",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "HMO Opportunity",
+    "tenure": "Freehold",
+    "purchasePrice": 120000,
+    "reservationFee": 6000,
+    "projectEndValue": "135,000",
+    "belowMarketGDVDiscount": "11.1%",
+    "deposit": "30,000",
+    "yield": "16.3%",
+    "rent": "&pound;1,625",
+    "annualRent": "19,500",
+    "refurbCost": "5,000",
+    "listedDate": "2026-02-23",
+    "keyFeatures": [
+      "Strong residential street",
+      "Currently vacant",
+      "Light cosmetic works required",
+      "Scope to drop kerb and add off-street parking"
+    ],
+    "description": "This 3-bedroom, 1-bathroom property is located in Goole, in a strong residential area popular with families and working professionals. The property benefits from large front and rear gardens and good kerb appeal. The seller is liquidating their portfolio. The house is currently vacant and was previously achieving &pound;850 pcm as a family rental. It presents a low-entry investment at with two clear strategies: a straightforward single-let with light cosmetic works, or conversion to a 3-bed HMO targeting contractor demand.",
+    "baths": [1],
+    "beds": [3],
+    "size": "75 sq m",
+    "dealAnalysis": "",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild3037-6663-4662-a466-633935303338/Screenshot_2026-02-2.png"
+    ],
+    "video": "https://drive.google.com/file/d/1J65MONVAXAb1IajDN3TTZ7ciLvmRqmG9/preview",  
+    "images": [
+      "https://static.tildacdn.com/tild3131-6561-4562-b964-353362623832/Screenshot_2026-02-2.png",
+      "https://static.tildacdn.com/tild6262-3837-4133-a636-356632363066/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3937-3233-4130-b337-396166613831/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6366-3536-4666-a330-636331646435/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3062-3932-4931-b261-303835363636/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3062-3932-4931-b261-303835363636/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3332-3961-4535-b765-353730366235/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6637-3761-4430-b162-376639316131/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3861-6132-4537-b133-626231633636/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3632-6161-4231-b032-656265333533/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6238-3230-4934-a338-316431633330/Screenshot_2026-02-2.png",
+      "https://static.tildacdn.com/tild3130-3534-4637-b633-616163353133/Screenshot_2026-02-2.png",
+      "https://static.tildacdn.com/tild6536-3461-4533-a631-306535343034/Screenshot_2026-02-2.png",
+      "https://static.tildacdn.com/tild3631-6164-4264-b865-623438306432/Screenshot_2026-02-2.png",
+      "https://static.tildacdn.com/tild3031-6561-4965-b966-393165316437/Screenshot_2026-02-2.png",
+      "https://static.tildacdn.com/tild3334-6236-4063-a265-336137613530/WhatsApp_Image_2026-.jpeg"
+    ],
+    "marketInsightsImages": [ ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild3064-3435-4635-b963-373737393939/Screenshot_2026-02-2.png",
+      "https://static.tildacdn.com/tild3934-6435-4639-a333-623434386335/Screenshot_2026-02-2.png"
+    ],
+    "map": "",
+    "occupancy": "Vacant",
+    "condition": ["Light Refurb"],
+    "exclusive": false
+  },
   {
     "dealId": "JPC-SAI-01",
     "title": "5-bed Social Housing Opportunity",
