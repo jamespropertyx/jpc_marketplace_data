@@ -1,59 +1,5 @@
 [
   {
-  "dealId": "JPC-YOR-01",
-  "title": "The Yorkshire Coastal Portfolio",
-  "city": "Bridlington & Scarborough",
-  "address": "Bridlington & Scarborough",
-  "status": "Available",
-  "type": "Commercial",
-  "strategy": "Commercial",
-  "tenure": "Freehold",
-  "purchasePrice": Make an offer,
-  "reservationFee": 6000,
-  "projectEndValue": "",
-  "belowMarketGDVDiscount": "",
-  "deposit": "",
-  "yield": "",
-  "rent": "&pound;6000",
-  "annualRent": "",
-  "refurbCost": "",
-  "listedDate": "2026-02-24",
-  "keyFeatures": [
-    "14 freehold coastal properties in two established Yorkshire seaside towns",
-    "Entire portfolio sold via company disposal under liquidator",
-    "All assets vacant at point of sale",
-    "Majority arranged over 3-4 storeys"
-  ],
-  "description": "This substantial coastal portfolio comprises 14 vacant freehold properties located across two established Yorkshire seaside towns, predominantly consisting of former hotels and guest houses, alongside two former residential care facilities and one mixed-use building with self-contained apartments above former commercial space. The assets are centrally positioned within walking distance of beaches, town centres and transport links, and are arranged mainly over three to four storeys with multiple ensuite rooms and former manager accommodation. Internal areas range approximately from 163 sq m to 794 sq m, offering scale suitable for medium to large residential conversion schemes. Several properties have been partially stripped internally and require full refurbishment, while others present structurally sound but dated hospitality layouts ready for repositioning. The portfolio is being sold via a company disposal under a liquidator, creating a value-add opportunity for experienced developers or operators seeking to convert the buildings into licensed HMOs, self-contained apartments, serviced accommodation or alternative residential uses, subject to planning and compliance considerations.",
-  "beds": [],
-  "baths": [],
-  "size": "",
-  "dealAnalysis": "",
-  "propertyAppraisal": "",
-  "gdvAnalysis": "",
-  "epcCertificate": [
-    "https://static.tildacdn.com/tild3833-6131-4333-a539-626433643165/1_3.png"
-  ],
-  "images": [
-    "https://static.tildacdn.com/tild6264-3435-4266-a162-386230366633/dji_fly_20251031_103.jpg",
-    "https://static.tildacdn.com/tild3737-6361-4161-b562-356465643862/dji_fly_20251031_102.jpg",
-    "https://static.tildacdn.com/tild3464-6364-4431-a163-353734636235/dji_fly_20251031_083.jpg",
-    "https://static.tildacdn.com/tild3633-3037-4939-b366-326637396434/dji_fly_20251031_083.jpg",
-    "https://static.tildacdn.com/tild6235-6238-4433-b661-666434383932/IMG_0194.jpg",
-    "https://static.tildacdn.com/tild3162-6630-4638-b734-386531613434/IMG_0121.jpg",
-    "https://static.tildacdn.com/tild3930-3831-4230-a433-356565346363/IMG_0082.jpg",
-    "https://static.tildacdn.com/tild3465-6466-4138-b766-366161646165/537129521_1383820446.jpg"
-  ],
-  "marketInsightsImages": [ ],
-  "floorplan": [
-    "https://static.tildacdn.com/tild3661-6331-4234-a338-313437386438/Screenshot_2026-02-2.png",
-    "https://static.tildacdn.com/tild6437-6331-4630-b565-376630636365/Screenshot_2026-02-2.png"
-  ],
-  "map": "",
-  "occupancy": "Vacant",
-  "condition": ["Full Refurb"]
-},
-  {
     "dealId": "JPC-MAL-01",
     "title": "3-bed HMO Opportunity",
     "city": "Goole",
