@@ -8,7 +8,7 @@
     "type": "Commercial",  
     "strategy": "Commercial",
     "tenure": "Freehold",
-    "purchasePrice": "Make an offer",
+    "purchasePrice": 120000,
     "reservationFee": 6000,
     "projectEndValue": "", 
     "belowMarketGDVDiscount": "",  
