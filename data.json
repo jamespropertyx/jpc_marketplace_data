@@ -8,7 +8,7 @@
     "type": "Commercial",  
     "strategy": "Commercial",
     "tenure": "Freehold",
-    "purchasePriceLabel": "Offers from",
+    "purchasePriceLabel": "Offers over",
     "purchasePrice": 1000000,
     "reservationFee": 6000,
     "projectEndValue": "", 
