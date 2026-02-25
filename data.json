@@ -1,5 +1,61 @@
 [
   {
+  "dealId": "JPC-EDI-01",
+  "title": "2-bed Conversion Opportunity",
+  "city": "Goole",
+  "address": "Goole",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "Hybrid BTL",
+  "tenure": "Freehold",
+  "purchasePrice": 84950,
+  "reservationFee": 6000,
+  "projectEndValue": "104,000",
+  "belowMarketGDVDiscount": "18.3%",
+  "deposit": "21,238",
+  "yield": "23%",
+  "rent": "&pound;1,925",
+  "annualRent": "19,500",
+  "refurbCost": "20,000",
+  "listedDate": "2026-02-25",
+  "keyFeatures": [
+    "Opportunity for a full refurbishment to increase value",
+    "High rental yield potential in a growing area",
+    "Vacant possession, ready for immediate renovation",
+    "Potential to generate &pound;125 pppw post-refurb"
+  ],
+  "description": "This 2-bedroom terraced house offers a solid investment opportunity with significant potential for refurbishment. Located in Goole the property benefits from a central location close to the town centre and transport links, making it an attractive option for contractors post-refurbishment. The property is currently in need of a complete refurbishment, it can be converted into a 3-bedroom property by removing the chimney breast and making necessary cosmetic and structural improvements.",
+  "beds": [2],
+  "baths": [1],
+  "size": "67 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3064-6636-4662-b239-313737353534/Screenshot_2026-02-2.png"
+  ],
+  "video": "https://drive.google.com/file/d/1tpdVRfMGBr2nkyonv_HC5lzY8bZsEXfc/preview",
+  "images": [
+    "https://static.tildacdn.com/tild6635-3835-4264-a137-653863323731/Screenshot_2026-02-2.png",
+    "https://static.tildacdn.com/tild3466-3237-4565-b237-613535653736/Screenshot_2026-02-2.png",
+    "https://static.tildacdn.com/tild6138-6433-4135-b432-643739383931/Screenshot_2026-02-2.png",
+    "https://static.tildacdn.com/tild3332-6161-4466-b336-383061613163/Screenshot_2026-02-2.png",
+    "https://static.tildacdn.com/tild6533-6538-4465-b931-643862633936/Screenshot_2026-02-2.png",
+    "https://static.tildacdn.com/tild3434-6531-4931-b762-393431303738/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3331-3032-4331-b133-396363663464/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3738-3133-4263-b765-366264636635/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3638-6137-4731-b665-663136666163/WhatsApp_Image_2026-.jpeg"
+  ],
+  "marketInsightsImages": [
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild6534-3835-4135-b739-343062626635/Screenshot_2026-02-2.png"
+  ],
+  "map": "",
+  "occupancy": "Vacant",
+  "condition": ["Full Refurb"]
+},
+  {
     "dealId": "JPC-YOR-01",
     "title": "The Yorkshire Coastal Portfolio",
     "city": "Bridlington & Scarborough",
