@@ -5520,7 +5520,7 @@
   },
   {
     "dealId": "JPC-DER-01",
-    "title": "2-bed Hybrid BTL Opportunity",
+    "title": "Turnkey 2-bed Hybrid BTL",
     "city": "Hull",
     "address": "Hull",
     "status": "Available",
@@ -5528,25 +5528,25 @@
     "strategy": "Hybrid BTL",
     "tenure": "Freehold",
     "occupancy": "Vacant",
-    "purchasePrice": 80000,
+    "purchasePrice": 90000,
     "purchasePriceLabel": "",
     "reservationFee": 6000,
     "projectEndValue": "115,000",
-    "belowMarketGDVDiscount": "30.4%",
+    "belowMarketGDVDiscount": "21.7%",
     "deposit": "20,000",
-    "yield": "16.9%",
+    "yield": "15%",
     "rent": "&pound;1,127",
     "annualRent": "13,520",
     "annualRentLabel": "Gross Annual Rent",
-    "refurbCost": "30,000",
-    "listedDate": "2025-10-24",
+    "refurbCost": "0",
+    "listedDate": "2026-02-26",
     "keyFeatures": [
       "Strong Princes Road location - 5 min from Princes Ave & Uni routes",
-      "Full refurb opportunity",
+      "Perfect example property to showcase transformation potential",
       "High rental demand from students & young professionals",
-      "Perfect for Hybrid BTL"
+      "Competitive price point"
     ],
-    "description": "This 2-bedroom, 1-bathroom property is located just off Princes Road, one of Hull's most popular and reliable areas for Hybrid BTL investments. It's within walking distance to Princes Avenue and close to the University of Hull, offering strong appeal to both students and working professionals. Currently vacant, the property requires a full refurbishment to achieve high-end rental standards with a projected income of &pound;130 per room per week.",
+    "description": "This 2-bedroom, 1-bathroom property is located just off Princes Road, one of Hull's most popular and reliable areas for Hybrid BTL investments. It's within walking distance to Princes Avenue and close to the University of Hull, offering strong appeal to both students and working professionals. Currently vacant.",
     "beds": [2],
     "baths": [1],
     "size": "73 sq m",
@@ -5557,11 +5557,15 @@
     "epcCertificate": "https://static.tildacdn.com/tild3630-6232-4063-b135-623736366232/Energy_cert.png",
     "images": [
       "https://static.tildacdn.com/tild6535-6365-4435-a636-393133323834/Facade.jpg",
-      "https://static.tildacdn.com/tild6132-6339-4038-b162-343761393237/Living_room.png",
-      "https://static.tildacdn.com/tild3266-6637-4433-b235-376535393961/Bedroom_1.png",
-      "https://static.tildacdn.com/tild3133-3866-4232-b936-313362643062/Bedroom_2.png",
-      "https://static.tildacdn.com/tild6662-3132-4633-b539-343265393136/Bathroom.png",
-      "https://static.tildacdn.com/tild3132-6464-4536-b639-393839623632/Front_yard.jpg"
+      "https://static.tildacdn.com/tild3734-3632-4139-b830-373262313335/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3362-3434-4563-b463-333837636439/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3538-6664-4432-a637-386366313764/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3565-3263-4635-b965-396462643234/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3565-6564-4633-b733-343531663830/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3932-6532-4132-b765-633464653566/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3335-6432-4836-a562-356131396332/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3361-3739-4132-b730-646466356232/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3865-6335-4937-a135-333664326161/WhatsApp_Image_2026-.jpeg"
     ],
     "marketInsightsImages": [
       "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
@@ -5573,7 +5577,7 @@
       "https://static.tildacdn.com/tild3532-6564-4135-b364-623462363931/Floor_Plan.png"
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4717.810679156821!2d-0.4406991761361994!3d53.75556861126907!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be4b4c37645f%3A0x53835c195352c52a!2sDerwent%20Grove%2C%20Prince&#39;s%20Rd%2C%20Hull%20HU5%202SF%2C%20UK!5e0!3m2!1sen!2sru!4v1761144014567!5m2!1sen!2sru",
-    "condition": ["Full Refurb"],
+    "condition": ["Turnkey"],
     "exclusive": false
   },
   {
