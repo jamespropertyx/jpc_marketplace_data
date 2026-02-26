@@ -1,5 +1,67 @@
 [
   {
+  "dealId": "JPC-SCU-05",
+  "title": "2-bed BRR Opportunity",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "BRR",
+  "tenure": "Freehold",
+  "purchasePrice": 60000,
+  "reservationFee": 6000,
+  "projectEndValue": "90000",
+  "belowMarketGDVDiscount": "33.3",
+  "deposit": "15,000",
+  "yield": "21.7%",
+  "rent": "&pound;1083",
+  "annualRent": "12996",
+  "refurbCost": "30000",
+  "listedDate": "2026-02-26",
+  "keyFeatures": [
+    "Full refurbishment opportunity",
+    "Properties with this potential don't last long on the market",
+    "Great layout with two double bedrooms and a large kitchen-diner.",
+    "Vacant possession - ready to start refurbishments immediately"
+  ],
+  "description": "This 2-bedroom, 1-bathroom terraced house is located in Hull, within easy reach of the city centre, schools, and transport links. The property is an ideal investment opportunity, particularly for those looking for a refurbishment project. The location offers strong rental demand, especially for tenants seeking close proximity to Hull's amenities and transport options.",
+  "beds": [2],
+  "baths": [1],
+  "size": "",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3538-3433-4432-a635-633066633933/Screenshot_2026-02-2.png"
+  ],
+  "images": [
+    "https://static.tildacdn.com/tild3833-3562-4162-b434-313964363633/Screenshot_2026-02-2.png",
+    "https://static.tildacdn.com/tild6139-3831-4336-b031-383339333064/Screenshot_2026-02-2.png",
+    "https://static.tildacdn.com/tild3632-6334-4965-b831-626663323265/Screenshot_2026-02-2.png",
+    "https://static.tildacdn.com/tild3561-3633-4664-b031-663662663062/Screenshot_2026-02-2.png",
+    "https://static.tildacdn.com/tild3633-3061-4936-b666-393037386230/Screenshot_2026-02-2.png",
+    "https://static.tildacdn.com/tild3934-3539-4333-b735-353162303234/Screenshot_2026-02-2.png",
+    "https://static.tildacdn.com/tild6666-3839-4763-a437-616130646636/Screenshot_2026-02-2.png",
+    "https://static.tildacdn.com/tild3735-3136-4436-a433-313830663535/Screenshot_2026-02-2.png",
+    "https://static.tildacdn.com/tild6138-6666-4539-b237-316634326366/Screenshot_2026-02-2.png",
+    "https://static.tildacdn.com/tild3265-3833-4662-b034-376266343066/Screenshot_2026-02-2.png",
+    "https://static.tildacdn.com/tild6431-6364-4138-a566-623334646162/Screenshot_2026-02-2.png"
+    "https://static.tildacdn.com/tild6334-3565-4537-a466-396632636339/Screenshot_2026-02-2.png"
+  ],
+  "marketInsightsImages": [
+      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild3130-3632-4738-b061-303039313637/Screenshot_2026-02-2.png"
+  ],
+  "map": "",
+  "occupancy": "Vacant",
+  "condition": ["Full Refurb"]
+},
+  {
   "dealId": "JPC-EDI-01",
   "title": "2-bed Conversion Opportunity",
   "city": "Goole",
