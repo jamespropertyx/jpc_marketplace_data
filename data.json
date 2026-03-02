@@ -1,4 +1,65 @@
 [
+	{
+  "dealId": "JPC-GOR-01",
+  "title": "2-bed Hybrid BTL",
+  "city": "Goole",
+  "address": "Goole",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "Hybrid BTL",
+  "tenure": "Freehold",
+  "purchasePrice": 90000,
+  "reservationFee": 6000,
+  "projectEndValue": "100,000",
+  "belowMarketGDVDiscount": "10%",
+  "deposit": "22,500",
+  "yield": "11.6%",
+  "rent": "&pound;867",
+  "annualRent": "10404",
+  "refurbCost": "3000",
+  "listedDate": "2026-03-02",
+  "keyFeatures": [
+    "Vacant possession",
+    "Light refurb option from just &pound;3k",
+    "Strong rental demand in the area",
+    "Potential to create en-suite layout under enhanced strategy"
+  ],
+  "description": "This 2-bedroom, 1-bathroom freehold terraced property is located in Goole, within easy reach of the town centre and transport links. The property has previously been let to a working family and most recently achieved between &pound;700 per month. The seller is retiring, and the property is now offered with vacant possession. The asset presents two clear strategies: a light refurbishment to re-let quickly with minimal capital input, or a full reconfiguration to significantly increase rental income through an enhanced multi-let layout.",
+  "beds": [2],
+  "baths": [1],
+  "size": "75 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3034-3639-4933-b734-343631353166/Screenshot_2026-03-0.png"
+  ],
+  "images": [
+    "https://static.tildacdn.com/tild6630-6361-4566-b531-393163666536/Screenshot_2026-03-0.png",
+    "https://static.tildacdn.com/tild3866-3539-4165-b836-373138353137/Screenshot_2026-03-0.png",
+    "https://static.tildacdn.com/tild3264-6234-4436-b237-613162373265/Screenshot_2026-03-0.png",
+    "https://static.tildacdn.com/tild6165-3331-4333-b033-613739316330/Screenshot_2026-03-0.png",
+    "https://static.tildacdn.com/tild3535-3865-4038-b638-333162643133/Screenshot_2026-03-0.png",
+    "https://static.tildacdn.com/tild6563-3237-4639-a437-316238333664/Screenshot_2026-03-0.png",
+    "https://static.tildacdn.com/tild3437-3433-4630-b438-333133656236/Screenshot_2026-03-0.png",
+    "https://static.tildacdn.com/tild6464-6437-4930-b636-326566373431/Screenshot_2026-03-0.png",
+    "https://static.tildacdn.com/tild3062-6332-4465-a461-316234666338/Screenshot_2026-03-0.png",
+    "https://static.tildacdn.com/tild3632-6361-4364-b032-326139623239/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3134-3832-4563-b136-636638323662/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3332-3432-4236-b363-356632623535/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3138-3331-4364-b262-666434303936/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6234-6138-4161-b331-383338386266/WhatsApp_Image_2026-.jpeg"
+  ],
+  "marketInsightsImages": [
+   ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild3135-3839-4436-a534-363232323539/Screenshot_2026-03-0.png",
+    "https://static.tildacdn.com/tild3930-3164-4338-b633-326534623530/Screenshot_2026-03-0.png"
+  ],
+  "map": "",
+  "occupancy": "Vacant",
+  "condition": ["Light Refurb"]
+},
   {
   "dealId": "JPC-SCU-05",
   "title": "2-bed BRR Opportunity",
