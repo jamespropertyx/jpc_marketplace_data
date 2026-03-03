@@ -1,32 +1,30 @@
 [
 	{
   "dealId": "JPC-GOR-01",
-  "title": "2-bed Hybrid BTL",
+  "title": "2-bed Cinversion Opportunity",
   "city": "Goole",
   "address": "Goole",
   "status": "Available",
   "type": "Terraced",
-  "strategy": "Hybrid BTL",
+  "strategy": "HMO Opportunity",
   "tenure": "Freehold",
   "purchasePrice": 90000,
   "reservationFee": 6000,
-  "projectEndValue": "100,000",
-  "belowMarketGDVDiscount": "10%",
+  "projectEndValue": "110,000",
+  "belowMarketGDVDiscount": "18.2%",
   "deposit": "22,500",
   "yield": "11.6%",
-  "rent": "&pound;867",
-  "annualRent": "10,404",
-  "refurbCost": "3,000",
+  "rent": "&pound;1,625",
+  "annualRent": "19,500",
+  "refurbCost": "20,000",
   "listedDate": "2026-03-02",
   "keyFeatures": [
     "Vacant possession",
     "Light refurb option from just &pound;3k",
-    "Strong rental demand in the area",
-    "Potential to create en-suite layout under enhanced strategy"
+    "Convert from 2 bed to 3 bed and unlock higher income",
+    "No Article 4 restrictions in this area"
   ],
-  "description": "This 2-bedroom, 1-bathroom freehold terraced property is located in Goole, within easy reach of the town centre and transport links. The property has previously been let to a working family and most recently achieved between &pound;700 per month. The seller is retiring, and the property is now offered with vacant possession. The asset presents two clear strategies: a light refurbishment to re-let quickly with minimal capital input, or a full reconfiguration to significantly increase rental income through an enhanced multi-let layout.",
-  "beds": [2],
-  "baths": [1],
+  "description": "This 2-bedroom, 1-bathroom freehold terraced property is located in Goole, within easy reach of the town centre and transport links. The property has previously been let to a working family and most recently achieved &pound;700 per month. The property is now offered with vacant possession. The asset presents two clear strategies. The first is a light refurbishment to re-let quickly with minimal capital input. The second is a more enhanced value-add strategy involving reconfiguration into a 3-bedroom layout, significantly increasing rental income and repositioning the asset as a higher-yield investment.",
   "size": "75 sq m",
   "dealAnalysis": "",
   "propertyAppraisal": "",
@@ -59,7 +57,7 @@
   ],
   "map": "",
   "occupancy": "Vacant",
-  "condition": ["Light Refurb"]
+  "condition": ["Full Refurb"]
 },
   {
   "dealId": "JPC-SCU-05",
