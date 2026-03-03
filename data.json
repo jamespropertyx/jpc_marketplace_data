@@ -1,5 +1,66 @@
 [
 	{
+  "dealId": "JPC-KIR-01",
+  "title": "2-bed Hybrid BTL Opportunity",
+  "city": "Goole",
+  "address": "Goole",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "Hybrid BTL",
+  "tenure": "Freehold",
+  "purchasePrice": 80000,
+  "reservationFee": 6000,
+  "projectEndValue": "110,000",
+  "belowMarketGDVDiscount": "27.3%",
+  "deposit": "20,000",
+  "yield": "15.6%",
+  "rent": "&pound;1,040",
+  "annualRent": "12,480",
+  "refurbCost": "3,000",
+  "listedDate": "2026-03-03",
+  "keyFeatures": [
+    "Vacant possession",
+    "Light refurb only",
+    "Optional 3-bed route under SH strategy",
+    "Solid low-risk BTL with minimal heavy works"
+  ],
+  "description": "This 2-bedroom, 1-bathroom freehold terraced property is located in Hull in a well-established residential area with strong demand from working professionals. The property benefits from a recently installed new kitchen and roof, meaning capital expenditure has already been invested in key structural and value-driving elements. The asset presents a low-intensity refurbishment opportunity, requiring primarily cosmetic improvements to return it to the rental market quickly. There is also potential, subject to compliance and strategic direction, to explore a 3-bedroom configuration under a “Let&Forget” route, though this would require additional works.",
+  "beds": [2],
+  "baths": [1],
+  "size": "59 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3038-6130-4162-b864-353239666161/Screenshot_2026-03-0.png"
+  ],
+  "video": "https://drive.google.com/file/d/1eLiiM1Rc2HIR7XHCnU2I1ReR_O-IUiTc/preview",
+  "images": [
+    "https://static.tildacdn.com/tild3837-3762-4435-b862-663964313166/Screenshot_2026-03-0.png",
+    "https://static.tildacdn.com/tild3062-3731-4362-a334-316630363838/Screenshot_2026-03-0.png",
+    "https://static.tildacdn.com/tild3138-3533-4161-b338-386266333737/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6664-3364-4032-b839-626139653839/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3162-6635-4163-a466-343139373635/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3334-3136-4634-b865-636634393335/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6636-3633-4135-b535-343536353338/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6633-3365-4830-b731-323662653265/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3862-6362-4661-b734-383536663864/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6662-6238-4632-a464-366533303735/WhatsApp_Image_2026-.jpeg"
+  ],
+ "marketInsightsImages": [
+      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild3766-6562-4431-a165-613536306337/Screenshot_2026-03-0.png"
+    ],
+    "map": "",
+    "occupancy": "Vacant",
+    "condition": ["Light Refurb"]
+  },
+	{
   "dealId": "JPC-GOR-01",
   "title": "2-bed Conversion Opportunity",
   "city": "Goole",
