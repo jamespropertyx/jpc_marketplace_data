@@ -123,68 +123,6 @@
   "condition": ["Full Refurb"]
 },
   {
-  "dealId": "JPC-SCU-05",
-  "title": "2-bed BRR Opportunity",
-  "city": "Hull",
-  "address": "Hull",
-  "status": "Sold",
-  "type": "Terraced",
-  "strategy": "BRR",
-  "tenure": "Freehold",
-  "purchasePrice": 60000,
-  "reservationFee": 6000,
-  "projectEndValue": "90,000",
-  "belowMarketGDVDiscount": "33.3",
-  "deposit": "15,000",
-  "yield": "21.7%",
-  "rent": "&pound;1083",
-  "annualRent": "12,996",
-  "refurbCost": "30,000",
-  "listedDate": "2026-02-26",
-  "keyFeatures": [
-    "Full refurbishment opportunity",
-    "Properties with this potential don't last long on the market",
-    "Great layout with two double bedrooms and a large kitchen-diner.",
-    "Vacant possession - ready to start refurbishments immediately"
-  ],
-  "description": "This 2-bedroom, 1-bathroom terraced house is located in Hull, within easy reach of the city centre, schools, and transport links. The property is an ideal investment opportunity, particularly for those looking for a refurbishment project. The location offers strong rental demand, especially for tenants seeking close proximity to Hull's amenities and transport options.",
-  "beds": [2],
-  "baths": [1],
-  "size": "63 sq m",
-  "dealAnalysis": "",
-  "propertyAppraisal": "",
-  "gdvAnalysis": "",
-  "epcCertificate": [
-    "https://static.tildacdn.com/tild3538-3433-4432-a635-633066633933/Screenshot_2026-02-2.png"
-  ],
-  "images": [
-    "https://static.tildacdn.com/tild3833-3562-4162-b434-313964363633/Screenshot_2026-02-2.png",
-    "https://static.tildacdn.com/tild6139-3831-4336-b031-383339333064/Screenshot_2026-02-2.png",
-    "https://static.tildacdn.com/tild3632-6334-4965-b831-626663323265/Screenshot_2026-02-2.png",
-    "https://static.tildacdn.com/tild3561-3633-4664-b031-663662663062/Screenshot_2026-02-2.png",
-    "https://static.tildacdn.com/tild3633-3061-4936-b666-393037386230/Screenshot_2026-02-2.png",
-    "https://static.tildacdn.com/tild3934-3539-4333-b735-353162303234/Screenshot_2026-02-2.png",
-    "https://static.tildacdn.com/tild6666-3839-4763-a437-616130646636/Screenshot_2026-02-2.png",
-    "https://static.tildacdn.com/tild3735-3136-4436-a433-313830663535/Screenshot_2026-02-2.png",
-    "https://static.tildacdn.com/tild6138-6666-4539-b237-316634326366/Screenshot_2026-02-2.png",
-    "https://static.tildacdn.com/tild3265-3833-4662-b034-376266343066/Screenshot_2026-02-2.png",
-    "https://static.tildacdn.com/tild6431-6364-4138-a566-623334646162/Screenshot_2026-02-2.png",
-    "https://static.tildacdn.com/tild6334-3565-4537-a466-396632636339/Screenshot_2026-02-2.png"
-  ],
-  "marketInsightsImages": [
-      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
-      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
-      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
-      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
-    ],
-  "floorplan": [
-    "https://static.tildacdn.com/tild3130-3632-4738-b061-303039313637/Screenshot_2026-02-2.png"
-  ],
-  "map": "",
-  "occupancy": "Vacant",
-  "condition": ["Full Refurb"]
-},
-  {
   "dealId": "JPC-EDI-01",
   "title": "2-bed Conversion Opportunity",
   "city": "Goole",
@@ -5519,68 +5457,6 @@
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9434.884200429604!2d-0.3728128558797351!3d53.758849983003245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be4a86349b4f%3A0x77268cb383532c2f!2sPearson%20Park!5e0!3m2!1sen!2sru!4v1761634250700!5m2!1sen!2sru",
     "occupancy": "Vacant",
     "condition": ["Full Refurb"],
-    "exclusive": false
-  },
-  {
-    "dealId": "JPC-DER-01",
-    "title": "Turnkey 2-bed Hybrid BTL",
-    "city": "Hull",
-    "address": "Hull",
-    "status": "Available",
-    "type": "Terraced",
-    "strategy": "Hybrid BTL",
-    "tenure": "Freehold",
-    "occupancy": "Vacant",
-    "purchasePrice": 90000,
-    "purchasePriceLabel": "",
-    "reservationFee": 6000,
-    "projectEndValue": "115,000",
-    "belowMarketGDVDiscount": "21.7%",
-    "deposit": "20,000",
-    "yield": "15%",
-    "rent": "&pound;1,127",
-    "annualRent": "13,520",
-    "annualRentLabel": "Gross Annual Rent",
-    "refurbCost": "0",
-    "listedDate": "2026-02-26",
-    "keyFeatures": [
-      "Strong Princes Road location - 5 min from Princes Ave & Uni routes",
-      "Perfect example property to showcase transformation potential",
-      "High rental demand from students & young professionals",
-      "Competitive price point"
-    ],
-    "description": "This 2-bedroom, 1-bathroom property is located just off Princes Road, one of Hull's most popular and reliable areas for Hybrid BTL investments. It's within walking distance to Princes Avenue and close to the University of Hull, offering strong appeal to both students and working professionals. Currently vacant.",
-    "beds": [2],
-    "baths": [1],
-    "size": "73 sq m",
-    "dealAnalysis": "https://drive.google.com/file/d/1yNis7DLPsLJyYpGqCcOH7UogzYRb7sjT/view?usp=sharing",
-    "showSectionAnalysis": false,
-    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-Derwent-Grove-Princes-Road-Hull-HU5-2SF-293b6c4b014180aca7b2cadb0670de44?source=copy_link",
-    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-Derwent-Grove-Princes-Road-Hull-HU5-2SF-293b6c4b01418043aba9e215b3f2d162?source=copy_link",
-    "epcCertificate": "https://static.tildacdn.com/tild3630-6232-4063-b135-623736366232/Energy_cert.png",
-    "images": [
-      "https://static.tildacdn.com/tild6535-6365-4435-a636-393133323834/Facade.jpg",
-      "https://static.tildacdn.com/tild3734-3632-4139-b830-373262313335/WhatsApp_Image_2026-.jpeg",
-      "https://static.tildacdn.com/tild3362-3434-4563-b463-333837636439/WhatsApp_Image_2026-.jpeg",
-      "https://static.tildacdn.com/tild3538-6664-4432-a637-386366313764/WhatsApp_Image_2026-.jpeg",
-      "https://static.tildacdn.com/tild3565-3263-4635-b965-396462643234/WhatsApp_Image_2026-.jpeg",
-      "https://static.tildacdn.com/tild3565-6564-4633-b733-343531663830/WhatsApp_Image_2026-.jpeg",
-      "https://static.tildacdn.com/tild3932-6532-4132-b765-633464653566/WhatsApp_Image_2026-.jpeg",
-      "https://static.tildacdn.com/tild3335-6432-4836-a562-356131396332/WhatsApp_Image_2026-.jpeg",
-      "https://static.tildacdn.com/tild3361-3739-4132-b730-646466356232/WhatsApp_Image_2026-.jpeg",
-      "https://static.tildacdn.com/tild3865-6335-4937-a135-333664326161/WhatsApp_Image_2026-.jpeg"
-    ],
-    "marketInsightsImages": [
-      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
-      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
-      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
-      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
-    ],
-    "floorplan": [
-      "https://static.tildacdn.com/tild3532-6564-4135-b364-623462363931/Floor_Plan.png"
-    ],
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4717.810679156821!2d-0.4406991761361994!3d53.75556861126907!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be4b4c37645f%3A0x53835c195352c52a!2sDerwent%20Grove%2C%20Prince&#39;s%20Rd%2C%20Hull%20HU5%202SF%2C%20UK!5e0!3m2!1sen!2sru!4v1761144014567!5m2!1sen!2sru",
-    "condition": ["Turnkey"],
     "exclusive": false
   },
   {
