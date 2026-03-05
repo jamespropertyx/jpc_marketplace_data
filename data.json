@@ -1,5 +1,59 @@
 [
 	{
+  "dealId": "JPC-BOO-01",
+  "title": "Turnkey Mixed-Use Opportunity",
+  "city": "Goole",
+  "address": "Goole",
+  "status": "Available",
+  "type": "Semi-Detached",
+  "strategy": "Mixed-Use",
+  "tenure": "Freehold",
+  "purchasePrice": 565000,
+  "reservationFee": 20340,
+  "projectEndValue": "600,000",
+  "belowMarketGDVDiscount": "10.8%",
+  "deposit": "141,250",
+  "yield": "12.5%",
+  "rent": "&pound;5,907",
+  "annualRent": "70,884",
+  "refurbCost": "0",
+  "listedDate": "2026-03-05",
+  "keyFeatures": [
+    "3 newly developed apartments above commercial units",
+    "Ground floor commercial space already tenanted",
+    "Diversified income stream",
+    "Strong long-term investment"
+  ],
+  "description": "This mixed-use investment property is located in Goole, a well-connected area with easy access to the town centre, transport links and local employment hubs. The building comprises commercial units on the ground floor and newly developed residential apartments above. The commercial section includes two offices and a storage/laundrette unit, all of which are currently tenanted and producing income. The upper floors are currently undergoing redevelopment into three residential apartments comprising a total of eight bedrooms and eight bathrooms. Once completed, the apartments will offer modern turnkey accommodation suitable for professional tenants. The property also benefits from a large secure private car park to the rear, adding further value and tenant appeal.",
+  "beds": [8],
+  "baths": [8],
+  "size": "260 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3833-6131-4333-a539-626433643165/1_3.png"
+  ],
+  "images": [
+    "https://static.tildacdn.com/tild6230-6235-4563-b138-623363386133/Screenshot_2026-03-0.png",
+    "https://static.tildacdn.com/tild3737-6663-4462-a162-666538313463/Screenshot_2026-03-0.png",
+    "https://static.tildacdn.com/tild6163-6138-4239-b363-613134646363/Screenshot_2026-03-0.png",
+    "https://static.tildacdn.com/tild3031-3733-4861-b737-393433663933/Screenshot_2026-03-0.png",
+    "https://static.tildacdn.com/tild6632-3666-4463-b862-306464376332/Screenshot_2026-03-0.png",
+    "https://static.tildacdn.com/tild3163-6534-4836-b138-383633653935/Screenshot_2026-03-0.png",
+    "https://static.tildacdn.com/tild6263-6637-4430-a661-633938633363/Screenshot_2026-03-0.png"
+  ],
+ "marketInsightsImages": [
+    ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild3563-6238-4464-b839-333436666337/Screenshot_2026-03-0.png",
+      "https://static.tildacdn.com/tild3835-3530-4635-a365-663634376561/Screenshot_2026-03-0.png"
+    ],
+    "map": "",
+    "occupancy": "Partially Tenanted",
+    "condition": ["Turnkey"]
+  },
+	{
   "dealId": "JPC-KIR-01",
   "title": "2-bed Hybrid BTL Opportunity",
   "city": "Hull",
