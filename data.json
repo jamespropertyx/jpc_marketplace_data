@@ -1,5 +1,66 @@
 [
 	{
+  "dealId": "JPC-SUN-01",
+  "title": "Turnkey 2-bed Hybrid BTL",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "Hybrid BTL",
+  "tenure": "Freehold",
+  "purchasePrice": 90000,
+  "reservationFee": 6000,
+  "projectEndValue": "125,000",
+  "belowMarketGDVDiscount": "27.8%",
+  "deposit": "22,500",
+  "yield": "12.8%",
+  "rent": "&pound;1,127",
+  "annualRent": "13,524",
+  "refurbCost": "0",
+  "listedDate": "2026-03-06",
+  "keyFeatures": [
+    "Fully let to students",
+    "Highly proven student rental location",
+    "Ideal hands-off addition to a rental portfolio",
+    "Below market value investment opportunity"
+  ],
+  "description": "This 2-bedroom, 1-bathroom end-of-terrace period property located in the HU5 area of Hull, only a short walk from Newland Avenue and within easy reach of the University of Hull. The property is currently fully let to students, generating &pound;130 per week per room, making it an immediate income-producing investment. The property is well positioned in one of Hull's most established student rental areas, benefiting from strong and consistent demand from both students and young professionals due to its proximity to local amenities, cafes, bars, and public transport links. With the property already tenanted and producing income, it presents a straightforward, low-maintenance addition to a buy-to-let portfolio.",
+  "beds": [2],
+  "baths": [1],
+  "size": "79 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3766-3439-4431-a537-396232353837/Screenshot_2026-03-0.png"
+  ],
+  "video": "https://drive.google.com/file/d/1Qcss6Jv8YpUWh9GWzwfO1_NUfmmKfoaI/preview",
+  "images": [
+    "https://static.tildacdn.com/tild3564-6261-4632-a362-366339633539/Screenshot_2026-03-0.png",
+    "https://static.tildacdn.com/tild3365-6263-4763-b633-626635363131/Screenshot_2026-03-0.png",
+    "https://static.tildacdn.com/tild3231-3363-4335-a132-366632333033/Screenshot_2026-03-0.png",
+    "https://static.tildacdn.com/tild3364-3061-4436-b337-613661336461/Screenshot_2026-03-0.png",
+    "https://static.tildacdn.com/tild3131-6536-4438-b437-396338643139/Screenshot_2026-03-0.png",
+    "https://static.tildacdn.com/tild3961-3631-4633-b035-653965633561/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6330-3836-4134-a461-356437643463/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3532-6436-4333-b337-343936346138/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3637-6462-4064-b139-623531386661/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6564-3934-4435-b061-346330353464/WhatsApp_Image_2026-.jpeg"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild3138-6465-4036-b065-613433363862/Screenshot_2026-03-0.png"
+    ],
+    "map": "",
+    "occupancy": "Tenanted",
+    "condition": ["Turnkey"]
+  },
+	{
   "dealId": "JPC-BOO-01",
   "title": "Turnkey Mixed-Use Unit",
   "city": "Goole",
