@@ -1,5 +1,67 @@
 [
 	{
+  "dealId": "JPC-MAR-05",
+  "title": "2-bed Hybrid BTL Opportunity",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "Hybrid BTL",
+  "tenure": "Freehold",
+  "purchasePrice": 75000,
+  "reservationFee": 6000,
+  "projectEndValue": "90,000",
+  "belowMarketGDVDiscount": "16.7%",
+  "deposit": "18,750",
+  "yield": "17.3%",
+  "rent": "&pound;1,083",
+  "annualRent": "12,996",
+  "refurbCost": "12,000",
+  "listedDate": "2026-03-09",
+  "keyFeatures": [
+    "Solid long-term rental asset",
+    "Low refurbishment requirements",
+    "Strong balance of yield and capital value",
+    "Easy access to local shops, supermarkets and amenities"
+  ],
+  "description": "This 2-bedroom, 1-bathroom property is located just off Boulevard in Hull, within walking distance of shops, bars, local amenities and the hospital, making it attractive for working professionals and long-term tenants. With a relatively modest refurbishment, the property can be repositioned as a professional let or Hybrid BTL investment. The property is currently vacant and requires refurbishment, however the structure appears sound, with a recently replaced roof.",    
+  "beds": [2],  
+  "baths": [1], 
+  "size": "75 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3034-3962-4261-b265-303338663137/Screenshot_2026-03-0.png"
+  ],
+  "video": "https://drive.google.com/file/d/1tAtzpJLMzZSnGoCxEzXS9b9pFP8wzMDa/preview",
+  "images": [
+    "https://static.tildacdn.com/tild6238-3162-4437-b638-373038363136/Screenshot_2026-03-0.png",
+    "https://static.tildacdn.com/tild3339-3664-4737-a238-363065313736/Screenshot_2026-03-0.png",
+    "https://static.tildacdn.com/tild3033-6537-4661-b063-393766383430/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6132-6330-4631-b266-643831663133/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6139-3233-4637-b039-353635323931/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3336-3639-4563-a235-656338306236/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3730-3564-4534-b233-623331353433/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6139-6232-4336-b734-353862373034/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3266-6537-4764-a461-386330636662/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6234-3838-4165-b061-336264306138/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6461-6232-4666-a332-343636626663/WhatsApp_Image_2026-.jpeg"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild3766-6430-4665-b633-303231656265/Screenshot_2026-03-0.png"
+    ],
+    "map": "",
+    "occupancy": "Vacant",
+    "condition": ["Light Refurb"]
+  },
+	{
     "dealId": "JPC-PRE-01",
     "title": "2-bed Hybrid BTL Opportunity",
     "city": "Hull",
