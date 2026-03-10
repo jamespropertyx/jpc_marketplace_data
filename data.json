@@ -1,5 +1,72 @@
 [
 	{
+  "dealId": "JPC-WOR-03",
+  "title": "Turnkey 2-bed Hybrid BTL",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "Hybrid BTL",
+  "tenure": "Freehold",
+  "purchasePrice": 100000,
+  "reservationFee": 6000,
+  "projectEndValue": "120,000",
+  "belowMarketGDVDiscount": "16.6%",
+  "deposit": "25,000",
+  "yield": "14%",
+  "rent": "&pound;1,170",
+  "annualRent": "14,040",
+  "refurbCost": "0",
+  "listedDate": "2026-03-10",
+  "keyFeatures": [
+    "Straightforward buy-to-let setup",
+    "Option to refresh decor to maximise rent",
+    "Located in one of Hull's most reliable student areas",
+    "Ready for immediate letting"
+  ],
+  "description": "This 2-bedroom, 1-bathroom freehold terraced property is located in the HU5 area of Hull, within walking distance of the University of Hull and the popular Newland Avenue student district. The location has a strong and consistent demand from students due to its proximity to cafes, shops, bars, and public transport links. The property is currently configured as a two-bedroom student let, making it a straightforward student buy-to-let opportunity. Internally the house presents well with a recently installed kitchen and solid floorboards throughout, while retaining some quirky decorative features that may appeal to certain tenants. Overall, the property offers a simple, low-capital investment opportunity with the option to rent immediately with minimal works or undertake light cosmetic upgrades to maximise tenant appeal.",
+  "beds": [2],  
+  "baths": [1], 
+  "size": "86 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3734-6230-4637-b862-306565633130/Screenshot_2026-03-1.png"
+  ],
+  "images": [
+    "https://static.tildacdn.com/tild3538-3265-4462-b166-336433643532/Screenshot_2026-03-1.png",
+    "https://static.tildacdn.com/tild3731-3336-4331-b533-323630323963/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3265-3232-4065-b032-316138613765/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6239-3037-4331-b466-613433366362/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3765-3931-4762-a366-383832353239/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3736-3432-4531-a333-313837366634/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3264-3965-4333-b735-323230353430/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3734-3562-4638-a239-653537383666/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3961-3364-4534-a134-313636363136/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6630-3737-4035-a335-373566343137/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6436-6666-4534-b266-356666646161/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3063-6530-4363-a238-613832363237/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3762-3166-4961-b038-303661366432/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3738-6635-4330-b532-363930643630/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3036-3864-4138-b636-613732623334/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3833-3332-4666-b032-323632356235/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6232-3534-4333-b037-383363343061/WhatsApp_Image_2026-.jpeg"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild3264-6564-4366-b231-343830616134/Screenshot_2026-03-1.png"
+    ],
+    "map": "",
+    "occupancy": "Vacant",
+    "condition": ["Turnkey"]
+  },
+	{
   "dealId": "JPC-MAR-05",
   "title": "2-bed Hybrid BTL Opportunity",
   "city": "Hull",
