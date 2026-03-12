@@ -1,5 +1,65 @@
 [
 	{
+  "dealId": "JPC-ARL-02",
+  "title": "Turnkey 2-bed Hybrid BTL",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "Hybrid BTL",
+  "tenure": "Freehold",
+  "purchasePrice": 87950,
+  "reservationFee": 6000,
+  "projectEndValue": "95,000",
+  "belowMarketGDVDiscount": "7.4%",
+  "deposit": "21,988",
+  "yield": "14.8%",
+  "rent": "&pound;1,083",
+  "annualRent": "12,996",
+  "refurbCost": "0",
+  "listedDate": "2026-03-12",
+  "keyFeatures": [
+    "Located within easy reach of Newland Avenue amenities",
+    "Currently vacant, allowing immediate refurbishment and re-letting",
+    "Cosmetic refresh could include light redecoration throughout",
+    "Ideal entry-level investment with minimal works required"
+  ],
+  "description": "This 2-bedroom, 1-bathroom freehold terraced property is located in the HU5 area of Hull, within walking distance of the University of Hull and the popular Newland Avenue student district. The location has a strong and consistent demand from students due to its proximity to cafes, shops, bars, and public transport links. The property is currently configured as a two-bedroom student let, making it a straightforward student buy-to-let opportunity. Internally the house presents well with a recently installed kitchen and solid floorboards throughout, while retaining some quirky decorative features that may appeal to certain tenants. Overall, the property offers a simple, low-capital investment opportunity with the option to rent immediately with minimal works or undertake light cosmetic upgrades to maximise tenant appeal.",
+  "beds": [2],  
+  "baths": [1], 
+  "size": "62 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "video": "https://drive.google.com/file/d/1nyENzj9wBoG_H35TK9wTuFeexs0CoM6O/preview",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild6438-3533-4664-b936-623562326262/Screenshot_2026-03-1.png"
+  ],
+  "images": [
+    "https://static.tildacdn.com/tild3566-6637-4366-b364-376130306534/Screenshot_2026-03-1.png",
+    "https://static.tildacdn.com/tild6436-6635-4037-b236-633365646231/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3864-3437-4563-a536-653131343733/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3061-6431-4732-a133-336239616664/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6436-6233-4333-b034-653063353239/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6563-3932-4632-a332-333261346639/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3765-6430-4232-b735-616463623838/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6630-3464-4635-b037-643439396162/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3165-6139-4639-b837-656431393463/WhatsApp_Image_2026-.jpeg"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild6630-3735-4634-b036-323031353162/Screenshot_2026-03-1.png"
+    ],
+    "map": "",
+    "occupancy": "Vacant",
+    "condition": ["Turnkey"]
+  },
+	{
   "dealId": "JPC-WOR-03",
   "title": "Turnkey 2-bed Hybrid BTL",
   "city": "Hull",
