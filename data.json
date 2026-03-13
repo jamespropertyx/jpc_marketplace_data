@@ -1,5 +1,67 @@
 [
 	{
+  "dealId": "JPC-MIN-01",
+  "title": "2-bed Hybrid BTL Opportunity",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "Hybrid BTL",
+  "tenure": "Freehold",
+  "purchasePrice": 90000,
+  "reservationFee": 6000,
+  "projectEndValue": "105,000",
+  "belowMarketGDVDiscount": "14.3%",
+  "deposit": "22,500",
+  "yield": "13.9%",
+  "rent": "&pound;1,040",
+  "annualRent": "12,480",
+  "refurbCost": "0",
+  "listedDate": "2026-03-13",
+  "keyFeatures": [
+    "Property would benefit from clearing, cleaning and cosmetic refresh",
+    "Potential to rent to professional",
+    "Alternative strategy: convert to a 3-bedroom Social Housing unit",
+    "Flexible investment with multiple rental strategies available"
+  ],
+  "description": "This 2 bedroom, 1-bathroom property is located in HU3, an established residential rental area of Hull with consistent demand from working professionals and shared accommodation tenants. It is currently tenanted by working individuals, and the seller is looking to downsize their portfolio, which is the reason for the sale. Overall, the property is in serviceable condition, though somewhat untidy due to current occupancy. A general tidy-up, minor damp repairs and cosmetic improvements would significantly improve presentation and rental appeal. The property also offers two potential investment strategies: maintaining it as a standard buy-to-let for professionals or converting it to a 3-bedroom Social Housing unit subject to compliance and approval.",
+  "beds": [2],  
+  "baths": [1], 
+  "size": "67 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3736-6433-4636-b262-663435636234/Screenshot_2026-03-1.png"
+  ],
+  "images": [
+    "https://static.tildacdn.com/tild3038-6437-4834-b461-303933656237/Screenshot_2026-03-1.png",
+    "https://static.tildacdn.com/tild3064-3233-4734-b564-353962383839/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6535-6133-4434-a638-313439393763/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3230-3839-4531-a664-383035633835/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6330-3864-4236-b532-326261323863/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3663-3762-4863-a437-666263363736/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3538-6636-4231-b661-376535356432/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6337-3366-4165-b332-353633326166/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3835-3336-4632-a137-663631303464/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6132-3932-4134-b366-303937323134/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3532-3530-4535-b263-646236363936/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3231-3464-4463-a661-653433336661/WhatsApp_Image_2026-.jpeg"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild6235-3739-4138-b834-336538656533/Screenshot_2026-03-1.png"
+    ],
+    "map": "",
+    "occupancy": "Tenanted",
+    "condition": ["Light Refurb"]
+  },
+	{
   "dealId": "JPC-ARL-02",
   "title": "Turnkey 2-bed Hybrid BTL",
   "city": "Hull",
