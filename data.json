@@ -1,5 +1,64 @@
 [
 	{
+  "dealId": "JPC-ARL-02",
+  "title": "2-bed Hybrid BTL Opportunity",
+  "city": "Goole",
+  "address": "Goole",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "Hybrid BTL",
+  "tenure": "Freehold",
+  "purchasePrice": 80000,
+  "reservationFee": 6000,
+  "projectEndValue": "90,000",
+  "belowMarketGDVDiscount": "11.1%",
+  "deposit": "20,000",
+  "yield": "15.6%",
+  "rent": "&pound;1,040",
+  "annualRent": "12,480",
+  "refurbCost": "0",
+  "listedDate": "2026-03-16",
+  "keyFeatures": [
+    "Currently vacant - ready for immediate letting",
+    "Good transport links to Leeds and Hull",
+    "Suitable as professional house share",
+    "Simple, low-entry investment with multiple rental strategies"
+  ],
+  "description": "This 2-bedroom, 1-bathroom freehold terraced property is located in Goole in a well-established residential area with strong rental demand from working professionals and local commuters. The property is currently vacant and presented in generally good condition, meaning it can be brought to market quickly with minimal works. Overall, the property represents a simple turnkey buy-to-let investment with only minor remedial works required. Rental demand in this location is supported by close proximity to the train station and convenient transport links to Leeds and Hull, making it attractive for professionals working in surrounding areas.",
+  "beds": [2],  
+  "baths": [1], 
+  "size": "65 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild6565-6635-4339-a566-623730653132/Screenshot_2026-03-1.png"
+  ],
+  "video": "https://drive.google.com/file/d/159cc1JV-xcoBHAsGnTpkJTx-xvyEm2x-/preview",
+  "images": [
+    "https://static.tildacdn.com/tild3162-3937-4234-a135-376666383436/Screenshot_2026-03-1.png",
+    "https://static.tildacdn.com/tild3638-3434-4036-b934-303039386638/Screenshot_2026-03-1.png",
+    "https://static.tildacdn.com/tild3365-3933-4438-b831-396465623962/Screenshot_2026-03-1.png",
+    "https://static.tildacdn.com/tild3364-6634-4232-b732-313831376135/Screenshot_2026-03-1.png",
+    "https://static.tildacdn.com/tild3239-6130-4266-a338-366264303065/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6536-3738-4561-b461-653962396636/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3964-3532-4161-b966-633766383165/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3835-3336-4632-a137-663631303464/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6132-3932-4134-b366-303937323134/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3532-3530-4535-b263-646236363936/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3231-3464-4463-a661-653433336661/WhatsApp_Image_2026-.jpeg"
+  ],
+  "marketInsightsImages": [
+  ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild3263-3161-4765-b234-326230333463/Screenshot_2026-03-1.png",
+      "https://static.tildacdn.com/tild3032-6439-4831-b633-373436663438/Screenshot_2026-03-1.png"
+    ],
+    "map": "",
+    "occupancy": "Vacant",
+    "condition": ["Light Refurb"]
+  },
+	{
   "dealId": "JPC-MIN-01",
   "title": "2-bed Hybrid BTL Opportunity",
   "city": "Hull",
