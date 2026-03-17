@@ -1,5 +1,62 @@
 [
 	{
+  "dealId": "JPC-GOR-02",
+  "title": "3-bed HMO Conversion",
+  "city": "Goole",
+  "address": "Goole",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "HMO Opportunity",
+  "tenure": "Freehold",
+  "purchasePrice": 90000,
+  "reservationFee": 6000,
+  "projectEndValue": "104,500",
+  "belowMarketGDVDiscount": "13.9%",
+  "deposit": "22,500",
+  "yield": "21.7%",
+  "rent": "&pound;1,625",
+  "annualRent": "19,500",
+  "refurbCost": "0",
+  "listedDate": "2026-03-17",
+  "keyFeatures": [
+    "Option to convert into 3-bedroom setup",
+    "Furniture pack required for professional letting",
+    "Vacant possession",
+    "Key upside depends on successful conversion and compliance"
+  ],
+  "description": "This 2-bedroom, 1-bathroom property is located in Goole, within a well-established residential area popular with working professionals and commuters. The property is presented in good condition and is suitable as a turnkey buy-to-let, with additional upside through a potential 3-bedroom conversion strategy to increase rental income.",
+  "beds": [2],  
+  "baths": [1], 
+  "size": "74 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild6531-3633-4936-a237-393563653164/Screenshot_2026-03-1.png"
+  ],
+  "video": "https://drive.google.com/file/d/1uGLQTJ7fqwaC8BbUAPBaOw2n9PMRM4l5/preview",
+  "images": [
+    "https://static.tildacdn.com/tild6137-3432-4236-b738-333639633763/Screenshot_2026-03-1.png",
+    "https://static.tildacdn.com/tild3339-3833-4239-b863-613630363138/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3432-3533-4732-a663-346332663661/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6336-3331-4864-b566-663736636332/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3130-3537-4362-a635-396638396663/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6336-3331-4864-b566-663736636332/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3831-3234-4633-a638-366661646139/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6634-6230-4165-a336-626636353334/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3035-6532-4461-b735-366337316537/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6238-3431-4537-a365-363235383638/WhatsApp_Image_2026-.jpeg"
+  ],
+  "marketInsightsImages": [
+  ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild3862-6535-4363-a361-306636346566/Screenshot_2026-03-1.png"
+    ],
+    "map": "",
+    "occupancy": "Vacant",
+    "condition": ["Full Refurb"]
+  },
+	{
   "dealId": "JPC-ARG-02",
   "title": "2-bed Hybrid BTL Opportunity",
   "city": "Goole",
