@@ -1,5 +1,64 @@
 [
 	{
+  "dealId": "JPC-FOL-04",
+  "title": "2-bed Hybrid BTL Opportunity",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "Hybrid BTL",
+  "tenure": "Freehold",
+  "purchasePrice": 75000,
+  "reservationFee": 6000,
+  "projectEndValue": "99,000",
+  "belowMarketGDVDiscount": "24.2%",
+  "deposit": "18,750",
+  "yield": "18%",
+  "rent": "&pound;1,127",
+  "annualRent": "13,524",
+  "refurbCost": "20,000",
+  "listedDate": "2026-03-18",
+  "keyFeatures": [
+    "Full refurbishment project required",
+    "Strong demand from students and working professionals",
+    "Close to University of Hull",
+    "Typical terrace layout - easy to work with for builders"
+  ],
+  "description": "This 2-bedroom, 1-bathroom property is located in Goole, within a well-established residential area popular with working professionals and commuters. The property is presented in good condition and is suitable as a turnkey buy-to-let, with additional upside through a potential 3-bedroom conversion strategy to increase rental income.",
+  "beds": [2],  
+  "baths": [1], 
+  "size": "82 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3863-3837-4163-b932-303037303362/Screenshot_2026-03-1.png"
+  ],
+  "images": [
+    "https://static.tildacdn.com/tild6530-3364-4265-a536-396133613963/Screenshot_2026-03-1.png",
+    "https://static.tildacdn.com/tild6131-6637-4738-b731-366265313464/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6532-3939-4138-a236-326535313234/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3364-6635-4164-a131-633136616162/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3535-6465-4533-b065-653833663039/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3163-6462-4537-b661-386366303766/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6263-6130-4930-a361-653038336239/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3830-3333-4063-b939-383638653465/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6433-3361-4963-b061-356439366532/WhatsApp_Image_2026-.jpeg",
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild3562-3661-4738-b364-636339346661/Screenshot_2026-03-1.png"
+    ],
+    "map": "",
+    "occupancy": "Vacant",
+    "condition": ["Full Refurb"]
+  },
+	{
   "dealId": "JPC-GOR-02",
   "title": "3-bed HMO Conversion",
   "city": "Goole",
