@@ -1,4 +1,64 @@
 [
+	{
+  "dealId": "JPC-WET-01",
+  "title": "3-bed HMO Conversion",
+  "city": "Goole",
+  "address": "Goole",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "HMO Opportunity",
+  "tenure": "Freehold",
+  "purchasePrice": 80000,
+  "reservationFee": 6000,
+  "projectEndValue": "110,000",
+  "belowMarketGDVDiscount": "27.3%",
+  "deposit": "20,000",
+  "yield": "24.5%",
+  "rent": "&pound;1,625",
+  "annualRent": "19,500",
+  "refurbCost": "30,000",
+  "listedDate": "2026-03-20",
+  "keyFeatures": [
+    "Full refurbishment required",
+    "Externally in very good condition",
+    "Garage adds rental or resale upside",
+    "Rental market in Goole currently very active for rooms"
+  ],
+  "description": "This 2-bedroom, 1-bathroom property is located in Goole, in a well-established residential area with consistent demand from working professionals. The main opportunity lies in reconfiguring the layout and upgrading the specification to significantly increase rental income. There is clear potential to convert the property into a 3-bedroom setup, suitable for a room-by-room professional let or social housing strategy, however this requires a full refurbishment and compliance works. To achieve target rents, the property will need to be fully modernised.",
+  "beds": [2],  
+  "baths": [1], 
+  "size": "68 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3932-6230-4032-a130-363430383864/Screenshot_2026-03-2.png"
+  ],
+  "video": "https://drive.google.com/file/d/1pJ52HA7b_7L62p8mQ04JqDse63KLFFJv/preview",
+  "images": [
+    "https://static.tildacdn.com/tild6136-3236-4863-b266-323633636236/Screenshot_2026-03-2.png",
+    "https://static.tildacdn.com/tild6363-3661-4761-a139-383838633437/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3737-3036-4333-a536-663265643937/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3731-3265-4136-b230-643664643339/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3164-3432-4563-b337-316635616333/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6230-3533-4361-a163-346335653438/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3833-3535-4361-b366-346338376565/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3836-3031-4938-b239-306166643134/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3038-3537-4163-a362-306666363230/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6663-3737-4531-b666-326537353437/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6561-6665-4664-b162-636633393734/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3631-3763-4161-b966-633934636433/WhatsApp_Image_2026-.jpeg"
+  ],
+  "marketInsightsImages": [
+  ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild3330-6233-4135-a536-646139666130/Screenshot_2026-03-2.png",
+      "https://static.tildacdn.com/tild3837-3932-4364-b132-386462353463/Screenshot_2026-03-2.png"
+    ],
+    "map": "",
+    "occupancy": "Vacant",
+    "condition": ["Full Refurb"]
+  },
 	 {
     "dealId": "JPC-HIL-01",
     "title": "Turnkey 6-bed HMO",
