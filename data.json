@@ -1,5 +1,72 @@
 [
 	{
+    "dealId": "JPC-SWI-01",
+    "title": "5-bed BRR Opportunity",
+    "city": "Goole",
+    "address": "Goole",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "BRR",
+    "tenure": "Freehold",
+    "purchasePrice": 110000,
+    "reservationFee": 6000,
+    "projectEndValue": "212,000",
+    "belowMarketGDVDiscount": "48%",
+    "deposit": "27,500",
+    "yield": "40.2%",
+    "rent": "&pound;3,683",
+    "annualRent": "44,196",
+    "refurbCost": "50,000",
+    "listedDate": "2026-03-24",
+    "keyFeatures": [
+      "Full refurbishment required throughout",
+      "Potential to convert into 5-bedroom HMO",
+      "Best suited for experienced investors or developers",
+      "Strong demand from local workers and company lets"
+    ],
+    "description": "This 4-bedroom, 2-bathroom property is located in Goole, in a well-established rental area with strong demand from working professionals and company lets. The property offers significant scale and flexibility, with potential to reconfigure into a 5-bedroom multi-let with en-suites, making it suitable for a high-yield HMO or supported housing strategy. To achieve the projected rental level, the property must be rebuilt to a high specification with full compliance. This is a deal best suited for experienced investors who can manage larger refurbishments and compliance requirements.",
+    "beds": [2],  
+    "baths": [1], 
+    "size": "119 sq m",
+    "dealAnalysis": "",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild6232-3131-4439-a566-363238616434/Screenshot_2026-03-2.png"
+    ],
+    "video": "https://drive.google.com/file/d/1SGPavxq7uoelKZq40PbunV8C-avmWd88/preview",
+    "images": [
+      "https://static.tildacdn.com/tild3761-3361-4836-b133-326238326230/Screenshot_2026-03-2.png",
+      "https://static.tildacdn.com/tild3464-3166-4662-a235-306237333232/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6336-3766-4738-b636-393630333838/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6661-3731-4334-b934-363165643230/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3561-3332-4435-a539-636464643936/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3966-3863-4336-a335-393734333632/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3232-3834-4139-b130-326437313733/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6337-6335-4563-b761-313065306637/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3437-3537-4738-b863-353566353062/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3462-3562-4239-b030-333736376535/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3736-6234-4130-b532-353535363866/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3939-3361-4831-b566-313361343261/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3366-6333-4764-a332-323966376530/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3765-3562-4766-b039-643231356365/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3162-6266-4962-b930-613831313136/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6366-6237-4762-b237-623334333930/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3035-3861-4461-b663-336233626135/WhatsApp_Image_2026-.jpeg"
+    ],
+    "marketInsightsImages": [
+    ],
+      "floorplan": [
+        "https://static.tildacdn.com/tild3839-6665-4261-b335-626132333162/Screenshot_2026-03-2.png",
+        "https://static.tildacdn.com/tild3766-3932-4561-b133-393233653038/Screenshot_2026-03-2.png",
+        "https://static.tildacdn.com/tild3536-3464-4233-b033-626231633135/Screenshot_2026-03-2.png"
+      ],
+      "map": "",
+      "occupancy": "Vacant",
+      "condition": ["Full Refurb"]
+    },
+	
+	{
   "dealId": "JPC-WET-01",
   "title": "3-bed HMO Conversion",
   "city": "Goole",
