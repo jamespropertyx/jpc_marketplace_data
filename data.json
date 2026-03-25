@@ -1,5 +1,63 @@
 [
 	{
+    "dealId": "JPC-ADD-01",
+    "title": "5-bed BRR Opportunity",
+    "city": "Hull",
+    "address": "Hull",
+    "status": "Available",
+    "type": "Semi-Detached",
+    "strategy": "BRR",
+    "tenure": "Freehold",
+    "purchasePrice": 100000,
+    "reservationFee": 6000,
+    "projectEndValue": "200,000",
+    "belowMarketGDVDiscount": "50%",
+    "deposit": "25,000",
+    "yield": "35.1%",
+    "rent": "&pound;2,925",
+    "annualRent": "35,100",
+    "refurbCost": "60,000",
+    "listedDate": "2026-03-25",
+    "keyFeatures": [
+      "Planning permission approved for 5-bed en-suite HMO",
+      "Semi-detached property",
+      "Currently arranged as 2 self-contained flats",
+      "Multiple exit strategies available"
+    ],
+    "description": "The property is located in an area with consistent demand from students and working professionals and is currently arranged as two self-contained flats. It benefits from full planning permission for conversion into a 5-bedroom en-suite HMO, creating a clear dual-strategy investment. The property can either be retained as two flats with an estimated rental income of around &pound;1,200 pcm post-refurbishment, or converted into a 5-bed HMO for significantly higher income. The HMO route represents the key value driver due to strong local demand, although it requires a full refurbishment and reconfiguration.",
+    "beds": [4],  
+    "baths": [2], 
+    "size": "104 sq m",
+    "dealAnalysis": "",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild3334-3730-4564-b439-373130613065/Screenshot_2026-03-2.png",
+      "https://static.tildacdn.com/tild3034-3638-4735-b462-396432326266/Screenshot_2026-03-2.png"
+    ],
+    "images": [
+      "https://static.tildacdn.com/tild6539-3765-4335-a164-633662383233/Screenshot_2026-03-2.png",
+      "https://static.tildacdn.com/tild3562-3436-4065-b531-383632613630/fd4acf518f1add8e1e47.jpeg",
+      "https://static.tildacdn.com/tild6266-6138-4066-b365-623738633930/d082226a49d2642fef99.jpeg",
+      "https://static.tildacdn.com/tild6135-3235-4963-a633-613931383332/1526abae61ae942afe3f.jpeg",
+      "https://static.tildacdn.com/tild6235-6165-4064-b134-326165336363/291e5e417ae9644062d9.jpeg",
+      "https://static.tildacdn.com/tild3038-3732-4139-b663-656265386236/6d75d785619f2b1c7476.jpeg",
+      "https://static.tildacdn.com/tild3762-3430-4635-b361-333234303861/2df9dd1c22fe89d91ed5.jpeg"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+      ],
+      "floorplan": [
+        "https://static.tildacdn.com/tild3034-3861-4932-a566-306435343866/Screenshot_2026-03-2.png"
+      ],
+      "map": "",
+      "occupancy": "Vacant",
+      "condition": ["Full Refurb"]
+    },
+	{
     "dealId": "JPC-PAS-01",
     "title": "4-bed HMO Conversion Opportunity",
     "city": "Goole",
