@@ -1,4 +1,62 @@
 [
+	{
+    "dealId": "JPC-MAR-07",
+    "title": "3-bed Conversion Opportunity",
+    "city": "Goole",
+    "address": "Goole",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "HMO Opportunity",
+    "tenure": "Freehold",
+    "purchasePrice": 100000,
+    "reservationFee": 6000,
+    "projectEndValue": "134,000",
+    "belowMarketGDVDiscount": "25.4%",
+    "deposit": "25,000",
+    "yield": "26%",
+    "rent": "&pound;1,560",
+    "annualRent": "18,720",
+    "refurbCost": "20,000",
+    "listedDate": "2026-03-27",
+    "keyFeatures": [
+      "Fully owned solar panels",
+      "Ready to rent immediately as a 2-bed",
+      "3-bed setup increases rental income significantly",
+      "Strong rental demand in Goole"
+    ],
+    "description": "This 2-bedroom, 1-bathroom property is located in Goole, in a well-established residential area with strong demand from working professionals and families. The property is currently set up as a 2-bed home, in good condition and ready to rent with minimal works required. It presents a flexible investment opportunity, either as a straightforward buy-to-let or as a value-add project by converting into a 3-bedroom layout to increase rental income. A key feature is the fully owned solar panel system, which improves energy efficiency and reduces running costs, making the property more attractive to tenants.",
+    "beds": [2],  
+    "baths": [1], 
+    "size": "75 sq m",
+    "dealAnalysis": "",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild6262-6130-4036-a463-333261376163/Screenshot_2026-03-2.png"
+    ],
+    "video": "https://drive.google.com/file/d/1iTBfrqi7gwwzUjndTkHGiZNXATHAgFxz/preview",
+    "images": [
+      "https://static.tildacdn.com/tild3730-3735-4538-b231-373632666666/Screenshot_2026-03-2.png",
+      "https://static.tildacdn.com/tild3161-3965-4564-b965-393737313939/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3463-6166-4432-b339-393738383337/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3366-3666-4861-a266-316637356130/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6565-6564-4330-b166-663039323334/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3038-3465-4564-b137-383639346436/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3263-3333-4861-a133-613833323330/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6561-3664-4364-b265-643534643539/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6562-3139-4331-b132-376230303939/Screenshot_2026-03-2.png",
+      "https://static.tildacdn.com/tild6166-3735-4233-a165-353336373961/WhatsApp_Image_2026-.jpeg"
+    ],
+    "marketInsightsImages": [
+    ],
+      "floorplan": [
+        "https://static.tildacdn.com/tild6436-3632-4465-a466-346539353533/Screenshot_2026-03-2.png",
+        "https://static.tildacdn.com/tild6238-6633-4866-a132-353564666162/Screenshot_2026-03-2.png"
+      ],
+      "map": "",
+      "occupancy": "Vacant",
+      "condition": ["Full Refurb"]
+    },
     {
       "dealId": "JPC-CLA-01",
       "title": "2-bed Hybrid BTL",
