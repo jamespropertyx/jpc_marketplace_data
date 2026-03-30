@@ -1,5 +1,72 @@
 [
 	{
+    "dealId": "JPC-GRA-07",
+    "title": "2-bed BRR Opportunity",
+    "city": "Hull",
+    "address": "Hull",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "BRR",
+    "tenure": "Freehold",
+    "purchasePrice": 45000,
+    "reservationFee": 6000,
+    "projectEndValue": "78,000",
+    "belowMarketGDVDiscount": "42.3%",
+    "deposit": "11,250",
+    "yield": "30%",
+    "rent": "&pound;1,127",
+    "annualRent": "13,524",
+    "refurbCost": "30,000",
+    "listedDate": "2026-03-30",
+    "keyFeatures": [
+      "Cash buyers only",
+      "Full refurbishment required throughout",
+      "True value-add deal",
+      "Strong demand from students and professionals"
+    ],
+    "description": "This 2-bedroom, 1-bathroom property is located in HU5, just off Sculcoates Lane, within one of Hull's most established rental areas, popular with students, working professionals, and social housing providers. The property is a full refurbishment project. It is currently in poor condition and requires a complete internal overhaul, but benefits from a strong rental location and low entry price. This is best suited for a BRR strategy, where value is created through refurbishment and layout optimisation rather than relying on current condition.",
+    "beds": [2],  
+    "baths": [1], 
+    "size": "50 sq m",
+    "dealAnalysis": "",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild6166-6437-4361-b165-303439643335/Screenshot_2026-03-3.png"
+    ],
+    "video": "https://drive.google.com/file/d/1nenPiteE9sxnS_0cWtF891Tcm5m8kF0t/preview",
+    "images": [
+      "https://static.tildacdn.com/tild3362-6434-4039-a532-313731353363/Screenshot_2026-03-3.png",
+      "https://static.tildacdn.com/tild3239-6566-4831-b933-316234626366/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3864-3965-4239-a539-323061393430/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6131-6239-4861-a335-363733626131/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3563-3066-4565-a264-356235636236/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6233-3539-4337-a535-366232306238/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3636-6338-4237-b262-373365383862/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3839-6561-4135-b964-363633303631/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3363-6638-4337-b331-656566613132/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3066-3362-4661-b464-393661396566/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3561-3661-4564-b064-336538346265/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3564-3231-4439-b533-633435343863/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6632-6638-4731-b765-613135336437/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6564-6132-4234-a431-623063666531/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3537-3731-4435-a336-346261366330/WhatsApp_Image_2026-.jpeg
+    ],
+    "marketInsightsImages": [
+      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+      "floorplan": [
+        "https://static.tildacdn.com/tild6436-3632-4465-a466-346539353533/Screenshot_2026-03-2.png",
+        "https://static.tildacdn.com/tild6238-6633-4866-a132-353564666162/Screenshot_2026-03-2.png"
+      ],
+      "map": "",
+      "occupancy": "Vacant",
+      "condition": ["Full Refurb"]
+    },
+	{
     "dealId": "JPC-MAR-07",
     "title": "3-bed Conversion Opportunity",
     "city": "Goole",
