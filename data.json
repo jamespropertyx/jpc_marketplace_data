@@ -19,7 +19,7 @@
     "refurbCost": "15,000",
     "listedDate": "2026-03-31",
     "keyFeatures": [
-      "Student 4-bed HMO",
+      "Walking distance to University of Hull",
       "Certificate of Lawfulness",
       "Light refurb required",
       "Fully tenanted for current academic year"
@@ -56,8 +56,8 @@
         "https://static.tildacdn.com/tild3365-3563-4233-a162-663063356166/Screenshot_2026-03-3.png"
       ],
       "map": "",
-      "occupancy": "Vacant",
-      "condition": ["Full Refurb"]
+       "occupancy": "Tenanted",
+       "condition": ["Light Refurb"]
     },
 	{
     "dealId": "JPC-GRA-07",
