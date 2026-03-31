@@ -1,5 +1,65 @@
 [
 	{
+    "dealId": "JPC-BLA-03",
+    "title": "Student 4-bed HMO",
+    "city": "Hull",
+    "address": "Hull",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "HMO",
+    "tenure": "Freehold",
+    "purchasePrice": 160000,
+    "reservationFee": 6000,
+    "projectEndValue": "162,800",
+    "belowMarketGDVDiscount": "1.7%",
+    "deposit": "40,000",
+    "yield": "14.3%",
+    "rent": "&pound;1,907",
+    "annualRent": "22,884",
+    "refurbCost": "15,000",
+    "listedDate": "2026-03-31",
+    "keyFeatures": [
+      "Student 4-bed HMO",
+      "Certificate of Lawfulness",
+      "Light refurb required",
+      "Fully tenanted for current academic year"
+    ],
+    "description": "This 4-bedroom, 1-bathroom property is located in HU6, within one of Hull's strongest student rental areas, just off Beverley Road and within close proximity to the University of Hull. The property is currently tenanted and income-producing, making it a low-void, ready-made investment. It offers a light-to-mid refurbishment opportunity, where value can be created through compliance upgrades, redecoration, and rental uplift, rather than structural works.",
+    "beds": [4],  
+    "baths": [1], 
+    "size": "90 sq m",
+    "dealAnalysis": "",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild3461-3537-4561-b336-393661623835/Screenshot_2026-03-3.png"
+    ],
+    "video": "https://drive.google.com/file/d/1b5TqpyHgul9leSnQufxGorJqDqfjKImg/preview",
+    "images": [
+      "https://static.tildacdn.com/tild6465-6233-4434-b537-303134656531/Screenshot_2026-03-3.png",
+      "https://static.tildacdn.com/tild6131-6238-4534-b533-306364633664/photo_2026-03-31_180.jpeg",
+      "https://static.tildacdn.com/tild3261-3536-4263-a466-623039373262/photo_2026-03-31_180.jpeg",
+      "https://static.tildacdn.com/tild6361-6138-4339-a438-366432356435/photo_2026-03-31_180.jpeg",
+      "https://static.tildacdn.com/tild3662-3835-4334-a430-666137316163/photo_2026-03-31_175.jpeg",
+      "https://static.tildacdn.com/tild6630-6265-4236-a138-313137343463/photo_2026-03-31_175.jpeg",
+      "https://static.tildacdn.com/tild3363-6633-4034-a532-656631363437/photo_2026-03-31_175.jpeg",
+      "https://static.tildacdn.com/tild6362-3032-4438-a463-343366336665/photo_2026-03-31_175.jpeg",
+      "https://static.tildacdn.com/tild3538-6366-4338-a238-633564353231/photo_2026-03-31_175.jpeg"
+    ],
+    "marketInsightsImages": [
+      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+      "floorplan": [
+        "https://static.tildacdn.com/tild3365-3563-4233-a162-663063356166/Screenshot_2026-03-3.png"
+      ],
+      "map": "",
+      "occupancy": "Vacant",
+      "condition": ["Full Refurb"]
+    },
+	{
     "dealId": "JPC-GRA-07",
     "title": "2-bed BRR Opportunity",
     "city": "Hull",
