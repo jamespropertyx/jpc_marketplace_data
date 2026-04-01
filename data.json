@@ -1,5 +1,67 @@
 [
 	{
+  "dealId": "JPC-HAW-01",
+  "title": "Student 4-bed HMO",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Semi-Detached",
+  "strategy": "HMO",
+  "tenure": "Freehold",
+  "purchasePrice": 150000,
+  "reservationFee": 6000,
+  "projectEndValue": "165,000",
+  "belowMarketGDVDiscount": "9.1%",
+  "deposit": "37,500",
+  "yield": "13.9%",
+  "rent": "&pound;1,733",
+  "annualRent": "20,796",
+  "refurbCost": "15,000",
+  "listedDate": "2026-04-01",
+  "keyFeatures": [
+    "Low void risk due to tenant demand",
+    "Certificate of Lawfulness",
+    "Light refurb required",
+    "Fully tenanted for current academic year"
+  ],
+  "description": "This 4-bedroom, 1-bathroom property is located in HU6, within one of Hull's most established student rental areas, just off Beverley Road. The property is currently fully tenanted to students, providing immediate income. It presents a light-to-mid value-add opportunity, where uplift can be achieved through fire compliance, cosmetic improvements, and rental optimisation, rather than structural refurbishment. This is best suited for an investor looking for a stabilised HMO with upside.",
+  "beds": [4],  
+  "baths": [1], 
+  "size": "75 sq m",
+  "dealAnalysis": "",
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild6538-3436-4038-b034-653264633834/Screenshot_2026-04-0.png"
+  ],
+  "video": "https://drive.google.com/file/d/1pQWhOYefeLGbQteFe4NiEot0no3RMYbS/preview",
+  "images": [
+    "https://static.tildacdn.com/tild6464-3336-4634-b134-653264396332/Screenshot_2026-04-0.png",
+    "https://static.tildacdn.com/tild6135-3333-4538-a661-326662636332/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3765-3161-4232-b932-316366376663/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3135-3036-4434-a435-363436383234/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6530-3837-4730-b765-373832343165/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3763-3862-4266-b735-306638306337/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3163-3065-4464-a261-343938323139/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6233-6230-4634-b234-316237376363/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3737-3030-4762-a530-663833623532/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild3839-3164-4935-b337-353637386535/WhatsApp_Image_2026-.jpeg",
+    "https://static.tildacdn.com/tild6539-3062-4333-b231-383530666332/WhatsApp_Image_2026-.jpeg"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+    "floorplan": [
+      ""
+    ],
+    "map": "",
+     "occupancy": "Tenanted",
+     "condition": ["Light Refurb"]
+  },
+	{
     "dealId": "JPC-BLA-03",
     "title": "Student 4-bed HMO",
     "city": "Hull",
