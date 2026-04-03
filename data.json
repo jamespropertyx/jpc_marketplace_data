@@ -1,5 +1,67 @@
 [
 	{
+    "dealId": "JPC-SAI-02",
+    "title": "1-bed BTL Opportunity",
+    "city": "Hull",
+    "address": "Hull",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 40000,
+    "reservationFee": 6000,
+    "projectEndValue": "60,000",
+    "belowMarketGDVDiscount": "33.3%",
+    "deposit": "10,000",
+    "yield": "16.3%",
+    "rent": "&pound;542",
+    "annualRent": "6,504",
+    "annualRentLabel": "Net Annual Rent",
+    "refurbCost": "15,000",
+    "listedDate": "2026-04-03",
+    "keyFeatures": [
+      "Strong demand from working professionals",
+      "Value comes from quality of finish",
+      "Full refurbishment required",
+      "Ideal for first-time investor entry deal"
+    ],
+    "description": "This studio apartment, 1-bathroom property is located in Hull, in a well-established residential area popular with working professionals. The property offers a full refurbishment opportunity, where value can be created through upgrading to a modern, high-spec finish. Unlike larger HMO-style projects, this is a single-unit investment, where performance depends on finish quality, presentation, and tenant profile. The surrounding area supports strong professional demand. A key consideration is the condition of the communal areas, which may impact both tenant appeal and long-term value.",
+    "beds": [1],
+    "baths": [1],
+    "size": "31 sq m",
+    "dealAnalysis": "",
+    "showSectionAnalysis": false,
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild3664-6132-4361-b565-326331306565/Screenshot_2026-04-0.png" 
+    ],
+    "video": "https://drive.google.com/file/d/1BDFzm2UOcDdWAzH8TzWQvmP1Y1_V-ctT/preview",
+    "images": [
+      "https://static.tildacdn.com/tild6264-3435-4532-b135-316435323565/Screenshot_2026-04-0.png",
+      "https://static.tildacdn.com/tild3439-3839-4033-a331-323538323863/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3132-3539-4464-a130-333636656665/WhatsApp_Image_2026-.jpeg", 
+      "https://static.tildacdn.com/tild3234-3035-4337-a536-303831376532/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3765-3232-4734-b537-336233363361/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6236-3535-4634-b838-376137616237/Screenshot_2026-01-2.png",
+      "https://static.tildacdn.com/tild6232-6464-4738-b131-656237373337/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3831-3135-4732-a462-623161616463/Bathroom.png"
+    ],
+    "marketInsightsImages": [
+        "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+        "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+        "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+        "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+      ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild3830-6534-4934-b232-373564346361/Screenshot_2026-04-0.png"
+    ],
+    "map": "",
+    "occupancy": "Vacant",
+    "condition": ["Full Refurb"],
+    "exclusive": false
+  },
+	{
   "dealId": "JPC-HAW-01",
   "title": "Student 4-bed HMO",
   "city": "Hull",
