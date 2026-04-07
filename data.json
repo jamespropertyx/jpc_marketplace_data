@@ -1,4 +1,70 @@
 [
+  {
+    "dealId": "JPC-FLO-01",
+    "title": "2-bed BRR Opportunity",
+    "city": "Hull",
+    "address": "Hull",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "BRR",
+    "tenure": "Freehold",
+    "purchasePrice": 65000,
+    "reservationFee": 6000,
+    "projectEndValue": "110,000",
+    "belowMarketGDVDiscount": "40.9%",
+    "deposit": "16,250",
+    "yield": "20%",
+    "rent": "&pound;1,083",
+    "annualRent": "12,996",
+    "annualRentLabel": "Net Annual Rent",
+    "refurbCost": "25,000",
+    "listedDate": "2026-04-07",
+    "keyFeatures": [
+      "Potential to recycle most capital",
+      "Strong demand from professionals",
+      "Potential 3-bed conversion",
+      "Two clear exit strategies"
+    ],
+    "description": "This 2-bedroom, 1-bathroom property is located in Hull, within a well-established residential street that attracts both working professionals and social housing demand. The property requires a full refurbishment, but offers strong potential to be repositioned either as a high-yield 2-bed Hybrid BTL or converted into a 3-bed Social Housing unit, depending on the chosen strategy. Its layout, location, and demand profile make it a flexible investment opportunity with clear value-add potential.",
+    "beds": [2],
+    "baths": [1],
+    "size": "60 sq m",
+    "dealAnalysis": "",
+    "showSectionAnalysis": false,
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild3062-3565-4637-a536-643535356632/Screenshot_2026-04-0.png"
+    ],
+    "video": "https://drive.google.com/file/d/1Ba4Kkd9Mr-lrIm359XPgwod59LVDWw_g/preview",
+    "images": [
+      "https://static.tildacdn.com/tild3463-6637-4438-b738-333563326366/Screenshot_2026-04-0.png",
+      "https://static.tildacdn.com/tild3436-3561-4739-b033-353065346439/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3637-3036-4130-a132-643762633538/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6336-3134-4339-a238-376566316330/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6564-6435-4537-b864-333331353336/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3338-3364-4532-b230-336430643664/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6539-3031-4639-b038-323332666632/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6362-6163-4739-b237-623736306135/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3365-6534-4136-b065-343334343861/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6634-3737-4563-a639-313261323532/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3236-6232-4561-b530-383862363631/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3466-3865-4133-a234-383362613864/WhatsApp_Image_2026-.jpeg"
+    ],
+    "marketInsightsImages": [
+      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild3062-3565-4637-a536-643535356632/Screenshot_2026-04-0.png"
+    ],
+    "map": "",
+    "occupancy": "Vacant",
+    "condition": ["Full Refurb"],
+    "exclusive": false
+  },
 	{
     "dealId": "JPC-ALB-03",
     "title": "3-bed Social Housing Opportunity",
