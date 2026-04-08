@@ -1,4 +1,67 @@
 [
+	{
+    "dealId": "JPC-CLA-03",
+    "title": "Turnkey 2-bed Hybrid BTL",
+    "city": "Hull",
+    "address": "Hull",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "Hybrid BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 75000,
+    "reservationFee": 6000,
+    "projectEndValue": "80,000",
+    "belowMarketGDVDiscount": "6.3%",
+    "deposit": "18,750",
+    "yield": "16.6%",
+    "rent": "&pound;1,040",
+    "annualRent": "12,480",
+    "annualRentLabel": "Net Annual Rent",
+    "refurbCost": "0",
+    "listedDate": "2026-04-08",
+    "keyFeatures": [
+      "Turnkey investment",
+      "Strong rental demand locally",
+      "Simple, hands-off investment",
+      "Ideal for first-time investors"
+    ],
+    "description": "This 2-bedroom, 1-bathroom property is located in a well-established residential area of Hull, offering strong and consistent demand from working professionals. The property has been recently refurbished to a good standard, making it a turnkey investment opportunity with immediate rental potential. Its condition and layout make it ideally suited for a Hybrid BTL strategy, with no major works required prior to letting.",
+    "beds": [2],
+    "baths": [1],
+    "size": "54 sq m",
+    "dealAnalysis": "",
+    "showSectionAnalysis": false,
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild6134-3736-4833-b861-363435343039/Screenshot_2026-04-0.png"
+    ],
+    "video": "https://drive.google.com/file/d/1ZFdaRXK7A-C6VrdzPqKXKMnm8OOMOMcj/preview",
+    "images": [
+      "https://static.tildacdn.com/tild6464-3038-4931-b961-333161653438/Screenshot_2026-04-0.png",
+      "https://static.tildacdn.com/tild6533-3963-4835-b933-666431653566/d21d5a7186ec075df12d.jpeg",
+      "https://static.tildacdn.com/tild6536-3731-4261-b031-306333643033/9c487458728260a4bbc8.jpeg",
+      "https://static.tildacdn.com/tild6565-6164-4634-a437-643063386264/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6462-6365-4965-b134-373463373832/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3538-3561-4237-b962-616266313163/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6664-3061-4430-a438-633165643734/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6261-3631-4362-a236-313933646634/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3535-6665-4239-a330-666631393261/WhatsApp_Image_2026-.jpeg"
+    ],
+    "marketInsightsImages": [
+      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild3830-3330-4262-b536-666362383865/Screenshot_2026-04-0.png"
+    ],
+    "map": "",
+    "occupancy": "Vacant",
+    "condition": ["Turnkey"],
+    "exclusive": false
+  },
   {
     "dealId": "JPC-FLO-01",
     "title": "2-bed BRR Opportunity",
