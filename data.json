@@ -1,4 +1,75 @@
 [
+	 {
+    "dealId": "JPC-JES-01",
+    "title": "2-bed Hybrid BTL Opportunity",
+    "city": "Hull",
+    "address": "Hull",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "Hybrid BTL",
+    "tenure": "Freehold",
+    "purchasePrice": 75000,
+    "reservationFee": 6000,
+    "projectEndValue": "95,000",
+    "belowMarketGDVDiscount": "21.1%",
+    "deposit": "18,750",
+    "yield": "17.3%",
+    "rent": "&pound;1,083",
+    "annualRent": "12,996",
+    "annualRentLabel": "Net Annual Rent",
+    "refurbCost": "20,000",
+    "listedDate": "2026-04-09",
+    "keyFeatures": [
+      "Ideal for working tenant profile",
+      "Potential to convert into 3-bed",
+      "Suitable for social housing strategy",
+      "Easy access to Hull city centre"
+    ],
+    "description": "This 2-bedroom, 1-bathroom end-terraced property is located in HU9, a well-connected area with strong demand from working tenants. The property is offered with no chain involved, making it suitable for a straightforward purchase. It benefits from gas central heating, uPVC double glazing. Positioned within walking distance to shops, transport links, and key employers, it presents a solid investment opportunity as either a standard BTL or a refurbishment project, with potential to reconfigure into a 3-bedroom layout for a social housing strategy.",
+    "beds": [2],
+    "baths": [1],
+    "size": "63 sq m",
+    "dealAnalysis": "",
+    "showSectionAnalysis": false,
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild3835-3233-4463-b466-646361623838/Screenshot_2026-04-0.png"
+    ],
+    "video": "https://drive.google.com/file/d/13417A-5hvUL0Ht49ITwfK5dP8WSE5Q-t/preview",
+    "images": [
+      "https://static.tildacdn.com/tild3461-3834-4538-b261-616635623938/Screenshot_2026-04-0.png",
+      "https://static.tildacdn.com/tild6130-6432-4230-b961-323639636362/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3531-6164-4531-b662-633230663633/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3763-3033-4864-b761-346262633865/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3037-6563-4162-b633-373330386139/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3131-3563-4833-b539-633163396161/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3731-3062-4534-b933-623131366437/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6361-3465-4962-b431-396364373230/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6334-3033-4463-a266-636630333461/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3837-3031-4630-b335-353335613337/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3164-6432-4333-a139-666439623562/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3164-6432-4333-a139-666439623562/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3331-3364-4037-b163-663764356338/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6333-6639-4765-b430-366138343937/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6461-3861-4135-a164-643066386163/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3965-3434-4265-a430-353561643331/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3835-3935-4365-b936-333661386530/WhatsApp_Image_2026-.jpeg"
+    ],
+    "marketInsightsImages": [
+      "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+      "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+      "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+      "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+    ],
+    "floorplan": [
+      "https://static.tildacdn.com/tild3962-3031-4539-a135-636234386638/Screenshot_2026-04-0.png"
+    ],
+    "map": "",
+    "occupancy": "Vacant",
+    "condition": ["Full Refurb"],
+    "exclusive": false
+  },
 	{
     "dealId": "JPC-CLA-03",
     "title": "Turnkey 2-bed Hybrid BTL",
