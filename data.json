@@ -834,7 +834,7 @@
     "title": "5-bed BRR Opportunity",
     "city": "Goole",
     "address": "Goole",
-    "status": "Available",
+    "status": "Sold",
     "type": "Terraced",
     "strategy": "BRR",
     "tenure": "Freehold",
@@ -895,7 +895,6 @@
       "occupancy": "Vacant",
       "condition": ["Full Refurb"]
     },
-	
 	{
   "dealId": "JPC-WET-01",
   "title": "3-bed HMO Conversion",
@@ -955,66 +954,6 @@
     "occupancy": "Vacant",
     "condition": ["Full Refurb"]
   },
-	 {
-    "dealId": "JPC-HIL-01",
-    "title": "Turnkey 6-bed HMO",
-    "city": "Hull",
-    "address": "Hull",
-    "status": "Sold",
-    "type": "Terraced",
-    "strategy": "HMO",
-    "tenure": "Freehold",
-    "purchasePrice": 190000,
-    "reservationFee": 6840,
-    "projectEndValue": "251,560",
-    "belowMarketGDVDiscount": "6.9%",
-    "deposit": "47,500",
-    "yield": "15.1%",
-    "rent": "&pound;2383",
-    "annualRent": "28,600",
-    "refurbCost": "0",
-    "listedDate": "2025-09-23",
-    "keyFeatures": [
-      "Rental history - always tenanted",
-      "Gross Annual Rent: &pound;28,600",
-      "No major works required - ready to generate income immediately",
-      "Net income/Capital Invested 18.5%",
-      "Ideal for the investor who wants a hands off investment"
-    ],
-    "description": "This 6-bedroom, 2-bathroom HMO is located on St Hilda Street, Hull HU3, a strong rental area with consistent tenant demand. The property is fully let, compliant, and income-producing at &pound;2,383 pcm (&pound;28,600 pa). The house is in turnkey condition, with no immediate works required. A new roof, good external presentation, and solid compliance (fire doors, alarms, escape routes) make this a low-maintenance investment. There is scope to further enhance value and rental by creating en-suites due to the property's large layout, but this is not essential.",
-    "beds": [6],
-    "baths": [2],
-    "size": "178 sq m",
-    "dealAnalysis": "https://drive.google.com/file/d/1cfNCAezxdvsrKfQ20KR1glt4XF2wkvtD/view?usp=sharing",
-    "propertyAppraisal": "https://www.notion.so/Property-Appraisal-St-Hilda-Street-Hull-HU3-1UT-277b6c4b0141804ba06ee04f430e39a3?source=copy_link",
-    "gdvAnalysis": "https://www.notion.so/GDV-Analysis-St-Hilda-Street-Hull-HU3-1UT-277b6c4b014180e98008f290dc944138?source=copy_link",
-    "epcCertificate": "https://static.tildacdn.com/tild6538-3765-4139-b133-336565633230/__2025-09-23__164324.png",
-    "images": [
-      "https://static.tildacdn.com/tild6432-6331-4261-b734-336565366331/photo_2025-09-23_163.jpeg",
-      "https://static.tildacdn.com/tild6634-3736-4235-a366-613664373534/hilda_bathroom.jpeg",
-      "https://static.tildacdn.com/tild3233-6633-4539-b263-373632336161/hilda_bed.jpeg",
-      "https://static.tildacdn.com/tild3434-3935-4630-b732-323063393065/hilda_bed1.jpeg",
-      "https://static.tildacdn.com/tild3162-6134-4730-a135-626466663638/hilda_bedroom.jpeg",
-      "https://static.tildacdn.com/tild3431-6536-4135-a464-353865633631/hilda_bedroom1.jpeg",
-      "https://static.tildacdn.com/tild6535-3338-4463-b961-663235633962/hilda_bedroom2.jpeg",
-      "https://static.tildacdn.com/tild3334-6461-4266-b766-646466303138/hilda_bedroom4.jpeg",
-      "https://static.tildacdn.com/tild6137-3131-4064-b537-376634646264/Hilda_kitchen.jpeg",
-      "https://static.tildacdn.com/tild6565-3135-4031-a664-363965323864/hilda_kitchen2.jpeg",
-      "https://static.tildacdn.com/tild3662-6138-4131-b061-613962356231/hilda_kitchen3.jpeg",
-      "https://static.tildacdn.com/tild3262-3839-4332-b937-396165653138/hilda_st.jpeg",
-      "https://static.tildacdn.com/tild3535-6161-4434-a338-393433616632/hilda.jpeg",
-      "https://static.tildacdn.com/tild3532-3237-4134-b234-353933366133/photo_2025-09-23_16-.jpg",
-      "https://static.tildacdn.com/tild6538-3339-4530-a161-653039316564/photo_2025-09-23_16-.jpg"
-    ],
-    "marketInsightsImages": [
-    
-    ],
-    "floorplan": [
-      "https://static.tildacdn.com/tild3662-6136-4262-b932-386463333963/__2025-09-23__164305.png"
-    ],
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.8652216570563!2d-0.3496300885888095!3d53.75628294385799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878be37b0f98fab%3A0x9ae7cb105a77b630!2sSt%20Hilda%20St%2C%20Hull%2C%20UK!5e0!3m2!1sen!2snl!4v1758635987192!5m2!1sen!2snl",
-    "condition": ["Turnkey"]
-  },
 	{
   "dealId": "JPC-FOL-04",
   "title": "2-bed Hybrid BTL Opportunity",
@@ -1073,122 +1012,6 @@
     "map": "",
     "occupancy": "Vacant",
     "condition": ["Full Refurb"]
-  },
-	{
-  "dealId": "JPC-GOR-02",
-  "title": "3-bed HMO Conversion",
-  "city": "Goole",
-  "address": "Goole",
-  "status": "Sold",
-  "type": "Terraced",
-  "strategy": "HMO Opportunity",
-  "tenure": "Freehold",
-  "purchasePrice": 90000,
-  "reservationFee": 6000,
-  "projectEndValue": "104,500",
-  "belowMarketGDVDiscount": "13.9%",
-  "deposit": "22,500",
-  "yield": "21.7%",
-  "rent": "&pound;1,625",
-  "annualRent": "19,500",
-  "refurbCost": "12,000",
-  "listedDate": "2026-03-17",
-  "keyFeatures": [
-    "Option to convert into 3-bedroom setup",
-    "Furniture pack required for professional letting",
-    "Vacant possession",
-    "Key upside depends on successful conversion and compliance"
-  ],
-  "description": "This 2-bedroom, 1-bathroom property is located in Goole, within a well-established residential area popular with working professionals and commuters. The property is presented in good condition and is suitable as a turnkey buy-to-let, with additional upside through a potential 3-bedroom conversion strategy to increase rental income.",
-  "beds": [2],  
-  "baths": [1], 
-  "size": "74 sq m",
-  "dealAnalysis": "",
-  "propertyAppraisal": "",
-  "gdvAnalysis": "",
-  "epcCertificate": [
-    "https://static.tildacdn.com/tild6531-3633-4936-a237-393563653164/Screenshot_2026-03-1.png"
-  ],
-  "video": "https://drive.google.com/file/d/1uGLQTJ7fqwaC8BbUAPBaOw2n9PMRM4l5/preview",
-  "images": [
-    "https://static.tildacdn.com/tild6137-3432-4236-b738-333639633763/Screenshot_2026-03-1.png",
-    "https://static.tildacdn.com/tild3339-3833-4239-b863-613630363138/WhatsApp_Image_2026-.jpeg",
-    "https://static.tildacdn.com/tild3432-3533-4732-a663-346332663661/WhatsApp_Image_2026-.jpeg",
-    "https://static.tildacdn.com/tild6336-3331-4864-b566-663736636332/WhatsApp_Image_2026-.jpeg",
-    "https://static.tildacdn.com/tild3130-3537-4362-a635-396638396663/WhatsApp_Image_2026-.jpeg",
-    "https://static.tildacdn.com/tild6336-3331-4864-b566-663736636332/WhatsApp_Image_2026-.jpeg",
-    "https://static.tildacdn.com/tild3831-3234-4633-a638-366661646139/WhatsApp_Image_2026-.jpeg",
-    "https://static.tildacdn.com/tild6634-6230-4165-a336-626636353334/WhatsApp_Image_2026-.jpeg",
-    "https://static.tildacdn.com/tild3035-6532-4461-b735-366337316537/WhatsApp_Image_2026-.jpeg",
-    "https://static.tildacdn.com/tild6238-3431-4537-a365-363235383638/WhatsApp_Image_2026-.jpeg"
-  ],
-  "marketInsightsImages": [
-  ],
-    "floorplan": [
-      "https://static.tildacdn.com/tild3862-6535-4363-a361-306636346566/Screenshot_2026-03-1.png"
-    ],
-    "map": "",
-    "occupancy": "Vacant",
-    "condition": ["Full Refurb"]
-  },
-	{
-  "dealId": "JPC-ARG-02",
-  "title": "2-bed Hybrid BTL Opportunity",
-  "city": "Goole",
-  "address": "Goole",
-  "status": "Sold",
-  "type": "Terraced",
-  "strategy": "Hybrid BTL",
-  "tenure": "Freehold",
-  "purchasePrice": 80000,
-  "reservationFee": 6000,
-  "projectEndValue": "90,000",
-  "belowMarketGDVDiscount": "11.1%",
-  "deposit": "20,000",
-  "yield": "15.6%",
-  "rent": "&pound;1,040",
-  "annualRent": "12,480",
-  "refurbCost": "1,000",
-  "listedDate": "2026-03-16",
-  "keyFeatures": [
-    "Currently vacant - ready for immediate letting",
-    "Good transport links to Leeds and Hull",
-    "Suitable as professional house share",
-    "Simple, low-entry investment with multiple rental strategies"
-  ],
-  "description": "This 2-bedroom, 1-bathroom freehold terraced property is located in Goole in a well-established residential area with strong rental demand from working professionals and local commuters. The property is currently vacant and presented in generally good condition, meaning it can be brought to market quickly with minimal works. Overall, the property represents a simple turnkey buy-to-let investment with only minor remedial works required. Rental demand in this location is supported by close proximity to the train station and convenient transport links to Leeds and Hull, making it attractive for professionals working in surrounding areas.",
-  "beds": [2],  
-  "baths": [1], 
-  "size": "65 sq m",
-  "dealAnalysis": "",
-  "propertyAppraisal": "",
-  "gdvAnalysis": "",
-  "epcCertificate": [
-    "https://static.tildacdn.com/tild6565-6635-4339-a566-623730653132/Screenshot_2026-03-1.png"
-  ],
-  "video": "https://drive.google.com/file/d/159cc1JV-xcoBHAsGnTpkJTx-xvyEm2x-/preview",
-  "images": [
-    "https://static.tildacdn.com/tild3162-3937-4234-a135-376666383436/Screenshot_2026-03-1.png",
-    "https://static.tildacdn.com/tild3638-3434-4036-b934-303039386638/Screenshot_2026-03-1.png",
-    "https://static.tildacdn.com/tild3365-3933-4438-b831-396465623962/Screenshot_2026-03-1.png",
-    "https://static.tildacdn.com/tild3364-6634-4232-b732-313831376135/Screenshot_2026-03-1.png",
-    "https://static.tildacdn.com/tild3239-6130-4266-a338-366264303065/WhatsApp_Image_2026-.jpeg",
-    "https://static.tildacdn.com/tild6536-3738-4561-b461-653962396636/WhatsApp_Image_2026-.jpeg",
-    "https://static.tildacdn.com/tild3964-3532-4161-b966-633766383165/WhatsApp_Image_2026-.jpeg",
-    "https://static.tildacdn.com/tild3835-3336-4632-a137-663631303464/WhatsApp_Image_2026-.jpeg",
-    "https://static.tildacdn.com/tild6132-3932-4134-b366-303937323134/WhatsApp_Image_2026-.jpeg",
-    "https://static.tildacdn.com/tild3532-3530-4535-b263-646236363936/WhatsApp_Image_2026-.jpeg",
-    "https://static.tildacdn.com/tild3231-3464-4463-a661-653433336661/WhatsApp_Image_2026-.jpeg"
-  ],
-  "marketInsightsImages": [
-  ],
-    "floorplan": [
-      "https://static.tildacdn.com/tild3263-3161-4765-b234-326230333463/Screenshot_2026-03-1.png",
-      "https://static.tildacdn.com/tild3032-6439-4831-b633-373436663438/Screenshot_2026-03-1.png"
-    ],
-    "map": "",
-    "occupancy": "Vacant",
-    "condition": ["Light Refurb"]
   },
 	{
   "dealId": "JPC-MIN-01",
