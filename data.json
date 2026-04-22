@@ -1,4 +1,74 @@
 [
+	{
+  "dealId": "JPC-MEL-01",
+  "title": "3-bed BTL Opportunity",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Available",
+  "type": "Terraced",
+  "strategy": "Hybrid BTL",
+  "tenure": "Freehold",
+  "purchasePrice": 50000,
+  "reservationFee": 5000,
+  "projectEndValue": "82,000",
+  "belowMarketGDVDiscount": "39%",
+  "deposit": "12,500",
+  "yield": "15.4%",
+  "rent": "£975",
+  "annualRent": "11,700",
+  "annualRentLabel": "Net Annual Rent",
+  "refurbCost": "18,000",
+  "listedDate": "2025-04-22",
+  "keyFeatures": [
+    "3-bedroom end-terraced with generous rear garden",
+    "Suitable for social housing strategy",
+    "Walking distance to Hull University and Newland Avenue",
+    "No chain involved — straightforward purchase",
+    "Potential for strong tenant demand from student/working profile"
+  ],
+  "description": "This 3-bedroom, 1-bathroom terraced property is situated just off Newland Avenue in the popular HU5 area of Hull. The property is offered with no chain involved and requires a full programme of refurbishment, making it well-suited to investors seeking a value-add opportunity. It comprises an entrance hall, lounge, dining room, kitchen, bathroom, and WC at ground level, with three double bedrooms to the first floor. The property benefits from a generous rear garden with side access. Located within walking distance of Hull University, Newland Avenue's amenities, and key transport links to Hull City Centre and the A63/M62, this property presents a compelling opportunity for a standard BTL, social housing, or student-let strategy.",
+  "beds": [
+    3
+  ],
+  "baths": [
+    1
+  ],
+  "size": "87 sq m",
+  "dealAnalysis": "",
+  "showSectionAnalysis": false,
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild6233-3965-4530-b033-356436636165/Screenshot_2026-04-2.png"
+  ],
+  "images": [
+    "https://static.tildacdn.com/tild6466-3934-4462-b938-366139623166/Screenshot_2026-04-2.png",
+    "https://static.tildacdn.com/tild3434-6630-4361-a563-656161616666/Screenshot_2026-04-2.png", 
+    "https://static.tildacdn.com/tild3165-6362-4239-b763-376463636233/Screenshot_2026-04-2.png", 
+    "https://static.tildacdn.com/tild3435-3966-4533-b063-663835643131/Screenshot_2026-04-2.png",
+    "https://static.tildacdn.com/tild6361-3532-4062-b765-653063356330/Screenshot_2026-04-2.png",
+    "https://static.tildacdn.com/tild3233-6662-4634-a339-373335623363/Screenshot_2026-04-2.png",
+    "https://static.tildacdn.com/tild6637-3437-4339-a139-623765666431/Screenshot_2026-04-2.png",
+    "https://static.tildacdn.com/tild6236-6435-4433-a635-636233663232/Screenshot_2026-04-2.png",
+    "https://static.tildacdn.com/tild3333-6633-4466-b261-346663336466/Screenshot_2026-04-2.png",
+    "https://static.tildacdn.com/tild6536-6130-4238-a565-643139643731/Screenshot_2026-04-2.png"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild6230-3431-4164-a465-316639613036/Screenshot_2026-04-2.jpeg"
+  ],
+  "map": "",
+  "occupancy": "Vacant",
+  "condition": [
+    "Full Refurb"
+  ],
+  "exclusive": false
+},
 	 {
       "dealId": "JPC-PRE-02",
       "title": "3-bed Social Housing Opportunity",
