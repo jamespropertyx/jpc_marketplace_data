@@ -1,4 +1,72 @@
 [
+	{  
+  "dealId": "JPC-CLI-01",
+  "title": "Turnkey 2-bed Hybrid BTL",
+  "city": "Hull",
+  "address": "Hull",
+  "status": "Sold",
+  "type": "Terraced",
+  "strategy": "Hybrid BTL",
+  "tenure": "Freehold",
+  "purchasePrice": 90000,
+  "reservationFee": 5000,
+  "projectEndValue": "111,330",
+  "belowMarketGDVDiscount": "10%",
+  "deposit": "22,500",
+  "yield": "14.4%",
+  "rent": "&pound;1,083",
+  "annualRent": "&pound;12,996",
+  "annualRentLabel": "Net Annual Rent",
+  "refurbCost": "&pound;0",
+  "listedDate": "2026-15-05",
+  "keyFeatures": [
+    "Low-maintenance, easy to start investing",
+    "Perfect condition, only minor decorating required before rental",
+    "Walking distance to Hull University and Newland Avenue",
+    "Strong tenant demand from professionals & students"  
+  ],
+  "description": "This 2-bedroom, 1-bathroom property is located in a quiet residential pocket just off Princes Road and major transport routes. The property is presented in very good condition and requires very little work to enter the rental market. It would suit a Hybrid Buy-to-Let strategy, targeting students or working professionals. This property offers strong cashflow potential with minimal upfront refurbishment costs.",
+  "beds": [
+    2
+  ],
+  "baths": [
+    1
+  ],
+  "size": "57 sq m",
+  "dealAnalysis": "",
+  "showSectionAnalysis": false,
+  "propertyAppraisal": "",
+  "gdvAnalysis": "",
+  "epcCertificate": [
+    "https://static.tildacdn.com/tild3839-3762-4135-b264-626430656133/image.png"
+  ],
+  "images": [
+    "https://static.tildacdn.com/tild3031-3533-4937-b037-633639613935/image.png",
+    "https://static.tildacdn.com/tild6165-3632-4533-b162-366532373165/image.png",
+    "https://static.tildacdn.com/tild6637-3765-4635-a263-313233656466/image.png",
+    "https://static.tildacdn.com/tild3733-6633-4662-a266-343065366662/image.png",
+    "https://static.tildacdn.com/tild3536-6338-4239-b063-363939303237/image.png",
+    "https://static.tildacdn.com/tild3030-3239-4032-a433-653832663564/image.png",
+    "https://static.tildacdn.com/tild6230-6633-4231-a266-633036666562/image.png",
+    "https://static.tildacdn.com/tild3839-3434-4634-b663-323833643435/image.png",
+    "https://static.tildacdn.com/tild6663-3566-4233-b664-626665356137/image.png"
+  ],
+  "marketInsightsImages": [
+    "https://lh3.googleusercontent.com/d/1dH6G8UVeta2HB3c19fyiEwRKDh6qArtv",
+    "https://lh3.googleusercontent.com/d/1VFNXoW_1FM_AZdL0Dto8_BFrEI2bkN5Z",
+    "https://lh3.googleusercontent.com/d/1V9GG4WiV2nf2NiCubB9w-YEbrvs4t7o9",
+    "https://lh3.googleusercontent.com/d/1YL2nxh9125D1Nxjf0fWOrjOgO94619iV"
+  ],
+  "floorplan": [
+    "https://static.tildacdn.com/tild3831-3430-4463-b566-346133626137/image.png"
+  ],
+  "map": "",
+  "occupancy": "Vacant",
+  "condition": [
+    "Turnkey"
+  ],
+  "exclusive": false
+},
  {
   "dealId": "JPC-LAN-01",
   "title": "4-bed Social Housing Opportunity",
