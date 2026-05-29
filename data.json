@@ -48,6 +48,7 @@
     "occupancy": "Vacant",
     "condition": ["Full Refurb"],
     "exclusive": false
+	"floorplan": [],
   },
  {
   "dealId": "JPC-LAN-01",
