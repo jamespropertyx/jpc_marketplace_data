@@ -1,4 +1,54 @@
 [
+	{
+    "dealId": "JPC-PER-02",
+    "title": "3-bed HMO Conversion Opportunity",
+    "city": "Goole",
+    "address": "Goole",
+    "status": "Available",
+    "type": "Terraced",
+    "strategy": "HMO Conversion",
+    "tenure": "Freehold",
+    "purchasePrice": 70000,
+    "reservationFee": 6000,
+    "projectEndValue": "110,000",
+    "belowMarketGDVDiscount": "36.4%",
+    "deposit": "17,500",
+    "yield": "29%",
+    "rent": "&pound;1,690",
+    "annualRent": "20,280",
+    "refurbCost": "35,000",
+    "listedDate": "2026-05-29",
+    "keyFeatures": [
+      "Easy conversion into a 3-bedroom layout",
+      "Suitable for working professional accommodation",
+      "Strong value-add project with multiple exit strategies",
+      "Non-Article 4 area"
+    ],
+    "description": "This substantial end-terrace property is located in DN14, in an area that remains popular with working professionals due to its proximity to local employment hubs and transport links. Currently arranged as a two-bedroom property with two reception rooms, the layout lends itself well to a straightforward conversion into a three-bedroom house by repurposing one of the reception rooms. The property requires a full refurbishment throughout but offers strong value-add potential.",
+    "baths": [1],
+    "beds": [2],
+    "size": "90 sq m",
+    "dealAnalysis": "",
+    "propertyAppraisal": "",
+    "gdvAnalysis": "",
+    "epcCertificate": [
+      "https://static.tildacdn.com/tild6361-3963-4238-a365-376139376666/Screenshot_2026-05-2.png"
+    ],
+    "video": "https://drive.google.com/file/d/1ZdL1C3fEs3pkgjNlBZYPnwL8BL6apdoP/preview",
+    "images": [
+      "https://static.tildacdn.com/tild3636-6466-4065-a364-336531356631/Screenshot_2026-05-2.png",
+      "https://static.tildacdn.com/tild3231-6232-4665-a137-336431343038/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild3136-3863-4864-b263-616632396534/WhatsApp_Image_2026-.jpeg",
+      "https://static.tildacdn.com/tild6230-3938-4333-b433-396333393664/Screenshot_2026-05-2.png",
+      "https://static.tildacdn.com/tild3362-6531-4432-b664-663034353462/Screenshot_2026-05-2.png",
+      "https://static.tildacdn.com/tild6430-6561-4264-b333-633462393236/Screenshot_2026-05-2.png"
+    ],
+    "marketInsightsImages": [],
+    "map": "",
+    "occupancy": "Vacant",
+    "condition": ["Full Refurb"],
+    "exclusive": false
+  },
  {
   "dealId": "JPC-LAN-01",
   "title": "4-bed Social Housing Opportunity",
